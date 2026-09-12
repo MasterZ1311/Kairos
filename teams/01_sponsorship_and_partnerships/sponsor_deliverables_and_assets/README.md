@@ -1,9 +1,9 @@
 # Sponsor Deliverables & Brand Assets Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/sponsor_deliverables_and_assets/`  
-> **Direct Lead:** Deliverables & Media Ingestion Sub-Head  
-> **Collaborating Lead:** Rikish B (Design Lead, Reg: `44110664`) & Caroline Mary McPherson (Media Head 1, Reg: `44110124`)  
-> **Supervising Lead:** Thenappan T (President & SBGL, Reg: `44110855`)  
+> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
+> **Collaborating Leads:** Rikish B (Design Lead, Reg: `44110664`) & Caroline Mary McPherson (Media Head 1, Reg: `44110124`)  
+> **Deliverables Sub-Head:** Media & Asset Ingestion Sub-Head  
 
 ---
 
@@ -24,12 +24,12 @@ This folder manages the intake, verification, storage, and cross-team routing of
 
 | Ingestion Step | Responsible Person | Verification Method |
 |---|---|---|
-| **Request Asset Package from Sponsor POC** | Sponsorship POC | Email with standardized asset checklist |
+| **Request Asset Package from Sponsor POC** | Nikki (Nangaiyar M) | Email with standardized asset checklist |
 | **Vector & Resolution Validation** | Rikish B (Design Lead) | Adobe Illustrator / Figma SVG node audit |
 | **Video Audio-Level & Codec Check** | Media Tech Squad | OBS / VLC render test (1080p60 H.264, -14 LUFS) |
 | **Placement on Physical Print Proofs** | Rikish B | Banner pre-press proofs checked |
 | **Live Stream Overlay Integration** | Media Head 1 (Caroline) | ATEM Mini Pro & OBS scene switch test |
-| **Post-Event Proof of Performance (PoP)** | CPFO | Photographs of booth, banners, LED wall compiled |
+| **Post-Event Proof of Performance (PoP)** | Nikki (Nangaiyar M) | Photographs of booth, banners, LED wall compiled |
 
 ---
 

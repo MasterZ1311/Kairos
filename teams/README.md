@@ -23,9 +23,9 @@ teams/
 ```
 
 ### Direct Workspace Links:
-1. [**01. Sponsorship & Corporate Partnerships**](./01_sponsorship_and_partnerships/README.md) (Leads: CPFO & Thenappan T)
+1. [**01. Sponsorship & Corporate Partnerships**](./01_sponsorship_and_partnerships/README.md) (Lead: **Nikki (Nangaiyar M)** — CPFO & Sponsorship Head, Reg: `44612059`)
 2. [**02. Design & Creative Assets**](./02_design_and_creative_assets/README.md) (Lead: Rikish B & Caroline McPherson)
-3. [**03. Documentation & Institutional Compliance**](./03_documentation_and_compliance/README.md) (Leads: Hemavarshine S & Nangaiyar M)
+3. [**03. Documentation & Institutional Compliance**](./03_documentation_and_compliance/README.md) (Leads: Hemavarshine S & Operations Team)
 4. [**04. Media, PR & Live Broadcast**](./04_media_pr_and_broadcast/README.md) (Leads: Caroline McPherson & Harshith Raj S)
 5. [**05. Hands-On AWS Builder & Website**](./05_hands_on_aws_builder_and_website/README.md) (Leads: Viswanathan Ashok & Shanmugapriyan S)
-6. [**06. Operations, Logistics & Security**](./06_operations_logistics_and_security/README.md) (Leads: Nangaiyar M & Chief Safety Officer)
+6. [**06. Operations, Logistics & Security**](./06_operations_logistics_and_security/README.md) (Leads: Operations Team & Chief Safety Officer)

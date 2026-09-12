@@ -10,16 +10,16 @@
 
 ## 1. Domain Leadership & Accountability Roster
 
-Every document, pitch, and agreement in this directory must be owned and verified by the designated officers below. No corporate communication goes out without review by the CPFO and final sign-off by the President.
+Every document, pitch, and agreement in this directory is owned, directed, and managed by **Nikki (Nangaiyar M)**, who serves as the Chief Partnerships & Finance Officer (CPFO) and Sponsorship Head. All sponsor leads, corporate pitches, outreach pipelines, and contract fulfillment are driven by her domain.
 
 | Role | Officer | Register No | Contact Details | Responsibilities |
 |---|---|:---:|---|---|
-| **President & Apex Organizer** | **Thenappan T** | `44110855` | `+91 6381801640`<br/>`thenappanmasterz1311@gmail.com` | Final contract sign-off, high-level CXO pitching, institutional escrow authorization. |
-| **Super Head 1: CPFO** | **Chief Partnerships & Finance Officer** | Core Head | `sistawscc@gmail.com` | Day-to-day corporate outreach pipeline, deck customized deliveries, sponsor negotiations. |
-| **Sub-Head: Enterprise Tier** | Corporate Outreach Lead | Assigned Lead | Internal Slack/WhatsApp | Tier 1/2 leads (Title, Powered-By, Tech Giants), scheduling discovery calls. |
+| **Super Head 1: CPFO & Sponsorship Lead** | **Nikki (Nangaiyar M)** | `44612059` | `+91 8754976892`<br/>`nangaiyarmuthkrishnan@gmail.com` | **Sole operational head of sponsorships**: corporate outreach pipeline, deck customization, enterprise negotiation, contract closing, sponsor deliverables, and capital realization. |
+| **Sub-Head: Enterprise Tier** | Corporate Outreach Lead | Assigned Lead | Internal Slack/WhatsApp | Tier 1/2 leads (Title, Powered-By, Tech Giants), scheduling discovery calls with Nikki. |
 | **Sub-Head: Track & Bounties** | Track Partnerships Lead | Assigned Lead | Internal Slack/WhatsApp | Web3, AI, FinTech, and Cloud track bounty sponsors, API credits & tooling perks. |
 | **Sub-Head: Finance & Escrow** | Treasury & Audit Lead | Assigned Lead | Internal Slack/WhatsApp | Invoice raising, university account reconciliation, 72-hour prize escrow tracking. |
 | **Faculty Coordinator** | **Dr. Balapriya .S** | Faculty CSE | `balapriya.cse@sathyabama.ac.in` | University endorsement letters, MoU vetting, institutional accounting clearance. |
+| **President & SBGL (Apex Chapter)** | **Thenappan T** | `44110855` | `+91 6381801640`<br/>`thenappanmasterz1311@gmail.com` | Macro chapter oversight & institutional representation (not responsible for day-to-day sponsorships). |
 
 ---
 
@@ -56,17 +56,17 @@ This directory is organized into 4 mission-critical subfolders. Every folder con
 ### 📁 [`pitch_decks/`](./pitch_decks/)
 - **Mandate:** Stores master presentation slide decks, corporate customized one-pagers, and presentation exports.
 - **Key Deliverable:** 14-slide master corporate deck in 16:9 4K PDF and PPTX formats, strictly adhering to Amazon Ember typography and Obsidian-Amber visual branding.
-- **Owner:** CPFO & Rikish B (Design Lead).
+- **Owner:** Nikki (Nangaiyar M, CPFO) & Rikish B (Design Lead).
 
 ### 📁 [`company_leads_tracker/`](./company_leads_tracker/)
 - **Mandate:** Active CRM tracking pipeline from initial prospect discovery to signed agreement and received funds.
 - **Key Deliverable:** Live CRM markdown matrix tracking 50+ enterprise targets across 7 distinct pipeline stages.
-- **Owner:** Enterprise Outreach Sub-Head & Thenappan T.
+- **Owner:** Enterprise Outreach Sub-Head & Nikki (Nangaiyar M, CPFO).
 
 ### 📁 [`signed_mous_and_contracts/`](./signed_mous_and_contracts/)
 - **Mandate:** Repository of executed Memorandums of Understanding (MoUs), sponsorship agreements, GST invoices, and bank transaction confirmation receipts.
 - **Key Deliverable:** Institutional standard legal contract templates, university bank escrow details, and countersigned agreements.
-- **Owner:** CPFO & Treasury Lead.
+- **Owner:** Nikki (Nangaiyar M, CPFO) & Treasury Lead.
 
 ### 📁 [`sponsor_deliverables_and_assets/`](./sponsor_deliverables_and_assets/)
 - **Mandate:** Ingestion, storage, and QA of sponsor brand assets, vector logos, video advertisements, booth guidelines, and judging rep assignments.

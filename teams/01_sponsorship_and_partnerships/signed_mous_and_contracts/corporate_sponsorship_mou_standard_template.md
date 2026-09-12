@@ -64,9 +64,17 @@ It is mutually affirmed that **all intellectual property (IP) and software code 
 <br/>
 
 ________________________________________  
+**Nikki (Nangaiyar M)** (Register No: `44612059`)  
+Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead  
+AWS Student Builder Group — SIST Chapter  
+Phone: `+91 8754976892` | Email: `nangaiyarmuthkrishnan@gmail.com`  
+
+<br/>
+
+________________________________________  
 **Thenappan T** (Register No: `44110855`)  
 President & Student Builder Group Leader (AWS SBGL)  
-Phone: `+91 6381801640` | Email: `sistawscc@gmail.com`  
+Phone: `+91 6381801640` | Email: `thenappanmasterz1311@gmail.com`  
 
 <br/>
 

@@ -1,9 +1,9 @@
 # Pitch Decks & Corporate Collateral Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/pitch_decks/`  
-> **Direct Lead:** CPFO (Chief Partnerships & Finance Officer)  
+> **Direct Lead & Final Approver:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 > **Creative Collaborator:** Rikish B (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
-> **Final Approver:** Thenappan T (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
+> **Faculty Advisor:** Dr. Balapriya .S (Department of CSE)  
 
 ---
 
@@ -22,11 +22,11 @@ This folder contains all master slide decks, customized corporate pitch decks, e
 
 | Section / Deliverable | Primary Owner | Co-Owner / Reviewer | Target Delivery |
 |---|---|---|---|
-| **Master 14-Slide Deck Copy** | CPFO | Thenappan T | September 20, 2026 |
+| **Master 14-Slide Deck Copy** | Nikki (Nangaiyar M) | Rikish B | September 20, 2026 |
 | **Visual Styling & Slide Typography** | Rikish B | Caroline McPherson | September 25, 2026 |
-| **Custom Sponsor Addendums** | Enterprise Outreach Sub-Head | CPFO | 48h before client call |
-| **1-Page Executive PDF Brief** | Documentation Sub-Head | CPFO | October 01, 2026 |
-| **Slide Export & Cloud Drive Upload** | CPFO | Hemavarshine S | Rolling |
+| **Custom Sponsor Addendums** | Enterprise Outreach Sub-Head | Nikki (Nangaiyar M) | 48h before client call |
+| **1-Page Executive PDF Brief** | Documentation Sub-Head | Nikki (Nangaiyar M) | October 01, 2026 |
+| **Slide Export & Cloud Drive Upload** | Treasury Lead | Nikki (Nangaiyar M) | Rolling |
 
 ---
 
@@ -54,9 +54,9 @@ This folder contains all master slide decks, customized corporate pitch decks, e
 
 ```mermaid
 graph LR
-    DRAFT["1. CPFO drafts custom slides & ROI tier"] --> DSGN["2. Rikish B reviews layout & brand tokens"]
-    DSGN --> PRES["3. Thenappan T reviews financial terms"]
-    PRES --> APPR["4. Approved for Executive Delivery"]
+    DRAFT["1. Outreach squad drafts custom slides"] --> DSGN["2. Rikish B reviews layout & brand tokens"]
+    DSGN --> PRES["3. Nikki (Nangaiyar M) approves terms & ROI"]
+    PRES --> APPR["4. Approved for Executive Delivery to Sponsor"]
 ```
 
 1. **No unauthorized discounts:** Tiers must adhere to the Master Budget (Title: ₹3,50,000+; Powered-By: ₹2,00,000+; Track Partner: ₹50,000–₹1,00,000; Minimum Capital: ₹10,00,000).

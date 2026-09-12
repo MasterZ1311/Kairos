@@ -1,9 +1,9 @@
 # Signed MoUs, Contracts & Financial Escrow Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/signed_mous_and_contracts/`  
-> **Direct Lead:** Treasury & Audit Sub-Head  
-> **Executive Authority:** Thenappan T (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
+> **Direct Lead & Sponsorship Head:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 > **Institutional Signatory:** Dean, School of Computing & Registrar, Sathyabama Institute of Science and Technology  
+> **Apex Chapter Authority:** Thenappan T (President & SBGL, Reg: `44110855`)  
 
 ---
 
@@ -22,11 +22,11 @@ This directory serves as the legal and contractual vault for KAIROS 2027. It sto
 
 | Document / Step | Responsible Person | Approving Authority | Verification Artifact |
 |---|---|---|---|
-| **Drafting Standard MoU** | CPFO | Thenappan T | Word / Markdown draft |
+| **Drafting Standard MoU** | Nikki (Nangaiyar M) | Dr. Balapriya .S & Dean | Word / Markdown draft |
 | **Corporate Legal Vetting** | Corporate Legal POC | Institutional Legal Cell | Redline markup document |
 | **Faculty & Dean Endorsement** | Dr. Balapriya .S | Dr. L. Lakshmanan (Dean) | Physical signature & departmental seal |
 | **University Bank Account Details & Invoice** | University Accounts Office | Finance Officer, SIST | Official GST invoice with SIST GSTIN |
-| **Payment Receipt & Ledger Update** | Treasury Sub-Head | CPFO | Bank UTR / Transaction slip PDF |
+| **Payment Receipt & Ledger Update** | Treasury Sub-Head | Nikki (Nangaiyar M) | Bank UTR / Transaction slip PDF |
 
 ---
 

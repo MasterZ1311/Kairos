@@ -1,8 +1,8 @@
 # Company Leads Tracker & Corporate CRM Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/company_leads_tracker/`  
-> **Direct Lead:** CPFO & Enterprise Outreach Sub-Head  
-> **Supervising Lead:** Thenappan T (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
+> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
+> **Enterprise Outreach Sub-Head:** Corporate Outreach Lead  
 > **Faculty Advisor:** Dr. Balapriya .S (Department of CSE)  
 
 ---
@@ -27,8 +27,8 @@ This subfolder houses the live corporate sponsorship pipeline, tracking prospect
 |---|---|---|---|
 | **Lead Identification & Profiling** | Enterprise Outreach Squad | Assigned Squad Members | Daily during active outreach |
 | **First Touch (Email / LinkedIn / Referral)** | Enterprise Outreach Sub-Head | Outreach Team | Logged within 4 hours |
-| **Pitch Meeting Scheduling & Minutes** | CPFO | `sistawscc@gmail.com` | After every client sync |
-| **Negotiation & Contract Routing** | Thenappan T | `thenappanmasterz1311@gmail.com` | Weekly Executive Review |
+| **Pitch Meeting Scheduling & Minutes** | Nikki (Nangaiyar M) | `nangaiyarmuthkrishnan@gmail.com` | After every client sync |
+| **Negotiation & Contract Routing** | Nikki (Nangaiyar M) | `nangaiyarmuthkrishnan@gmail.com` | Weekly Executive Review |
 | **Bank Escrow & Payment Confirmation** | Treasury & Audit Lead | Audit Desk | Immediately upon NEFT/RTGS receipt |
 
 ---

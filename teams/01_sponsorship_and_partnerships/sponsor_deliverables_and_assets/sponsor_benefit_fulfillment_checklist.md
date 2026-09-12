@@ -1,7 +1,7 @@
 # KAIROS 2027 — Corporate Sponsor Benefit Fulfillment Matrix
 
 > **Purpose:** Ensures every contracted deliverable for signed corporate partners is tracked, produced, and verified.  
-> **Direct Accountability:** CPFO, Rikish B (Design), Caroline McPherson (Media), and Thenappan T.  
+> **Direct Accountability:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead), Rikish B (Design Lead), Caroline Mary McPherson (Media Head 1).  
 
 ---
 

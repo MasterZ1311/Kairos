@@ -35,17 +35,17 @@ To enable parallel execution across all club domains, the repository features de
 graph TD
     TEAMS["KAIROS TEAMS WORKSPACE (/teams/)"]
     
-    TEAMS --> T1["01_sponsorship_and_partnerships/<br/>Leads: CPFO & Thenappan T (₹10L+ Uncapped)"]
+    TEAMS --> T1["01_sponsorship_and_partnerships/<br/>Lead: Nikki (Nangaiyar M) (₹10L+ Uncapped)"]
     TEAMS --> T2["02_design_and_creative_assets/<br/>Lead: Rikish B (20x10ft Banners, 16 Standees, Badges)"]
     TEAMS --> T3["03_documentation_and_compliance/<br/>Lead: Hemavarshine S (6 University Sanction Letters & IP)"]
     TEAMS --> T4["04_media_pr_and_broadcast/<br/>Lead: Caroline McPherson (48H Live Stream, 120+ CAs)"]
     TEAMS --> T5["05_hands_on_aws_builder_and_website/<br/>Leads: Viswanathan Ashok & Shanmugapriyan S"]
-    TEAMS --> T6["06_operations_logistics_and_security/<br/>Lead: Nangaiyar M (Central Library Bays, 10 Buses, 2 EVs)"]
+    TEAMS --> T6["06_operations_logistics_and_security/<br/>Leads: Operations Team & CSO (Central Library, 10 Buses, 2 EVs)"]
 ```
 
 | Domain & Team Directory | Super Head / Direct Leads | Subfolders & Core Deliverables | Dedicated Workspace Link |
 |---|---|---|:---:|
-| **1. Sponsorship & Partnerships** | **CPFO** & **Thenappan T** (`44110855`) | • `pitch_decks/`: 14-slide master corporate deck (16:9 4K)<br/>• `company_leads_tracker/`: 7-stage CRM with 60+ leads<br/>• `signed_mous_and_contracts/`: Standard MoU & escrow forms<br/>• `sponsor_deliverables_and_assets/`: Vector logo ingestion & PoP | [01_sponsorship_and_partnerships/](file:///e:/AWS%20SBGL/Events/Kairos/teams/01_sponsorship_and_partnerships/) |
+| **1. Sponsorship & Partnerships** | **Nikki (Nangaiyar M)** (`44612059`) | • `pitch_decks/`: 14-slide master corporate deck (16:9 4K)<br/>• `company_leads_tracker/`: 7-stage CRM with 60+ leads<br/>• `signed_mous_and_contracts/`: Standard MoU & escrow forms<br/>• `sponsor_deliverables_and_assets/`: Vector logo ingestion & PoP | [01_sponsorship_and_partnerships/](file:///e:/AWS%20SBGL/Events/Kairos/teams/01_sponsorship_and_partnerships/) |
 | **2. Design & Creative Assets** | **Rikish B** (`44110664`) & **Caroline McPherson** | • `stage_and_venue_banners/`: 20x10ft backdrop & 3840×1920 LED<br/>• `standees/`: 16 units of 6x3ft rollup aluminum banners<br/>• `badges_and_lanyards/`: 85.6x53.98mm CR80 NFC smart badges<br/>• `apparel_and_merchandise/`: 380 GSM hoodies & 180 GSM tees<br/>• `certificates_and_awards/`: A4 gold foil & 10" brass trophies<br/>• `social_media_creatives/`: 4:5 posts, 9:16 reels & 16:9 covers | [02_design_and_creative_assets/](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/) |
 | **3. Documentation & Compliance** | **Hemavarshine S** (`44110263`) & **Nangaiyar M** | • `official_letters/`: Venue, 10 Buses, 2 EVs, Police, Jury & OD<br/>• `reports_and_minutes/`: Weekly MoM & 7-day wrap reports<br/>• `participant_rules_and_agreements/`: 100% Student IP charter | [03_documentation_and_compliance/](file:///e:/AWS%20SBGL/Events/Kairos/teams/03_documentation_and_compliance/) |
 | **4. Media, PR & Broadcast** | **Caroline Mary McPherson** (`44110124`) & **Harshith Raj S** | • `press_releases_and_articles/`: National news & tech wires<br/>• `broadcast_and_streaming/`: 48H multicam OBS/ATEM live rig<br/>• `campus_ambassador_toolkit/`: 120+ national CA handbook<br/>• `social_media_schedules/`: 90-day Instagram & LinkedIn calendar | [04_media_pr_and_broadcast/](file:///e:/AWS%20SBGL/Events/Kairos/teams/04_media_pr_and_broadcast/) |
@@ -105,6 +105,7 @@ graph TD
 | **15. Google Form & Screening Schemas** | Technical & Screening Lead | Schema definitions for Round 0 free applications, Online Qualifier submission schema, on-campus confirmation workflows, and Discord onboarding. | [15_google_form_registration_and_confirmation_template.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/15_google_form_registration_and_confirmation_template.md) |
 | **16. Website PRD & Design Specification** | Super Head 5 (CCMO) & CTO | Full Product Requirements Document, live terminal CLI simulator, live 48-hour countdown, interactive judging portal, and real-time leaderboard specs. | [16_website_design_and_experience_specification.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/16_website_design_and_experience_specification.md) |
 | **17. Content Reference & Copy Bank** | Super Head 5 (CCMO) | Production-ready cold emails, sponsor pitches (Title ₹1.25L), press release copy, social media broadcast scripts, and complete FAQ banks. | [17_content_reference_and_copy_bank.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/17_content_reference_and_copy_bank.md) |
+| **19. Operations & Logistics CRUD Specification** | Super Head 2 (CTO) & Super Head 3 (COO) | Complete relational PostgreSQL DDL schemas, REST API contracts, and operational state machines for all 10 on-ground micro-logistics domains. | [19_operations_logistics_crud_and_system_specs.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/19_operations_logistics_crud_and_system_specs.md) |
 
 ---
 

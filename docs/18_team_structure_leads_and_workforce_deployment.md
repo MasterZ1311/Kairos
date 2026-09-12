@@ -105,13 +105,13 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 ## 4. Division Deep-Dives Across the 4 Phases
 
 ### Division 1: Partnerships, Corporate Relations & Capital (CPFO)
-* **Super Head 1:** **Chief Partnerships & Finance Officer (CPFO)**  
+* **Super Head 1 (CPFO & Sponsorship Lead):** **Nikki (Nangaiyar M)** (Register No: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 13 Organizers (1 Super Head + 3 Sub-Heads + 9 Squad Officers)
-* **Pre-Event Runway (Sep–Dec):** Close Title Sponsor (**₹1,25,000**), Co-Powered By Sponsor (**₹70,000**), Track Partners (**₹1,05,000**), and institutional grant (**₹50,000**), yielding **₹3,50,000 in working capital**. Secure in-kind partnerships (Red Bull, AWS $50k credits, JetBrains, Postman). Enforce **₹0 participant fee policy** across all partner communication.
+* **Pre-Event Runway (Sep–Dec):** Close Title Sponsor (**₹3,50,000 – ₹5,00,000+**), Co-Powered By Sponsor (**₹2,00,000+**), Track Partners (**₹3,50,000+**), and institutional grant (**₹1,00,000+**), yielding **Minimum ₹10,00,000 in working capital (Uncapped)**. Secure in-kind partnerships (Red Bull, AWS $50k credits, JetBrains, Postman). Enforce **₹0 participant fee policy** across all partner communication.
 * **Online Qualifier Round (Jan 02–04):** Track sponsor bounties and API adoption across the Top 250 semi-finalist teams during the virtual review.
 * **On-Campus 48-Hour Grand Finale (Jan 22–24):** Manage on-site VIP corporate sponsor delegations, sponsor exhibition kiosks, and talent scouting sessions. Oversee on-ground petty cash logs.
-* **Post-Event Closeout (Jan 25–Feb 10):** Release the **₹1,75,000 pure cash prize pool** via direct bank NEFT escrow disbursement within 72 hours. Deliver 10-slide sponsor ROI reports, resume databases, and university financial utilization certificates.
+* **Post-Event Closeout (Jan 25–Feb 10):** Release the **₹3,50,000 – ₹5,00,000+ pure cash prize pool** via direct bank NEFT escrow disbursement within 72 hours. Deliver 10-slide sponsor ROI reports, resume databases, and university financial utilization certificates.
 
 ---
 
