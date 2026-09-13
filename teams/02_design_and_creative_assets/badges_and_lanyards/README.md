@@ -31,8 +31,8 @@ CUSTOM WOVEN LANYARD SPEC SHEET:
 Ribbon Length: 900 mm total loop (450 mm drop length)
 Ribbon Width: 20 mm (0.787 in)
 Material: High-Density Double-Layer Jacquard Satin Weave
-Colorway: Obsidian Abyss (`#0D1117`) base with AWS Smile Amber (`#FF9900`) woven lettering
-Text Woven: "AWS STUDENT BUILDER GROUP • KAIROS 2027 • BUILD ON AWS"
+Colorway: Deep Void Black (`#000000`) base with Electric Violet (`#A855F7`) and Astral White (`#FFFFFF`) woven lettering
+Text Woven: "KAIROS 2027 • AWS STUDENT BUILDER GROUP • SIST"
 Hardware Attachment: Heavy-Duty Metal Lobster Claw Swivel Hook in Matte Gunmetal Black
 Safety Feature: Quick-Release Breakaway Safety Buckle at nape of neck
 ────────────────────────────────────────────────────────────────────────
@@ -46,11 +46,11 @@ To ensure instant visual identification by campus security and event coordinator
 
 | Tier Code | Role Category | Badge Border & Accent Color | Substrate / Accent Details | Qty Ordered |
 |:---:|---|:---:|---|:---:|
-| **BDG-01** | **Participant / Hacker** | Cyber Slate (`#1A2433`) & Amber | White card face, Dark Obsidian banner, Team Name & ID | 450 |
-| **BDG-02** | **Technical Mentor** | Terminal Green (`#3FB950`) | Green accent band, "MENTOR" badge, expertise tags | 40 |
+| **BDG-01** | **Participant / Hacker** | Electric Violet (`#A855F7`) | Deep Nebula face, Violet border, Team Name & ID | 450 |
+| **BDG-02** | **Technical Evaluator** | Terminal Green (`#10B981`) | Green accent band, "EVALUATOR" badge, domain tags | 40 |
 | **BDG-03** | **Grand Finale Jury** | Royal Gold (`#FFD700`) | Metallic gold foil stamp, "VIP JURY", CXO Lounge access | 25 |
 | **BDG-04** | **Corporate Sponsor** | Pure Platinum (`#E5E4E2`) | Sponsor company logo, "INDUSTRY PARTNER" | 35 |
-| **BDG-05** | **Core Organizer / Lead** | AWS Smile Amber (`#FF9900`) | Obsidian Black face, Amber gradient, "ORGANIZER / ICS" | 100 |
+| **BDG-05** | **Core Organizer / Lead** | Cyber Orchid (`#C084FC`) | Void Black face, Electric Violet glow, "ORGANIZER" | 100 |
 
 ---
 

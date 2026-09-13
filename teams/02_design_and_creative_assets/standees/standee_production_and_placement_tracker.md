@@ -46,9 +46,9 @@ KAIROS 2027 (GRAND EDITION)
 
 [SCHEDULE GRID]
 • FRIDAY, JAN 22
-  - 08:30 AM: Registration & Smart Badge Activation
-  - 10:00 AM: Grand Inauguration & Keynote (Auditorium)
-  - 11:30 AM: Hackathon Commences — Sprint Phase 1
+  - 09:30 AM: Registration & Smart Badge Activation
+  - 10:45 AM: Grand Inauguration & Keynote (Auditorium)
+  - 12:00 PM: Hackathon Commences — Sprint Phase 1
   - 01:30 PM: Grand Buffet Lunch (Mess Halls)
   - 05:00 PM: Milestone Gate 1: Architecture Checkpoint
   - 08:30 PM: Dinner Buffet
@@ -56,10 +56,9 @@ KAIROS 2027 (GRAND EDITION)
   - 01:30 AM: Midnight Pizza & High-Caffeine Drop
 
 • SATURDAY, JAN 23
-  - 08:00 AM: Breakfast Buffet
+  - 08:00 AM: Breakfast & Refreshments
   - 12:00 PM: Milestone Gate 2: Code & API Review
   - 01:30 PM: Lunch Buffet
-  - 07:00 PM: Midnight CTF & Gaming Quest
   - 08:30 PM: Dinner Buffet
   - 10:00 PM: NIGHT LOCK-IN PROTOCOL ENFORCED
 

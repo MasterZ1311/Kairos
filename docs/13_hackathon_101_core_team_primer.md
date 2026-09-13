@@ -4,7 +4,7 @@
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Target Audience:** All 106 Student Organizers, Sub-Heads, and Squad Specialists across the 6 Divisions.  
 **Apex Authority:** Thenappan T (Register No: `44110855`), President & SBGL  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 **Core Purpose:** Instill absolute operational discipline, empathy, crisis reflexes, and professional excellence.  
 
 ---
@@ -13,9 +13,9 @@
 
 You are not organizing a regular college symposium or a localized coding contest. 
 
-**Kairos 2027 is a Tier-1 National Flagship Engineering Sprint.** Over 48 continuous hours (January 22–24, 2027), 400+ of India's most brilliant student developers, shortlisted from 2,000+ national applications, will assemble inside our Central Library Complex to build transformative systems on AWS Cloud. 
+**Kairos 2027 is a Tier-1 National Flagship Engineering Sprint.** Over 48 continuous hours (January 22–24, 2027), 400+ of India's most brilliant student developers, shortlisted from 2,000+ national applications, will assemble at Sathyabama Institute of Science and Technology, Chennai to build transformative systems on AWS Cloud. 
 
-We are supported by **corporate sponsorships and institutional grants totaling ₹3,50,000** (anchored by a ₹1,25,000 Title Sponsor, Powered-By partner, and track bounties), a **₹1,75,000 pure liquid cash prize pool**, a main stage line array audio rig, and senior VC partners flying in to judge and mentor winning teams.
+We are supported by **corporate sponsorships and institutional grants totaling ₹3,50,000 – ₹4,00,000** (anchored by a ₹2,00,000 Title Sponsor, ₹1,00,000 Powered-By partner, and track bounties), a **₹1,75,000 pure liquid cash prize pool**, a main stage line array audio rig, and senior VC partners and CTOs flying in to judge and evaluate winning teams.
 
 ---
 
@@ -29,7 +29,7 @@ To make flawless decisions in the heat of a 48-hour sprint, you must see the eve
 * **Golden Rule:** **Treat every participant like a visiting dignitary.** If they have a technical or personal issue, you own it until it is completely resolved.
 
 ### 2.2 The Corporate Sponsor (The Investor):
-* **Their State of Mind:** They invested ₹25,000 to ₹1,25,000 of corporate budget; they expect high ROI, developer adoption of their APIs, flawless branding, and top-tier student hiring.
+* **Their State of Mind:** They invested ₹25,000 to ₹2,00,000 of corporate budget; they expect high ROI, developer adoption of their APIs, flawless branding, and top-tier student hiring.
 * **What They Need:** Prompt VIP escorting, a clean professional booth, prominence on the main stage and banners, working Wi-Fi in the sponsor lounge, and immediate delivery of resume databases.
 * **Golden Rule:** **Extreme professional polish.** Never let a sponsor representative wander around unassisted or wait for stage coordination.
 

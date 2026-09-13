@@ -11,7 +11,7 @@
 **Official Handles:** Instagram: [`@awssbg_sist`](https://instagram.com/awssbg_sist) | LinkedIn: `aws-sbg-sist` | Email: `sistawscc@gmail.com`  
 **Campaign Runway:** September 04, 2026 – January 24, 2027 (Post-Event Release: Feb 05, 2027)  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE** (National talent meritocracy)  
-**Target Acquisition Funnel:** 2,000+ National Applicant Teams $\rightarrow$ 250 Online Semi-Finalists $\rightarrow$ 100 Elite On-Campus Finalist Teams (400–500 Hackers)  
+**Target Acquisition Funnel:** 2,000+ National Applicant Teams $\rightarrow$ 250 Online Semi-Finalists $\rightarrow$ 100 Elite On-Campus Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)  
 
 ---
 
@@ -27,12 +27,22 @@ graph TD
     ONLINE --> TOP100[Round 2: On-Campus Grand Finale<br/>Jan 22-24: 100 Elite National Teams]
 ```
 
-### 1.1 Funnel Benchmarks:
-* **Zero Entry Fee Impact:** With zero entry fees, national registrations are projected to exceed **2,000+ teams (8,000+ students)** across 22+ states.
-* **Campus Ambassador Incentive Structure:**
-  * Highest Referring Ambassador: **₹10,000 Pure Cash Bounty** + VIP Pass to Kairos 2027.
-  * 2nd & 3rd Referrals: **₹5,000 Cash Bounties** + Exclusive Streetwear Hoodie.
-  * All Ambassadors achieving 10+ verified registrations receive official **Letter of Recommendation from President Thenappan T** and verified digital credentials.
+### 1.1 Funnel Benchmarks & Open Sponsorship Referral Commission System:
+* **Zero Entry Fee Impact:** With zero entry fees and teams of 4–6 students, national registrations are projected to exceed **2,000+ teams (8,000–12,000 students)** across 22+ states.
+* **Open 3rd-Party Student Sponsorship Commission Program ("The Rainmaker Bounties"):**
+  * **Core Mandate:** Anyone—including 3rd-party students from any college, campus ambassadors, alumni, or independent builders across India—can bring corporate sponsors to Kairos 2027 and earn an instant **percentage-based liquid cash commission** on every successfully closed and funded sponsorship deal.
+  * **Tiered Percentage Payout Matrix:**
+    * **Title Sponsor (₹2,00,000):** **10% – 15% Cash Commission** $\rightarrow$ **₹20,000 to ₹30,000 Pure Liquid Cash** to the student referrer.
+    * **Co-Powered By Partner (₹1,00,000):** **10% – 12% Cash Commission** $\rightarrow$ **₹10,000 to ₹12,000 Pure Liquid Cash**.
+    * **Associate / Gold Partner (₹50,000):** **10% Cash Commission** $\rightarrow$ **₹5,000 Pure Liquid Cash**.
+    * **Track & Bounty Partner (₹25,000):** **10% Cash Commission** $\rightarrow$ **₹2,500 Pure Liquid Cash**.
+    * **In-Kind & Fuel Partners (F&B / Cloud Hardware):** **Fixed Cash Bounty of ₹3,000 – ₹5,000** (or 5% equivalent retail value) + VIP All-Access Pass.
+  * **Operational Workflow for 3rd-Party Students:**
+    1. *Lead Registration:* Student locks in company lead via `/refer-sponsor` or email to `sistawscc@gmail.com` to guarantee first-touch attribution.
+    2. *Collateral Support:* Organizers provide official pitch decks, non-tech corporate proposals, and executive email drafts.
+    3. *Executive Closing:* SBG Directorate (Thenappan T & Nikki Nangaiyar M) handles formal meetings, MoUs, and institutional invoicing.
+    4. *Instant Payout:* Commission is credited to the student via UPI/NEFT within 48–72 hours of corporate funds clearing into the university escrow.
+    5. *Prestige Accolade:* Top-grossing student closer is awarded the **National Corporate Rainmaker Trophy** on the main stage during the Grand Valedictory Ceremony + Official Letter of Recommendation.
 
 ---
 

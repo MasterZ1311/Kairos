@@ -3,7 +3,7 @@
 **AGREEMENT REFERENCE:** `SIST/CSE/AWS-SBG/KAIROS2027/MOU/[YEAR]-[NO]`  
 **EVENT:** KAIROS 2027 (Grand Edition) — National 48-Hour Student Hackathon  
 **EVENT DATES:** January 22 – 24, 2027  
-**VENUE:** Central Library Complex, Sathyabama Institute of Science and Technology, Chennai  
+**VENUE:** Sathyabama Institute of Science and Technology, Chennai  
 
 ---
 
@@ -20,7 +20,7 @@ AND
 ---
 
 ### 1. RECITALS & OBJECTIVES
-WHEREAS the Organizer is hosting **KAIROS 2027 (Grand Edition)**, an elite national 48-hour continuous hackathon bringing together 100 shortlisted finalist teams (400–500 student builders) filtered from 2,000+ applicants nationwide under a strict **100% Free / Zero Entry Fee** model;
+WHEREAS the Organizer is hosting **KAIROS 2027 (Grand Edition)**, an elite national 48-hour continuous hackathon bringing together 100 shortlisted finalist teams (teams of 4–6 students, ~400–600 student builders) filtered from 2,000+ applicants nationwide under a strict **100% Free / Zero Entry Fee** model;
 
 WHEREAS the Sponsor desires to support technology innovation, foster developer talent, promote technical challenges, and interface with top-tier student engineers as an official corporate partner.
 
@@ -40,14 +40,14 @@ The Organizer agrees to deliver the following agreed benefits in full:
 2. **Keynote & Jury Allocation:** Dedicated speaking slot during the Inaugural Ceremony and [___] designated seats on the Grand Finale Evaluation Jury.
 3. **Recruitment Access:** Provision of verified digital resume database and GitHub profile links of [All Applicants / Top 250 Semi-Finalists / Top 100 Finalists] compliant with institutional data privacy.
 4. **Live Stream Integration:** Video commercial stingers broadcasted during the 48-hour continuous multicam YouTube/LinkedIn live stream.
-5. **Physical Kiosk / Stall:** Allocation of exhibition stall space at the Central Library Complex during the hackathon.
+5. **Physical Kiosk / Stall:** Allocation of exhibition stall space at Sathyabama Institute of Science and Technology, Chennai during the hackathon.
 
 ---
 
 ### 4. OBLIGATIONS OF THE SPONSOR
 1. Provide high-resolution vector logos (SVG/AI/EPS) within 5 business days of MoU signing.
 2. Provide technical problem statement details, APIs, or sandbox credentials (if applicable).
-3. Nominate designated technical mentors or jury members for the Online Qualifier and Grand Finale rounds.
+3. Nominate designated jury members or evaluators for the Online Qualifier and Grand Finale rounds.
 4. Transfer agreed financial consideration according to Section 2.
 
 ---
@@ -79,7 +79,7 @@ Phone: `+91 6381801640` | Email: `thenappanmasterz1311@gmail.com`
 <br/>
 
 ________________________________________  
-**Dr. Balapriya .S** / **Dr. K. Ashok Kumar**  
+**Dr. K. Ashok Kumar** / **Dr. Balapriya .S**  
 Faculty Coordinators, AWS Student Builder Group  
 Department of CSE, SIST  
 

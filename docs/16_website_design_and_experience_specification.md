@@ -3,7 +3,7 @@
 **Governing Standards:** `E:\AWS SBGL\ANTI-Help\05_COMMUNICATION_TEMPLATES_AND_INSTITUTIONAL_LETTERS.md` & `10_HACKATHON_SPONSORSHIP_LETTERS_AND_OUTREACH_KIT.md`  
 **Executive Governance:** Super Head 5 (Chief Creative & Media Officer) in coordination with Super Head 2 (CTO)  
 **Reporting Directly To:** Thenappan T (Register No: `44110855`), President & Student Builder Group Leader (AWS SBGL)  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 **Production URL:** `https://kairos.sathyabama.ac.in`  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE**  
 **Dual-Phase Quality Funnel:** 2,000+ Online Applications $\rightarrow$ 250 Online Semi-Finalists (Jan 02–04) $\rightarrow$ 100 Elite On-Campus Teams (Jan 22–24)  
@@ -29,7 +29,7 @@ The Kairos 2027 digital portal is an enterprise-grade, multi-page platform engin
 
 ## 2. Design System & Aesthetics Ethos
 
-* **Aesthetic Palette:** Obsidian-Gold dark mode canvas (`#0B0F19`) accented by AWS Builder Amber (`#FF9900`), Cyber Indigo (`#6366F1`), and Neon Cyan (`#06B6D4`).
+* **Aesthetic Palette:** Deep Void Black dark mode canvas (`#000000`) accented by Electric Violet (`#A855F7`), Cyber Orchid (`#C084FC`), Astral White (`#FFFFFF`), and Starlight Lavender (`#E9D5FF`), anchored by the official Kairos Celestial Hourglass Logo and Circular Seal.
 * **Official Typography:** `Amazon Ember Display` for bold display headings, `Amazon Ember` for body text, and `Amazon Ember Mono` / `Amazon Ember Duospace` for terminal, countdown, and telemetry data.
 * **Micro-Interactions:** Smooth Framer Motion transitions, real-time countdown to January 22, 2027, interactive 3D track cards with floating telemetry badges, and live GitHub commit velocity trackers.
 
@@ -66,7 +66,7 @@ sequenceDiagram
 
 ### Key Registration Rules
 1. **Team Assembly (`/team/create` & `/team/join`):**
-   * Team Lead creates a team profile (2–4 members) and receives an alphanumeric Team Join Code (`KAIROS-XXXX`).
+   * Team Lead creates a team profile (4–6 members) and receives an alphanumeric Team Join Code (`KAIROS-XXXX`).
    * Each invited member logs in and inputs the Team Join Code.
 2. **Zero Entry Fee Guarantee:** No payment gateway or credit card input exists anywhere on the site. All amenities (food, accommodation, swags, cloud credits) are fully sponsored.
 
@@ -100,7 +100,7 @@ kairos.sathyabama.ac.in/
 
 ### 4.1 Higher Management & Member Recognition Architecture
 * **Batch 2026–2027 Leadership Portal (`/members/leadership`):**
-  * Dedicated executive showcase highlighting **President Thenappan T**, Faculty Coordinators (**Dr. Balapriya .S & Dr. K. Ashok Kumar**), and the **6 Super Heads** (CPFO, CTO, COO, CXO, CCMO, CSO).
+  * Dedicated executive showcase highlighting **President Thenappan T**, Faculty Coordinators (**Dr. K. Ashok Kumar & Dr. Balapriya .S**), and the **6 Super Heads** (CPFO, CTO, COO, CXO, CCMO, CSO).
   * Includes official portraits, division mandates, AWS certifications, and philosophy quotes.
 * **All-Team Recognition Wall (`/members`):**
   * Searchable, filterable Hall of Fame celebrating all **106 student organizers and crew members**.
@@ -122,7 +122,7 @@ To ensure peak technical quality among on-campus finalists, the website coordina
    * 7-Minute Google Meet Technical Defense with evaluation panel.
 
 2. **Phase 2: On-Campus Grand Finale (January 22–24, 2027)**
-   * Top 100 Elite Teams (400–500 builders) converge at Sathyabama Institute of Science and Technology.
+   * Top 100 Elite Teams (Teams of 4–6 students, ~400–600 builders) converge directly at the Central Library Complex at Sathyabama Institute of Science and Technology on Event Day (no pre-event on-campus onboarding).
    * 48 hours of continuous, physical development at Central Library Complex.
    * Live checkpoint evaluations recorded via `/judging`.
    * Final Stage Pitches on January 24 evaluated via normalized Z-Score engine.

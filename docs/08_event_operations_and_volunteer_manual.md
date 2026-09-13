@@ -22,7 +22,7 @@ graph TD
 
 ### 1.1 Floor-by-Floor Specifications:
 * **Ground & 1st Floor Auditorium:** Hosts Grand Inauguration, Keynote Addresses, Sponsor Tech Briefings, Grand Finale Plenary, and Award Distribution. Equipped with 20x10ft P2.5 4K LED video wall and concert truss lighting.
-* **2nd Floor Lecture Halls 1, 2, and 3:** The primary 24/7 hacking arena hosting the 100 elite teams (400–500 developers) who qualified through the Online Semi-Finals. Wide desk footprints, central AC, and dedicated high-voltage power distribution.
+* **2nd Floor Lecture Halls 1, 2, and 3:** The primary 24/7 hacking arena hosting the 100 elite teams (Teams of 4–6 students, ~400–600 developers) who qualified through the Online Semi-Finals. Wide desk footprints, central AC, and dedicated high-voltage power distribution.
 * **1st Floor Computing Lab:** Serves as the Central Apex War Room, network server terminal, AWS cloud architecture clinic, and hardware maker sandbox.
 * **Top Floor Executive Lounge:** Exclusively reserved for VIP Jury, keynote speakers, and institutional dignitaries for private dining and scoring deliberations.
 
@@ -31,7 +31,7 @@ graph TD
 ## 2. Electrical Power Grid (45 kVA) & Dual 10Gbps Network Infrastructure
 
 ### 2.1 Power Grid Load Balance & Redundancy:
-* **Total Continuous Power Load:** **45 kVA** (500 laptops @ 65W avg = ~32.5 kW + monitors, switches, chargers, and stage LED).
+* **Total Continuous Power Load:** **45–55 kVA** (up to 600 laptops @ 65W avg = ~39 kW + monitors, switches, chargers, and stage LED).
 * **Industrial Spike Boards:** 40 heavy-duty 16A surge-protected strips (6 sockets each, 5-meter lead) distributed across LH 1, 2, and 3.
 * **Power Redundancy:** Direct tie-in to **Dual Campus Diesel Generators** with an online industrial UPS switchover executing in **<10 milliseconds**, guaranteeing zero laptop reboot or power drops.
 
@@ -52,7 +52,7 @@ gantt
     dateFormat  HH:mm
     axisFormat %H:%M
     section Day 1 (Jan 22)
-    Shift Alpha (Day Operations)      :07:30, 8.5h
+    Shift Alpha (Day Operations)      :09:00, 7h
     Shift Bravo (Evening & Checkpoints):15:30, 8.5h
     Shift Charlie (Graveyard Midnight):23:30, 8.5h
     section Day 2 (Jan 23)
@@ -67,5 +67,5 @@ gantt
 
 ## 4. University Bus Fleet & Campus EV Buggy Transit (100% Free)
 
-* **10 University Buses:** Chartered to pick up arriving outstation participants on Friday morning (06:00 – 08:30) and return them on Sunday evening (17:30 – 20:00) across Chennai Central, Tambaram, Airport, and CMBT Koyambedu.
-* **3 Campus EV Shuttles/Buggies:** Running continuous loops 24/7 between Central Library, Hostels, and Dining Messes for participants and VIP transfers at zero charge.
+* **10 University Buses:** Chartered to pick up arriving outstation participants on Friday morning (06:30 – 09:00, reaching campus by 09:15 AM ahead of 09:30 AM check-in) and return them on Sunday evening (17:30 – 20:00) across Chennai Central, Tambaram, Airport, and CMBT Koyambedu.
+* **3 Campus EV Shuttles/Buggies:** Running continuous loops 24/7 to transport girls and boys to the nearest best restrooms across campus, as well as between Central Library, Hostels, and Dining Messes for participants and VIP transfers at zero charge.

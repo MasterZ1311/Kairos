@@ -3,7 +3,7 @@
 > **Subfolder:** `teams/03_documentation_and_compliance/reports_and_minutes/`  
 > **Direct Lead:** **Hemavarshine S** (Documentation Lead, Reg: `44110263`, Phone: `+91 9345691593`)  
 > **Supervising Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
-> **Faculty Advisor:** **Dr. Balapriya .S** (Faculty Coordinator)  
+> **Faculty Advisors:** **Dr. K. Ashok Kumar** & **Dr. Balapriya .S** (Faculty Coordinators)  
 
 ---
 
@@ -24,7 +24,7 @@ This directory functions as the official archival memory of the organizing commi
 | **Weekly Sprint MoM** | Hemavarshine S | Thenappan T | Within 24 hours of meeting |
 | **Online Qualifier Screening Report** | Technical Squad | Shanmugapriyan S | Jan 06, 2027 |
 | **Live Operational Log (48H)** | Documentation Desk | Nangaiyar M | Rolling hourly during hack |
-| **Post-Event Institutional Report** | Hemavarshine S | Dr. Balapriya .S & Thenappan T | Jan 31, 2027 |
+| **Post-Event Institutional Report** | Hemavarshine S | Dr. K. Ashok Kumar, Dr. Balapriya .S & Thenappan T | Jan 31, 2027 |
 | **Global AWS Chapter Update Dossier** | Thenappan T | AWS Program Managers | Feb 05, 2027 |
 
 ---

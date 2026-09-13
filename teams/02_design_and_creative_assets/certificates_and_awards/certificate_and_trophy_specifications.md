@@ -28,14 +28,14 @@
 
        at KAIROS 2027 (Grand Edition), India's Flagship 48-Hour Continuous National Student Hackathon
            focused on Applied Cloud Computing, Foundation Models, and Agentic AI Architectures,
-               held at the Central Library Complex, Chennai from January 22 to 24, 2027.
+                held at Sathyabama Institute of Science and Technology, Chennai from January 22 to 24, 2027.
 
   Certificate ID: KAIROS-2027-EXC-[UUID]                 Issued on: January 24, 2027
   Verify Authenticity: https://kairos.sistawscc.org/verify?id=[UUID]
 
-  [Signature]                [Signature]                [Signature]                [Signature]
-  Thenappan T                Dr. Balapriya .S           Dr. L. Lakshmanan          Dr. T. Sasipraba
-  President & SBGL           Faculty Coordinator        Dean, School of Computing  Vice Chancellor
+  [Signature]                [Signature]                [Signature]                [Signature]                [Signature]
+  Thenappan T                Dr. K. Ashok Kumar         Dr. Balapriya .S           Dr. L. Lakshmanan          Dr. T. Sasipraba
+  President & SBGL           Faculty Coordinator        Faculty Coordinator        Dean, School of Computing  Vice Chancellor
 ========================================================================================================
 ```
 

@@ -3,20 +3,20 @@
 **Super Head 1 Mandate:** Command the Financial Architecture; manage ₹3,50,000 in operational capital under a **100% Free / Zero Entry Fee Model**; enforce procurement audits; manage GST compliance; guarantee instant NEFT escrow disbursement of the ₹1,75,000 pure cash prize pool.  
 **Governing Standard:** `E:\AWS SBGL\ANTI-Help\10_HACKATHON_SPONSORSHIP_LETTERS_AND_OUTREACH_KIT.md`  
 **Accountable Leads:** Chief Partnerships & Finance Officer (CPFO) & Treasurer — Reporting directly to President Thenappan T (Register No: 44110855)  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 **Event Dates:** January 22 – 24, 2027 (On-Campus Grand Finale) · January 02 – 04, 2027 (Online Technical Qualifier)  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE** (Funded 100% via corporate sponsorships and institutional grant)  
-**Scale:** 100 Shortlisted National Teams (400–500 Hackers) · 106 Organizers · 40+ Industry Mentors/VIPs  
+**Scale:** 100 Shortlisted National Teams (Teams of 4–6 students, ~400–600 Hackers) · 106 Organizers · 25+ Industry Jury Members & Evaluators  
 
 ---
 
 ## 1. Master Financial Architecture & Income Streams
 
-The Kairos 2027 financial model is built on an enterprise capital structure totaling **₹3,50,000 in working operational capital**, anchored by **₹3,00,000 in external corporate sponsorships** and a **₹50,000 Sathyabama management grant**:
+The Kairos 2027 financial model is built on an enterprise capital structure totaling **₹3,50,000 – ₹4,00,000 in working operational capital**, anchored by **₹3,00,000 – ₹3,50,000 in external corporate sponsorships** and a **₹50,000 Sathyabama management grant**:
 
 ```mermaid
 graph LR
-    S1[External Corporate Sponsorship: ₹3,00,000<br/>Title ₹1.25L + Powered-By ₹70k + Tracks] --> INFLOW[Total Working Capital: ₹3,50,000]
+    S1[External Corporate Sponsorship: ₹3,00,000 – ₹3,50,000<br/>Title ₹2L + Powered-By ₹1L + Tracks] --> INFLOW[Total Working Capital: ₹3,50,000 – ₹4,00,000]
     S2[Participant Entry Fees: ₹0<br/>100% FREE for all students] --> INFLOW
     S3[Sathyabama Management Grant: ₹50,000<br/>Fixed Institutional Sanction] --> INFLOW
     
@@ -33,13 +33,13 @@ graph LR
 
 | Revenue Stream | Baseline Conservative | Target Grand Model | Stretch Enterprise | Status / Pipeline |
 |---|:---:|:---:|:---:|---|
-| **External Corporate Sponsorship (Cash)** | ₹2,50,000 | **₹3,00,000** | ₹3,50,000 | Active Outreach |
-| • *Title Sponsor (1 Partner) [Target > ₹1L]* | ₹1,00,000 | **₹1,25,000** | ₹1,50,000 | High-Priority Outreach |
-| • *Co-Powered By Sponsor (1 Partner)* | ₹50,000 | **₹70,000** | ₹80,000 | In Active Pipeline |
-| • *Track Bounty & Associate Partners (3 Partners)* | ₹75,000 | **₹1,05,000** | ₹1,20,000 | Dedicated Track Challenges |
+| **External Corporate Sponsorship (Cash)** | ₹2,50,000 | **₹3,00,000 – ₹3,50,000** | ₹4,00,000+ | Active Outreach |
+| • *Title Sponsor (1 Partner) [Target ₹2L]* | ₹1,50,000 | **₹2,00,000** | ₹2,50,000+ | High-Priority Outreach |
+| • *Co-Powered By Sponsor (1 Partner)* | ₹75,000 | **₹1,00,000** | ₹1,50,000 | In Active Pipeline |
+| • *Track Bounty & Associate Partners (2–4 Partners)* | ₹50,000 | **₹50,000 – ₹1,00,000** | ₹1,00,000+ | Dedicated Track Challenges (₹25k each) |
 | **Sathyabama Institutional Grant** | ₹50,000 | **₹50,000** | ₹50,000 | Approved by Management |
 | **Participant Entry Fees** | **₹0 (FREE)** | **₹0 (FREE)** | **₹0 (FREE)** | **100% Free Meritocracy** |
-| **TOTAL WORKING OPERATIONAL INFLOW** | **₹3,00,000** | **₹3,50,000** | **₹4,00,000** | — |
+| **TOTAL WORKING OPERATIONAL INFLOW** | **₹3,00,000** | **₹3,50,000 – ₹4,00,000** | **₹4,50,000+** | — |
 
 ---
 
@@ -88,7 +88,7 @@ SUBTOTAL: REFRESHMENTS & FUEL                                                   
 SUBTOTAL: STAGE & AV PRODUCTION                                                                  ₹30,000
 --------------------------------------------------------------------------------------------------------
 
-5. VIP JURY CARE, MENTOR HOSPITALITY & MEMENTOS
+5. VIP JURY CARE, DIGNITARY HOSPITALITY & MEMENTOS
 • Top Floor VIP Executive Lounge Dining     High Tea, Dry Fruits & Special Lunch 35 pax     300   ₹10,500
 • Traditional Silk Shawls & Mementos        Handcrafted Sandalwood/Brass Mementos 20 units   475    ₹9,500
 --------------------------------------------------------------------------------------------------------
@@ -127,3 +127,11 @@ GRAND TOTAL EXPENDITURE BUDGET: ₹3,50,000 | BALANCED AGAINST INFLOW: ₹3,50,0
 3. **Transparency & GST Compliance**:
    * All vendors (printing, AV, catering, hardware) must provide valid GST invoices.
    * A post-event financial audit report will be submitted to the Dean (School of Computing) and Vice Chancellor within 7 business days of event conclusion.
+4. **Crowdsourced Sponsorship Acquisition Referral Accounting & Payouts ("Rainmaker Bounties")**:
+   * Any student, campus ambassador, or 3rd-party connector who secures a corporate sponsorship deal is eligible for a tiered percentage-based cash commission:
+     * **Title Sponsor (₹2,00,000):** 10% – 15% (₹20,000 – ₹30,000).
+     * **Co-Powered By Sponsor (₹1,00,000):** 10% – 12% (₹10,000 – ₹12,000).
+     * **Associate / Gold Partner (₹50,000):** 10% (₹5,000).
+     * **Track Partner (₹25,000):** 10% (₹2,500).
+     * **In-Kind F&B / Fuel Deals:** ₹3,000 – ₹5,000 fixed bounty.
+   * **Self-Funding Accounting Treatment:** Referral commissions are strictly funded directly from the gross sponsorship funds received. They carry zero upfront cost or downside risk for the organizers. Payouts are released within 48–72 hours of bank clearance into Sathyabama institutional accounts upon joint sign-off by CPFO Nikki (Nangaiyar M) and President Thenappan T.

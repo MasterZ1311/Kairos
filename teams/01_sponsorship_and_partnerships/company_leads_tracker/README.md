@@ -3,7 +3,7 @@
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/company_leads_tracker/`  
 > **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 > **Enterprise Outreach Sub-Head:** Corporate Outreach Lead  
-> **Faculty Advisor:** Dr. Balapriya .S (Department of CSE)  
+> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE)  
 
 ---
 
@@ -13,11 +13,11 @@ This subfolder houses the live corporate sponsorship pipeline, tracking prospect
 
 ### Target Objectives
 - Maintain a minimum active pipeline of **60+ high-value corporate targets**.
-- Secure **1 Title Sponsor (₹3,50,000 – ₹5,00,000+)**.
-- Secure **2 Co-Powered By Sponsors (₹2,00,000+ each)**.
-- Secure **5 Track Partners (₹50,000 – ₹1,00,000 each)**.
+- Secure **1 Title Sponsor (₹2,00,000 / 2 Lakhs)**.
+- Secure **1–2 Co-Powered By Sponsors (₹1,00,000 / 1 Lakh each)**.
+- Secure **5 Track Partners (₹25,000 – ₹50,000 each)**.
 - Secure **4+ In-Kind Sponsors** (Cloud Credits, Energy Drinks, Hardware Dev Kits, Developer Tooling).
-- **Target Capital Pool:** Minimum ₹10,00,000 (Uncapped).
+- **Target Capital Pool:** ₹3,50,000 – ₹4,00,000 (Uncapped).
 
 ---
 

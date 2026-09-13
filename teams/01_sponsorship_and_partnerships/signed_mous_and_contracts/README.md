@@ -14,7 +14,9 @@ This directory serves as the legal and contractual vault for KAIROS 2027. It sto
 ### Legal Governance Standards
 - All agreements must be executed on official university letterheads or formal corporate tripartite agreement templates.
 - Sponsorship funds are routed directly into the designated **Sathyabama Institute of Science and Technology Official Project Bank Account** (strictly audited).
-- Pure cash prize pool funds are held in verifiable escrow and disbursed via automated NEFT within 72 hours of hackathon grand finale conclusion.
+### Available Contract & Letter Templates
+- 📄 [corporate_sponsorship_mou_standard_template.md](./corporate_sponsorship_mou_standard_template.md): Formal bilateral MoU agreement for corporate sponsors.
+- 📄 [non_tech_corporate_sponsorship_proposal_letter.md](./non_tech_corporate_sponsorship_proposal_letter.md): Official institutional letterhead proposal for non-tech, corporate, BFSI, FMCG, retail, and CSR enterprise partners.
 
 ---
 
@@ -22,9 +24,9 @@ This directory serves as the legal and contractual vault for KAIROS 2027. It sto
 
 | Document / Step | Responsible Person | Approving Authority | Verification Artifact |
 |---|---|---|---|
-| **Drafting Standard MoU** | Nikki (Nangaiyar M) | Dr. Balapriya .S & Dean | Word / Markdown draft |
+| **Drafting Standard MoU** | Nikki (Nangaiyar M) | Dr. K. Ashok Kumar, Dr. Balapriya .S & Dean | Word / Markdown draft |
 | **Corporate Legal Vetting** | Corporate Legal POC | Institutional Legal Cell | Redline markup document |
-| **Faculty & Dean Endorsement** | Dr. Balapriya .S | Dr. L. Lakshmanan (Dean) | Physical signature & departmental seal |
+| **Faculty & Dean Endorsement** | Dr. K. Ashok Kumar & Dr. Balapriya .S | Dr. L. Lakshmanan (Dean) | Physical signature & departmental seal |
 | **University Bank Account Details & Invoice** | University Accounts Office | Finance Officer, SIST | Official GST invoice with SIST GSTIN |
 | **Payment Receipt & Ledger Update** | Treasury Sub-Head | Nikki (Nangaiyar M) | Bank UTR / Transaction slip PDF |
 

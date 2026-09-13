@@ -48,7 +48,7 @@ graph TD
 
 1. **[`website_frontend_source/`](./website_frontend_source/)**: Frontend architecture, page route manifests, responsive breakpoints, Tailwind color tokens matching our Obsidian-Amber design system, and UI component catalog.
 2. **[`cloud_sandboxes_and_bedrock/`](./cloud_sandboxes_and_bedrock/)**: Automated provisioning blueprints for AWS Organizations, Service Control Policies (SCPs) preventing budget overruns, Amazon Bedrock IAM access, and distribution of $50,000+ AWS cloud credit vouchers.
-3. **[`judging_and_leaderboard_engine/`](./judging_and_leaderboard_engine/)**: The real-time evaluation portal used by 25+ industry judges and mentors, powered by a mathematical **Z-score normalization algorithm** to eliminate judge bias, with live WebSocket leaderboard streaming.
+3. **[`judging_and_leaderboard_engine/`](./judging_and_leaderboard_engine/)**: The real-time evaluation portal used by 25+ industry judges and evaluators, powered by a mathematical **Z-score normalization algorithm** to eliminate judge bias, with live WebSocket leaderboard streaming.
 4. **[`registration_and_screening_pipeline/`](./registration_and_screening_pipeline/)**: Automated applicant ingestion engine pulling from Google Forms webhooks, executing dual-phase filtering (Round 1: 2,000+ $\rightarrow$ Top 250 Semi-Finalists; Round 2: $\rightarrow$ Top 100 Finalists), dispatching confirmation emails via SES, and assigning Discord roles.
 
 ---

@@ -4,7 +4,7 @@
 > **Direct Lead:** **Hemavarshine S** (Documentation Lead, Reg: `44110263`, Phone: `+91 9345691593`)  
 > **Co-Lead (Logistics Filing):** **Nangaiyar M** (Community & Events Lead, Reg: `44612059`)  
 > **Executive Signatory:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
-> **Faculty Co-Signatories:** **Dr. Balapriya .S** & **Dr. K. Ashok Kumar**  
+> **Faculty Co-Signatories:** **Dr. K. Ashok Kumar** & **Dr. Balapriya .S**  
 
 ---
 
@@ -20,7 +20,7 @@ All letters are fully articulated in `docs/14_official_letters_and_administrativ
 
 ```mermaid
 graph LR
-    DRAFT["1. Hemavarshine S drafts formal letter"] --> COORD["2. Dr. Balapriya .S & Dr. Ashok Kumar co-sign"]
+    DRAFT["1. Hemavarshine S drafts formal letter"] --> COORD["2. Dr. Ashok Kumar & Dr. Balapriya .S co-sign"]
     COORD --> HOD["3. Head of Department (CSE) endorses"]
     HOD --> DEAN["4. Dr. L. Lakshmanan (Dean Computing) signs"]
     DEAN --> REG["5. Registrar / VC Office sanctions"]

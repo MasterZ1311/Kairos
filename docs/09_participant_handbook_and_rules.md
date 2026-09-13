@@ -4,22 +4,23 @@
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Sponsoring Institution:** Sathyabama Institute of Science and Technology, Chennai – 600119  
 **Executive Leadership:** Thenappan T (Register No: `44110855`), President & SBGL  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE)  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE** (No fees collected from students at any stage)  
 **Dual-Phase Quality Funnel:** Round 0 Application $\rightarrow$ Round 1 Online Technical Qualifier (Jan 02–04) $\rightarrow$ Round 2 On-Campus Grand Finale (Jan 22–24)  
-**Scale:** 100 Elite National Finalist Teams (~400–500 Hackers)  
+**Scale:** 100 Elite National Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)  
 **Pure Cash Prize Pool:** **₹1,75,000 Pure Cash** + $50,000+ AWS Cloud Credits  
 
 ---
 
-## 1. Builder Onboarding & The Zero-Fee Meritocracy
+## 1. Builder Arrival, Check-In & The Zero-Fee Meritocracy
 
 Welcome to **KAIROS 2027 (Grand Edition)**. Over the next 48 continuous hours, you and your team will engineer cutting-edge software and hardware prototypes on AWS Cloud, compete for ₹1,75,000 in pure liquid cash prizes, and pitch directly to top venture capital investors and enterprise CTOs.
 
 ### 1.1 Zero Entry Fee Guarantee:
 * Participation in KAIROS 2027 is **100% FREE**. 
 * We do NOT charge an application fee, screening fee, or on-campus attendance fee.
-* Your accommodation, buffet meals, 24/7 filter coffee/tea bar, midnight energy snacks, developer kits, smart badges, bus transit, and $50–$100 AWS Cloud Credits are **100% complimentary**, fully sponsored by our corporate enterprise partners and Sathyabama Institute of Science and Technology.
+* **Direct Venue Reporting:** There is no prior on-campus onboarding. Finalist teams confirm roster lock remotely (Jan 07–14) and report directly to Sathyabama Institute of Science and Technology, Chennai on Event Day (Friday, Jan 22, 2027 by 09:30 AM) for on-ground check-in and kit collection.
+* Your accommodation, buffet meals, 24/7 filter coffee/tea bar, midnight energy snacks, developer kits, smart badges, campus EV buggy restroom transit, bus transit, and $50–$100 AWS Cloud Credits are **100% complimentary**, fully sponsored by our corporate enterprise partners and Sathyabama Institute of Science and Technology.
 
 ### 1.2 What to Bring (Packing Checklist):
 * **Hardware:** Laptops, 3-pin chargers, extension cables, external mice/keyboards, hardware microcontrollers (ESP32, Raspberry Pi, sensors) if competing in Track 3.
@@ -32,7 +33,7 @@ Welcome to **KAIROS 2027 (Grand Edition)**. Over the next 48 continuous hours, y
 ## 2. Universal Rules & Code Integrity Charter
 
 1. **Fresh Code Policy (100% Zero Pre-Built Codebases):**
-   * All project code, architectures, and models must be initialized after the official hackathon start at **11:00 AM on Friday, January 22, 2027**.
+   * All project code, architectures, and models must be initialized after the official hackathon start at **12:00 PM on Friday, January 22, 2027**.
    * The use of open-source frameworks, public libraries, pre-trained open weights (via AWS Bedrock or HuggingFace), and public APIs is permitted, provided they are declared in the project README.
    * Any team found using pre-existing codebases, private commits predating the event, or unauthorized templates will face **immediate disqualification**.
 2. **Commit Velocity & GitHub Audit:**
@@ -41,7 +42,7 @@ Welcome to **KAIROS 2027 (Grand Edition)**. Over the next 48 continuous hours, y
 3. **100% Student Intellectual Property (IP) Ownership:**
    * **You own 100% of everything you build at Kairos 2027.** Neither the organizers, Sathyabama Institute of Science and Technology, nor corporate sponsors claim any equity, patent ownership, or intellectual property rights over participant code or projects.
 4. **Team Composition & Eligibility:**
-   * Teams consist strictly of **2 to 4 registered student developers** currently enrolled in an accredited undergraduate or postgraduate program.
+   * Teams consist strictly of **4 to 6 registered student developers** currently enrolled in an accredited undergraduate or postgraduate program.
 
 ---
 

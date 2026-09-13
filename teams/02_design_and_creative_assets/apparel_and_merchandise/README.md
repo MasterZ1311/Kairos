@@ -11,7 +11,7 @@
 
 This folder provides complete textile, manufacturing, print, and sizing specifications for the official developer streetwear kits, crew hoodies, and custom swag issued during KAIROS 2027.
 
-Under our **100% Free Participant Model**, premium merchandise is provided at zero cost to all 100 shortlisted finalist teams, mentors, and core organizers, sponsored by corporate partners.
+Under our **100% Free Participant Model**, premium merchandise is provided at zero cost to all 100 shortlisted finalist teams, visiting dignitaries, and core organizers, sponsored by corporate partners.
 
 ---
 
@@ -24,11 +24,12 @@ ORGANIZER HOODIE SPECIFICATIONS:
 Quantity: 110 Units (Core Organizers, Faculty Coordinators, VIP VIPs)
 Fabric: 380 GSM Heavyweight 100% Organic Combed Cotton Fleece
 Weave / Finish: Brushed interior fleece, pre-shrunk, bio-washed
-Colorway: Midnight Obsidian (`#0D1117`) with matte black drawstring eyelets
-Front Embellishment: High-density tonal embroidery of AWS SBG Emblem (65 mm wide) on left chest
-Right Sleeve: Woven flag patch with "SIST CHAPTER — CHENNAI"
-Back Embellishment: 3D High-Density Puff Screen Print in AWS Smile Amber (`#FF9900`) and Pure White (`#FFFFFF`)
-Back Artwork: "KAIROS 2027 ARCHITECT // 48H SYSTEM RUNTIME" with geometric terminal grid
+Colorway: Deep Void Black (`#000000`) with matte black drawstring eyelets
+Front Embellishment: 3D Rubberized Gel Print of Celestial Hourglass Emblem (65 mm wide) on left chest
+Left Sleeve: Woven jacquard patch of the Official Circular Seal (`kairos_official_circular_sticker_seal.jpg`) with satin purple edge overlocking
+Right Sleeve: Tonal silicone print: "IDEAS TODAY — IMPACT TOMORROW"
+Back Embellishment: 3D High-Density Puff Screen Print in Electric Violet (`#A855F7`) and Astral White (`#FFFFFF`)
+Back Artwork: Primary Logo Lockup ("K A [Hourglass] R O S — A 48-HOUR HACKATHON") with orbital comet trail and track grid
 Pouch Pocket: Dual-stitched kangaroo pocket with reinforced seams
 ────────────────────────────────────────────────────────────────────────
 ```
@@ -37,14 +38,14 @@ Pouch Pocket: Dual-stitched kangaroo pocket with reinforced seams
 ```text
 PARTICIPANT TEE SPECIFICATIONS:
 ────────────────────────────────────────────────────────────────────────
-Quantity: 550 Units (Hackers, Mentors, Student Volunteers)
+Quantity: 550 Units (Hackers, Student Volunteers, Technical Leads)
 Fabric: 180 GSM Ring-Spun Combed Dry-Fit Poly-Cotton Blend (Breathable for 48H hack sprints)
-Colorway: Deep Anthracite / Charcoal Black
+Colorway: Deep Void Black (`#000000`)
 Printing Method: Direct-to-Film (DTF) Multi-Color Transfer with soft elastomeric hand-feel
-Front Artwork: Centered minimalist chest typographic lockup: "KAIROS 2027 / BUILD ON AWS"
-Left Sleeve: AWS Student Builder Group official smile logo (50 mm width, 1-color Amber)
+Front Artwork: Centered chest print of the Primary Logo Lockup: "K A [Hourglass] R O S" in Astral White with Electric Violet glow
+Left Sleeve: Official Circular Seal (`kairos_official_circular_sticker_seal.jpg`) (50 mm diameter)
 Right Sleeve: Sathyabama Institute of Science and Technology crest (45 mm width, White)
-Back Artwork: Abstract cyberpunk cloud network mesh with track names and Title Sponsor crest
+Back Artwork: Tagline "IDEAS TODAY — IMPACT TOMORROW" with 5 Grand Tracks schematic grid and Title Sponsor crest
 Tagging: Tear-away heat-sealed size label (no scratchy neck tags)
 ────────────────────────────────────────────────────────────────────────
 ```
@@ -56,12 +57,12 @@ STICKER PACK MANIFEST:
 Quantity: 600 Packs (Each pack contains 6 die-cut stickers inside resealable craft pouch)
 Substrate: 120 Micron Glossy/Matte Vinyl with Permanent Waterproof Adhesive
 Coating: UV-Protective Outdoor Matte Laminate (scratch-resistant, laptop safe)
-Sticker 1: "KAIROS 2027" Master Holographic Logo (75 mm × 35 mm)
-Sticker 2: AWS Smile Mark in High-Gloss Amber (60 mm × 25 mm)
-Sticker 3: "sudo build_kairos --prod" Monospace Terminal Pill (70 mm × 20 mm)
-Sticker 4: Amazon Bedrock Generative AI Badge (50 mm × 50 mm Hexagon)
-Sticker 5: "48 Hours Non-Stop Hacker" Cyberpunk Skull / Circuit (65 mm × 65 mm)
-Sticker 6: Title Corporate Sponsor Mascot / Emblem (55 mm × 55 mm)
+Sticker 1: Official Circular Seal Sticker (`kairos_official_circular_sticker_seal.jpg`) (75 mm diameter, spot UV on violet ring)
+Sticker 2: Primary Logo Lockup (`kairos_primary_logo_lockup.png`) (85 mm × 35 mm, die-cut with holographic metallic sheen)
+Sticker 3: Standalone Celestial Hourglass Emblem (`kairos_hourglass_emblem.png`) (60 mm × 60 mm contour die-cut)
+Sticker 4: Tagline Badge: "IDEAS TODAY — IMPACT TOMORROW" Terminal Pill (70 mm × 20 mm)
+Sticker 5: Amazon Bedrock Generative AI Builder Badge (50 mm × 50 mm Hexagon)
+Sticker 6: Title Corporate Sponsor (AWS) Custom Co-Branded Sticker (55 mm × 55 mm)
 ────────────────────────────────────────────────────────────────────────
 ```
 

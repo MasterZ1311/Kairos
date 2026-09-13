@@ -12,12 +12,12 @@
 
 Tired of hackathons that charge high entry fees and deliver poor experiences? 
 
-Presenting **KAIROS 2027 (Grand Edition)** — India’s Premier 48-Hour Continuous Hackathon hosted by the **AWS Student Builder Group (SIST Chapter)** at the iconic **Central Library Complex, Sathyabama, Chennai**!
+Presenting **KAIROS 2027 (Grand Edition)** — India’s Premier 48-Hour Continuous Hackathon hosted by the **AWS Student Builder Group (SIST Chapter)** at **Sathyabama Institute of Science and Technology, Chennai**!
 
 🔥 **WHAT MAKES KAIROS 2027 UNBEATABLE:**
 ✅ **100% FREE ENTRY** — Zero registration fee, zero hidden costs.
-✅ **₹10 LAKH+ UNCAPPED CAPITAL POOL** with **₹3,50,000+ Pure Cash Prizes**!
-✅ **Grand Champion takes ₹1,50,000 PURE CASH** + Grand Trophy!
+✅ **₹3.5L+ OPERATIONAL CAPITAL POOL** with **₹1,75,000 Pure Cash Prizes**!
+✅ **Grand Champion takes ₹60,000 PURE CASH** + Grand Trophy!
 ✅ **5 Specialized Tracks:** Agentic AI (AWS Bedrock), Cloud-Native, Web3, FinTech, and Smart Healthcare.
 ✅ **100% Free Full-Board Hospitality:** 6 Grand Buffet Meals, Non-Stop Midnight Pizza Drops, and Free Energy Drinks.
 ✅ **Free Transit:** Sathyabama College Bus fleet across Chennai + Campus EV Shuttles.
@@ -46,7 +46,7 @@ Use referral code: *[INSERT_YOUR_CA_CODE]* to priority fast-track your abstract 
 Applications for India’s grandest 48-hour student hackathon are closing fast!
 
 Over 1,500+ builders have already registered. Don't let your team miss out on:
-🏆 ₹1,50,000 Grand Champion Pure Cash Prize
+🏆 ₹60,000 Grand Champion Pure Cash Prize (₹1,75,000 Pure Cash Pool)
 ☁️ Real AWS Bedrock & Generative AI foundation model sandboxes
 🍕 48 Hours of free food, midnight fuel, and world-class developer swag
 

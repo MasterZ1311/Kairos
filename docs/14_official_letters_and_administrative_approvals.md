@@ -5,9 +5,9 @@
 **Sponsoring Department:** School of Computing, Department of Computer Science & Engineering  
 **Institution:** Sathyabama Institute of Science and Technology (Deemed to be University), Chennai – 600119  
 **Lead Signatory:** Thenappan T (Register No: 44110855), President & Student Builder Group Leader (SBGL)  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE)  
 **Target Dates:** January 22 – 24, 2027 (Friday 08:00 AM to Sunday 05:00 PM)  
-**Target Scale:** 75–100 Shortlisted National Teams (~300–400 Participants + 50 Organizers & Industry VIPs)
+**Target Scale:** 100 Shortlisted National Teams (Teams of 4–6 students, ~400–600 Participants + 106 Organizers & Industry VIPs)
 
 ---
 
@@ -62,7 +62,7 @@ We respectfully present this formal venue requisition proposal for **"KAIROS 202
 
 To maximize enterprise sponsorships, corporate partnerships, and national student participation from premier technical institutions across India (including IITs, NITs, IIITs, and top accredited universities), the executive leadership council, in consultation with our faculty coordinators and global AWS advisors, has scheduled the grand finale for January 2027.
 
-Kairos 2027 will bring together **75 to 100 elite shortlisted national teams (~300–400 developers)** supported by over 25 industry mentors and judges from Amazon Web Services, prominent tech startups, and corporate sponsors. To provide an enterprise-grade prototyping environment and ensure seamless round-the-clock technical development, keynote sessions, mentor clinics, and safe overnight accommodations, we request the reservation of the **Central Library Complex**:
+Kairos 2027 will bring together **100 elite shortlisted national teams (Teams of 4–6 students, ~400–600 developers)** evaluated by over 25 industry judges, startup founders, and technical industry volunteers from Amazon Web Services, prominent tech startups, and corporate sponsors. To provide an enterprise-grade prototyping environment and ensure seamless round-the-clock technical development, keynote sessions, technical checkpoints, and safe overnight accommodations, we request the reservation of the **Central Library Complex**:
 
 ### 1. Requested Venues & Functional Allocation
 1. **Central Library Auditorium (Ground/First Tier Plenary):**  
@@ -72,7 +72,7 @@ Kairos 2027 will bring together **75 to 100 elite shortlisted national teams (~3
    * *Purpose:* Primary Grand Prototype Development Arena to house dedicated high-density hacking bays equipped with power strips for 75–100 teams (25–30 teams per hall).  
    * *Duration:* Continuous 48 hours (January 22, 10:00 AM to January 24, 01:00 PM).
 3. **1st Floor Computing Facility & Advanced Software Lab:**  
-   * *Purpose:* Central War Room, High-Performance AI/ML Model Training Bay, Hardware & IoT Sandbox, and 24/7 Mentor Diagnostic Clinic.  
+   * *Purpose:* Central War Room, High-Performance AI/ML Model Training Bay, Hardware & IoT Sandbox, and 24/7 Cloud Support & Technical Sandbox.  
    * *Duration:* Continuous 48 hours.
 4. **Central Library Top Floor Executive Lounge:**  
    * *Purpose:* Dedicated VIP Industry Dignitary Suite, Corporate Sponsor Briefing Room, and Grand Jury Deliberation & Dining Hospitality.  
@@ -82,10 +82,10 @@ Kairos 2027 will bring together **75 to 100 elite shortlisted national teams (~3
 1. **Zero Disruption to Academics & Examinations:** The scheduled dates (January 22–24, 2027) fall over Friday through Sunday in late January, ensuring no interference with weekday lecture schedules or semester exam series.
 2. **Equidistant Access to Dining Halls:** The Central Library Complex is situated equidistant between the Boys Mess Hall and Girls Mess Hall, allowing rapid, organized movement during meal times without campus bottlenecks.
 3. **Streamlined Gender Segregation & Night Safety:** The Central Library layout features independent stairwells (**North Staircase for Boys; South Staircase for Girls**), enabling our organizing team and security personnel to maintain strict segregation and safe escorted transit to dining and rest areas.
-4. **Superior Power & Network Infrastructure:** The Lecture Halls and Computing Labs provide robust electrical loads, high-density spike-protected sockets per desk, and high-speed LAN/Wi-Fi access necessary for 400 developers deploying cloud infrastructure simultaneously.
+4. **Superior Power & Network Infrastructure:** The Lecture Halls and Computing Labs provide robust electrical loads, high-density spike-protected sockets per desk, and high-speed LAN/Wi-Fi access necessary for 400–600 developers deploying cloud infrastructure simultaneously.
 5. **Elevating Sathyabama's National Standing:** Situated at the heart of our campus, the state-of-the-art Central Library Complex provides an imposing, world-class setting that showcases Sathyabama's infrastructural prowess to visiting corporate leaders, sponsors, and national delegates.
 
-We assure you that our organizing committee, under the guidance of our Faculty Coordinators (**Dr. Balapriya .S and Dr. K. Ashok Kumar**) and campus security, will maintain the highest standards of decorum, cleanliness, and preservation of institutional property.
+We assure you that our organizing committee, under the guidance of our Faculty Coordinators (**Dr. K. Ashok Kumar and Dr. Balapriya .S**) and campus security, will maintain the highest standards of decorum, cleanliness, and preservation of institutional property.
 
 We kindly request your approval and official reservation of the Central Library Complex.
 
@@ -106,7 +106,7 @@ Phone: `+91 6381801640` | Email: `sistawscc@gmail.com`
 
 **Endorsements & Approvals:**
 
-| Dr. Balapriya .S / Dr. K. Ashok Kumar | Dr. L. Lakshmanan | Dr. T. Sasipraba / The Registrar |
+| Dr. K. Ashok Kumar / Dr. Balapriya .S | Dr. L. Lakshmanan | Dr. T. Sasipraba / The Registrar |
 | :---: | :---: | :---: |
 | Faculty Coordinators, AWS SBG<br/>Department of CSE, SIST | Dean, School of Computing<br/>Sathyabama Institute of Science and Technology | Vice Chancellor / Registrar<br/>Sathyabama Institute of Science and Technology |
 | <br/><br/>___________________________ | <br/><br/>___________________________ | <br/><br/>___________________________ |
@@ -148,13 +148,13 @@ Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai – 600119
 
 On behalf of the AWS Student Builder Group, we submit the comprehensive **48-Hour Operational Master Plan, Staggered Movement Protocol, and Security Framework** for **KAIROS 2027 (Grand Edition)**, scheduled from **January 22 to January 24, 2027**.
 
-To ensure 100% safety, security, and strict institutional compliance for all 300–400 student participants, 50 student organizers, and visiting industry mentors, the following operational structure will be strictly enforced:
+To ensure 100% safety, security, and strict institutional compliance for all 400–600 student participants (teams of 4–6), 106 student organizers, and visiting industry jury/evaluators, the following operational structure will be strictly enforced:
 
 ### 1. High-Level 48-Hour Operational Workflow
 * **Day 1 (Friday, January 22, 2027):**
-  * `07:30 AM – 09:30 AM`: National Participant Check-in, ID Verification & Swag Kit Distribution (Library Foyer).
-  * `09:30 AM – 11:00 AM`: Grand Inaugural Ceremony, Sponsor Track Keynotes & Problem Statement Release (Library Auditorium).
-  * `11:00 AM`: **48-Hour Hacking Countdown Begins** (Teams settle into 2nd Floor Lecture Halls 1–3 & 1st Floor Lab).
+  * `09:30 AM – 10:45 AM`: National Participant Check-in, ID Verification & Swag Kit Distribution (Library Foyer).
+  * `10:45 AM – 12:00 PM`: Grand Inaugural Ceremony, Sponsor Track Keynotes & Problem Statement Release (Library Auditorium).
+  * `12:00 PM`: **48-Hour Hacking Countdown Begins** (Teams settle into 2nd Floor Lecture Halls 1–3 & 1st Floor Lab).
   * `01:00 PM – 02:30 PM`: Staggered Lunch (Escorted movement via designated stairwells).
   * `04:30 PM – 05:30 PM`: Evening High Tea & Fresh Snacks (Library Foyer).
   * `06:30 PM – 09:00 PM`: **Checkpoint Gate 1: System Architecture, Cloud Blueprint & Feasibility Review**.
@@ -182,7 +182,7 @@ To ensure 100% safety, security, and strict institutional compliance for all 300
 2. **Independent Segregated Stairwells & Mess Access:**
    * **Male Participants:** Routed exclusively via the **North Staircase** toward the Boys Dining Hall.
    * **Female Participants:** Routed exclusively via the **South Staircase** toward the Girls Dining Hall, accompanied at all times by designated female faculty members and lady student organizers.
-3. **Color-Coded Photo Badges & QR Scanning:** Every participant, judge, mentor, and volunteer will wear mandatory, tamper-proof ID lanyards with QR barcodes scanned at every entry/exit gate.
+3. **Color-Coded Photo Badges & QR Scanning:** Every participant, judge, evaluator, and organizer will wear mandatory, tamper-proof ID lanyards with QR barcodes scanned at every entry/exit gate.
 4. **Faculty Supervision & 24/7 Medical Support:** Faculty coordinators will maintain rotating 8-hour supervision shifts. A 24/7 first-aid station with a medical attendant and an on-campus ambulance on standby will be stationed at the Library Ground Floor.
 
 We request your approval for this operational schedule and night-stay arrangements.
@@ -202,7 +202,7 @@ AWS Student Builder Group — SIST Chapter
 
 **Endorsements:**
 
-| Dr. Balapriya .S / Dr. K. Ashok Kumar | Campus Chief Security Officer | Dean (Student Affairs) |
+| Dr. K. Ashok Kumar / Dr. Balapriya .S | Campus Chief Security Officer | Dean (Student Affairs) |
 | :---: | :---: | :---: |
 | Faculty Coordinators, AWS SBG | Chief Security Officer, SIST | Dean (Student Affairs), SIST |
 | <br/><br/>___________________________ | <br/><br/>___________________________ | <br/><br/>___________________________ |
@@ -321,16 +321,16 @@ Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai – 600119
 
 The **AWS Student Builder Group (AWS SBG) — SIST Chapter** is organizing the National Flagship 48-Hour Hackathon **"KAIROS 2027 — Grand Edition"** from **January 22 to January 24, 2027**.
 
-We anticipate hosting **300–400 national student participants** (including day scholars and outstation teams arriving via Chennai Central, Egmore, and Tambaram transit hubs) along with **50 student organizers and volunteers**.
+We anticipate hosting **400–600 national student participants (teams of 4–6)** (including day scholars and outstation teams arriving via Chennai Central, Egmore, and Tambaram transit hubs) along with **106 student organizers and volunteers**.
 
 To provide a seamless, punctual, and safe transit experience, we request permission for the following transport accommodations:
 
 ### 1. Boarding Authorization on Existing University Bus Routes
-* **Morning Inbound (Friday, January 22, 2027):** Allow registered student participants displaying valid **Kairos 2027 Official Confirmation Passes / Digital ID Tickets** to board all regular morning Sathyabama college buses across all city routes to reach campus before 08:00 AM.
+* **Morning Inbound (Friday, January 22, 2027):** Allow registered student participants displaying valid **Kairos 2027 Official Confirmation Passes / Digital ID Tickets** to board all regular morning Sathyabama college buses across all city routes to reach campus before 09:15 AM (ahead of 09:30 AM check-in).
 * **Evening Outbound (Sunday, January 24, 2027):** Allow participants, external jury delegates, and student volunteers to board university evening buses departing from the campus bus bay at **05:15 PM / 05:45 PM** following the Valedictory Ceremony.
 
 ### 2. Dedicated Morning Shuttle Support for Outstation Delegates (Optional)
-* Permission to coordinate pickup shuttles from **Tambaram Railway Station / Central Hub / Sholinganallur Junction** on Friday morning (Jan 22) between 06:00 AM and 07:30 AM for outstation delegates arriving via overnight trains/buses.
+* Permission to coordinate pickup shuttles from **Tambaram Railway Station / Central Hub / Sholinganallur Junction** on Friday morning (Jan 22) between 06:30 AM and 09:00 AM for outstation delegates arriving via overnight trains/buses (arriving before 09:30 AM).
 
 Our logistics desk will submit the complete list of authorized external participants with designated route numbers and contact details to the Transport Office by **January 18, 2027**.
 
@@ -398,8 +398,8 @@ We kindly place our formal requisition for the following catering and hospitalit
 ### 1. VIP Executive Lounge Reservation & Grand Jury Dining
 * **Venue:** **Central Library Top Floor Executive Lounge**
 * **Duration:**  
-  * *Day 1 (Jan 22):* Executive Welcome Tea, VIP Lunch & Dinner for 20 Industry Mentors & Keynote Guests.
-  * *Day 2 (Jan 23):* Continuous Executive Refreshment Station (Espresso/Tea/Juice/Dry Fruits) + Lunch & Dinner for 18 Resident Mentors/Evaluators.
+  * *Day 1 (Jan 22):* Executive Welcome Tea, VIP Lunch & Dinner for 20 Industry Jury Members & Keynote Guests.
+  * *Day 2 (Jan 23):* Continuous Executive Refreshment Station (Espresso/Tea/Juice/Dry Fruits) + Lunch & Dinner for 18 Resident Technical Evaluators.
   * *Day 3 (Jan 24 - Grand Finale):* **Grand Executive Buffet Lunch** for 35 Grand Jury Members, Corporate Title Sponsors, and University Dignitaries (12:45 PM – 02:15 PM).
 * **Setup Required:** White-glove buffet setup, executive dining seating, mineral water dispensers, and hot tea/coffee/green tea service.
 
@@ -465,7 +465,7 @@ Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai – 600119
 **Through:**  
 **The Dean (Student Affairs)**, Sathyabama Institute of Science and Technology  
 
-**Subject:** Request for Allocation & Permission to Utilize Campus Electric Vehicles (EV Buggies) for Dignitary Transit and Event Logistics during "KAIROS 2027 — Grand Edition" — Reg.
+**Subject:** Request for Allocation & Permission to Utilize Campus Electric Vehicles (EV Buggies) for Dignitary Transit, Restroom Escorts, and Event Logistics during "KAIROS 2027 — Grand Edition" — Reg.
 
 **Respected Sir,**
 
@@ -475,10 +475,11 @@ To support the rapid and dignified transit of corporate VIPs, keynote speakers, 
 1. **VIP & Grand Jury Reception:** Welcoming and ferrying visiting AWS Executives, Startup Founders, Venture Capitalists, and External Judges from the Main Campus Gate / Administrative Block to the Central Library Complex.
 2. **AV & Heavy Hardware Transit:** Safe transit of audio consoles, heavy line array speakers, stage metal banner frames, and electrical distribution boxes between central stores and the Library venue on Setup Day (Jan 21) and Departure Day (Jan 24).
 3. **Hospitality & Catering Logistics:** Smooth transit of evening snacks, beverage thermoses, and dining items from the Central Kitchen to the Library Top Floor Lounge and Foyer.
+4. **Participant Restroom Transit & Night Escort:** Rapid, safe transit of female and male participants across campus to the nearest best restrooms, especially during 24-hour continuous hacking and the 10:00 PM – 06:00 AM night lock-in under authorized organizer supervision.
 
 ### Allocation Window Requested:
 * **January 22, 2027:** 07:00 AM – 06:30 PM (Inauguration & VIP reception)
-* **January 23, 2027:** On-demand transit for rotating industry mentors & sponsor judges
+* **January 23, 2027:** On-demand transit for rotating industry evaluators & sponsor judges
 * **January 24, 2027:** 08:00 AM – 06:00 PM (Grand Jury reception & Valedictory transit)
 
 Dedicated student coordinators with valid identification will accompany the official driver at all times to ensure orderly and responsible usage.

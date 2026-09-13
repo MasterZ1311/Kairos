@@ -13,8 +13,18 @@ This folder provides the administrative operating manual, referral tracking syst
 
 ---
 
-## 2. Campus Ambassador Tiered Incentive Structure
+## 2. Ambassador & Student Incentive Structure
 
+### 2.1 Open Corporate Sponsorship Referral Commission (The Rainmaker Bounties)
+**Any student, campus ambassador, or 3rd-party builder across India who brings a corporate sponsor to Kairos 2027 earns a direct percentage-based liquid cash commission upon fund clearance:**
+* **Title Sponsor (₹2,00,000):** **10% – 15% Commission (₹20,000 – ₹30,000 Pure Liquid Cash)**
+* **Co-Powered By Partner (₹1,00,000):** **10% – 12% Commission (₹10,000 – ₹12,000 Pure Liquid Cash)**
+* **Associate Partner (₹50,000):** **10% Commission (₹5,000 Pure Liquid Cash)**
+* **Track Partner (₹25,000):** **10% Commission (₹2,500 Pure Liquid Cash)**
+* **In-Kind F&B / Fuel:** **Fixed Bounty of ₹3,000 – ₹5,000** + VIP All-Access Pass
+* *Payout SLA:* Direct UPI/NEFT transfer within 48–72 hours of sponsor deposit into university escrow + Official Letter of Recommendation from President Thenappan T.
+
+### 2.2 Student Team Registration Milestones
 To ensure relentless student engagement and outreach across peer colleges:
 
 | Tier Level | Qualified Team Referrals | Ambassador Rewards & Privileges |
@@ -22,7 +32,7 @@ To ensure relentless student engagement and outreach across peer colleges:
 | **Tier 1: Bronze Builder** | 3 – 5 Teams | Official Certificate of Merit from Sathyabama & AWS SBGL + Digital Badge |
 | **Tier 2: Silver Architect** | 6 – 10 Teams | Exclusive AWS SBG Official Streetwear Tee + Fast-Track Semi-Final Review |
 | **Tier 3: Gold Evangelist** | 11 – 20 Teams | AWS SBG Heavyweight Crewneck Hoodie + Direct VIP Pass to Grand Finale |
-| **Tier 4: Apex Ambassador** | 20+ Teams | Grand Finale Travel Reimbursement + 1-on-1 Mentorship with AWS Solutions Architects + ₹5,000 Pure Cash Bounty |
+| **Tier 4: Apex Ambassador** | 20+ Teams | Grand Finale Travel Reimbursement + 1-on-1 Cloud Architecture Review with AWS Solutions Architects + Stage Recognition |
 
 ---
 

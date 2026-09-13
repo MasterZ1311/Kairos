@@ -5,7 +5,7 @@
 **Official Email:** `sistawscc@gmail.com` | **Phone:** `+91 6381801640`  
 **Socials:** Instagram: [`@awssbg_sist`](https://instagram.com/awssbg_sist) | LinkedIn: `aws-sbg-sist`  
 **Lead Signatory:** Thenappan T (Register No: `44110855`), President & SBGL  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 **Target Dates:** January 22 – 24, 2027  
 
 ---
@@ -32,11 +32,11 @@ KAIROS 2027 is a 48-Hour Continuous National Prototyping Sprint bringing togethe
 
 【 CALIBRATED CORPORATE PARTNERSHIP TIERS 】
 We offer structured tiers tailored to your recruitment and developer relations goals:
-• Title Sponsor (Presented By): ₹1,25,000 (Exclusive naming rights, 20-min inaugural keynote, full resume database, prime booth, chest logo)
-• Powered By Sponsor: ₹70,000 (Co-branding, 10-min tech masterclass, track bounty, top talent access, 1 jury seat)
-• Gold Associate Partner: ₹40,000 (Stage backdrop branding, Round 2 evaluation slot, top 40 resumes)
+• Title Sponsor (Presented By): ₹2,00,000 (Exclusive naming rights, 20-min inaugural keynote, full resume database, prime booth, chest logo)
+• Powered By Sponsor: ₹1,00,000 (Co-branding, 10-min tech masterclass, track bounty, top talent access, 1 jury seat)
+• Gold Associate Partner: ₹50,000 (Stage backdrop branding, Round 2 evaluation slot, top 100 resumes)
 • Dedicated Track Bounty: ₹25,000 (Dedicated company problem statement, track naming & jury seat)
-• Official Energy & Beverage Partner: In-Kind Product (Midnight Energy Station naming rights for 400 developers)
+• Official Energy & Beverage Partner: In-Kind Product (Midnight Energy Station naming rights for 400–600 developers)
 • Platform & DevTool Partner: In-Kind Tool Credits & Swag
 
 Attached is our comprehensive Sponsorship Prospectus and deliverable matrix. Would you be open to a brief 10-minute discovery call this Thursday or Friday to explore how we can tailor this collaboration for [Company Name]?
@@ -59,10 +59,10 @@ LinkedIn: linkedin.com/in/thenappan-t | Instagram: @awssbg_sist
 
 | Tier | Investment | Key Deliverables & Rights | Target Brands |
 | :--- | :---: | :--- | :--- |
-| **Title Sponsor** *(Presented By)* | **₹1,25,000** | • Event named **"Kairos 2027 Presented by [Brand]"**<br/>• Keynote Address (20 mins) during Grand Inaugural Plenary<br/>• Dedicated Mega Track Bounty & Stage Backdrop Prime Header Branding<br/>• Exclusive VIP Lounge Networking & Grand Jury Seat<br/>• Full Access to Complete National Participant Resume Database (400+ devs)<br/>• Prime 10x10ft High-Traffic Demo Booth in Central Library Foyer | Cloud Providers, Tech Unicorns, Talent Platforms |
-| **Powered By Sponsor** | **₹70,000** | • **"Kairos 2027 Powered by [Brand]"** co-branding<br/>• 10-Minute Tech Masterclass / Workshop slot on Day 1<br/>• Dedicated Track Bounty & Standees in Main Hacking Bay<br/>• Shortlisted Finalist Resume Access & 1 Jury Seat | AI/ML Startups, High-Scale SaaS |
-| **Gold / Associate Sponsor** | **₹40,000** | • Prominent Logo on Stage Backdrop, Banners, Website & T-shirts<br/>• Co-Judge slot in Round 2 Progress Review<br/>• Top 40 Finalist Resumes Access | Regional Tech Giants, IT Consultancies |
-| **Track / Bounty Sponsor** | **₹20,000 – ₹25,000** | • Exclusive naming rights for 1 Innovation Track / Bounty Challenge<br/>• Custom problem statement evaluated by company representative<br/>• Logo on Website, Banners & Certificates | DevTool / API Platforms (Postman, Supabase, MongoDB) |
+| **Title Sponsor** *(Presented By)* | **₹2,00,000** | • Event named **"Kairos 2027 Presented by [Brand]"**<br/>• Keynote Address (20 mins) during Grand Inaugural Plenary<br/>• Dedicated Mega Track Bounty & Stage Backdrop Prime Header Branding<br/>• Exclusive VIP Lounge Networking & Grand Jury Seat<br/>• Full Access to Complete National Participant Resume Database (400+ devs)<br/>• Prime 10x10ft High-Traffic Demo Booth at Sathyabama Institute of Science and Technology, Chennai | Cloud Providers, Tech Unicorns, Talent Platforms |
+| **Powered By Sponsor** | **₹1,00,000** | • **"Kairos 2027 Powered by [Brand]"** co-branding<br/>• 10-Minute Tech Masterclass / Workshop slot on Day 1<br/>• Dedicated Track Bounty & Standees in Main Hacking Bay<br/>• Shortlisted Finalist Resume Access & 1 Jury Seat | AI/ML Startups, High-Scale SaaS |
+| **Gold / Associate Sponsor** | **₹50,000** | • Prominent Logo on Stage Backdrop, Banners, Website & T-shirts<br/>• Co-Judge slot in Round 2 Progress Review<br/>• Top 100 Finalist Resumes Access | Regional Tech Giants, IT Consultancies |
+| **Track / Bounty Sponsor** | **₹25,000** | • Exclusive naming rights for 1 Innovation Track / Bounty Challenge<br/>• Custom problem statement evaluated by company representative<br/>• Logo on Website, Banners & Certificates | DevTool / API Platforms (Postman, Supabase, MongoDB) |
 | **Official Energy & Beverage Partner** | **In-Kind Product** (Cans/Snacks) | • Exclusive Beverage Partner branding<br/>• Midnight Energy Station naming rights<br/>• Product sampling across 400 developers throughout 48 hours | Red Bull, Monster, Beverage Brands |
 | **Platform / DevTool Partner** | **In-Kind Credits** | • Logo on website partner wall & tool credits given to all teams | GitHub Education, JetBrains, Notion, Devfolio |
 
@@ -131,7 +131,7 @@ Only the Top 75–100 national teams will make it to the 48-Hour on-campus grand
 👉 Register your team now: [kairos.sathyabama.ac.in]
 👉 Corporate Partnerships & Bounties: sistawscc@gmail.com | +91 6381801640
 
-Tag your 3-4 member dream squad in the comments below! 👇
+Tag your 4-6 member dream squad in the comments below! 👇
 
 #Kairos2027 #AWSSBG #Sathyabama #Hackathon #AWSCloud #GenerativeAI #DevCommunity #CloudComputing #TechHackathon2027
 ```
@@ -142,7 +142,7 @@ Tag your 3-4 member dream squad in the comments below! 👇
 
 * **Slide 1 (Cover Hook):** *"Stop Building Toy Projects. Build Production Systems in 48 Hours."*
 * **Slide 2 (The Stakes):** *"₹1,75,000+ Cash & Track Bounties. 5 High-Impact Tracks. Direct VC Incubation."*
-* **Slide 3 (The Venue Experience):** *"Central Library Complex, Sathyabama. High-Speed Power Bays, 24/7 Energy Stations, Free College Bus Transit & Top-Tier Mentorship."*
+* **Slide 3 (The Venue Experience):** *"Sathyabama Institute of Science and Technology, Chennai. High-Speed Power Bays, 24/7 Energy Stations, Free College Bus Transit & Elite Enterprise Jury."*
 * **Slide 4 (The Timeline):** *"Round 0 (Online Free PPT Submission) ➔ Shortlist Reveal ➔ On-Campus 48-Hour Grand Finale (Jan 22–24, 2027)."*
 * **Slide 5 (Call to Action):** *"Link in Bio (@awssbg_sist) to Submit Round 0 PPT. Don't Miss the Defining Moment."*
 
@@ -161,7 +161,7 @@ Are you ready for South India's biggest 48-hour builder hackathon?
 🏆 *Prize Pool:* ₹1,75,000+ (Cash Prizes + Sponsor Bounties + AWS Cloud Credits + Swag)
 🗓️ *Grand Finale Dates:* January 22–24, 2027
 🏢 *Venue:* Central Library Complex, Sathyabama Campus, Chennai
-👥 *Team Size:* 3–4 Members
+👥 *Team Size:* 4–6 Members
 💸 *Round 0 Submission:* 100% FREE!
 
 ⚡ *Tracks:*

@@ -9,7 +9,7 @@
 
 ## 1. Scope & Mandate
 
-Under the **100% Free / Zero Entry Fee** model of KAIROS 2027, this folder commands the nutrition, hydration, and hospitality operations that sustain 500+ participants, 40 mentors, 25 judges, and 100 student organizers for 48 non-stop hours.
+Under the **100% Free / Zero Entry Fee** model of KAIROS 2027, this folder commands the nutrition, hydration, and hospitality operations that sustain 500+ participants, 25+ industry judges and evaluators, and 100 student organizers for 48 non-stop hours.
 
 Hospitality Scope:
 - **6 Full-Board Buffet Meals** served across campus mess halls (Day 1 Lunch & Dinner; Day 2 Breakfast, Lunch & Dinner; Day 3 Breakfast & Lunch).

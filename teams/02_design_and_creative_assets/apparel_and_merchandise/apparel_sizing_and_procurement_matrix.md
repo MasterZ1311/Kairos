@@ -27,10 +27,10 @@ Delivery Location: Central Library Ground Storage Bay, SIST Campus
 
 ## 2. Participant Check-In Bagging Protocol
 
-Each of the 100 Shortlisted Finalist Teams (400–500 Hackers) receives a pre-packed Swag Kit upon check-in:
+Each of the 100 Shortlisted Finalist Teams (Teams of 4–6 students, ~400–600 Hackers) receives a pre-packed Swag Kit upon check-in:
 - 1 × Customized Hackathon Swag Tote Bag
-- 4 × Participant Dry-Fit T-Shirts (matched to team member sizes from Google Form)
-- 4 × Die-Cut Vinyl Sticker Packs
-- 4 × Smart NFC ID Badges & Custom Satin Lanyards
-- 4 × AWS Cloud Credit Vouchers ($100 per builder)
+- 4–6 × Participant Dry-Fit T-Shirts (matched to team member sizes from Google Form)
+- 4–6 × Die-Cut Vinyl Sticker Packs
+- 4–6 × Smart NFC ID Badges & Custom Satin Lanyards
+- 4–6 × AWS Cloud Credit Vouchers ($100 per builder)
 - 1 × Participant Hackathon Guidebook & Campus Map

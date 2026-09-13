@@ -4,7 +4,7 @@
 **Event Window:** January 22–24, 2027 (On-Campus Grand Finale) · January 02–04, 2027 (Online Technical Qualifier)  
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE FOR ALL STUDENTS**  
-**Scale:** 100 Shortlisted National Teams (400–500 Hackers) · ₹3.5L Working Operational Capital · ₹1,75,000 Pure Cash Prizes  
+**Scale:** 100 Shortlisted National Teams (Teams of 4–6 students, ~400–600 Hackers) · ₹3.5L Working Operational Capital · ₹1,75,000 Pure Cash Prizes  
 
 ---
 
@@ -13,10 +13,10 @@
 ```json
 {
   "metaTitle": "KAIROS 2027 — National Flagship 48-Hour Hackathon | AWS Student Builder Group SIST",
-  "metaDescription": "Join 400+ elite developers at Sathyabama for KAIROS 2027. 48 hours continuous non-stop hacking on AWS Cloud. 100% Free - Zero Entry Fee. ₹1,75,000 pure cash prizes, two-tier technical screening, and tier-1 corporate sponsors. Register for free now!",
+  "metaDescription": "Join 400–600 elite developers (teams of 4–6) at Sathyabama for KAIROS 2027. 48 hours continuous non-stop hacking on AWS Cloud. 100% Free - Zero Entry Fee. ₹1,75,000 pure cash prizes, two-tier technical screening, and tier-1 corporate sponsors. Register for free now!",
   "openGraph": {
     "title": "KAIROS 2027 | The Defining Moment to Build on AWS Cloud",
-    "description": "48 Hours Non-Stop • ₹1,75,000 Pure Cash Prize Pool • 100 Elite Teams • Central Library Complex, Sathyabama Chennai.",
+    "description": "48 Hours Non-Stop • ₹1,75,000 Pure Cash Prize Pool • 100 Elite Teams • Sathyabama Institute of Science and Technology, Chennai.",
     "url": "https://kairos.sathyabama.ac.in",
     "siteName": "Kairos 2027 Hackathon",
     "images": [
@@ -50,7 +50,7 @@
 * **Sub-Headline:**  
   `48 Hours of Non-Stop Cloud Engineering, Real-Time Architecture Reviews, and High-Stakes Cash Bounties.`
 * **Event Details Chip:**  
-  `📅 January 22–24, 2027 • 📍 Central Library Complex, Sathyabama Campus, Chennai • 👥 100 Elite National Teams`
+  `📅 January 22–24, 2027 • 📍 Sathyabama Institute of Science and Technology, Chennai • 👥 100 Elite National Teams`
 * **Primary Call-to-Action:**  
   `[ > Submit Round 0 Project Abstract (Free) ]`
 * **Secondary Action:**  
@@ -81,7 +81,7 @@
     "title": "Autonomous Edge IoT & Sustainable Green Energy",
     "description": "Deploy hardware microcontrollers, intelligent sensor networks, and edge inference systems optimizing renewable energy distribution and smart mobility.",
     "recommendedServices": ["AWS IoT Core", "AWS Greengrass", "Amazon Timestream", "ESP32/Raspberry Pi"],
-    "bounty": "Dedicated Track Winner Bounty: ₹7,00,0 Cash"
+    "bounty": "Dedicated Track Winner Bounty: ₹7,000 Cash"
   },
   {
     "id": "track-4",
@@ -171,7 +171,7 @@
 2. **What is the Online Technical Qualifier (Round 1)?**  
    *To ensure only teams with peak-quality ideas and verified coding capabilities reach our on-campus stage, the Top 250 semi-finalist teams will participate in a virtual qualifier from January 02–04, 2027. Teams submit a working GitHub repository proof-of-concept, a 3-minute Loom video demo, and defend their architecture live via Google Meet with AWS Solutions Architects. The Top 100 teams advance to the physical finale.*
 3. **What are the grand finale dates and venue?**  
-   *The on-campus grand finale runs from Friday, January 22 to Sunday, January 24, 2027 at the Central Library Complex, Sathyabama Institute of Science and Technology, Chennai.*
+   *The on-campus grand finale runs from Friday, January 22 to Sunday, January 24, 2027 at Sathyabama Institute of Science and Technology, Chennai.*
 4. **Who owns the intellectual property (IP)?**  
    *You own 100% of your code and intellectual property. Zero equity or claims are made by the organizers, college, or sponsors.*
 5. **Will travel support be provided?**  
@@ -206,12 +206,12 @@
   },
   "facultyCoordinators": [
     {
-      "name": "Dr. Balapriya .S",
+      "name": "Dr. K. Ashok Kumar",
       "role": "Faculty Coordinator",
       "department": "Department of Computer Science & Engineering, SIST"
     },
     {
-      "name": "Dr. K. Ashok Kumar",
+      "name": "Dr. Balapriya .S",
       "role": "Faculty Coordinator",
       "department": "Department of Computer Science & Engineering, SIST"
     }
@@ -222,3 +222,82 @@
   }
 }
 ```
+
+---
+
+## 7. Crowdsourced Sponsorship Referral Hub (`/refer-sponsor`) Copy & Data Schema
+
+* **Hero Headline:**  
+  `Bring a Sponsor. Fuel India's Grandest Hackathon. Earn Pure Cash.`
+* **Hero Sub-Headline:**  
+  `Anyone can be a Kairos Rainmaker. Connect corporate brands or startups to Kairos 2027 and earn 10% – 15% tiered cash commissions deposited directly into your bank account within 48–72 hours of fund receipt.`
+* **Commission Matrix JSON Schema:**
+```json
+[
+  {
+    "tier": "Title Presenting Partner",
+    "dealSize": "₹2,00,000",
+    "commissionPercentage": "10% – 15%",
+    "cashPayout": "₹20,000 – ₹30,000 Pure Cash",
+    "perks": [
+      "National Corporate Rainmaker Trophy on stage",
+      "VIP Main-Stage All-Access Pass to Kairos 2027",
+      "Official Letter of Recommendation from President Thenappan T"
+    ]
+  },
+  {
+    "tier": "Co-Powered By Partner",
+    "dealSize": "₹1,00,000",
+    "commissionPercentage": "10% – 12%",
+    "cashPayout": "₹10,000 – ₹12,000 Pure Cash",
+    "perks": [
+      "VIP Jury Lounge Access",
+      "Official Letter of Recommendation",
+      "Exclusive Cyber Streetwear Hoodie"
+    ]
+  },
+  {
+    "tier": "Associate / Gold Partner",
+    "dealSize": "₹50,000",
+    "commissionPercentage": "10%",
+    "cashPayout": "₹5,000 Pure Cash",
+    "perks": [
+      "Exclusive Merch Kit",
+      "Verified Recommendation Certificate"
+    ]
+  },
+  {
+    "tier": "Track & Bounty Partner",
+    "dealSize": "₹25,000",
+    "commissionPercentage": "10%",
+    "cashPayout": "₹2,500 Pure Cash",
+    "perks": [
+      "Official Partner Certificate",
+      "Kairos Swag Pack"
+    ]
+  },
+  {
+    "tier": "In-Kind F&B / Fuel Deals",
+    "dealSize": "Red Bull / Energy / Snacks",
+    "commissionPercentage": "Fixed Bounty",
+    "cashPayout": "₹3,000 – ₹5,000 Pure Cash",
+    "perks": [
+      "Special Swag Drop",
+      "Official Event Recognition"
+    ]
+  }
+]
+```
+* **Lead Submission Form Fields:**
+  1. `studentName`: Full Name of Student / Referrer
+  2. `studentEmail`: College / Personal Email
+  3. `studentPhone`: WhatsApp Number (for instant updates)
+  4. `studentCollege`: College / University Name
+  5. `companyName`: Target Organization / Brand
+  6. `companyPocName`: Corporate POC / Decision Maker Name
+  7. `companyPocRole`: Designation (e.g., VP Tech, CSR Lead, Talent Acquisition Head)
+  8. `companyPocContact`: Corporate Email / LinkedIn / Phone
+  9. `targetTier`: Expected Sponsorship Tier (Title, Co-Powered, Track, In-Kind)
+  10. `introContext`: Notes / Warm Connection Details (Max 150 words)
+* **Lead Protection Guarantee:**  
+  *"Timestamped lead lock for 21 days upon submission. Our CPFO Nikki and President Thenappan T pitch and close the deal. You receive instant cash payout within 72 hours of fund clearance."*

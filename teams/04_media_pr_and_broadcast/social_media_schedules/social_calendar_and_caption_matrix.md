@@ -14,7 +14,7 @@
 | **T-70** | Nov 04, 2026 | Instagram Carousel | 1080×1350 Carousel | Track 1 Deep-Dive: Agentic AI on AWS Bedrock | Drafted | Queued |
 | **T-60** | Nov 14, 2026 | Instagram Carousel | 1080×1350 Carousel | Track 2 Deep-Dive: Resilient Serverless Cloud-Native | Drafted | Queued |
 | **T-50** | Nov 24, 2026 | Instagram / LinkedIn | 1200×627 Banner | Corporate Sponsor Reveal: Welcoming Title Partner | Template | Queued |
-| **T-40** | Dec 04, 2026 | Instagram Reel | 1080×1920 Reel | Central Library Venue Walkthrough & 48H Hack Bays | Scripted | Filmed |
+| **T-40** | Dec 04, 2026 | Instagram Reel | 1080×1920 Reel | Campus Venue Walkthrough & 48H Hack Bays | Scripted | Filmed |
 | **T-30** | Dec 14, 2026 | Instagram Feed | 1080×1350 Post | 24 Hours Left to Apply: Applications Close Dec 15 | Drafted | Ready |
 | **T-18** | Jan 04, 2027 | Instagram Story | 1080×1920 Video | Online Qualifier In-Action: 250 Semi-Finalists Review | Live | Scripted |
 | **T-16** | Jan 06, 2027 | Instagram / LinkedIn | 1080×1350 Carousel | TOP 100 ELITE FINALISTS SHORTLIST REVEAL | Template | Queued |

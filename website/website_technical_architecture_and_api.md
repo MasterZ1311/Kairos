@@ -135,7 +135,7 @@ CREATE TABLE team_members (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
 
--- 3. Judges & Technical Mentors Table
+-- 3. Judges & Technical Evaluators Table
 CREATE TABLE judges (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     access_pin VARCHAR(6) UNIQUE NOT NULL, -- 6-Digit PIN
@@ -245,7 +245,7 @@ CREATE TABLE member_contributions (
     title VARCHAR(150) NOT NULL,                 -- e.g. 'Architected 10Gbps Dual-ISP Redundant Network'
     description TEXT NOT NULL,                   -- Bulleted impact story
     quantifiable_impact VARCHAR(150),            -- e.g. '100% uptime for 500 hackers across 48 hours'
-    badge_label VARCHAR(60),                     -- e.g. 'Cloud Infrastructure Legend', '₹10L Sponsorship Closer'
+    badge_label VARCHAR(60),                     -- e.g. 'Cloud Infrastructure Legend', 'Elite Sponsorship Closer'
     badge_tier VARCHAR(20) CHECK (badge_tier IN ('DIAMOND', 'PLATINUM', 'GOLD', 'SILVER')),
     proof_media_url VARCHAR(255),                -- Image or artifact link
     verification_hash VARCHAR(64) UNIQUE,        -- For tamper-proof public certificate verification

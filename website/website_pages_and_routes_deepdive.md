@@ -3,7 +3,7 @@
 **Target Web Suite:** `website/` (Next.js 14 App Router, TypeScript, Tailwind CSS, Framer Motion)  
 **Executive Governance:** Super Head 5 (CCMO) & Super Head 2 (CTO)  
 **Reporting Directly To:** Thenappan T (Register No: `44110855`), President & Student Builder Group Leader (AWS SBGL)  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 **Domain:** `https://kairos.sathyabama.ac.in`  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE**  
 **Core Workflow:** **Application $\rightarrow$ Online Qualifier (Round 1) $\rightarrow$ On-Campus Grand Finale (Round 2)**  
@@ -22,6 +22,7 @@ graph TD
     Root --> P3["/resources (AWS SBG Student Resource Library)"]
     Root --> P4["/rules (100% Student IP, Fresh Code & Conduct)"]
     Root --> P5["/sponsors (Enterprise Partner Deck & ROI)"]
+    Root --> P6["/refer-sponsor (Crowdsourced Rainmaker Referral Hub)"]
 
     %% Registration & Onboarding
     Root --> R1["/register (Free Registration & Account Creation)"]
@@ -52,11 +53,11 @@ graph TD
      * Headline: *"WHERE ARCHITECTURE MEETS EXECUTION."*
      * Sub-headline: Highlighting 100% free registration, ₹1,75,000 pure cash prizes, and two-tier technical screening.
      * `CountdownClock`: Real-time ticking flip-digits to **January 22, 2027, 08:00 AM IST**.
-     * `MetricBar`: 100% Free · Tier-1 Corporate Sponsors · ₹1,75,000 Pure Cash · 100 Finalist Teams · 25+ Mentors.
+     * `MetricBar`: 100% Free · Tier-1 Corporate Sponsors · ₹1,75,000 Pure Cash · 100 Finalist Teams · 25+ Industry Jury.
   3. `DualPhasePipelineVisualizer`: Interactive 3D stepper showcasing Phase 0 (Free Abstract), Round 1 (Online Qualifier: Jan 02–04), and Round 2 (On-Campus Finale: Jan 22–24).
   4. `TrackCardsCarousel`: 5 interactive glassmorphic cards for Agentic AI, Cloud-Native, Edge IoT, FinTech, and Open Innovation with AWS service tags.
   5. `PrizePodiumSection`: Podium cards for Grand Champion (₹60k), 1st Runner-Up (₹35k), 2nd Runner-Up (₹20k), 5 Track Winners (₹35k), and Special Bounties (₹25k).
-  6. `SponsorStrip`: Enterprise partner showcase (Title Sponsor ₹1.25L, Powered By ₹70k, Track Partners, AWS Cloud Credits).
+  6. `SponsorStrip`: Enterprise partner showcase (Title Sponsor ₹2L, Powered By ₹1L, Track Partners, AWS Cloud Credits).
   7. `TimelineStepper`: Minute-by-minute 48-hour on-campus schedule preview.
   8. `FAQAccordion`: 12 comprehensive questions with instant search filtering.
   9. `Footer`: Mandatory AWS Student Builder Group disclaimer, official contacts (`sistawscc@gmail.com`), and social links.
@@ -78,7 +79,7 @@ graph TD
   * Inputs: Team Name, Primary Track Selection (1 to 5), Problem Statement Title, Abstract (Max 200 words), and Architecture PDF Upload.
   * Output: Generates unique Team Code and invite link.
 * **`/team/join` (Teammate Flow):**
-  * Reads team code, authenticates member, and adds member to team roster (2 to 4 members max).
+  * Reads team code, authenticates member, and adds member to team roster (4 to 6 members max).
 
 ---
 
@@ -120,6 +121,18 @@ graph TD
     * Official portrait and executive mandate: Directing macro-systems, institutional administration, and corporate sponsorships.
     * Credentials: AWS Certified Solutions Architect, AWS Student Builder Group Leader.
     * Quote: *"When you lower financial barriers to zero, authentic engineering brilliance takes over."*
-  * **Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Dept of CSE, SIST).
+  * **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Dept of CSE, SIST).
   * **Institutional Patrons:** Dr. L. Lakshmanan (Dean, School of Computing) & Dr. T. Sasipraba (Vice Chancellor).
   * **The 6 Super Heads Gallery:** CPFO (Capital & Corporate Relations), CTO (Cloud Infrastructure), COO (Ground Operations), CXO (Experience & Hospitality), CCMO (Creative & Media), CSO (Safety & Governance).
+
+---
+
+### 2.8 Route: `/refer-sponsor` (Crowdsourced Sponsorship Referral Hub)
+* **Target Audience:** Any university student, campus ambassador, or tech connector nationwide wishing to secure corporate sponsors for cash commissions.
+* **Rendering Strategy:** Client Component with Server Action lead encryption (`'use client'`).
+* **Core Modules:**
+  1. `CommissionTierVisualizer`: Dynamic calculator slider showing deal size and instant student payout (e.g. ₹2,00,000 Title $\rightarrow$ ₹20,000–₹30,000 payout).
+  2. `LeadSubmissionForm`: Form capturing student details and corporate target POC with 21-day exclusivity lock confirmation.
+  3. `LeadStatusTracker`: Students can enter their registered mobile/email to check real-time pipeline status (e.g. `Stage 3: Discovery Call Scheduled by Nikki`).
+  4. `PayoutAssuranceBadge`: Guarantees UPI/NEFT transfer within 48–72 hours of sponsor fund receipt into Sathyabama accounts.
+

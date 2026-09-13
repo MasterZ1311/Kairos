@@ -1,11 +1,11 @@
-# Kairos 2027 — Judges, Mentors & VIP Dignitary Handbook (Grand Edition)
+# Kairos 2027 — Judges, Grand Jury & VIP Dignitary Handbook (Grand Edition)
 
-**Super Head 6 Mandate:** Oversee Online Technical Qualifier Jury Governance, On-Campus VIP Jury Hospitality, Mentor Deployments, Digital Scoring Portal Operations, and Evaluation Integrity.  
+**Super Head 6 Mandate:** Oversee Online Technical Qualifier Jury Governance, On-Campus VIP Jury Hospitality, Technical Evaluation Deployments, Digital Scoring Portal Operations, and Evaluation Integrity.  
 **Accountable Lead:** Chief Safety, Governance & Jury Officer (CSO) — Reporting directly to President Thenappan T  
 **Event Architecture:**  
 * **Round 1 (Online Technical Qualifier):** January 02 – 04, 2027 (Evaluating Top 250 Semi-Finalists)  
 * **Round 2 (On-Campus Grand Finale):** January 22 – 24, 2027 (Evaluating Top 100 Elite Finalists)  
-**Dignitary Roster:** 15+ High-Profile Industry Jury Members · 25+ AWS Cloud Technical Mentors  
+**Dignitary Roster:** 15+ High-Profile Industry Jury Members · 25+ Technical Evaluators (AWS Community Builders, Tech Leads, Startup Founders, Distinguished Alumni, and any other industry professionals with technical knowledge who volunteer)  
 **Jury Hospitality Suite:** Top Floor Executive Lounge, Central Library Complex  
 
 ---
@@ -32,7 +32,7 @@ graph LR
   2. Cloud architecture diagram & AWS stack.
   3. 3-Minute Loom video demonstration.
 * **50-Point Virtual Scoring Rubric:** Problem depth (15 Pts), cloud architecture rigor (15 Pts), codebase proof-of-concept (10 Pts), live Q&A poise (10 Pts).
-* **Shortlist Selection:** Top 100 teams with the highest composite scores earn formal invitations to the on-campus finale.
+* **Shortlist Selection:** Top 100 teams (teams of 4–6 students, ~400–600 developers) with the highest composite scores earn formal invitations to the on-campus finale. There is no pre-event on-campus onboarding; finalist teams report directly to the venue at Sathyabama Institute of Science and Technology, Chennai on Event Day (Jan 22, 2027).
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## 1. Scope & Mandate
 
-This directory manages the automated cloud infrastructure, AWS Organizations architecture, Service Control Policies (SCPs), budget alerts, and AWS Bedrock model quotas provisioned for the **100 Shortlisted Finalist Teams (400–500 Hackers)**.
+This directory manages the automated cloud infrastructure, AWS Organizations architecture, Service Control Policies (SCPs), budget alerts, and AWS Bedrock model quotas provisioned for the **100 Shortlisted Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)**.
 
 ---
 

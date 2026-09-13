@@ -27,8 +27,8 @@ This folder directs the automated data ingestion, applicant verification, and du
 │ • 7-Minute Virtual Jury Grilling via 10 Parallel Google Meet Rooms
 ▼
 [TIER 2: ON-CAMPUS 48H GRAND FINALE (JAN 22–24, 2027)]
-  • TOP 100 ELITE TEAMS (400–500 HACKERS) SHORTLISTED
-  • Issued Official University Invitation & Travel Passes
+  • TOP 100 ELITE TEAMS (TEAMS OF 4–6, ~400–600 HACKERS) SHORTLISTED
+  • Issued Official University Invitation & Travel Passes (Direct Venue Reporting on Event Day)
   • 100% Free Full-Board Hospitality & Developer Swag Kits
 ```
 

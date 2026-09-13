@@ -12,17 +12,17 @@
 * **Dual-Phase Quality Gate:**
   * **Round 0 (National Applications):** Oct 15 – Dec 15, 2026 (Free online abstract & architecture submission from 2,000+ teams).
   * **Round 1 (Online Technical Qualifier):** **January 02 – 04, 2027** (Top 250 Semi-Finalists undergo a 48-hour virtual code sprint, Loom prototype demo, and live technical defense).
-  * **Round 2 (On-Campus Grand Finale):** **January 22 – 24, 2027** (**Top 100 Elite National Teams / 400–500 Developers** on campus at Sathyabama).
+  * **Round 2 (On-Campus Grand Finale):** **January 22 – 24, 2027** (**Top 100 Elite National Teams / Teams of 4–6 students, ~400–600 Developers** on campus at Sathyabama Institute of Science and Technology, Chennai).
 * **Command Structure:** **6 Super Heads** reporting directly to **President Thenappan T** (Register No: `44110855`), commanding **106 dedicated student organizers** across pre-event, online qualifier, on-ground sprint, and post-event phases.
-* **Faculty Coordinators:** **Dr. Balapriya .S** & **Dr. K. Ashok Kumar** (Department of Computer Science & Engineering, SIST).
+* **Faculty Coordinators:** **Dr. K. Ashok Kumar** & **Dr. Balapriya .S** (Department of Computer Science & Engineering, SIST).
 * **Financial Model & Sponsorship:**
-  * **Target Capital Pool:** **Minimum ₹10,00,000 (10 Lakhs) — Uncapped (No Upper Limit)**
-  * **Title Sponsor (Presented By):** **₹3,50,000 – ₹5,00,000+**
-  * **Co-Powered By Sponsor:** **₹2,00,000+**
-  * **Track Partners (5 Tracks):** **₹50,000 – ₹1,00,000 each**
-  * **Sathyabama Institutional Grant:** **₹1,00,000+**
+  * **Target Capital Pool:** **₹3,50,000 – ₹4,00,000+ (Uncapped)**
+  * **Title Sponsor (Presented By):** **₹2,00,000 / 2 Lakhs**
+  * **Co-Powered By Sponsor:** **₹1,00,000 / 1 Lakh**
+  * **Track Partners (5 Tracks):** **₹25,000 – ₹50,000 each**
+  * **Sathyabama Institutional Grant:** **₹50,000**
   * **Participant Entry Fees:** **₹0 (100% FREE for All Students)**
-  * **Pure Cash Prize Pool:** **₹3,50,000 – ₹5,00,000+ Pure Cash Escrow** (1st: ₹1,50,000, 2nd: ₹1,00,000, 3rd: ₹50,000, 5 Tracks: ₹1,00,000, Special Bounties: ₹50,000)
+  * **Pure Cash Prize Pool:** **₹1,75,000 Pure Cash Escrow** (1st: ₹60,000, 2nd: ₹35,000, 3rd: ₹20,000, 5 Tracks: ₹35,000, Special Bounties: ₹25,000)
   * **In-Kind Ecosystem Grants:** $50,000+ AWS Cloud Credits, 2,000+ Red Bull Energy Cans, JetBrains & Postman Developer Packs.
 
 ---
@@ -35,7 +35,7 @@ To enable parallel execution across all club domains, the repository features de
 graph TD
     TEAMS["KAIROS TEAMS WORKSPACE (/teams/)"]
     
-    TEAMS --> T1["01_sponsorship_and_partnerships/<br/>Lead: Nikki (Nangaiyar M) (₹10L+ Uncapped)"]
+    TEAMS --> T1["01_sponsorship_and_partnerships/<br/>Lead: Nikki (Nangaiyar M) (₹3.5L–₹4L Uncapped)"]
     TEAMS --> T2["02_design_and_creative_assets/<br/>Lead: Rikish B (20x10ft Banners, 16 Standees, Badges)"]
     TEAMS --> T3["03_documentation_and_compliance/<br/>Lead: Hemavarshine S (6 University Sanction Letters & IP)"]
     TEAMS --> T4["04_media_pr_and_broadcast/<br/>Lead: Caroline McPherson (48H Live Stream, 120+ CAs)"]
@@ -68,7 +68,7 @@ graph TD
     Hub --> D4[04. Design & Brand Kit]
     Hub --> D5[05. Marketing & Media Rota]
     Hub --> D6[06. Tracks & AWS Architecture]
-    Hub --> D7[07. Judges & Mentors Playbook]
+    Hub --> D7[07. Judges & Grand Jury Playbook]
     Hub --> D8[08. Operations & Shift Roster]
     Hub --> D9[09. Participant Handbook & Rules]
     Hub --> D10[10. Side Events & Mini-Quests]
@@ -88,23 +88,23 @@ graph TD
 |---|---|---|---|
 | **18. Master Workforce & 6 Super Heads** | President & Executive Office | **Apex Command Hierarchy**, 6 Super Heads, 106 dedicated organizers, sub-heads, headcounts, 4-phase workflows (Pre, Online Qualifier, On-Ground, Post), and procurement catalog. | [18_team_structure_leads_and_workforce_deployment.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/18_team_structure_leads_and_workforce_deployment.md) |
 | **00. Master Brief & Executive Summary** | Apex Directorate | Grand vision, high-level timeline, 100-team on-ground scale, Online Qualifier (Jan 02–04), ₹3.5L capital pool, zero entry fee, and cross-functional RACI. | [00_hackathon_master_brief.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/00_hackathon_master_brief.md) |
-| **01. Sponsorship Strategy & Pitch Deck** | Super Head 1 (CPFO) | Enterprise sponsorship tiers (Title ₹1.25L, Powered-By ₹70k, Associate ₹40k, Track Bounties ₹25k), zero-fee student impact narrative, pitch scripts, and corporate MoU. | [01_sponsorship_deck_and_outreach.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/01_sponsorship_deck_and_outreach.md) |
-| **02. Master Agenda & Judging Rubrics** | Super Head 6 (CSO) & CTO | Online Qualifier evaluation rubric, 48-Hour on-ground minute-by-minute timeline, 3 Progressive Gates, and automated scoring normalization. | [02_agenda_rounds_and_judging_rubric.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/02_agenda_rounds_and_judging_rubric.md) |
+| **01. Sponsorship Strategy & Pitch Deck** | Super Head 1 (CPFO) | Enterprise sponsorship tiers (Title ₹2L, Powered-By ₹1L, Associate ₹50k, Track Bounties ₹25k), zero-fee student impact narrative, pitch scripts, and corporate MoU. | [01_sponsorship_deck_and_outreach.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/01_sponsorship_deck_and_outreach.md) |
+| **02. Master Agenda & Judging Rubrics** | Super Head 6 (CSO) & CTO | Online Qualifier evaluation rubric, 48-Hour on-ground minute-by-minute timeline, 3 Progressive Gates, and automated scoring normalization. (See also: [Hard Office Copy](file:///e:/AWS%20SBGL/Events/Kairos/docs/02_hard_office_copy_master_agenda.md) & [Website Participant View](file:///e:/AWS%20SBGL/Events/Kairos/website/website_participant_agenda.md)). | [02_agenda_rounds_and_judging_rubric.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/02_agenda_rounds_and_judging_rubric.md) |
 | **03. Itemized Budget & Procurement Catalog**| Super Head 1 (CPFO / Treasurer) | Balanced ₹3,50,000 zero-fee budget model, ₹1,75,000 cash prize allocation, itemized purchasing catalog (swag, standees, banners, AV, food, celebrations). | [03_budget_and_financial_tracker.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/03_budget_and_financial_tracker.md) |
 | **04. Design Identity & Brand Guidelines** | Super Head 5 (CCMO) | Obsidian-Gold visual identity, stage backdrop, streetwear hoodies, laser-etched smart badges, and print specifications. | [04_design_and_branding_guidelines.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/04_design_and_branding_guidelines.md) |
 | **05. Marketing, PR & Media Strategy** | Super Head 5 (CCMO) | 120+ Campus Ambassador national network, 2,000+ applicant funnel, Online Qualifier broadcast, 48-hour live stream production, and aftermovie brief. | [05_marketing_media_and_promotion.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/05_marketing_media_and_promotion.md) |
 | **06. Tracks, Problem Statements & Tech** | Super Head 2 (CTO) | 5 Enterprise Grand Innovation Tracks (GenAI/Bedrock, Serverless, IoT/Smart Cities, FinTech/Trust, Open Innovation), AWS architecture blueprints, and API sandbox specs. | [06_tracks_problem_statements_and_tech.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/06_tracks_problem_statements_and_tech.md) |
-| **07. Judges & Mentors Playbook** | Super Head 6 (CSO) | Target CXO/VP profiles, Online Qualifier review protocols, VIP hospitality protocol in Top Floor Lounge, scoring portal guide, and conflict-of-interest rules. | [07_judges_and_mentors_handbook.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/07_judges_and_mentors_handbook.md) |
+| **07. Judges & Grand Jury Playbook** | Super Head 6 (CSO) | Target CXO/VP profiles, Online Qualifier review protocols, VIP hospitality protocol in Top Floor Lounge, scoring portal guide, and conflict-of-interest rules. | [07_judges_and_mentors_handbook.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/07_judges_and_mentors_handbook.md) |
 | **08. Operations & Volunteer Shift Roster** | Super Head 3 (COO) | Physical venue layout across Central Library, power distribution, campus LAN, and 3-shift rotating volunteer roster for 106 organizers. | [08_event_operations_and_volunteer_manual.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/08_event_operations_and_volunteer_manual.md) |
-| **09. Participant Handbook & Rulebook** | Super Head 4 (CXO) | Comprehensive onboarding guide, zero entry fee, 100% student IP ownership, fresh code rules, hardware maker bay access, cloud credit usage, and Code of Conduct. | [09_participant_handbook_and_rules.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/09_participant_handbook_and_rules.md) |
+| **09. Participant Handbook & Rulebook** | Super Head 4 (CXO) | Comprehensive handbook: teams of 4–6 students, zero entry fee, direct event day venue reporting, 100% student IP ownership, fresh code rules, hardware maker bay access, cloud credit usage, and Code of Conduct. | [09_participant_handbook_and_rules.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/09_participant_handbook_and_rules.md) |
 | **10. Side Events & Hacker Culture Playbook** | Super Head 4 (CXO) | Midnight Lightning CTF, Speed Typing Championship, retro arcade arena, 3 AM AI Prompt Battles, live acoustic set, and foam-mattress rest zones. | [10_side_events_and_engagement_playbook.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/10_side_events_and_engagement_playbook.md) |
 | **11. Crisis Management & Safety Protocols** | Super Head 6 (CSO) | Three-tier crisis response matrix, generator auto-switchover, 24/7 on-campus ambulance, and segregated hostel/dining corridors. | [11_crisis_management_and_safety_protocol.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/11_crisis_management_and_safety_protocol.md) |
 | **12. Post-Event Impact & Sponsor ROI** | Super Head 1 (CPFO) | Executive sponsor ROI proof-of-performance report, resume database release, instant NEFT prize escrow disbursement, and digital credential engine. | [12_post_event_report_and_sponsor_roi_deck.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/12_post_event_report_and_sponsor_roi_deck.md) |
 | **13. Hackathon 101: Core Team Primer** | Core Team Onboarding | Grounded training manual for all 106 student organizers, stakeholder psychology, rookie mistake prevention, and emergency reflexes. | [13_hackathon_101_core_team_primer.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/13_hackathon_101_core_team_primer.md) |
-| **14. Official Administrative Approvals** | Executive Office | All 6 formal university permission letters (Central Library reservation, night pass safety, AV/power requisition, bus transit, VIP dining, EV buggy support). | [14_official_letters_and_administrative_approvals.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/14_official_letters_and_administrative_approvals.md) |
+| **14. Official Administrative Approvals** | Executive Office | All 6 formal university permission letters (Central Library reservation, night pass safety, AV/power requisition, bus transit, VIP dining, EV buggy transit for restroom access). | [14_official_letters_and_administrative_approvals.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/14_official_letters_and_administrative_approvals.md) |
 | **15. Google Form & Screening Schemas** | Technical & Screening Lead | Schema definitions for Round 0 free applications, Online Qualifier submission schema, on-campus confirmation workflows, and Discord onboarding. | [15_google_form_registration_and_confirmation_template.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/15_google_form_registration_and_confirmation_template.md) |
 | **16. Website PRD & Design Specification** | Super Head 5 (CCMO) & CTO | Full Product Requirements Document, live terminal CLI simulator, live 48-hour countdown, interactive judging portal, and real-time leaderboard specs. | [16_website_design_and_experience_specification.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/16_website_design_and_experience_specification.md) |
-| **17. Content Reference & Copy Bank** | Super Head 5 (CCMO) | Production-ready cold emails, sponsor pitches (Title ₹1.25L), press release copy, social media broadcast scripts, and complete FAQ banks. | [17_content_reference_and_copy_bank.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/17_content_reference_and_copy_bank.md) |
+| **17. Content Reference & Copy Bank** | Super Head 5 (CCMO) | Production-ready cold emails, sponsor pitches (Title ₹2L), press release copy, social media broadcast scripts, and complete FAQ banks. | [17_content_reference_and_copy_bank.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/17_content_reference_and_copy_bank.md) |
 | **19. Operations & Logistics CRUD Specification** | Super Head 2 (CTO) & Super Head 3 (COO) | Complete relational PostgreSQL DDL schemas, REST API contracts, and operational state machines for all 10 on-ground micro-logistics domains. | [19_operations_logistics_crud_and_system_specs.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/19_operations_logistics_crud_and_system_specs.md) |
 
 ---

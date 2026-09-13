@@ -3,13 +3,13 @@
 > **Governing Standard:** `E:\AWS SBGL\ANTI-Help\01_CHAPTER_GOVERNANCE_AND_LEADERSHIP_ROSTER.md` & `08_EXECUTIVE_OPERATIONAL_CHECKLISTS_AND_ACTION_TRACKER.md`  
 > **Executive Directive:** "Build the grandest national hackathon ever organized. 100% Free — Zero Entry Fee for Participants."  
 > **Apex Leadership:** Thenappan T (Register No: `44110855`), President & Student Builder Group Leader (AWS SBGL), Sathyabama Institute of Science and Technology  
-> **Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 > **Command Principle:** **6 Super Heads (Direct Reports)** commanding a fully deployed, specialized workforce across Pre-Event, Online Qualifier Round, During-Event, and Post-Event operational phases.  
 > **Registration Model:** **100% FREE — Zero Entry Fee** (100% funded by corporate enterprise sponsorships & institutional grant)  
 > **Dual-Phase Selection Pipeline:** 2,000+ National Applicants $\rightarrow$ **Top 250 Online Semi-Finalists (Round 1: Jan 02–04, 2027)** $\rightarrow$ **Top 100 Elite On-Campus Finalists (Round 2: Jan 22–24, 2027)**  
 > **Grand Finale Event Dates:** January 22 – 24, 2027 (48 Hours Non-Stop Continuous Sprint)  
 > **Venue:** Central Library Complex (Auditorium, 1st Floor Computing Lab, 2nd Floor Lecture Halls 1–3, Top Floor VIP Executive Lounge), Sathyabama Campus  
-> **Scale:** 100 Shortlisted National Finalist Teams (400–500 Hackers) · ₹3,50,000 Operational Capital · ₹1,75,000 Pure Cash Prize Pool  
+> **Scale:** 100 Shortlisted National Finalist Teams (Teams of 4–6 students, ~400–600 Hackers) · ₹3,50,000 Operational Capital · ₹1,75,000 Pure Cash Prize Pool  
 
 ---
 
@@ -25,7 +25,7 @@ Every squad has crystal-clear mandates across:
 
 ```mermaid
 graph TD
-    APEX["THENAPPAN T<br/>President & Apex Organizer (Reg: 44110855)"] --- ADV["Faculty Coordinators<br/>Dr. Balapriya .S & Dr. K. Ashok Kumar"]
+    APEX["THENAPPAN T<br/>President & Apex Organizer (Reg: 44110855)"] --- ADV["Faculty Coordinators<br/>Dr. K. Ashok Kumar & Dr. Balapriya .S"]
     
     APEX --> SH1["SUPER HEAD 1: CPFO<br/>Chief Partnerships & Finance Officer"]
     APEX --> SH2["SUPER HEAD 2: CTO<br/>Chief Technology & Infrastructure Officer"]
@@ -48,7 +48,7 @@ graph TD
     SH3 --> S3C["Procurement, Swag & Inventory"]
 
     SH4 --> S4A["Mess Hall Buffet & Fuel Bar"]
-    SH4 --> S4B["Participant Onboarding & Helpdesk"]
+    SH4 --> S4B["Participant Check-In & Helpdesk"]
     SH4 --> S4C["Midnight Quests & Hacker Wellness"]
 
     SH5 --> S5A["Brand Identity & Stage Visuals"]
@@ -66,7 +66,7 @@ graph TD
 
 | Division | Super Head (Direct Report) | Sub-Heads | Squad Members | Total Headcount | Primary Mandate |
 |---|---|:---:|:---:|:---:|---|
-| **Division 1** | **CPFO** (Chief Partnerships & Finance Officer) | 3 | 9 | **13** | Close Title Sponsor (₹1.25L), manage ₹3.5L operational capital, disburse ₹1.75L prize pool. |
+| **Division 1** | **CPFO** (Chief Partnerships & Finance Officer) | 3 | 9 | **13** | Close Title Sponsor (₹2L), manage ₹3.5L–₹4L operational capital, disburse ₹1.75L prize pool. |
 | **Division 2** | **CTO** (Chief Technology & Infrastructure Officer) | 3 | 12 | **16** | Cloud sandboxes, Online Qualifier screening portal, campus LAN, power grid, anti-plagiarism engine. |
 | **Division 3** | **COO** (Chief Operations & Logistics Officer) | 3 | 16 | **20** | Central Library bay architecture, bus fleet logistics, EV buggies, material procurement & swag inventory. |
 | **Division 4** | **CXO** (Chief Experience & Hospitality Officer) | 3 | 15 | **19** | 100% free participant hospitality, buffet meals, coffee bars, midnight side-quests, wellness. |
@@ -94,7 +94,7 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 [Technical Jury Calibration & Shortlist (Jan 06)] ─────────► Top 100 Elite Finalist Teams Selected (Peak Quality)
                                                                        │
                                                                        ▼
-[Phase 2: Round 2 On-Campus 48-Hour Grand Finale (Jan 22-24)] ─► 100 Teams (400–500 Hackers) On-Site at Sathyabama
+[Phase 2: Round 2 On-Campus 48-Hour Grand Finale (Jan 22-24)] ─► 100 Teams (Teams of 4–6 students, ~400–600 Hackers) On-Site at Sathyabama Institute of Science and Technology, Chennai
   • 100% FREE: Free Buffet Meals, Free Stay, Free Swag Kits & Smart Badges
   • 3 Milestone Checkpoints (Architecture ➔ Code ➔ Pitch)
   • ₹1,75,000 Pure Cash Prize Pool + $50k Cloud Credits
@@ -108,10 +108,10 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 * **Super Head 1 (CPFO & Sponsorship Lead):** **Nikki (Nangaiyar M)** (Register No: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 13 Organizers (1 Super Head + 3 Sub-Heads + 9 Squad Officers)
-* **Pre-Event Runway (Sep–Dec):** Close Title Sponsor (**₹3,50,000 – ₹5,00,000+**), Co-Powered By Sponsor (**₹2,00,000+**), Track Partners (**₹3,50,000+**), and institutional grant (**₹1,00,000+**), yielding **Minimum ₹10,00,000 in working capital (Uncapped)**. Secure in-kind partnerships (Red Bull, AWS $50k credits, JetBrains, Postman). Enforce **₹0 participant fee policy** across all partner communication.
+* **Pre-Event Runway (Sep–Dec):** Close Title Sponsor (**₹2,00,000 / 2 Lakhs**), Co-Powered By Sponsor (**₹1,00,000 / 1 Lakh**), Track Partners (**₹25,000 – ₹50,000 each**), and institutional grant (**₹50,000**), yielding **₹3,50,000 – ₹4,00,000 in working capital (Uncapped)**. Secure in-kind partnerships (Red Bull, AWS $50k credits, JetBrains, Postman). Enforce **₹0 participant fee policy** across all partner communication.
 * **Online Qualifier Round (Jan 02–04):** Track sponsor bounties and API adoption across the Top 250 semi-finalist teams during the virtual review.
 * **On-Campus 48-Hour Grand Finale (Jan 22–24):** Manage on-site VIP corporate sponsor delegations, sponsor exhibition kiosks, and talent scouting sessions. Oversee on-ground petty cash logs.
-* **Post-Event Closeout (Jan 25–Feb 10):** Release the **₹3,50,000 – ₹5,00,000+ pure cash prize pool** via direct bank NEFT escrow disbursement within 72 hours. Deliver 10-slide sponsor ROI reports, resume databases, and university financial utilization certificates.
+* **Post-Event Closeout (Jan 25–Feb 10):** Release the **₹1,75,000 pure cash prize pool** via direct bank NEFT escrow disbursement within 72 hours. Deliver 10-slide sponsor ROI reports, resume databases, and university financial utilization certificates.
 
 ---
 
@@ -130,9 +130,9 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 * **Super Head 3:** **Chief Operations & Logistics Officer (COO)**  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 20 Organizers (1 Super Head + 3 Sub-Heads + 16 Squad Specialists)
-* **Pre-Event Runway (Sep–Dec):** Map Central Library floor layouts (Auditorium, Labs, Lecture Halls 1–3, Top Floor VIP Lounge). Coordinate Sathyabama College Bus routes across Chennai hubs and **2 Campus EV Shuttles**. Procure builder tees, smart badges, 40 industrial power strips, and print collaterals.
+* **Pre-Event Runway (Sep–Dec):** Map Central Library floor layouts (Auditorium, Labs, Lecture Halls 1–3, Top Floor VIP Lounge). Coordinate Sathyabama College Bus routes across Chennai hubs and **2 Campus EV Shuttles** (operating continuous loops to transport girls and boys to the nearest best restrooms). Procure builder tees, smart badges, 40 industrial power strips, and print collaterals.
 * **Online Qualifier Round (Jan 02–04):** Finalize inventory counts and verify shipping dispatch of developer swag kits for on-ground arrival.
-* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Run 8-hour rotating shifts across Lecture Halls 1–3. Manage participant check-in, bus shuttles, EV buggy transfers, and venue maintenance.
+* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Run 8-hour rotating shifts across Lecture Halls 1–3. Manage participant check-in, bus shuttles, EV buggy restroom transfers, and venue maintenance. There is no pre-event on-campus onboarding; finalists report directly to the venue on Event Day.
 * **Post-Event Closeout (Jan 25–Feb 10):** Restitute Central Library Complex within 12 hours. Complete equipment inventory audit.
 
 ---
@@ -164,7 +164,7 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 * **Super Head 6:** **Chief Safety, Governance & Jury Officer (CSO)**  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 16 Organizers (1 Super Head + 3 Sub-Heads + 12 Squad Officers)
-* **Pre-Event Runway (Sep–Dec):** Curate and confirm 25+ technical mentors and 15+ high-profile industry judges. Coordinate campus security permissions, police station intimation, and hospital ambulance liaison.
+* **Pre-Event Runway (Sep–Dec):** Curate and confirm 25+ high-profile industry judges and technical evaluators (AWS community builders, tech leads, startup founders, distinguished alumni, and any other industry professionals with technical knowledge who volunteer). Coordinate campus security permissions, police station intimation, and hospital ambulance liaison.
 * **Online Qualifier Round (Jan 02–04):** Lead jury governance across the 10 virtual evaluation rooms; enforce standardized scoring rubrics and calibrate semi-final rankings.
 * **On-Campus 48-Hour Grand Finale (Jan 22–24):** Manage Top Floor VIP Executive Lounge hospitality. Orchestrate the 3 physical evaluation gates. Enforce **10 PM – 6 AM night lock-in** and strictly segregated stairwells for boys/girls mess access.
 * **Post-Event Closeout (Jan 25–Feb 10):** Audit final score sheets; present judge appreciation hampers; submit zero-incident safety report to University Registrar.
@@ -216,11 +216,11 @@ SUBTOTAL: CATERING & FUEL                                                       
 SUBTOTAL: STAGE & AV PRODUCTION                                                                  ₹30,000
 --------------------------------------------------------------------------------------------------------
 
-5. VIP JURY CARE, MENTOR HOSPITALITY & MEMENTOS
+5. VIP JURY CARE, DIGNITARY HOSPITALITY & MEMENTOS
 • Top Floor VIP Executive Lounge Dining     High Tea, Dry Fruits & Special Lunch 35 pax     300   ₹10,500
 • Traditional Silk Shawls & Mementos        Handcrafted Sandalwood/Brass Mementos 20 units   475    ₹9,500
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: VIP JURY & MENTOR CARE                                                                 ₹20,000
+SUBTOTAL: VIP JURY & DIGNITARY CARE                                                             ₹20,000
 --------------------------------------------------------------------------------------------------------
 
 6. INFRASTRUCTURE, ELECTRICAL EXTENSIONS & HARDWARE
@@ -264,7 +264,7 @@ Phone: `+91 6381801640` | Email: `sistawscc@gmail.com`
 
 **Endorsed By:**  
 
-| Dr. Balapriya .S / Dr. K. Ashok Kumar | Dr. L. Lakshmanan | Dr. T. Sasipraba |
+| Dr. K. Ashok Kumar / Dr. Balapriya .S | Dr. L. Lakshmanan | Dr. T. Sasipraba |
 | :---: | :---: | :---: |
 | Faculty Coordinators, AWS SBG | Dean, School of Computing | Vice Chancellor |
 | Sathyabama Institute of Science and Technology | Sathyabama Institute of Science and Technology | Sathyabama Institute of Science and Technology |

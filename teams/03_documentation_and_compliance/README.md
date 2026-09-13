@@ -4,7 +4,7 @@
 > **Direct Lead:** **Hemavarshine S** (Documentation Lead, Reg: `44110263`, Phone: `+91 9345691593`, Email: `hemavarshine07@gmail.com`)  
 > **Operations Liaison:** **Nangaiyar M** (Community & Events Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
 > **Apex Executive Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
-> **Faculty Signatories:** **Dr. Balapriya .S** & **Dr. K. Ashok Kumar** (Dept. of CSE)  
+> **Faculty Signatories:** **Dr. K. Ashok Kumar** & **Dr. Balapriya .S** (Dept. of CSE)  
 > **Institutional Authority:** **Dr. L. Lakshmanan** (Dean, School of Computing) & **Dr. T. Sasipraba** (Vice Chancellor)  
 
 ---
@@ -41,7 +41,7 @@ Example: `SIST/CSE/AWS-SBG/2026-27/EXT/001` (Venue Requisition for Central Libra
    - Letter 02: Fleet Transportation Permission (10 Sathyabama College Bus Routes)
    - Letter 03: Green Campus EV Transit Buggies Allocation (2 Electric Vehicles)
    - Letter 04: Semmancheri Police Station Security Intimation & Night Clearance
-   - Letter 05: VIP Guest, Mentor & Judge Honorarium / Dining Approval Memo
+   - Letter 05: VIP Guest, Evaluator & Judge Honorarium / Dining Approval Memo
    - Letter 06: Student Participant Academic On-Duty (OD) Sanction Order
 2. **[`reports_and_minutes/`](./reports_and_minutes/)**: Master repository for weekly Executive Council Minutes of Meeting (MoM), sprint task completions, crisis incident logs, and the 7-day post-event institutional dossier.
 3. **[`participant_rules_and_agreements/`](./participant_rules_and_agreements/)**: Legal charters guaranteeing 100% student IP ownership, non-disclosure waivers, anti-plagiarism agreements, and mandatory parental consent forms for the 10 PM – 6 AM night hackathon.

@@ -30,7 +30,7 @@
 | Super Head 5 (CCMO) | Caroline McPherson / Harshith Raj S | [ ] |
 | Super Head 6 (CSO) | Security & Jury Head | [ ] |
 | Design Lead | Rikish B | [ ] |
-| Faculty Advisor | Dr. Balapriya .S / Dr. K. Ashok Kumar | [ ] |
+| Faculty Advisor | Dr. K. Ashok Kumar / Dr. Balapriya .S | [ ] |
 
 ---
 

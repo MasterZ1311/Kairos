@@ -46,7 +46,7 @@ This directory manages all raster, vector, motion, and template assets for the d
 
 Every major hackathon milestone follows the chapter's official 3-drop publishing cycle:
 1. **Drop 1 (The Conceptual Hook):** Dark Obsidian background with glowing Amber glyph, high-concept question, no dates initially.
-2. **Drop 2 (The Value & Scale Reveal):** ₹10,00,000+ capital pool announcement, 100% free entry badge, 5 technical tracks, sponsor logos.
+2. **Drop 2 (The Value & Scale Reveal):** ₹1,75,000 pure cash prize pool announcement, 100% free entry badge, 5 technical tracks, sponsor logos.
 3. **Drop 3 (The Registration Call to Action):** Direct link-in-bio graphic, deadline countdown ticker, student eligibility checklist.
 
 ---

@@ -31,6 +31,7 @@ Transportation infrastructure deployed:
 ## 3. Campus EV Buggy Safety & Night Operation Rules
 - The 2 EV buggies operate **24 hours continuously** from 08:00 AM on Jan 22 until 05:00 PM on Jan 24.
 - During the **10:00 PM – 06:00 AM Night Lock-In**, EV buggies are reserved strictly for:
-  - Escorting female participants from the library to girls' hostel rest rooms under security supervision.
+  - Transporting girls and boys to the nearest best restrooms across campus under dedicated organizer escort and security supervision.
+  - Escorting participants to assigned rest zones under security supervision.
   - Emergency transit to the on-campus Apollo Medical Clinic.
   - Moving heavy catering supplies (midnight pizza boxes, water canisters).

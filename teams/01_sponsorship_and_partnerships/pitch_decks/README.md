@@ -3,7 +3,7 @@
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/pitch_decks/`  
 > **Direct Lead & Final Approver:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 > **Creative Collaborator:** Rikish B (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
-> **Faculty Advisor:** Dr. Balapriya .S (Department of CSE)  
+> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE)  
 
 ---
 
@@ -59,5 +59,5 @@ graph LR
     PRES --> APPR["4. Approved for Executive Delivery to Sponsor"]
 ```
 
-1. **No unauthorized discounts:** Tiers must adhere to the Master Budget (Title: ₹3,50,000+; Powered-By: ₹2,00,000+; Track Partner: ₹50,000–₹1,00,000; Minimum Capital: ₹10,00,000).
+1. **No unauthorized discounts:** Tiers must adhere to the Master Budget (Title: ₹2,00,000; Powered-By: ₹1,00,000; Track Partner: ₹25,000–₹50,000; Operational Capital: ₹3,50,000–₹4,00,000).
 2. **Logo usage:** Never place third-party company logos without maintaining clear space buffers and high-res SVG assets.

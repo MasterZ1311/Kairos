@@ -3,7 +3,7 @@
 > **Host:** AWS Student Builder Group — SIST Chapter  
 > **Institution:** Sathyabama Institute of Science and Technology, Chennai  
 > **Event Dates:** January 22 – 24, 2027  
-> **Capital Scale:** Minimum ₹10,00,000 (10 Lakhs) — Uncapped  
+> **Capital Scale:** ₹3,50,000 – ₹4,00,000 Operational Capital Pool (Uncapped)  
 > **Model:** 100% Free / Zero Entry Fee  
 
 Welcome to the internal team collaborative workspace for **KAIROS 2027**. This directory organizes the 6 core domains, providing dedicated subfolders, technical specifications, exact dimensions, responsible leadership rosters, and pre-built templates for each team:

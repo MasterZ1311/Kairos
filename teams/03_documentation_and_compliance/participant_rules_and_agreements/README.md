@@ -22,9 +22,9 @@ Under the constitution of the AWS Student Builder Group — SIST Chapter:
 
 | Document | Who Must Sign | When Submitted | Verification Mechanism |
 |---|---|---|---|
-| **Participant IP & Terms Agreement** | All 4 Team Members | Online during confirmation | Cryptographic digital signature via website portal |
-| **Code of Conduct Undertaking** | All Participants & Mentors | Onboarding Check-in | Smart badge tap confirmation |
-| **Night Lock-In & Security Form** | All Overnight Participants | Day 1 Check-In (10:00 AM) | Physical signed slip countersigned by College Security |
+| **Participant IP & Terms Agreement** | All 4–6 Team Members | Online during confirmation | Cryptographic digital signature via website portal |
+| **Code of Conduct Undertaking** | All Participants & Evaluators | Event Day Check-In | Smart badge tap confirmation |
+| **Night Lock-In & Security Form** | All Overnight Participants | Day 1 Check-In (09:30 AM) | Physical signed slip countersigned by College Security |
 | **Parental Intimation Letter** | Outstation Student Hackers | 7 Days prior to travel | Uploaded scanned PDF to portal |
 
 ---

@@ -40,9 +40,9 @@ This folder contains the mechanical dimensions, design templates, and print-read
 - **Finishing & Mounting:** Double-hemmed borders with heavy-duty **brass eyelets (grommets) installed every 2 feet** along all 4 sides for zip-tie truss mounting.
 - **Visual Hierarchy:**
   - *Top 15%:* Sathyabama Seal (Left) + AWS Student Builder Groups Logo (Right).
-  - *Center 45%:* Giant Event Title: `KAIROS 2027` with amber cyber horizon glyph.
+  - *Center 45%:* Giant Event Title: Primary Logo Lockup (`K A [Hourglass] R O S` with celestial hourglass emblem, orbital comet trail in Electric Violet `#A855F7`, and tagline `"IDEAS TODAY — IMPACT TOMORROW"`).
   - *Subtitle:* "India's Flagship 48-Hour Student Cloud & Agentic AI Hackathon".
-  - *Dates & Location:* "January 22–24, 2027 · Central Library Complex".
+  - *Dates & Location:* "January 22–24, 2027 · Sathyabama Institute of Science and Technology, Chennai".
   - *Bottom 25%:* Corporate Partner Ribbon: Title Sponsor (Prominent Center), Co-Powered By (Flanking Left & Right), Institutional Grants.
 
 #### 2. Main Stage Digital LED Wall (B2)

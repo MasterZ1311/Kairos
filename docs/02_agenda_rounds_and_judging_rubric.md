@@ -2,7 +2,7 @@
 
 **Executive Governance:** Super Head 6 (Chief Safety, Governance & Jury Officer) in coordination with Super Head 2 (CTO)  
 **Reporting Directly To:** Thenappan T (Register No: 44110855), President & Student Builder Group Leader (AWS SBGL)  
-**Faculty Coordinators:** Dr. Balapriya .S & Dr. K. Ashok Kumar (Department of CSE, SIST)  
+**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
 **Registration Model:** **100% FREE — ZERO ENTRY FEE**  
 **Selection Pipeline:** 2,000+ Applicant Teams $\rightarrow$ **Top 250 Online Semi-Finalists (Jan 02–04)** $\rightarrow$ **Top 100 Elite Finalists (Jan 22–24)**  
 **Pure Cash Prize Pool:** **₹1,75,000 Pure Liquid Cash**  
@@ -46,41 +46,37 @@ The **Top 250 Semi-Finalist Teams** participate in a mandatory 48-hour virtual m
 
 ## 3. Round 2: On-Campus 48-Hour Minute-by-Minute Master Agenda
 
+> **Specialized Agenda Formats:**  
+> • **Website & Participant View:** See [website_participant_agenda.md](file:///e:/AWS%20SBGL/Events/Kairos/website/website_participant_agenda.md) for the streamlined developer-first schedule with interactive tabs and React component schemas.  
+> • **Hard Office Copy (Exhaustive Institutional & Operations):** See [02_hard_office_copy_master_agenda.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/02_hard_office_copy_master_agenda.md) for the minute-by-minute operational run of show with exact room allocations, security protocols, power/network telemetry, volunteer shift rotas, and administrative signoffs.
+
 ### Day 1: Friday, January 22, 2027 — Kickoff, Architecture & Cloud Gate
-* **07:30 – 09:30 | Grand Red-Carpet Registration & Foyer Check-in:**
+* **09:30 – 10:45 | Grand Red-Carpet Registration & Foyer Check-in:**
   * Verification of Government/College Photo IDs.
   * Distribution of 100% Free Developer Kits (Tees, Smart Badges, Stickers).
   * Room allocation across Central Library Lecture Halls 1–3 and high-speed Wi-Fi onboarding.
-* **09:30 – 10:45 | Grand Inauguration & Keynote Plenary (Central Library Auditorium):**
-  * Welcome address by **Thenappan T (President & SBGL, AWS SBG SIST)**.
+* **10:45 – 12:00 | Grand Inauguration & Keynote Plenary (Central Library Auditorium):**
   * Presidential remarks by Institutional Leadership (Vice Chancellor, Dean School of Computing).
-  * **20-Minute Keynote Address by Title Sponsor Executive** (AWS / Enterprise Tech Partner).
-  * **10-Minute Technical Briefing by Co-Powered By Sponsor**.
+  * **20-Minute Keynote Address by Title Sponsor Executive** (AWS / Enterprise Tech Partner) (11:15 AM).
+  * **10-Minute Technical Briefing by Co-Powered By Sponsor** (11:35 AM).
   * Unveiling of the 5 Grand Enterprise Innovation Tracks and Hackathon Code of Conduct.
-* **10:45 – 11:00 | Team Relocation to Hacking Bays:**
+* **12:00 – 12:15 | Team Relocation to Hacking Bays:**
   * Teams settle into designated bays across Lecture Halls 1–3; connection to spike-protected power strips.
-* **11:00 | 🚀 CLOCK STARTS: HACKATHON LIVE (48 Hours Continuous Sprint):**
+* **12:15 | 🚀 CLOCK STARTS: HACKATHON LIVE (48 Hours Continuous Sprint):**
   * Official GitHub repository initialization with mandatory Kairos webhook listeners.
 * **13:00 – 14:30 | Complimentary Lunch Buffet (Mess Halls & VIP Dining in Top Lounge):**
   * Staggered lunch buffet; continuous filter coffee bar opens.
 * **16:00 – 18:30 | 🔍 CHECKPOINT 1: Architecture & Cloud Feasibility Gate (25 Points):**
   * Table-side technical review by Senior AWS Solutions Architects and Faculty Domain Experts.
-* **19:00 – 20:00 | Sponsor Tech Masterclasses & API Sandboxes (Auditorium):**
-  * Optional deep-dive masterclasses by Track Sponsors on generative AI, distributed databases, and edge IoT telemetry.
 * **20:30 – 22:00 | Complimentary Dinner Buffet:**
   * Staggered dinner via segregated stairwells (North for Boys, South for Girls).
 * **22:00 | 🔒 Campus Night Lock-In Enforced:**
   * Central Library doors secured; night perimeter security active; zero external movement until 06:00 AM.
-* **23:30 – 01:00 | Round 1 1-on-1 Mentor Clinics:**
-  * Mentors rotate through hacking bays unblocking cloud roadblocks and API limits.
-* **01:30 | Midnight Energy Drop & Coffee Bar:**
-  * Fresh coffee/tea and energy snacks delivered at the Library Foyer.
 
 ---
 
-### Day 2: Saturday, January 23, 2027 — Prototyping, Code Velocity & Night CTF
-* **07:30 – 09:00 | Builder Breakfast & Filter Coffee:**
-  * South Indian & Continental breakfast buffet; continuous coffee and fruit baskets.
+### Day 2: Saturday, January 23, 2027 — Prototyping, Architecture & Code Velocity
+* **07:30 – 09:00 | Breakfast & Refreshments**
 * **09:30 – 11:30 | AWS Cloud Architecture Optimization Walkabout:**
   * AWS Solutions Architects review resource provisioning and Bedrock model latency.
 * **13:00 – 14:30 | Executive Lunch Buffet:**
@@ -89,12 +85,8 @@ The **Top 250 Semi-Finalist Teams** participate in a mandatory 48-hour virtual m
   * In-depth code review by Startup CTOs and Staff Engineers.
   * Verification of live running local/cloud microservices, working frontend-backend communication, and API integration.
   * Automated commit history audit: verification that 100% of code was authored during the hackathon window.
-* **18:00 – 19:30 | Mid-Hack De-Stress Hour & Live Esports Showcase:**
-  * Retro arcade corner and acoustic performance in the library courtyard.
 * **20:30 – 22:00 | Dinner Buffet & Refreshments:**
   * Nourishing dinner via segregated mess corridors.
-* **23:00 – 01:00 | Midnight Lightning CTF & Speed Typing Battle:**
-  * 30-minute mini-quests for cash and swag bounties.
 * **01:30 | Night 2 Midnight Fuel Booster:**
   * Hot coffee and energy snack drops across all lecture halls.
 * **02:30 – 06:30 | The Final Sprint (The "Kairos Hours"):**
@@ -103,8 +95,7 @@ The **Top 250 Semi-Finalist Teams** participate in a mandatory 48-hour virtual m
 ---
 
 ### Day 3: Sunday, January 24, 2027 — Grand Demos, Valedictory & Celebrations
-* **07:30 – 08:30 | Final Sprint Breakfast:**
-  * Quick-service breakfast buffet.
+* **07:30 – 08:30 | Breakfast & Refreshments**
 * **08:30 | 🛑 HARD CODE FREEZE & GITHUB SUBMISSION LOCK:**
   * Automated GitHub repository commit lock via webhook; final submission of video demos and pitch decks.
 * **09:00 – 12:30 | 🏆 CHECKPOINT 3: Grand Finale Live Demonstrations (40 Points):**
@@ -112,14 +103,13 @@ The **Top 250 Semi-Finalist Teams** participate in a mandatory 48-hour virtual m
   * 7-minute live presentation: 4 minutes working demo + 3 minutes grilling by VC Partners, CTOs, and AWS Leaders.
   * Real-time automated scoring with Z-score variance normalization.
 * **12:30 – 13:30 | Grand Festive Luncheon:**
-  * Celebration buffet for all participants, organizers, mentors, and jury members.
+  * Celebration buffet for all participants, organizers, and jury members.
 * **13:30 – 14:15 | Jury Deliberation & Top 10 Plenary Shortlisting:**
   * Grand Jury convenes in the Top Floor Executive Lounge to finalize the Overall Champions and Track Winners.
 * **14:30 – 16:30 | 🎆 Grand Valedictory, Award Ceremony & Finale (Auditorium):**
   * Address by Keynote VIPs and University Leadership.
-  * Presentation of Track Bounties (5 × ₹7,000 = ₹35,000 Cash).
-  * Presentation of Special Category Bounties (₹25,000 Cash).
-  * **Grand Winner Announcement: 2nd Runner Up (₹20,000), 1st Runner Up (₹35,000), and Grand Champion (₹60,000 Pure Cash + Grand Trophy)**.
+  * Presentation of Track Bounties & Special Category Bounties.
+  * **Grand Winner Announcement: 2nd Runner Up, 1st Runner Up, and Grand Champion (National Trophy & Awards Conferral)**.
   * Celebration and departure via chartered university bus fleet.
 
 ---

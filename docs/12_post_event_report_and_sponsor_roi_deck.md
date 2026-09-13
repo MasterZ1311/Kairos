@@ -6,7 +6,7 @@
 **Super Head 1 Mandate:** Deliver corporate sponsor proof-of-performance reports, distribute resume talent pools, execute the ₹1,75,000 pure cash prize escrow disbursements, and conduct final financial audits under the **100% Free Participant Model**.  
 **Accountable Lead:** Chief Partnerships & Finance Officer (CPFO) — Reporting directly to President Thenappan T (Register No: 44110855)  
 **Closeout Window:** January 25 – February 10, 2027  
-**Grand Scale:** 2,000+ National Applicants $\rightarrow$ 250 Online Semi-Finalists $\rightarrow$ 100 On-Campus Finalist Teams (400–500 Hackers) · ₹3.5L Working Operational Capital · ₹1,75,000 Pure Cash Prizes  
+**Grand Scale:** 2,000+ National Applicants $\rightarrow$ 250 Online Semi-Finalists $\rightarrow$ 100 On-Campus Finalist Teams (Teams of 4–6 students, ~400–600 Hackers) · ₹3.5L Working Operational Capital · ₹1,75,000 Pure Cash Prizes  
 
 ---
 

@@ -28,7 +28,7 @@ Special Embellishments:
   - Anti-Counterfeit Dynamic Verification QR Code (Bottom Right, 20 mm × 20 mm)
 Signature Fields:
   1. President & SBGL (Thenappan T)
-  2. Faculty Coordinators (Dr. Balapriya .S & Dr. K. Ashok Kumar)
+  2. Faculty Coordinators (Dr. K. Ashok Kumar & Dr. Balapriya .S)
   3. Dean, School of Computing (Dr. L. Lakshmanan)
   4. Vice Chancellor, SIST (Dr. T. Sasipraba)
 Folder / Enclosure: Matte Black Textured Cardstock Presentation Folder with Gold Debossed Logo
@@ -70,5 +70,5 @@ Engraved Content:
 | **Certificate Visual Layout** | Rikish B (Design) | Dec 15, 2026 | Drafted |
 | **Participant Database Merge & Names** | Hemavarshine S (Documentation) | Jan 23, 2027 (22:00) | Live Queue |
 | **Trophy CAD Drafting & Vendor PO** | Rikish B & Nangaiyar M | Dec 20, 2026 | Queued |
-| **Institutional Signatures & Seal** | Dr. Balapriya .S & Thenappan T | Jan 24, 2027 (14:00) | Stage Protocol |
+| **Institutional Signatures & Seal** | Dr. K. Ashok Kumar, Dr. Balapriya .S & Thenappan T | Jan 24, 2027 (14:00) | Stage Protocol |
 | **Digital Certificate Cloud Distribution** | Viswanathan Ashok (Builder Lead) | Jan 26, 2027 | Automated SES |

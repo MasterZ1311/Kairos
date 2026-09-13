@@ -1,111 +1,172 @@
 # Kairos 2027 — Design Identity, Brand Guidelines & Asset Specifications (Grand Edition)
 
-**Super Head 5 Mandate:** Shape the visual language, typography, 3D motion graphics, digital media assets, stage production visuals, and premium developer merchandise for Kairos 2027.  
-**Accountable Lead:** Chief Creative & Media Officer (CCMO) — Reporting directly to President Thenappan T  
-**Design Ethos:** Cyber-Cloud Grandeur · Obsidian-Amber High-Voltage Dark Mode · Precision Engineering (Benchmarked against THREX & PEC Hacks)  
-**Event Dates:** January 22 – 24, 2027  
+> **Visual Governance:** Division 2 (Design & Creative Assets) & Division 4 (Media & PR)  
+> **Direct Leads:** **Rikish B** (Design Lead, Reg: `44110664`) & **Caroline Mary McPherson** (Media Head 1, Reg: `44110124`)  
+> **Supervising Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, AWS Student Builder Group SIST)  
+> **Design Philosophy:** Cosmic Cyberpunk · Electric Violet & Void Obsidian · Precision Celestial Engineering  
+> **Official Tagline:** *"IDEAS TODAY — IMPACT TOMORROW"*  
+> **Sub-Descriptor:** *"A 48-HOUR HACKATHON"*  
 
 ---
 
 ## 1. Brand Identity & Visual Philosophy
 
-### 1.1 The Meaning Behind "Kairos" (καιρός)
-The name **Kairos** represents the supreme, fleeting moment where extraordinary preparation meets limitless opportunity. The visual identity fuses:
-* **Deep Obsidian `#0B0F19` Canvas:** The infinite, focused midnight hacking realm.
-* **AWS Builder Amber `#FF9900` Accent:** High-voltage energy, ambition, and cloud computing mastery.
-* **Cyber Indigo `#6366F1` & Neon Cyan `#06B6D4`:** Intelligent multi-agent architectures, distributed computing networks, and futuristic telemetry.
+### 1.1 The Meaning of "Kairos" (καιρός)
+In classical Greek thought, *Chronos* represents quantitative, sequential time—the ticking of an ordinary clock. In contrast, **Kairos** represents the supreme, fleeting, qualitative moment where extraordinary preparation collides with historic opportunity. 
+
+For the **AWS Student Builder Group at Sathyabama Institute of Science and Technology, Chennai**, Kairos 2027 embodies the 48-hour event horizon where raw student intellect is transformed into enterprise-grade cloud systems.
+
+```
+       ✦                             ✦
+             ╭──────────────────╮
+         ─── │   K A I R O S    │ ───
+             ╰──────────────────╯
+       ✦        [ HOURGLASS ]        ✦
+             IDEAS TODAY — IMPACT TOMORROW
+```
+
+### 1.2 The Triad of Core Visual Elements
+1. **The Celestial Hourglass:** Time as a focused vector of creation. The physical sand is replaced by glowing purple stardust particles, descending through three temporal beads into a sharp crystalline pyramid bank.
+2. **The Orbital Planetary Rings:** An elliptical celestial orbit sweeping around the hourglass and typography, featuring an orbiting planetary satellite that symbolizes distributed microservices, multi-agent AI swarms, and cloud infrastructure revolving around a central mission.
+3. **Cosmic Sparkle Constellation:** Four-pointed astral stars representing breakthroughs, code commits, and deploy milestones during the 48-hour sprint.
 
 ---
 
-## 2. Color System & Design Tokens
+## 2. Official Brand Assets & Logo System
+
+The visual identity of Kairos 2027 is anchored by three official graphic assets stored in [`teams/02_design_and_creative_assets/brand_identity_and_logos/`](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/brand_identity_and_logos/):
+
+### 2.1 Primary Logo Lockup (`kairos_primary_logo_lockup.png`)
+* **Asset Location:** [`kairos_primary_logo_lockup.png`](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/brand_identity_and_logos/kairos_primary_logo_lockup.png)
+* **Anatomy:**
+  * Bold futuristic geometric sans-serif lettering: **"K A [Hourglass] R O S"**.
+  * The letter **"I"** is seamlessly replaced by the illuminated celestial hourglass mark.
+  * The letter **"O"** contains an embedded four-pointed glowing star at its geometric center.
+  * A luminous, ethereal electric violet orbital comet tail wraps around the base of the "K", arches behind the hourglass, and crests above the "O" and "S" ending in a celestial star sparkle.
+  * **Descriptor:** `A 48-HOUR HACKATHON` in widely tracked, uppercase typography.
+  * **Tagline Rule:** `IDEAS TODAY — IMPACT TOMORROW` framed by dual subtle lavender rules.
+* **Usage:** Main website hero, stage backdrop center, roll-up standee headers, official proposal letterheads, and YouTube stream overlays.
+* **Clearspace:** A mandatory isolation zone equal to 1.0× the width of the central hourglass must be maintained on all 4 borders.
+* **Minimum Size:** Print: 45mm width | Digital: 180px width.
+
+### 2.2 Standalone Celestial Hourglass Emblem (`kairos_hourglass_emblem.png`)
+* **Asset Location:** [`kairos_hourglass_emblem.png`](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/brand_identity_and_logos/kairos_hourglass_emblem.png)
+* **Anatomy:**
+  * Precision beveled white framing with glowing neon purple inner glass refractions.
+  * Dynamic orbital planetary ring in vibrant violet with an orbiting satellite sphere.
+  * Constellation of three four-pointed stars positioned at key orbital azimuths.
+* **Usage:** Browser favicons, animated loading states, Discord server icon, trophy engravings, app icons, and stage LED particle triggers.
+* **Minimum Size:** Print: 15mm height | Digital: 32px height.
+
+### 2.3 Official Circular Patch, Seal & Sticker (`kairos_official_circular_sticker_seal.jpg`)
+* **Asset Location:** [`kairos_official_circular_sticker_seal.jpg`](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/brand_identity_and_logos/kairos_official_circular_sticker_seal.jpg)
+* **Anatomy:**
+  * Dual concentric circular border: an outer glowing electric violet neon ring and an inner crisp white border ring.
+  * **Top Arch:** `K A I R O S` in tracked uppercase sans-serif.
+  * **Core Center:** The celestial hourglass mark with planetary orbital ring and cosmic stars.
+  * **Bottom Arch:** `AWS STUDENT BUILDER GROUP SATHYABAMA` in uppercase sans-serif.
+* **Usage:** 3-inch die-cut waterproof vinyl laptop stickers, woven jacquard hoodie sleeve patches, laser-engraved metal smart NFC badges, and formal certificate wax/foil seals.
+
+---
+
+## 3. Official Color System & Design Tokens
+
+The Kairos 2027 color system transitions entirely away from generic amber to a curated, high-impact **Cosmic Cyber Violet** palette tailored for OLED displays, stage lighting, and dark-mode developer aesthetics:
 
 ```mermaid
 graph LR
-    subgraph Primary Foundations
-        C1[Obsidian Dark<br/>#0B0F19] --- C2[AWS Amber<br/>#FF9900]
-        C2 --- C3[Cyber Indigo<br/>#6366F1]
+    subgraph Primary Void & Foundations
+        V1[Void Black<br/>#000000] --- V2[Deep Nebula Dark<br/>#0B0616]
+        V2 --- V3[Cosmic Surface<br/>#140B26]
     end
-    subgraph Accents & Feedback
-        C4[Neon Cyan<br/>#06B6D4] --- C5[Matrix Emerald<br/>#10B981]
-        C5 --- C6[Snow White<br/>#F8FAFC]
+    subgraph Luminous Brand Accents
+        A1[Electric Violet<br/>#A855F7] --- A2[Cyber Orchid<br/>#C084FC]
+        A2 --- A3[Astral White<br/>#FFFFFF]
+    end
+    subgraph Celestial Accents & Telemetry
+        T1[Neon Starlight<br/>#E879F9] --- T2[Matrix Emerald<br/>#10B981]
+        T2 --- T3[Celestial Cyan<br/>#38BDF8]
     end
 ```
 
-| Token Name | HEX Code | RGB | HSL | Prime Application |
-|---|:---:|:---:|:---:|---|
-| **Obsidian Dark (Canvas)** | `#0B0F19` | `11, 15, 25` | `223°, 39%, 7%` | Primary background, deck backdrops, stage LED canvas |
-| **Surface Dark (Card)** | `#1E293B` | `30, 41, 59` | `217°, 33%, 17%` | UI cards, modal surfaces, badge backdrops, table rows |
-| **AWS Builder Amber** | `#FF9900` | `255, 153, 0` | `36°, 100%, 50%` | Primary brand accent, primary CTA buttons, highlight glow |
-| **Cyber Indigo** | `#6366F1` | `99, 102, 241` | `239°, 84%, 67%` | Secondary gradients, tech track tags, interactive link states |
-| **Neon Cyan** | `#06B6D4` | `6, 182, 212` | `189°, 94%, 43%` | Glow accents, terminal text, live countdown digits |
-| **Matrix Emerald** | `#10B981` | `16, 185, 129` | `160°, 84%, 39%` | Verified badges, success states, live round checkpoint indicators |
-| **Snow Light** | `#F8FAFC` | `248, 250, 252`| `210°, 40%, 98%` | Headlines, primary text, high-contrast labels |
-| **Muted Steel** | `#94A3B8` | `148, 163, 184`| `215°, 20%, 65%` | Subheadings, body copy, timestamps, inactive borders |
+### 3.1 Color Token Palette Matrix
+
+| Token Name | HEX Code | RGB | HSL | CMYK (Print) | Primary Application |
+|---|:---:|:---:|:---:|:---:|---|
+| **Void Black (Canvas)** | `#000000` | `0, 0, 0` | `0°, 0%, 0%` | `75, 68, 67, 90` | Infinite background, stage LED canvas, hoodie base fabric |
+| **Deep Nebula Dark** | `#0B0616` | `11, 6, 22` | `259°, 57%, 5%` | `78, 75, 55, 80` | Card containers, modal sheets, elevated UI surfaces |
+| **Cosmic Surface Dark**| `#140B26` | `20, 11, 38` | `260°, 55%, 10%`| `75, 70, 48, 65` | Interactive card hover states, table rows, border strokes |
+| **Deep Orbital Violet** | `#3B0764` | `59, 7, 100` | `274°, 87%, 21%`| `70, 95, 0, 30` | Ambient drop glows, radial glow origins, container borders |
+| **Electric Violet (Core)**| `#A855F7` | `168, 85, 247`| `271°, 91%, 65%`| `45, 72, 0, 0` | **Primary Brand Accent**, primary CTA buttons, active glows |
+| **Cyber Orchid (Glow)** | `#C084FC` | `192, 132, 252`| `270°, 95%, 75%`| `32, 54, 0, 0` | Secondary gradients, orbital ring shimmer, badge highlights |
+| **Starlight Lavender** | `#E9D5FF` | `233, 213, 255`| `269°, 100%, 92%`| `10, 18, 0, 0` | Subtitles, pill badge backgrounds, subtle rules |
+| **Astral White (Light)**| `#FFFFFF` | `255, 255, 255`| `0°, 0%, 100%` | `0, 0, 0, 0` | Primary headings, hourglass structural framing, star sparkles |
+| **Matrix Emerald** | `#10B981` | `16, 185, 129` | `160°, 84%, 39%`| `75, 0, 60, 0` | Checkpoint verified states, successful Git commits |
+| **Celestial Cyan** | `#38BDF8` | `56, 189, 248` | `198°, 93%, 60%`| `65, 15, 0, 0` | Terminal telemetry, live server status, network nodes |
+| **Crimson Surge** | `#EF4444` | `239, 68, 68` | `0°, 84%, 60%` | `0, 85, 75, 0` | Hard code freeze, night lock-in security alerts |
 
 ---
 
-## 3. Typography Hierarchy
+## 4. Typography Hierarchy & Rules
 
-| Level | Font Family | Weight | Size (Print / Web) | Tracking |
-|---|---|:---:|:---:|:---:|
-| **Display Hero** | *Space Grotesk* / *Syne* | Bold (700) | 48–64pt / 4rem | -0.03em (Tight) |
-| **Section Heading (H1)**| *Space Grotesk* | SemiBold (600) | 32–40pt / 2.5rem | -0.02em |
-| **Card Heading (H2)** | *Plus Jakarta Sans* | Bold (700) | 20–24pt / 1.5rem | -0.01em |
-| **Body Text** | *Inter* | Regular (400) / Medium (500) | 10–12pt / 1rem | Normal (0em) |
-| **Code / Badges** | *JetBrains Mono* | Medium (500) | 9–11pt / 0.875rem | +0.02em (Spaced) |
-
----
-
-## 4. Stage Production & 4K LED Screen Asset Specifications
-
-### 4.1 P2.5 4K LED Stage Wall (20 ft × 10 ft)
-* **Native Pixel Resolution:** 3840 × 1920 px (Custom 2:1 Ultra-Wide Aspect Ratio).
-* **Color Space:** Rec.709 / sRGB, 60fps progressive scan.
-* **Motion Graphics Stingers:**
-  1. *Master Opening Countdown:* 60-second synchronized 3D cyber clock stinger with spatial audio build-up.
-  2. *Track Reveal Loops:* 10-second looping 3D ambient backgrounds for each of the 5 Grand Enterprise Tracks.
-  3. *Live Hacking Ambient Loop:* Subtle obsidian-gold particle flow with dynamic sponsor logo rotation bug.
-  4. *Checkpoint Gate Countdown:* 15-minute countdown clock for submission freezes.
-  5. *Grand Winner Reveal Stinger:* Gold particle explosion with cold pyro trigger cue.
+| Hierarchy Level | Primary Typeface | Alternative Fallback | Weight | Tracking | Primary Color |
+|---|---|---|:---:|:---:|:---:|
+| **Hero Display Titles** | *Syne* / *Space Grotesk* | *Inter Tight* | Bold (700/800) | `-0.03em` | Astral White (`#FFFFFF`) with Electric Violet glow |
+| **H1 Section Headings** | *Space Grotesk* | *Plus Jakarta Sans* | SemiBold (600) | `-0.02em` | Astral White (`#FFFFFF`) |
+| **H2 Component Cards** | *Plus Jakarta Sans* | *Inter* | SemiBold (600) | `-0.01em` | Cyber Orchid (`#C084FC`) |
+| **Body Copy & Longform**| *Inter* | *Roboto* | Regular (400) | `Normal` | Starlight Lavender (`#E9D5FF`) / `#94A3B8` |
+| **Terminal & Code Logs**| *JetBrains Mono* | *Fira Code* | Medium (500) | `+0.02em` | Celestial Cyan (`#38BDF8`) / `#A855F7` |
 
 ---
 
-## 5. Streetwear Merchandise & Hardware Kit Specifications
+## 5. Physical Merchandise & Swag Engineering
 
 ### 5.1 Heavyweight Streetwear Cotton Fleece Hoodies (500 Units)
-* **Fabric:** 280 GSM, 100% Super-Combed Ring-Spun Cotton Fleece, Bio-Washed & Pre-Shrunk.
-* **Color:** Obsidian Pitch Black (`#0B0F19`).
-* **Chest Branding:** 4-inch High-Density 3D Rubberized Gel Print ("KAIROS καιρός" in Snow White & Neon Orange).
-* **Left Sleeve Patch:** Woven Jacquard Embroidered Patch featuring the AWS Student Builder Group Crest.
+* **Base Fabric:** 380 GSM, 100% Super-Combed Ring-Spun Cotton Fleece, Bio-Washed, Anti-Pilling & Pre-Shrunk.
+* **Base Color:** Deep Void Black (`#000000`).
+* **Front Chest:** 6-inch High-Density 3D Rubberized Gel Print of the **Primary Logo Lockup** (`K A [Hourglass] R O S` in Astral White and Electric Violet `#A855F7` glow).
+* **Left Sleeve:** 2.75-inch circular woven jacquard patch of the **Official Circular Sticker Seal** with satin purple edge overlocking.
+* **Right Sleeve:** Subtle tonal silicone print: `"IDEAS TODAY — IMPACT TOMORROW"`.
 * **Backprint:** Futuristic schematic circuit grid displaying the 5 Hackathon Tracks and Title Sponsor credits.
 
-### 5.2 Laser-Etched Metal NFC Smart Badges (600 Units)
-* **Material:** 0.8mm Anodized Matte Black Aluminium Alloy with beveled silver edges.
-* **Dimensions:** Standard CR80 Credit Card Size (85.6 mm × 54 mm).
-* **Chipset:** NTAG213 High-Frequency (13.56 MHz) NFC chip embedded behind a protective matte overlay.
-* **Front Engraving:** Laser-etched participant name, team name, team ID, and high-contrast dynamic QR code.
-* **Lanyard Ribbon:** 20mm Premium Jacquard Woven Silk Ribbon with dual metal lobster claw hooks and safety breakaway clasp.
+### 5.2 Official Circular Die-Cut Vinyl Stickers (3,000 Units)
+* **Specs:** 3.0-inch circular die-cut, 6-mil ultra-heavyweight waterproof vinyl.
+* **Artwork:** High-resolution reproduction of [`kairos_official_circular_sticker_seal.jpg`](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/brand_identity_and_logos/kairos_official_circular_sticker_seal.jpg).
+* **Finish:** Matte soft-touch lamination with spot UV gloss over the electric violet orbital ring and central hourglass.
+* **Usage:** 5 stickers packed into each of the 500 Builder Kits, plus distribution to judges, mentors, and VIPs.
 
-### 5.3 Die-Cut Holographic Sticker Packs (600 Packs)
-* **Quantity:** 5 Die-Cut Stickers per pack.
-* **Material:** 6-mil Heavy Duty Waterproof Vinyl with Rainbow Holographic Metallic Sheen.
-* **Themes:**
-  1. Kairos 2027 Main Geometric Logo (Holographic).
-  2. "Deploy on AWS or Cry Trying" (Cyberpunk Terminal Badge).
-  3. "48 Hours Non-Stop Builder" (Matrix Green Badge).
-  4. AWS Bedrock Generative AI Builder Mascot.
-  5. Title Sponsor Custom Co-Branded Sticker.
+### 5.3 Laser-Etched Metal NFC Smart Badges (600 Units)
+* **Dimensions:** Standard CR80 format (85.6 mm × 54.0 mm × 0.8 mm).
+* **Material:** Anodized Matte Black Aluminium Alloy with laser-etched chamfered silver-violet edges.
+* **Front Face:** Laser-etched participant name, team name, team ID, and dynamic QR code. Top right features the **Celestial Hourglass Emblem**.
+* **Rear Face:** High-contrast laser etching of the **Official Circular Seal** with embedded NTAG213 NFC chip.
+* **Lanyard Ribbon:** 20mm premium jacquard woven ribbon in Deep Void Black (`#000000`) with woven Electric Violet (`#A855F7`) and Astral White (`#FFFFFF`) lettering: `"KAIROS 2027 • AWS STUDENT BUILDER GROUP • SIST"`.
 
 ---
 
-## 6. Print & Wayfinding Specifications
+## 6. Stage Scenography & 4K LED Screen Asset Specifications
 
-* **Main Plenary Star-Flex Backdrop:** 24 ft (W) × 12 ft (H) Star Flex on 2-inch wood frame.
-* **Roll-Up Display Standees (16 Units):** 6 ft (H) × 3 ft (W) teardrop aluminium base. 
-  * 2 at Main Registration Foyer.
-  * 5 for Track Hacking Bays (Lecture Halls 1–3).
-  * 3 for Sponsor Exhibition Area.
-  * 2 for VIP Executive Lounge.
-  * 4 for Dining & Rest Zone Navigation.
-* **Giant Novelty Winner Cheques (8 Units):** 4 ft × 2 ft mounted on 5mm high-density foam board with high-gloss laminate.
-* **Certificates of Merit & Participation (600 Units):** 300 GSM Royal Matte Textured Cardstock with Embossed Gold Foil Seal.
+### 6.1 P2.5 4K LED Main Stage Wall (20 ft × 10 ft — 3840 × 1920 px)
+* **Aspect Ratio:** Custom 2:1 Ultra-Wide Screen (`3840 × 1920 px`, 60fps, ProRes 422 / MP4 H.265).
+* **Background Canvas:** Pure Void Black (`#000000`) with subtle slow-motion ambient cosmic dust drifting in Electric Violet (`#A855F7`).
+* **Motion Graphics Loops:**
+  1. *Countdown to Genesis:* 60-second 3D rotating hourglass with cosmic sands cascading into a supernova flash at 00:00:00.
+  2. *Live Hacking Ambience:* Slowly orbiting planetary ring with glowing stars and live countdown clock widget.
+  3. *Checkpoint Gate Interstitials:* High-voltage purple shockwave transition across the LED wall when gates lock.
+  4. *Grand Valedictory Celebration:* Majestic purple and gold starlight confetti burst with spotlight sweep.
+
+### 6.2 Roll-Up Display Standees (16 Units — 6 ft × 3 ft)
+* **Hardware:** Luxury teardrop aluminium rollup base with chrome magnetic endcaps.
+* **Print Substrate:** 340 GSM Non-Tear Matte Poly-Film with anti-curl backing.
+* **Design Scheme:** Deep Void Black background with top Electric Violet orbital header, Primary Logo Lockup, and bottom Official Circular Seal footer.
+
+---
+
+## 7. Digital Web & Social Asset Guidelines
+
+* **Website Dark Mode Standard:** Pure Void Black `#000000` body background with subtle radial gradient glow:
+  ```css
+  background: radial-gradient(circle at 50% 0%, #1a0b2e 0%, #000000 70%);
+  ```
+* **Interactive Hover States:** `box-shadow: 0 0 25px rgba(168, 85, 247, 0.45);` with `border-color: #A855F7;`.
+* **Social Media Cards (Instagram 4:5 & LinkedIn 1:1):** Bold Astral White typography on Void Black with glowing Electric Violet orbital rings framing the content.

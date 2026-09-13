@@ -11,7 +11,7 @@
 |:---:|---|---|---|---|:---:|
 | **SOC-01** | Teaser Phase | Instagram / LinkedIn | 1080 × 1350 px | "Something Grand is Awakening" — Amber Particle Pulse | [ ] In Figma |
 | **SOC-02** | Official Launch | Instagram Carousel (6 slides) | 1080 × 1350 px | "KAIROS 2027: India's 48H Cloud & AI Hackathon" | [ ] Drafted |
-| **SOC-03** | Scale & Capital | Instagram Feed Post | 1080 × 1350 px | "₹10,00,000+ Uncapped Pool / 100% Free Entry" | [ ] Drafted |
+| **SOC-03** | Scale & Capital | Instagram Feed Post | 1080 × 1350 px | "₹1,75,000 Pure Cash Pool / 100% Free Entry" | [ ] Drafted |
 | **SOC-04** | Track 1 Spotlight | Instagram Carousel (4 slides) | 1080 × 1350 px | "Track 1: Agentic AI & AWS Bedrock Deep-Dive" | [ ] Queued |
 | **SOC-05** | Track 2 Spotlight | Instagram Carousel (4 slides) | 1080 × 1350 px | "Track 2: Cloud-Native & Serverless Resiliency" | [ ] Queued |
 | **SOC-06** | Track 3 Spotlight | Instagram Carousel (4 slides) | 1080 × 1350 px | "Track 3: Web3 & Cryptographic Architectures" | [ ] Queued |
@@ -20,7 +20,7 @@
 | **SOC-09** | Sponsor Announce | LinkedIn Banner | 1200 × 627 px | "Welcoming [Title Sponsor] as Official Partner" | [ ] Template Ready |
 | **SOC-10** | Countdown T-7D | Instagram Story (Motion) | 1080 × 1920 px | "7 Days Until Hackathon Genesis" | [ ] Scripted |
 | **SOC-11** | Live Stream Link | YouTube / LinkedIn | 1920 × 1080 px | "48H Non-Stop Multicam Broadcast Thumbnail" | [ ] Template Ready |
-| **SOC-12** | Champions Reveal | Instagram Grid Ribbon (3 posts)| 1080 × 1350 px × 3 | "Grand Champions Crowned — ₹1,50,000 Cash Prize" | [ ] Template Ready |
+| **SOC-12** | Champions Reveal | Instagram Grid Ribbon (3 posts)| 1080 × 1350 px × 3 | "Grand Champions Crowned — ₹60,000 Pure Cash Prize" | [ ] Template Ready |
 
 ---
 
