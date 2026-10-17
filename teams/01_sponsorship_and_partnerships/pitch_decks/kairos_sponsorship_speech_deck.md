@@ -350,42 +350,49 @@ Does everyone understand that protocol? Good."
 
 ---
 
-# 01:10 — 01:20 | SEGMENT 4: THE RAINMAKER BOUNTY — YOUR PERSONAL INCENTIVE ENGINE
+# 01:10 — 01:20 | SEGMENT 4: THE INCENTIVE ENGINE & REFERRAL FRAMEWORK (DEC-05)
 
-## [This section should get people excited — use energy here]
+> [!WARNING]
+> **GOVERNANCE DIRECTIVE: RAINMAKER CASH COMMISSIONS QUARANTINED**  
+> **Status:** `[DECISION REQUIRED / APPROVAL REQUIRED — DO NOT OFFER]` (DEC-05)  
+> The conceptual 10%–15% referral cash commission model ("Rainmaker Bounty System") outlined in preliminary planning is **QUARANTINED** pending formal clearance from University Finance and the Registrar's Office. Team members must **NOT** make public offers or promises of direct cash commissions to campus ambassadors or students. All corporate sponsorships operate strictly through official university MoUs and the University Accounts Office.
+
+## [Speaker Note: Present this segment with strict governance context. Note to the squad that cash payouts are quarantined / APPROVAL REQUIRED — DO NOT OFFER, while academic commendations, merchandise, and stage awards are active.]
 
 "Now I want to talk about something that makes KAIROS 2027 different from every other hackathon sponsorship model in the country.
 
-We have created what I call the **Rainmaker Bounty System.**
+In our preliminary strategy, we conceptualized what we designated the **Rainmaker Bounty System (currently quarantined under DEC-05: APPROVAL REQUIRED — DO NOT OFFER pending finance clearance).**
 
-Here's the idea: **Anyone — literally anyone across India — can bring us a corporate sponsor and earn a direct cash commission.** Not a certificate. Not a mention in the program. Not a letter of appreciation. **Actual money in their bank account via UPI within 48-72 hours of the sponsorship clearing.**
+Here's the concept: **Anyone — literally anyone across India — can bring us a corporate sponsor and earn milestone recognition (and potential referral commissions, subject to DEC-05 university finance approval).**
 
-[WRITE ON BOARD:]
+*(Speaker Note: Emphasize that direct cash commissions are quarantined [APPROVAL REQUIRED — DO NOT OFFER / DEC-05] until university accounts sign-off. Do not promise UPI transfers externally.)*
 
-Title Sponsor (Rs. 2,00,000) — Referrer earns Rs. 20,000 to Rs. 30,000
-Co-Powered By (Rs. 1,00,000) — Referrer earns Rs. 10,000 to Rs. 12,000
-Associate Partner (Rs. 50,000) — Referrer earns Rs. 5,000
-Track Partner (Rs. 25,000) — Referrer earns Rs. 2,500
-In-Kind F&B / Energy Deal — Referrer earns Rs. 3,000 to Rs. 5,000 fixed bounty
+[WRITE ON BOARD (PROPOSED CONCEPTUAL TIERS — PENDING APPROVAL):]
 
-Think about this for a second. If someone in your network connects us to a Title Sponsor and that deal closes, they earn **Rs. 20,000 to Rs. 30,000.** That's a month's salary for many people. That's a semester of college fees. And this comes **100% from the sponsorship funds received** — zero risk, zero upfront cost to us.
+Title Sponsor (Rs. 2,00,000) — Referrer allocation Rs. 20,000 to Rs. 30,000 (quarantined)
+Co-Powered By (Rs. 1,00,000) — Referrer allocation Rs. 10,000 to Rs. 12,000 (quarantined)
+Associate Partner (Rs. 50,000) — Referrer allocation Rs. 5,000 (quarantined)
+Track Partner (Rs. 25,000) — Referrer allocation Rs. 2,500 (quarantined)
+In-Kind F&B / Energy Deal — Referrer allocation Rs. 3,00,0 to Rs. 5,000 (quarantined)
+
+Think about this for a second. If someone in your network connects us to a Title Sponsor and that deal closes, that creates massive impact. And once institutional clearance is granted, this can directly empower students.
 
 This is how you **multiply your outreach by 100.**
 
-You personally cannot cold-email every company in India. But what if your 120+ campus ambassadors all become motivated rainmakers? What if alumni networks start sending leads? What if a student from IIT Madras knows the VP of a startup in Bangalore and connects them to us?
+You personally cannot cold-email every company in India. But what if your 120+ campus ambassadors all become motivated ambassadors? (Note: While direct cash bounties are quarantined [APPROVAL REQUIRED — DO NOT OFFER / DEC-05], our tiered merchandise and VIP passes provide huge immediate incentive.)
 
-The Rainmaker model turns **every student in India into a part of our sales force.**
+The outreach model turns **every student in India into a part of our sales force.**
 
 **The rules are simple:**
 1. Register your lead first — email sistawscc@gmail.com with the company name and your name. **First timestamp wins** — no disputes.
 2. Make the warm introduction. Give them our materials.
 3. Nikki and I handle the formal pitch, negotiation, and closing.
-4. When the money clears — you get paid via UPI/NEFT within 48-72 hours of bank confirmation, upon joint sign-off from Nikki and me.
-5. The **top closer** gets the **National Corporate Rainmaker Trophy** on the main stage in front of 600 people at the Valedictory Ceremony. On a live broadcast.
+4. When the money clears into the university account — formal disbursement and recognition take place in accordance with institutional policy (DEC-05).
+5. The **top closer** gets the **National Corporate Ambassador Trophy (formerly Rainmaker Trophy — DEC-05 quarantined / APPROVAL REQUIRED — DO NOT OFFER cash)** on the main stage in front of 600 people at the Valedictory Ceremony. On a live broadcast.
 
-You want to motivate 120 campus ambassadors to hustle? Tell them they can earn Rs. 20,000 to Rs. 30,000 in commission by connecting us with one company.
+You want to motivate 120 campus ambassadors to hustle? Show them what they can achieve by connecting us with industry leaders.
 
-That is the power of this system. It's self-funding. It's transparent. It's fair. And it scales exponentially."
+That is the power of this system. It's transparent. It's fair. And it scales exponentially."
 
 ---
 
@@ -576,7 +583,7 @@ Today is October 17th. December 15th is our hard close. That's **59 days.**
 - Minimum 40 first-touch outreach emails or DMs sent
 - Minimum 15 companies responded or engaged
 - Pipeline targets: AWS at Stage 6 (MoU executed), Red Bull at Stage 6 (confirmed)
-- Rainmaker briefing: All 120+ campus ambassadors notified of the bounty system
+- Ambassador network briefing: All 120+ campus ambassadors briefed on the referral and recognition system (Rainmaker cash incentives are quarantined / [APPROVAL REQUIRED — DO NOT OFFER] under DEC-05 pending finance clearance)
 
 **By November 15:**
 - Minimum 20 discovery calls completed
@@ -614,9 +621,9 @@ Enterprise Sub-Head — Your squad owns Freshworks, Cognizant, Zoho follow-up, P
 
 Track and Bounty Lead — Map each of the 5 tracks to one potential corporate track sponsor. GenAI track to a foundation model company (Anthropic, Cohere, or AI21). FinTech track to LTIMindtree or Slice or Groww. Healthcare track to Cognizant or Apollo. Web3 track to Polygon or Solana. Open Innovation to any startup in hyper-growth.
 
-Treasury Lead — Prepare the institutional GST invoice template with SIST bank account details. Prepare the Rainmaker Bounty tracking spreadsheet — every referral registered with timestamp, company name, referrer, stage, and payout amount. We dispatch invoices within 24 hours of any verbal commitment.
+Treasury Lead — Prepare the institutional GST invoice template with SIST bank account details. Prepare the Ambassador referral tracking spreadsheet (Rainmaker cash bounty tracker is quarantined under DEC-05 / [APPROVAL REQUIRED — DO NOT OFFER]) — every referral registered with timestamp, company name, referrer, stage, and verified institutional invoice status. We dispatch invoices within 24 hours of any verbal commitment.
 
-All Squad Members — Share the Rainmaker Bounty brief with at least 10 campus ambassadors each, personally. Not a WhatsApp forward — a personal message explaining the opportunity. Your network is your force multiplier.
+All Squad Members — Share the Ambassador recognition toolkit with at least 10 campus ambassadors each, personally (note: Rainmaker cash commissions are quarantined / [APPROVAL REQUIRED — DO NOT OFFER] pending finance sign-off). Not a WhatsApp forward — a personal message explaining the opportunity. Your network is your force multiplier.
 
 [Q&A PROMPT: Does each of you know your specific 10-company list for this week?]
 
@@ -831,8 +838,8 @@ Any final questions before we close?"
 | Track Lead | Map 5 tracks to 5 potential track sponsors | October 21 |
 | Track Lead | Follow up: Polygon (Twitter/LinkedIn), LTIMindtree (alumni network) | October 19 |
 | Treasury Lead | Prepare GST invoice template + SIST bank escrow details PDF | October 20 |
-| Treasury Lead | Create Rainmaker Bounty tracking sheet with timestamp, referrer, company, stage, payout columns | October 20 |
-| All Squad Members | Brief 10 campus ambassadors each on the Rainmaker Bounty — personal message, not a forward | October 19 |
+| Treasury Lead | Create Ambassador referral tracking sheet (Rainmaker cash tracker quarantined under DEC-05 / [APPROVAL REQUIRED — DO NOT OFFER]) | October 20 |
+| All Squad Members | Brief 10 campus ambassadors each on the Ambassador Toolkit (Rainmaker cash quarantined under DEC-05 / [APPROVAL REQUIRED — DO NOT OFFER]) | October 19 |
 
 ---
 

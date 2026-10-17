@@ -3,7 +3,7 @@
 **Document Reference:** `teams/02_design_and_creative_assets/certificates_and_awards/certificate_and_trophy_specifications.md`  
 **Direct Owner:** **Rikish B** (Design Lead, Reg: `44110664`)  
 **Archivist:** **Hemavarshine S** (Documentation Lead, Reg: `44110263`)  
-**Governing Standard:** [04_design_and_branding_guidelines.md](../../../docs/04_design_and_branding_guidelines.md) · [06_tracks_problem_statements_and_tech.md](../../../docs/06_tracks_problem_statements_and_tech.md) · [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md)  
+**Governing Standards (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-04 (Design & Branding Guidelines)` · `DOC-06 (Tracks & Tech Architecture)`  
 **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
 **Trophy Inscription:** **`KAIROS: BUILD • CREATE • SHIP`**  
 **Status:** `APPROVED PLAN`  

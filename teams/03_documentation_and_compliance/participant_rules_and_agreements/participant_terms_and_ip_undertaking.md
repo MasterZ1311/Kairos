@@ -2,7 +2,7 @@
 
 **Document Reference:** `teams/03_documentation_and_compliance/participant_rules_and_agreements/participant_terms_and_ip_undertaking.md`  
 **Standard Form:** Required for all 100 Shortlisted Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)  
-**Governing Standard:** [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md) · [09_participant_handbook_and_rules.md](../../../docs/09_participant_handbook_and_rules.md) · [14_official_letters_and_administrative_approvals.md](../../../docs/14_official_letters_and_administrative_approvals.md) · [15_google_form_registration_and_confirmation_template.md](../../../docs/15_google_form_registration_and_confirmation_template.md)  
+**Governing Standard (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-09 (Participant Handbook)` · `DOC-14 (Official Letters & Approvals)` · `DOC-15 (Registration & Confirmation Template)`  
 **Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
 **Super Head Authority:** Shaik Khaja Mohiddin (CSO, Reg: `44110756`)  
 **Official Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  

@@ -5,7 +5,7 @@
 **Sponsoring Institution:** Sathyabama Institute of Science and Technology (Deemed to be University), Chennai – 600119  
 **Executive Authority:** President Thenappan T (Register No: `44110855`) & The Executive Leadership Council  
 **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
-**Governing Standards:** [00_hackathon_master_brief.md](../docs/00_hackathon_master_brief.md) · [08_event_operations_and_volunteer_manual.md](../docs/08_event_operations_and_volunteer_manual.md) · [13_hackathon_101_core_team_primer.md](../docs/13_hackathon_101_core_team_primer.md) · [18_team_structure_leads_and_workforce_deployment.md](../docs/18_team_structure_leads_and_workforce_deployment.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Governing Standards (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-08 (Operations & Shift Roster)` · `DOC-13 (Core Team Primer)` · `DOC-18 (Workforce Deployment)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Event Window:** January 22 – 24, 2027 (48 Continuous Hours)  
 **Official Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  
 **Working Operational Capital:** ₹3,50,000 – ₹4,00,000 Liquid Sponsorship Escrow  

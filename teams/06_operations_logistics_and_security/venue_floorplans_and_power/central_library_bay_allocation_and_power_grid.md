@@ -4,7 +4,7 @@
 > **SUPERSEDED ARCHIVAL RECORD — INITIAL PLANNING BASELINE ONLY**  
 > This specification documents the initial planning baseline (Central Library Complex). Following institutional capacity review for 100 teams (450–600 hackers), the official approved venue is **Sathyabama Indoor Stadium (Indoor Auditorium)**.  
 > **Active Canonical Specification:** [`indoor_stadium_arena_bay_allocation_and_power_grid.md`](./indoor_stadium_arena_bay_allocation_and_power_grid.md)  
-> **Master Transition Plan:** [`../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md`](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)
+> **Master Transition Plan (Executive Reference):** `DOC-20 (Indoor Auditorium Transition & Budget Plan)`
 
 > **Floor Commander:** Nangaiyar M (Community & Events Lead, Reg: `44612059`)  
 > **Network Architect:** Viswanathan Ashok (Reg: `44110907`)  

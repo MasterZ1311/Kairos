@@ -6,7 +6,7 @@
 **Direct Lead:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
 **Operations Lead:** **Nangaiyar M** (Community & Events Lead, Reg: `44612059`)  
 **Sign-Off Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
-**Governing Standards:** [04_design_and_branding_guidelines.md](../../../docs/04_design_and_branding_guidelines.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Governing Standards (Executive Planning Framework):** `DOC-04 (Design & Branding Guidelines)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
 **Status:** `APPROVED PLAN`  
 

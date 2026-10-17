@@ -2,7 +2,7 @@
 
 > **Subfolder:** `teams/05_hands_on_aws_builder_and_website/website_frontend_source/`  
 > **Direct Lead:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`, Phone: `+91 9080809088`)  
-> **Repository Integration:** Directly maps to [`docs/16_website_design_and_experience_specification.md`](../../../docs/16_website_design_and_experience_specification.md)  
+> **Executive Specification Reference:** `DOC-16 (Website Design & Experience Specification)`  
 
 ---
 

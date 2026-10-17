@@ -12,7 +12,7 @@
 
 This folder contains the complete, ready-to-print, legally structured administrative letters required to secure institutional facilities, campus transportation, green EV buggies, police clearance, security permissions, and academic on-duty (OD) sanctions for KAIROS 2027.
 
-All letters are fully articulated in `docs/14_official_letters_and_administrative_approvals.md` and summarized into individual execution tracks here.
+All letters are fully articulated in `DOC-14 (Official Letters & Administrative Approvals)` and summarized into individual execution tracks here.
 
 ---
 

@@ -4,7 +4,7 @@
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Live Stream Director:** Caroline Mary McPherson (Media Head 1 / CCMO, Reg: `44110124`)  
 **Master Rig Engineer:** Broadcast Operations Squad  
-**Governing Standard:** [02_hard_office_copy_master_agenda.md](../../../docs/02_hard_office_copy_master_agenda.md) · [05_marketing_media_and_promotion.md](../../../docs/05_marketing_media_and_promotion.md) · [08_event_operations_and_volunteer_manual.md](../../../docs/08_event_operations_and_volunteer_manual.md)  
+**Governing Standard (Executive Planning Framework):** `DOC-02 (Master Agenda)` · `DOC-05 (Marketing, Media & Promotion)` · `DOC-08 (Operations & Volunteer Manual)`  
 **Broadcast Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  
 **Status:** `APPROVED PLAN`  
 
@@ -29,7 +29,7 @@ OBS SCENE MANIFEST:
 
 ## 2. Master Broadcast Schedule & High-Impact Segments
 
-Aligned strictly with the official 48-hour Master Schedule ([02_hard_office_copy_master_agenda.md](../../../docs/02_hard_office_copy_master_agenda.md)):
+Aligned strictly with the official 48-hour Master Schedule (`DOC-02`):
 
 | Hackathon Hour | Timestamp (IST) | Segment Title | Primary Scene | AV Audio Cue | Sponsor Video Stinger |
 |:---:|---|---|:---:|:---:|:---:|

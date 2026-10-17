@@ -50,17 +50,17 @@ The following parameters represent the verified working baseline for KAIROS 2027
 | **Event Name** | KAIROS 2027 (Grand Edition) | **Approved Plan** | Apex Chapter Charter, SIST | Canonical title for all documentation. |
 | **Organizing Chapter** | AWS Student Builder Group — SIST Chapter | **Verified** | Amazon Web Services Student Builder Groups Program | Authorized organizing student chapter. |
 | **Host Institution** | Sathyabama Institute of Science and Technology (Deemed to be University), Chennai | **Verified** | Institutional Charter, NAAC A++ accreditation | Always cite official institutional eminence. |
-| **Event Venue** | Sathyabama Indoor Stadium (Indoor Auditorium), Chennai | **Approved Plan** | `docs/20_indoor_auditorium_venue_transition_and_budget_plan.md` | Primary physical venue; capacity ~2,500 seats. |
+| **Event Venue** | Sathyabama Indoor Stadium (Indoor Auditorium), Chennai | **Approved Plan** | `DOC-20 (Indoor Auditorium Transition & Budget Plan)` | Primary physical venue; capacity ~2,500 seats. |
 | **Grand Finale Dates** | 22–24 January 2027 (48 Hours continuous) | **Approved Plan** | Master Hackathon Blueprint | Working dates; subject to university academic calendar approval. |
 | **Online Qualifier Dates** | 02–04 January 2027 (48 Hours virtual sprint) | **Approved Plan** | Qualifier Evaluation Framework | Virtual qualifier filtering applicants to Top 100 teams. |
 | **Application Window** | 15 October – 15 December 2026 | **Approved Plan** | Event Schedule | Planned registration timeline. |
 | **Participant Fee** | ₹0 (100% Free Entry, Boarding, and Buffet Meals) | **Approved Plan** | Student Accessibility Charter | Core value pillar; non-negotiable meritocratic model. |
 | **Audience Scale (Finalists)** | 100 Teams (Teams of 4–6 students, ~400–600 Finalists) | **Approved Plan** | Venue Allocation Plan | Confirmed capacity limit of Indoor Stadium floor. |
 | **Applicant Pool** | 2,000+ Students Nationwide (Target) | **Target / Forecast** | Outreach Strategy Projection | Must label as "Projected National Applicant Target". |
-| **Working Capital Target** | ₹3,50,000 – ₹4,00,000 | **Target / Forecast** | `docs/03_budget_and_financial_tracker.md` | Core operational budget baseline; uncapped ceiling. |
+| **Working Capital Target** | ₹3,50,000 – ₹4,00,000 | **Target / Forecast** | `DOC-03 (Budget & Financial Tracker)` | Core operational budget baseline; uncapped ceiling. |
 | **Pure Cash Prize Pool** | ₹1,75,000 Total Escrow | **Approved Plan** | Prize Architecture Specification | Guaranteed cash pool to be held in university escrow. |
 | **Prize Breakdown** | 1st: ₹60k, 2nd: ₹35k, 3rd: ₹20k, 5 Tracks: ₹7k each (₹35k), Bounties: ₹25k | **Approved Plan** | Prize Model | Strict cash prize allocation. |
-| **Sponsorship Lead** | Nikki (Nangaiyar M), Reg: `44612059` | **Verified** | `docs/18_team_structure_leads_and_workforce_deployment.md` | Sole operational head of sponsorship. |
+| **Sponsorship Lead** | Nikki (Nangaiyar M), Reg: `44612059` | **Verified** | `DOC-18 (Master Workforce Deployment)` | Sole operational head of sponsorship. |
 | **Apex Chapter Lead** | Thenappan T, Reg: `44110855` | **Verified** | AWS SBGL Student Lead | Chapter President & Institutional Representative. |
 | **Faculty Coordinators** | Dr. K. Ashok Kumar & Dr. Balapriya S, Dept of CSE | **Verified** | Department of CSE, SIST | Institutional endorsement and university approval leads. |
 | **Institutional Signatory** | Dean, School of Computing / Registrar, SIST | **[APPROVAL REQUIRED]** | University Delegation Policy | Required signatory for legal corporate MoUs. |

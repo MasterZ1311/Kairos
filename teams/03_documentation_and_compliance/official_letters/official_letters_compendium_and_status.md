@@ -1,8 +1,8 @@
 # KAIROS 2027 — Official Letters Compendium & Sanction Dispatch Ledger
 
 **Document Reference:** `teams/03_documentation_and_compliance/official_letters/official_letters_compendium_and_status.md`  
-**Master Canonical Document:** [docs/14_official_letters_and_administrative_approvals.md](../../../docs/14_official_letters_and_administrative_approvals.md)  
-**Governing Standard:** [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Master Executive Specification:** `DOC-14 (Official Letters & Administrative Approvals)`  
+**Governing Standard (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
 **Super Head Authority:** Shaik Khaja Mohiddin (CSO, Reg: `44110756`)  
 **Status:** `CONFIRMED MASTER OPERATING STANDARD`  
@@ -11,7 +11,7 @@
 
 ## 1. Executive Summary of Administrative Letters
 
-Below is the structured action summary for all 7 university sanction letters. Detailed text copy and signature blocks are indexed in [docs/14](../../../docs/14_official_letters_and_administrative_approvals.md).
+Below is the structured action summary for all 7 university sanction letters. Detailed institutional drafts and signature blocks are recorded in `DOC-14`.
 
 ### Letter 1: Sathyabama Indoor Stadium Venue & 65 kVA Power Sanction
 - **Reference:** `SIST/AWSSBG/VEN/2026-27/001-REV`

@@ -4,7 +4,7 @@
 **Direct Owner:** **Rikish B** (Design Lead, Reg: `44110664`)  
 **Vendor Liaison:** **Nangaiyar M** (Logistics Lead, Reg: `44612059`)  
 **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
-**Governing Standard:** [04_design_and_branding_guidelines.md](../../../docs/04_design_and_branding_guidelines.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Governing Standard (Executive Planning Framework):** `DOC-04 (Design & Branding Guidelines)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Status:** `APPROVED PLAN`  
 
 ---

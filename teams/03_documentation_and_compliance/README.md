@@ -8,7 +8,7 @@
 **Apex Executive Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 **Faculty Signatories:** **Dr. K. Ashok Kumar** & **Dr. Balapriya .S** (Dept. of CSE, SIST)  
 **Institutional Authority:** **Dr. L. Lakshmanan** (Dean, School of Computing) & **Dr. T. Sasipraba** (Vice Chancellor)  
-**Governing Standards:** [00_hackathon_master_brief.md](../../docs/00_hackathon_master_brief.md) · [09_participant_handbook_and_rules.md](../../docs/09_participant_handbook_and_rules.md) · [14_official_letters_and_administrative_approvals.md](../../docs/14_official_letters_and_administrative_approvals.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Governing Standards (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-09 (Participant Handbook)` · `DOC-14 (Official Letters & Approvals)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Status:** `CONFIRMED MASTER OPERATING STANDARD`  
 
 ---

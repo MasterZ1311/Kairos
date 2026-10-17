@@ -6,7 +6,7 @@
 **Direct Lead:** **Harshith Raj S** (Socials & PR Lead)  
 **Media Supervisor:** **Caroline Mary McPherson** (Media Head 1 / CCMO, Reg: `44110124`)  
 **Executive Oversight:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
-**Governing Standard:** [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md) · [05_marketing_media_and_promotion.md](../../../docs/05_marketing_media_and_promotion.md)  
+**Governing Standard (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-05 (Marketing, Media & Promotion)`  
 **Status:** `APPROVED PLAN`  
 
 ---

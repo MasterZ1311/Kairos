@@ -7,7 +7,7 @@
 **Technical Leads:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`, Phone: `+91 9080809088`) & **Shanmugapriyan S** (Technical Team Lead, Reg: `44111257`, Phone: `+91 7550091864`)  
 **Executive Review:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 **Production URL:** `https://kairos.sathyabama.ac.in`  
-**Governing Standards:** [00_hackathon_master_brief.md](../../docs/00_hackathon_master_brief.md) · [02_agenda_rounds_and_judging_rubric.md](../../docs/02_agenda_rounds_and_judging_rubric.md) · [16_website_design_and_experience_specification.md](../../docs/16_website_design_and_experience_specification.md) · [19_operations_logistics_crud_and_system_specs.md](../../docs/19_operations_logistics_crud_and_system_specs.md)  
+**Governing Standards (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-02 (Agenda & Judging Rubrics)` · `DOC-16 (Website Design Specification)` · `DOC-19 (Operations & Logistics CRUD)`  
 **Status:** `CONFIRMED MASTER OPERATING STANDARD`  
 
 ---

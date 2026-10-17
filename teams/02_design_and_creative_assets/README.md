@@ -6,8 +6,8 @@
 **Direct Lead:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`, Email: `rikish2006@gmail.com`)  
 **Collaborating Lead:** **Caroline Mary McPherson** (Media Head 1 / CCMO, Reg: `44110124`, Phone: `+91 8838990182`)  
 **Supervising Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
-**Master Brand Book:** [04_design_and_branding_guidelines.md](../../docs/04_design_and_branding_guidelines.md)  
-**Governing Standards:** [00_hackathon_master_brief.md](../../docs/00_hackathon_master_brief.md) · [06_tracks_problem_statements_and_tech.md](../../docs/06_tracks_problem_statements_and_tech.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Master Brand Book Reference:** `DOC-04 (Design & Branding Guidelines)`  
+**Governing Standards (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-06 (Tracks & Tech Architecture)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
 **Core Narrative:** `Time → Idea → Build → Ship`  
 **Recognition Mandate:** *Someone should see any KAIROS asset for 2 seconds and immediately recognize the hackathon.*  

@@ -56,7 +56,7 @@ graph TD
 
 ## 3. Complete Documentation Ecosystem & Navigation Map
 
-The entire strategic, financial, technical, operational, and media architecture is modularized into **21 production-grade documents** in [`docs/`](./docs/):
+The entire strategic, financial, technical, operational, and media architecture is modularized into **21 production-grade documents** in `docs/` (Executive Planning Framework):
 
 ```mermaid
 graph TD

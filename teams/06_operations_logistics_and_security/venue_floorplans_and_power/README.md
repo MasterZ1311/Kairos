@@ -13,7 +13,7 @@
 This folder directs the spatial architecture, table bay configurations, high-density electrical distribution, and network infrastructure for KAIROS 2027. Following institutional approval, the primary venue is the **Sathyabama Indoor Stadium (Indoor Auditorium)** (modeled on empirical benchmarks from Vexora'26 ACM Hackathon).
 
 * **Primary Active Spec:** [`indoor_stadium_arena_bay_allocation_and_power_grid.md`](./indoor_stadium_arena_bay_allocation_and_power_grid.md)
-* **Master Transition & Budget Plan:** [`../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md`](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)
+* **Master Transition & Budget Plan (Executive Reference):** `DOC-20 (Indoor Auditorium Transition & Budget Plan)`
 * **Archival Baseline:** [`central_library_bay_allocation_and_power_grid.md`](./central_library_bay_allocation_and_power_grid.md)
 
 ---
