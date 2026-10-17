@@ -1,15 +1,16 @@
 # KAIROS 2027 (Grand Edition) — Master Workforce Architecture, Team Structure & Operational Deployment Manual
 
-> **Governing Standard:** `E:\AWS SBGL\ANTI-Help\01_CHAPTER_GOVERNANCE_AND_LEADERSHIP_ROSTER.md` & `08_EXECUTIVE_OPERATIONAL_CHECKLISTS_AND_ACTION_TRACKER.md`  
+> **Governing Standards:** AWS Student Builder Group Chapter Charter & Incident Command System (ICS)  
 > **Executive Directive:** "Build the grandest national hackathon ever organized. 100% Free — Zero Entry Fee for Participants."  
-> **Apex Leadership:** Thenappan T (Register No: `44110855`), President & Student Builder Group Leader (AWS SBGL), Sathyabama Institute of Science and Technology  
-> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
-> **Command Principle:** **6 Super Heads (Direct Reports)** commanding a fully deployed, specialized workforce across Pre-Event, Online Qualifier Round, During-Event, and Post-Event operational phases.  
-> **Registration Model:** **100% FREE — Zero Entry Fee** (100% funded by corporate enterprise sponsorships & institutional grant)  
+> **Apex Leadership:** Thenappan T (Register No: `44110855`), President & Student Builder Group Leader (AWS SBGL)  
+> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya S (Department of CSE, SIST)  
+> **Command Principle:** **6 Super Heads (Direct Reports)** commanding a fully deployed, specialized workforce of 106 student organizers across Pre-Event, Online Qualifier, During-Event, and Post-Event phases.  
+> **Registration Model:** **100% FREE — Zero Entry Fee** (Fully funded via corporate partnerships and institutional grant)  
 > **Dual-Phase Selection Pipeline:** 2,000+ National Applicants $\rightarrow$ **Top 250 Online Semi-Finalists (Round 1: Jan 02–04, 2027)** $\rightarrow$ **Top 100 Elite On-Campus Finalists (Round 2: Jan 22–24, 2027)**  
 > **Grand Finale Event Dates:** January 22 – 24, 2027 (48 Hours Non-Stop Continuous Sprint)  
-> **Venue:** Central Library Complex (Auditorium, 1st Floor Computing Lab, 2nd Floor Lecture Halls 1–3, Top Floor VIP Executive Lounge), Sathyabama Campus  
-> **Scale:** 100 Shortlisted National Finalist Teams (Teams of 4–6 students, ~400–600 Hackers) · ₹3,50,000 Operational Capital · ₹1,75,000 Pure Cash Prize Pool  
+> **Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Chennai — `[APPROVED PLAN]`  
+> **Scale:** 100 Shortlisted National Finalist Teams (~400–600 Hackers) · ₹3,50,000 – ₹4,00,000 Operational Budget · ₹1,75,000 Pure Cash Prize Escrow  
+> **Source of Truth:** [`00_hackathon_master_brief.md`](./00_hackathon_master_brief.md) · [`20_indoor_auditorium_venue_transition_and_budget_plan.md`](./20_indoor_auditorium_venue_transition_and_budget_plan.md)
 
 ---
 
@@ -25,39 +26,39 @@ Every squad has crystal-clear mandates across:
 
 ```mermaid
 graph TD
-    APEX["THENAPPAN T<br/>President & Apex Organizer (Reg: 44110855)"] --- ADV["Faculty Coordinators<br/>Dr. K. Ashok Kumar & Dr. Balapriya .S"]
+    APEX["THENAPPAN T<br/>President & Apex Organizer (Reg: 44110855)"] --- ADV["Faculty Coordinators<br/>Dr. K. Ashok Kumar & Dr. Balapriya S"]
     
-    APEX --> SH1["SUPER HEAD 1: CPFO<br/>Chief Partnerships & Finance Officer"]
-    APEX --> SH2["SUPER HEAD 2: CTO<br/>Chief Technology & Infrastructure Officer"]
-    APEX --> SH3["SUPER HEAD 3: COO<br/>Chief Operations & Logistics Officer"]
-    APEX --> SH4["SUPER HEAD 4: CXO<br/>Chief Experience & Hospitality Officer"]
-    APEX --> SH5["SUPER HEAD 5: CCMO<br/>Chief Creative & Media Officer"]
-    APEX --> SH6["SUPER HEAD 6: CSO<br/>Chief Safety, Governance & Jury Officer"]
+    APEX --> SH1["SUPER HEAD 1: CPFO<br/>Chief Partnerships & Finance Officer<br/>Nikki (Nangaiyar M)"]
+    APEX --> SH2["SUPER HEAD 2: CTO<br/>Chief Technology & Infrastructure Officer<br/>Shaik Khaleelulla"]
+    APEX --> SH3["SUPER HEAD 3: COO<br/>Chief Operations & Logistics Officer<br/>Viswanathan Ashok"]
+    APEX --> SH4["SUPER HEAD 4: CCO<br/>Chief Creative & Design Officer<br/>Rikish B"]
+    APEX --> SH5["SUPER HEAD 5: CMO<br/>Chief Media & PR Officer<br/>Caroline Mary McPherson"]
+    APEX --> SH6["SUPER HEAD 6: CSGO<br/>Chief Safety, Governance & Jury Officer<br/>Hemavarshine S"]
 
     %% Sub-Teams
-    SH1 --> S1A["Enterprise Corporate Sponsors (Title ₹1.25L)"]
-    SH1 --> S1B["Track Bounties & In-Kind Perks"]
-    SH1 --> S1C["Treasury, Audit & Escrow"]
+    SH1 --> S1A["Enterprise Corporate Sponsors (Title ₹2L / Co-Powered ₹1L)"]
+    SH1 --> S1B["Track Bounties & In-Kind Partner Perks"]
+    SH1 --> S1C["Treasury, Audit & University Bank Escrow"]
 
-    SH2 --> S2A["Cloud Sandbox & AWS Bedrock"]
-    SH2 --> S2B["Power Grid & High-Speed LAN/Wi-Fi"]
-    SH2 --> S2C["Scoring Portal & Anti-Plagiarism"]
+    SH2 --> S2A["Cloud Sandbox, AWS Bedrock & IAM Sandboxes"]
+    SH2 --> S2B["Indoor Stadium Arena Power Grid & High-Speed LAN/Wi-Fi"]
+    SH2 --> S2C["Qualifier Screening Portal & Anti-Plagiarism Engine"]
 
-    SH3 --> S3A["Venue Architecture & Hack Bays"]
-    SH3 --> S3B["Bus Fleet & Campus EV Transit"]
-    SH3 --> S3C["Procurement, Swag & Inventory"]
+    SH3 --> S3A["Indoor Stadium Arena Bay Architecture (Bays A1-D4)"]
+    SH3 --> S3B["Bus Fleet Logistics & Campus EV Buggy Transit"]
+    SH3 --> S3C["Procurement, Swag Vault & Hardware Inventory"]
 
-    SH4 --> S4A["Mess Hall Buffet & Fuel Bar"]
-    SH4 --> S4B["Participant Check-In & Helpdesk"]
-    SH4 --> S4C["Midnight Quests & Hacker Wellness"]
+    SH4 --> S4A["Brand Identity, Merch Design & Obsidian-Amber UI"]
+    SH4 --> S4B["Stage Backdrops, 3840×1920 LED Wall & Signage"]
+    SH4 --> S4C["Participant Streetwear, Smart Badges & Certificate Design"]
 
-    SH5 --> S5A["Brand Identity & Stage Visuals"]
-    SH5 --> S5B["48H Multicam Broadcast & PR"]
-    SH5 --> S5C["Campus Ambassador Network (120+)"]
+    SH5 --> S5A["48H Multicam Live Stream Broadcast & Video Production"]
+    SH5 --> S5B["National Marketing Funnel & PR Coverage"]
+    SH5 --> S5C["Nationwide Campus Ambassador Network (120+ Leads)"]
 
-    SH6 --> S6A["VIP Jury Protocol & CXO Lounge"]
-    SH6 --> S6B["3-Gate Evaluation Governance"]
-    SH6 --> S6C["Campus Security, Hostels & Medical"]
+    SH6 --> S6A["VIP Jury Protocol & CXO Executive Hospitality"]
+    SH6 --> S6B["3-Gate Evaluation Governance & Scoring Integrity"]
+    SH6 --> S6C["Campus Security, 10 PM - 6 AM Lock-In & 24/7 Medical"]
 ```
 
 ---
@@ -66,14 +67,14 @@ graph TD
 
 | Division | Super Head (Direct Report) | Sub-Heads | Squad Members | Total Headcount | Primary Mandate |
 |---|---|:---:|:---:|:---:|---|
-| **Division 1** | **CPFO** (Chief Partnerships & Finance Officer) | 3 | 9 | **13** | Close Title Sponsor (₹2L), manage ₹3.5L–₹4L operational capital, disburse ₹1.75L prize pool. |
-| **Division 2** | **CTO** (Chief Technology & Infrastructure Officer) | 3 | 12 | **16** | Cloud sandboxes, Online Qualifier screening portal, campus LAN, power grid, anti-plagiarism engine. |
-| **Division 3** | **COO** (Chief Operations & Logistics Officer) | 3 | 16 | **20** | Central Library bay architecture, bus fleet logistics, EV buggies, material procurement & swag inventory. |
-| **Division 4** | **CXO** (Chief Experience & Hospitality Officer) | 3 | 15 | **19** | 100% free participant hospitality, buffet meals, coffee bars, midnight side-quests, wellness. |
-| **Division 5** | **CCMO** (Chief Creative & Media Officer) | 3 | 14 | **18** | Stage visual media, 48H multicam live stream broadcast, aftermovie, nationwide ambassador outreach. |
-| **Division 6** | **CSO** (Chief Safety, Governance & Jury Officer) | 3 | 12 | **16** | Online Round jury governance, VIP care, on-ground Z-score scoring integrity, 24/7 campus security. |
-| **Executive** | **Apex Office** (President, Chief of Staff, Faculty) | — | 3 | **4** | Strategic command, emergency executive decisions, university administration liaisons. |
-| **TOTALS** | **1 President + 6 Super Heads** | **18** | **81** | **106** | **The most disciplined, high-octane hackathon workforce ever assembled.** |
+| **Division 1** | **CPFO** (Nikki / Nangaiyar M, Reg: `44612059`) | 3 | 9 | **13** | Close Title Sponsor (₹2L), manage ₹3.5L–₹4L operational budget, disburse ₹1.75L prize pool. |
+| **Division 2** | **CTO** (Shaik Khaleelulla, Reg: `44110756`) | 3 | 12 | **16** | Cloud sandboxes, Online Qualifier screening portal, arena LAN, 65 kVA power grid, plagiarism engine. |
+| **Division 3** | **COO** (Viswanathan Ashok, Reg: `44110907`) | 3 | 16 | **20** | Indoor Stadium bay architecture, bus fleet logistics, EV buggies, material procurement & swag inventory. |
+| **Division 4** | **CCO** (Rikish B, Reg: `44110664`) | 3 | 14 | **18** | Visual identity, print freeze execution, stage backdrops, LED wall graphics, streetwear merch. |
+| **Division 5** | **CMO** (Caroline Mary McPherson, Reg: `44110124`) | 3 | 15 | **19** | 48H multicam live stream broadcast, aftermovie, social media engine, 120+ campus ambassador network. |
+| **Division 6** | **CSGO** (Hemavarshine S, Reg: `44110263`) | 3 | 12 | **16** | VIP jury protocol, scoring rubric governance, 24/7 medical desk, night lock-in enforcement. |
+| **Executive** | **Apex Office** (President Thenappan T, Chief of Staff, Faculty) | — | 3 | **4** | Strategic command, emergency executive decisions, university administration liaisons. |
+| **TOTALS** | **1 President + 6 Super Heads** | **18** | **81** | **106** | **The most disciplined, high-octane student hackathon workforce ever assembled.** |
 
 ---
 
@@ -94,10 +95,10 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 [Technical Jury Calibration & Shortlist (Jan 06)] ─────────► Top 100 Elite Finalist Teams Selected (Peak Quality)
                                                                        │
                                                                        ▼
-[Phase 2: Round 2 On-Campus 48-Hour Grand Finale (Jan 22-24)] ─► 100 Teams (Teams of 4–6 students, ~400–600 Hackers) On-Site at Sathyabama Institute of Science and Technology, Chennai
+[Phase 2: Round 2 On-Campus 48-Hour Grand Finale (Jan 22-24)] ─► 100 Teams (~400–600 Hackers) On-Site at Sathyabama Indoor Stadium
   • 100% FREE: Free Buffet Meals, Free Stay, Free Swag Kits & Smart Badges
   • 3 Milestone Checkpoints (Architecture ➔ Code ➔ Pitch)
-  • ₹1,75,000 Pure Cash Prize Pool + $50k Cloud Credits
+  • ₹1,75,000 Pure Liquid Cash Prize Escrow + In-Kind Cloud Credits & Tooling
 ```
 
 ---
@@ -108,18 +109,18 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 * **Super Head 1 (CPFO & Sponsorship Lead):** **Nikki (Nangaiyar M)** (Register No: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 13 Organizers (1 Super Head + 3 Sub-Heads + 9 Squad Officers)
-* **Pre-Event Runway (Sep–Dec):** Close Title Sponsor (**₹2,00,000 / 2 Lakhs**), Co-Powered By Sponsor (**₹1,00,000 / 1 Lakh**), Track Partners (**₹25,000 – ₹50,000 each**), and institutional grant (**₹50,000**), yielding **₹3,50,000 – ₹4,00,000 in working capital (Uncapped)**. Secure in-kind partnerships (Red Bull, AWS $50k credits, JetBrains, Postman). Enforce **₹0 participant fee policy** across all partner communication.
+* **Pre-Event Runway (Sep–Dec):** Pitch Title Sponsor (**₹2,00,000**), Co-Powered By Sponsor (**₹1,00,000**), Track Partners (**₹25,000 each**), and institutional grant (**₹50,000**), targeting **₹3,50,000 – ₹4,00,000 in liquid operational capital**. Secure in-kind partnerships (Red Bull, AWS cloud credits, JetBrains, Postman). Enforce **₹0 participant fee policy** across all partner communication.
 * **Online Qualifier Round (Jan 02–04):** Track sponsor bounties and API adoption across the Top 250 semi-finalist teams during the virtual review.
 * **On-Campus 48-Hour Grand Finale (Jan 22–24):** Manage on-site VIP corporate sponsor delegations, sponsor exhibition kiosks, and talent scouting sessions. Oversee on-ground petty cash logs.
-* **Post-Event Closeout (Jan 25–Feb 10):** Release the **₹1,75,000 pure cash prize pool** via direct bank NEFT escrow disbursement within 72 hours. Deliver 10-slide sponsor ROI reports, resume databases, and university financial utilization certificates.
+* **Post-Event Closeout (Jan 25–Feb 10):** Release the **₹1,75,000 pure cash prize pool** via direct bank NEFT escrow disbursement within 72 hours. Deliver 10-slide sponsor ROI reports, consent-based opt-in candidate books, and university financial utilization certificates.
 
 ---
 
 ### Division 2: Technology, Cloud Architecture & Cyber Infrastructure (CTO)
-* **Super Head 2:** **Chief Technology & Infrastructure Officer (CTO)**  
+* **Super Head 2:** **Shaik Khaleelulla** (Register No: `44110756`)  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 16 Organizers (1 Super Head + 3 Sub-Heads + 12 Squad Engineers)
-* **Pre-Event Runway (Sep–Dec):** Provision AWS Bedrock sandbox accounts and IAM organizations. Deploy the official Kairos web portal, screening pipeline, and GitHub webhook listeners. Audit Central Library electrical capacity.
+* **Pre-Event Runway (Sep–Dec):** Provision AWS Bedrock sandbox accounts and IAM organizations. Deploy the official Kairos web portal, screening pipeline, and GitHub webhook listeners. Audit Sathyabama Indoor Stadium electrical capacity.
 * **Online Qualifier Round (Jan 02–04):** Host and operate the **Online Evaluation Portal**: ingest GitHub repos and Loom demo links for Top 250 teams; run automated code originality audits; manage 10 parallel Google Meet technical review rooms.
 * **On-Campus 48-Hour Grand Finale (Jan 22–24):** Guarantee zero downtime across the campus network and dual generator failover (<10ms). Maintain real-time Z-score normalized scoring engine and live leaderboard.
 * **Post-Event Closeout (Jan 25–Feb 10):** Safely decommission AWS sandboxes, publish open-source project showcase, and generate cloud telemetry audit.
@@ -127,51 +128,50 @@ To ensure the technical quality of projects is **uncompromisingly peak**, Kairos
 ---
 
 ### Division 3: Ground Operations, Venue Architecture & Fleet Logistics (COO)
-* **Super Head 3:** **Chief Operations & Logistics Officer (COO)**  
+* **Super Head 3:** **Viswanathan Ashok** (Register No: `44110907`)  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 20 Organizers (1 Super Head + 3 Sub-Heads + 16 Squad Specialists)
-* **Pre-Event Runway (Sep–Dec):** Map Central Library floor layouts (Auditorium, Labs, Lecture Halls 1–3, Top Floor VIP Lounge). Coordinate Sathyabama College Bus routes across Chennai hubs and **2 Campus EV Shuttles** (operating continuous loops to transport girls and boys to the nearest best restrooms). Procure builder tees, smart badges, 40 industrial power strips, and print collaterals.
+* **Pre-Event Runway (Sep–Dec):** Map Sathyabama Indoor Stadium floor layouts (Arena Bays A1–D4, VIP Executive Lounge, Stage, Foyer Registration). Coordinate Sathyabama College Bus routes across Chennai hubs and **2 Campus EV Shuttles** (operating continuous loops for campus transit). Procure builder tees, smart badges, 40 industrial power strips, and print collaterals.
 * **Online Qualifier Round (Jan 02–04):** Finalize inventory counts and verify shipping dispatch of developer swag kits for on-ground arrival.
-* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Run 8-hour rotating shifts across Lecture Halls 1–3. Manage participant check-in, bus shuttles, EV buggy restroom transfers, and venue maintenance. There is no pre-event on-campus onboarding; finalists report directly to the venue on Event Day.
-* **Post-Event Closeout (Jan 25–Feb 10):** Restitute Central Library Complex within 12 hours. Complete equipment inventory audit.
+* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Run 8-hour rotating shifts across Arena Bays A1–D4. Manage participant check-in, bus shuttles, EV buggy transfers, and venue maintenance. Finalists report directly to the venue on Event Day.
+* **Post-Event Closeout (Jan 25–Feb 10):** Restitute Sathyabama Indoor Stadium within 12 hours. Complete equipment inventory audit.
 
 ---
 
-### Division 4: Experience, Hospitality & Hacker Wellness (CXO)
-* **Super Head 4:** **Chief Experience & Hospitality Officer (CXO)**  
+### Division 4: Creative Direction, UI/UX & Scenography (CCO)
+* **Super Head 4:** **Rikish B** (Register No: `44110664`)  
 * **Reports Directly To:** Thenappan T (President)  
-* **Total Division Strength:** 19 Organizers (1 Super Head + 3 Sub-Heads + 15 Squad Coordinators)
-* **Pre-Event Runway (Sep–Dec):** Coordinate buffet menus with campus mess and canteen. Formulate side-quests (Midnight CTF, Speed Typing, Arcade Arena). Manage online community.
-* **Online Qualifier Round (Jan 02–04):** Coordinate online team onboarding, schedule virtual pitch slots, and provide 24/7 online helpdesk support for the 250 semi-finalists.
-* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Deliver **100% free hospitality**: buffet meals, continuous 24/7 coffee/tea station, midnight energy snacks, quiet rest zones, and hacker wellness sessions.
-* **Post-Event Closeout (Jan 25–Feb 10):** Issue automated digital verified certificates of excellence and participation to all hackers.
+* **Total Division Strength:** 18 Organizers (1 Super Head + 3 Sub-Heads + 14 Squad Designers)
+* **Pre-Event Runway (Sep–Dec):** Establish Obsidian-Amber visual identity. Design streetwear hoodies, participant t-shirts, smart ID badges, 20×10ft stage backdrop, and 3840×1920 LED Wall graphics. Enforce **December 20, 2026 Print Freeze**.
+* **Online Qualifier Round (Jan 02–04):** Publish digital spotlight cards and qualifier visual assets for Top 250 semi-finalist teams.
+* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Supervise physical scenography, directional signage, banner tensioning, and visual display calibration across the Indoor Stadium arena.
+* **Post-Event Closeout (Jan 25–Feb 10):** Design high-res certificate templates, social victory cards, and the visual assets for the post-event impact report.
 
 ---
 
-### Division 5: Creative Direction, Stage Production & National Media (CCMO)
-* **Super Head 5:** **Chief Creative & Media Officer (CCMO)**  
-* **Media Leads:** **Caroline Mary McPherson** (Media Head 1) & **Harshith Raj S** (Socials Lead)  
+### Division 5: Media Production, Broadcast & PR (CMO)
+* **Super Head 5:** **Caroline Mary McPherson** (Register No: `44110124`)  
 * **Reports Directly To:** Thenappan T (President)  
-* **Total Division Strength:** 18 Organizers (1 Super Head + 3 Sub-Heads + 14 Squad Specialists)
-* **Pre-Event Runway (Sep–Dec):** Establish Obsidian-Amber visual identity. Manage official Instagram ([`@awssbg_sist`](https://instagram.com/awssbg_sist)) and LinkedIn. Mobilize the **120+ Campus Ambassador Network** across 20+ Indian states.
-* **Online Qualifier Round (Jan 02–04):** Broadcast live updates of the Online Semi-Finals; publish spotlight graphics of the Top 250 projects; build anticipation for the Top 100 shortlist reveal.
-* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Direct stage visual media, run the 48-hour multicam live stream on YouTube and LinkedIn, and deploy 2 camera crews for 4K B-roll and viral social reels.
-* **Post-Event Closeout (Jan 25–Feb 10):** Edit and premiere the **Kairos 2027 Cinematic Aftermovie** within 7 business days; distribute national media press releases.
+* **Total Division Strength:** 19 Organizers (1 Super Head + 3 Sub-Heads + 15 Squad Specialists)
+* **Pre-Event Runway (Sep–Dec):** Direct social media channels ([`@awssbg_sist`](https://instagram.com/awssbg_sist) on Instagram and LinkedIn). Mobilize the **120+ Campus Ambassador Network** across 20+ Indian states. Produce teaser trailers.
+* **Online Qualifier Round (Jan 02–04):** Stream live qualifier highlights, share participant stats, and build momentum toward the Top 100 finalist reveal.
+* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Operate the 48-hour continuous multi-camera broadcast on YouTube and LinkedIn with ATEM Mini Pro video switching, sponsor video commercial stingers, lower-third tickers, and 4K B-roll reel production.
+* **Post-Event Closeout (Jan 25–Feb 10):** Edit and release the **Kairos 2027 Official Aftermovie** within 7 business days; distribute national press releases to major tech publications.
 
 ---
 
-### Division 6: Safety, Security, Governance & Jury Management (CSO)
-* **Super Head 6:** **Chief Safety, Governance & Jury Officer (CSO)**  
+### Division 6: Safety, Security, Governance & Jury Management (CSGO)
+* **Super Head 6:** **Hemavarshine S** (Register No: `44110263`)  
 * **Reports Directly To:** Thenappan T (President)  
 * **Total Division Strength:** 16 Organizers (1 Super Head + 3 Sub-Heads + 12 Squad Officers)
-* **Pre-Event Runway (Sep–Dec):** Curate and confirm 25+ high-profile industry judges and technical evaluators (AWS community builders, tech leads, startup founders, distinguished alumni, and any other industry professionals with technical knowledge who volunteer). Coordinate campus security permissions, police station intimation, and hospital ambulance liaison.
-* **Online Qualifier Round (Jan 02–04):** Lead jury governance across the 10 virtual evaluation rooms; enforce standardized scoring rubrics and calibrate semi-final rankings.
-* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Manage Top Floor VIP Executive Lounge hospitality. Orchestrate the 3 physical evaluation gates. Enforce **10 PM – 6 AM night lock-in** and strictly segregated stairwells for boys/girls mess access.
+* **Pre-Event Runway (Sep–Dec):** Curate and confirm 20+ industry judges and AWS Community Builders. Coordinate institutional security permissions, medical desk deployment, and Apollo hospital ambulance standby.
+* **Online Qualifier Round (Jan 02–04):** Lead jury governance across 10 virtual evaluation rooms; enforce standardized scoring rubrics and calibrate semi-final rankings.
+* **On-Campus 48-Hour Grand Finale (Jan 22–24):** Manage VIP Executive Lounge hospitality. Orchestrate the 3 physical evaluation checkpoints. Enforce **10:00 PM – 06:00 AM secure lock-in** and strictly segregated boys/girls dining transit.
 * **Post-Event Closeout (Jan 25–Feb 10):** Audit final score sheets; present judge appreciation hampers; submit zero-incident safety report to University Registrar.
 
 ---
 
-## 5. Master Itemized Procurement & Purchasing Catalog (₹3,50,000 Zero-Fee Model)
+## 5. Master Itemized Operational Expenditure Model (₹3,50,000 Target)
 
 ```text
 ========================================================================================================
@@ -188,7 +188,7 @@ CATEGORY / ITEM DESCRIPTION                 SPECIFICATIONS & BRANDING           
 • Best Freshman / Rookie Team Bounty        Special Category Pure Cash Bounty    1        7,500    ₹7,500
 • Most Scalable AWS Architecture Bounty     Special Category Pure Cash Bounty    1        7,500    ₹7,500
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: CASH PRIZES                                                                           ₹1,75,000
+SUBTOTAL: CASH PRIZES (AUDITED ESCROW)                                                               ₹1,75,000
 --------------------------------------------------------------------------------------------------------
 
 2. PARTICIPANT MERCHANDISE, STREETWEAR & DEVELOPER KITS (100% COMPLIMENTARY)
@@ -197,7 +197,7 @@ SUBTOTAL: CASH PRIZES                                                           
 • Tech Sticker Packs & Badges               Die-Cut Vinyl AWS/Kairos Stickers    500 pk      10    ₹5,000
 • Certificate Printing & Folders            High-GSM Embossed Foil Certificates  500 sets    15    ₹7,500
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: SWAG & DEVELOPER KITS                                                                  ₹60,000
+SUBTOTAL: SWAG & DEVELOPER KITS                                                                      ₹60,000
 --------------------------------------------------------------------------------------------------------
 
 3. CATERING SUPPLEMENT, REFRESHMENTS & MIDNIGHT ENERGY STATIONS
@@ -205,37 +205,37 @@ SUBTOTAL: SWAG & DEVELOPER KITS                                                 
 • Evening High Tea & Fresh Snacks (2 Days)  Samosas / Cutlets / Filter Coffee    450 pax     30   ₹13,500
 • Midnight Coffee, Tea & Biscuit Fuel       Continuous 01:30 AM Fuel Bar (2 Nts) 2 nts    6,750   ₹13,500
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: CATERING & FUEL                                                                        ₹45,000
+SUBTOTAL: CATERING & FUEL                                                                            ₹45,000
 --------------------------------------------------------------------------------------------------------
 
 4. STAGE PRODUCTION, AUDIO-VISUAL & SOUND REINFORCEMENT
-• Auditorium Line Array PA & Sound System   Concert Sound Tops + Audio Mixer     3 days  15,000   ₹15,000
+• Indoor Stadium PA & Audio Rig             Concert Sound Tops + Audio Mixer     3 days  15,000   ₹15,000
 • Stage Truss Lighting & Foyer Spots        Sharpy Moving Lights + Stage Washes  3 days  10,000   ₹10,000
 • Wireless Cordless & Collar Microphones    Shure UHF Multi-Frequency Mics       8 units  5,000    ₹5,000
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: STAGE & AV PRODUCTION                                                                  ₹30,000
+SUBTOTAL: STAGE & AV PRODUCTION                                                                      ₹30,000
 --------------------------------------------------------------------------------------------------------
 
 5. VIP JURY CARE, DIGNITARY HOSPITALITY & MEMENTOS
-• Top Floor VIP Executive Lounge Dining     High Tea, Dry Fruits & Special Lunch 35 pax     300   ₹10,500
-• Traditional Silk Shawls & Mementos        Handcrafted Sandalwood/Brass Mementos 20 units   475    ₹9,500
+• VIP Executive Lounge Dining               High Tea, Dry Fruits & Special Lunch 35 pax     300   ₹10,500
+• Traditional Silk Shawls & Mementos        Handcrafted Sandalwood/Brass Plaque  20 units   475    ₹9,500
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: VIP JURY & DIGNITARY CARE                                                             ₹20,000
+SUBTOTAL: VIP JURY & DIGNITARY CARE                                                                  ₹20,000
 --------------------------------------------------------------------------------------------------------
 
 6. INFRASTRUCTURE, ELECTRICAL EXTENSIONS & HARDWARE
 • Heavy-Duty Multi-Socket Power Strips      6A/16A Spike Protected (40 units)    1 lot    6,000    ₹6,000
 • Industrial DB Hub Cables & Connectors     Master DB Distribution & Cabling     1 lot    4,000    ₹4,000
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: ELECTRICAL & INFRASTRUCTURE                                                            ₹10,000
+SUBTOTAL: ELECTRICAL & INFRASTRUCTURE                                                                ₹10,000
 --------------------------------------------------------------------------------------------------------
 
 7. PRINT, SIGNAGE & AWARDS
-• Metal Standee Display Banners (6x3ft)     16 Units across Central Library      16 units   350    ₹5,600
-• Main Stage Metal Frame Backdrop Banner    20ft × 10ft High-Res Vinyl Banner    1 unit   2,400    ₹2,400
+• Metal Standee Display Banners (6x3ft)     16 Units across Indoor Stadium       16 units   350    ₹5,600
+• Main Stage Backdrop Banner (20x10ft)      High-Res Vinyl Stage Backdrop        1 unit   2,400    ₹2,400
 • Custom Trophy Set (Champions & Tracks)    Laser Engraved Acrylic & Metal       8 units    250    ₹2,000
 --------------------------------------------------------------------------------------------------------
-SUBTOTAL: PRINT, SIGNAGE & AWARDS                                                                ₹10,000
+SUBTOTAL: PRINT, SIGNAGE & AWARDS                                                                    ₹10,000
 --------------------------------------------------------------------------------------------------------
 
 ========================================================================================================
@@ -247,24 +247,24 @@ GRAND TOTAL MASTER OPERATIONAL EXPENDITURE: ₹3,50,000 | BALANCED AGAINST INFLO
 
 ## 6. Sign-Off & Implementation Ratification
 
-This workforce deployment plan is hereby ratified as the official operational standard for **KAIROS 2027 (Grand Edition)**.
+This workforce deployment plan is ratified as the official operational standard for **KAIROS 2027 (Grand Edition)**.
 
 **Ratified By:**
 
 <br/>
 
 ____________________________________________  
-**Thenappan T** (Register No: 44110855)  
+**Thenappan T** (Register No: `44110855`)  
 President & Student Builder Group Leader (AWS SBGL)  
 AWS Student Builder Group — SIST Chapter  
 Sathyabama Institute of Science and Technology  
-Phone: `+91 6381801640` | Email: `sistawscc@gmail.com`  
+Phone: `+91 6381801640` | Email: `thenappanmasterz1311@gmail.com`  
 
 <br/>
 
 **Endorsed By:**  
 
-| Dr. K. Ashok Kumar / Dr. Balapriya .S | Dr. L. Lakshmanan | Dr. T. Sasipraba |
+| Dr. K. Ashok Kumar & Dr. Balapriya S | Dr. L. Lakshmanan | Dr. T. Sasipraba |
 | :---: | :---: | :---: |
 | Faculty Coordinators, AWS SBG | Dean, School of Computing | Vice Chancellor |
 | Sathyabama Institute of Science and Technology | Sathyabama Institute of Science and Technology | Sathyabama Institute of Science and Technology |

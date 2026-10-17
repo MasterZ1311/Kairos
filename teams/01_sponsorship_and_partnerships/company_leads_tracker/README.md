@@ -1,52 +1,54 @@
 # Company Leads Tracker & Corporate CRM Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/company_leads_tracker/`  
-> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
-> **Enterprise Outreach Sub-Head:** Corporate Outreach Lead  
-> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE)  
+> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md)  
+> **Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 
 ---
 
 ## 1. Scope & Mandate
 
-This subfolder houses the live corporate sponsorship pipeline, tracking prospective enterprise sponsors from initial target identification through discovery calls, customized pitch deck delivery, financial negotiation, contract execution, and escrow receipt.
+This directory houses the live corporate sponsorship pipeline and client meeting documentation for KAIROS 2027. It tracks corporate prospects from initial identification through qualification, discovery calls, customized pitch delivery, commercial negotiation, institutional legal review, and university bank payment verification.
 
-### Target Objectives
-- Maintain a minimum active pipeline of **60+ high-value corporate targets**.
-- Secure **1 Title Sponsor (₹2,00,000 / 2 Lakhs)**.
-- Secure **1–2 Co-Powered By Sponsors (₹1,00,000 / 1 Lakh each)**.
-- Secure **5 Track Partners (₹25,000 – ₹50,000 each)**.
-- Secure **4+ In-Kind Sponsors** (Cloud Credits, Energy Drinks, Hardware Dev Kits, Developer Tooling).
-- **Target Capital Pool:** ₹3,50,000 – ₹4,00,000 (Uncapped).
+### Core Resources in this Directory:
+- 📄 [`corporate_sponsorship_pipeline_crm.md`](./corporate_sponsorship_pipeline_crm.md): The live active leads tracking matrix and stage summary dashboard.
+- 📄 [`meeting_notes_template.md`](./meeting_notes_template.md): Standardized format for logging corporate discovery calls and pitch syncs within 1 hour.
 
 ---
 
-## 2. Who Fills What (Accountability)
+## 2. Standardized 7-Stage Pipeline Taxonomy
 
-| Task / Column | Responsible Lead | Email / Handle | Update Frequency |
-|---|---|---|---|
-| **Lead Identification & Profiling** | Enterprise Outreach Squad | Assigned Squad Members | Daily during active outreach |
-| **First Touch (Email / LinkedIn / Referral)** | Enterprise Outreach Sub-Head | Outreach Team | Logged within 4 hours |
-| **Pitch Meeting Scheduling & Minutes** | Nikki (Nangaiyar M) | `nangaiyarmuthkrishnan@gmail.com` | After every client sync |
-| **Negotiation & Contract Routing** | Nikki (Nangaiyar M) | `nangaiyarmuthkrishnan@gmail.com` | Weekly Executive Review |
-| **Bank Escrow & Payment Confirmation** | Treasury & Audit Lead | Audit Desk | Immediately upon NEFT/RTGS receipt |
+Every prospect in the CRM must strictly occupy one of these standardized stages:
 
----
-
-## 3. CRM Pipeline Stages & Status Taxonomy
-
-Every prospective sponsor must have one of these standardized statuses:
-1. `[STAGE 1: IDENTIFIED]` — Lead researched, POC identified (VP Engineering, DevRel Lead, Head of HR).
-2. `[STAGE 2: OUTREACH SENT]` — Cold email, LinkedIn InMail, or warm referral dispatched.
-3. `[STAGE 3: DISCOVERY CALL]` — 20-minute introductory meeting held with company reps.
-4. `[STAGE 4: DECK CUSTOMIZED]` — Tailored 14-slide deck with custom track challenges sent.
-5. `[STAGE 5: LEGAL & MOU]` — Institutional MoU under review by corporate legal team.
-6. `[STAGE 6: CLOSED WON]` — Agreement signed, funds deposited in university escrow account.
-7. `[STAGE 7: CLOSED LOST]` — Politely declined or deferred to future edition (reasons documented).
+| Stage # | Stage Title | Operational Definition & Entry Criteria |
+|:---:|---|---|
+| **Stage 1** | `Target Identified` | Company researched, sector mapped, public source URL cited, target role determined. |
+| **Stage 2** | `Outreach Sent` | Personalized email (Template 1/2), LinkedIn InMail, or warm introduction dispatched. |
+| **Stage 3** | `Discovery Call` | 15–20 minute introductory call scheduled or completed; meeting notes logged. |
+| **Stage 4** | `Proposal Sent` | Tailored 14-slide deck and customized proposal letter submitted to company decision-makers. |
+| **Stage 5** | `Legal & MoU Review` | Commercial terms agreed; draft MoU and university invoice requisition under review. |
+| **Stage 6** | `Agreement Signed` | Bilateral MoU countersigned by Dean/Registrar and Corporate Signatory; invoice issued. |
+| **Stage 7** | `Closed Won (Verified)` | Payment cleared into Sathyabama University account OR in-kind voucher verified by lead. |
+| *Terminal* | `Closed Lost / Nurture` | Politely declined or postponed to future edition; specific reasons documented. |
 
 ---
 
-## 4. Operational Rules for the Sponsorship Squad
-- **Response Time:** Any inbound corporate inquiry must be acknowledged within **3 hours**.
-- **Log Updates:** Update the CRM file (`corporate_sponsorship_pipeline_crm.md`) immediately after any phone call or email exchange.
-- **Strict Confidentiality:** Corporate POC phone numbers and internal financial commitments must not be committed to public repositories.
+## 3. Team Roles & Accountability
+
+| Workflow Responsibility | Primary Owner | Target Turnaround / Cadence |
+|---|---|---|
+| **Lead Research & Profiling** | Enterprise Outreach Squad | Minimum 5 newly profiled leads per week |
+| **Initial Outreach Dispatch** | Outreach Sub-Head & Nikki | Within 24 hours of qualification |
+| **Meeting Minutes Logging** | Meeting Attendees / Nikki | Within 1 hour using [`meeting_notes_template.md`](./meeting_notes_template.md) |
+| **Proposal Customization** | CPFO Nikki & Design Lead | Within 48 hours of discovery call |
+| **MoU Routing & Legal Review** | CPFO Nikki & Faculty Coordinators | Weekly Executive Council review |
+| **Payment Verification** | Treasury Sub-Head & University Accounts | Immediate logging upon NEFT/RTGS credit voucher |
+
+---
+
+## 4. CRM Operating Hygiene Rules
+
+1. **No Fabricated Data:** Never list a company as "Closed Won" or "Committed" based on informal interest or verbal optimism. Contracts must be countersigned and payments audited.
+2. **Weekly Review SLA:** The CRM is formally reviewed and re-indexed every **Friday at 05:00 PM** as outlined in [`../05_finance_controls_and_pipeline_review.md`](../05_finance_controls_and_pipeline_review.md).
+3. **Data Protection:** Personal contact numbers and sensitive procurement data must be kept in secure internal channels, not exposed in public git tracking.

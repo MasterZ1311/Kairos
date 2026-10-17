@@ -1,48 +1,98 @@
-# Kairos 2027 — Hackathon 101: Core Team Onboarding Primer (Grand Edition)
+# KAIROS 2027 — Hackathon 101: Core Team Onboarding Primer (Grand Edition)
 
-**Governing Standard:** `E:\AWS SBGL\ANTI-Help\01_CHAPTER_GOVERNANCE_AND_LEADERSHIP_ROSTER.md` & `08_EXECUTIVE_OPERATIONAL_CHECKLISTS_AND_ACTION_TRACKER.md`  
-**Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
-**Target Audience:** All 106 Student Organizers, Sub-Heads, and Squad Specialists across the 6 Divisions.  
-**Apex Authority:** Thenappan T (Register No: `44110855`), President & SBGL  
-**Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE, SIST)  
-**Core Purpose:** Instill absolute operational discipline, empathy, crisis reflexes, and professional excellence.  
+> **Document Status:** CANONICAL ONBOARDING & CULTURE RUNBOOK  
+> **Host Organization:** AWS Student Builder Group (SIST Chapter), Sathyabama Institute of Science and Technology  
+> **Target Audience:** All 106 Student Organizers, Sub-Heads, and Squad Specialists across the 6 Divisions  
+> **Apex Leadership:** Thenappan T (President & SBGL, Reg: `44110855`)  
+> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya S (Department of CSE, SIST)  
+> **Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Chennai — `[APPROVED PLAN]`  
+> **Source of Truth:** [`00_hackathon_master_brief.md`](./00_hackathon_master_brief.md) · [`18_team_structure_leads_and_workforce_deployment.md`](./18_team_structure_leads_and_workforce_deployment.md)
 
 ---
 
-## 1. What is Kairos 2027? (The 30-Second Elevator Pitch)
+## 1. What is KAIROS 2027? (The 30-Second Elevator Pitch)
 
-You are not organizing a regular college symposium or a localized coding contest. 
+You are not organizing a standard college symposium or a localized coding contest.
 
-**Kairos 2027 is a Tier-1 National Flagship Engineering Sprint.** Over 48 continuous hours (January 22–24, 2027), 400+ of India's most brilliant student developers, shortlisted from 2,000+ national applications, will assemble at Sathyabama Institute of Science and Technology, Chennai to build transformative systems on AWS Cloud. 
+**KAIROS 2027 is a Tier-1 National Flagship Engineering Summit.** Over 48 continuous hours (January 22–24, 2027), 400–600 of India's finest student developers—the Top 100 squads selected from 2,000+ national applications via an intensive virtual code qualifier—will assemble inside the **Sathyabama Indoor Stadium** to engineer production-grade systems on AWS Cloud and frontier AI models.
 
-We are supported by **corporate sponsorships and institutional grants totaling ₹3,50,000 – ₹4,00,000** (anchored by a ₹2,00,000 Title Sponsor, ₹1,00,000 Powered-By partner, and track bounties), a **₹1,75,000 pure liquid cash prize pool**, a main stage line array audio rig, and senior VC partners and CTOs flying in to judge and evaluate winning teams.
+Operating under an uncompromised **100% Free / Zero Entry Fee** mandate, we provide complete lodging, 6 grand buffet meals, continuous high tea, and industrial-grade power/network infrastructure. The event is anchored by a **₹1,75,000 pure liquid cash prize pool held in audited university custody**, an operating budget target of **₹3,50,000 – ₹4,00,000**, and senior technology executives, AWS architects, and startup founders flying in to evaluate the prototypes.
 
 ---
 
 ## 2. Understanding the 5 Stakeholder Mindsets
 
-To make flawless decisions in the heat of a 48-hour sprint, you must see the event through the eyes of every stakeholder:
+To make flawless operational decisions in the heat of a 48-hour continuous marathon, every organizer must evaluate challenges through the eyes of our stakeholders:
 
-### 2.1 The Participant (The Developer):
-* **Their State of Mind:** Exhausted, caffeinated, ambitious, stressed, building under tight deadlines.
-* **What They Need:** High-speed Wi-Fi that never drops, abundant power plugs, cold drinking water, hot food served on time, zero bureaucratic friction, and fair, transparent judging.
-* **Golden Rule:** **Treat every participant like a visiting dignitary.** If they have a technical or personal issue, you own it until it is completely resolved.
+```mermaid
+graph TD
+    A["The Organizer Mindset"]
+    A --> B["1. The Builder (Participant)<br/>Exhausted, caffeinated, focused on shipping code."]
+    A --> C["2. The Corporate Sponsor<br/>Invested capital; expects API adoption & polish."]
+    A --> D["3. The VIP Judge & Mentor<br/>Senior executive giving time; expects respect & rigor."]
+    A --> E["4. College Administration & Security<br/>Custodians of safety, discipline, and reputation."]
+    A --> F["5. Your Fellow Organizers<br/>Teammates relying on your shift discipline & vigilance."]
+```
 
-### 2.2 The Corporate Sponsor (The Investor):
-* **Their State of Mind:** They invested ₹25,000 to ₹2,00,000 of corporate budget; they expect high ROI, developer adoption of their APIs, flawless branding, and top-tier student hiring.
-* **What They Need:** Prompt VIP escorting, a clean professional booth, prominence on the main stage and banners, working Wi-Fi in the sponsor lounge, and immediate delivery of resume databases.
-* **Golden Rule:** **Extreme professional polish.** Never let a sponsor representative wander around unassisted or wait for stage coordination.
+### 2.1 The Participant (The Builder):
+* **State of Mind:** Exhausted, caffeinated, ambitious, stressed, building under tight milestone timers.
+* **What They Need:** High-speed Wi-Fi that never drops, abundant grounded power plugs, clean restrooms, hot food served punctually, zero administrative friction, and fair, transparent technical judging.
+* **Golden Rule:** **Treat every builder like a visiting dignitary.** If they have a technical, hardware, or personal issue, you own it until it is completely resolved.
 
-### 2.3 The VIP Judge / VC Partner (The Evaluator):
-* **Their State of Mind:** Senior executives who took time off from running companies or managing tech teams.
-* **What They Need:** Comfortable executive lounge seating, seamless digital scoring portals that don't crash, strict adherence to pitch timers, and delicious refreshments.
-* **Golden Rule:** **Respect their time.** Ensure teams are lined up and ready 5 minutes before evaluation rounds begin.
+### 2.2 The Corporate Sponsor (The Enterprise Partner):
+* **State of Mind:** Committed significant corporate marketing or recruitment capital; expecting measurable developer adoption of their APIs, executive polish, and qualified talent discovery.
+* **What They Need:** Dedicated VIP escorting, a clean professional booth, sharp vector logos on the 3840×1920 LED Wall and backdrops, reliable Wi-Fi in the sponsor lounge, and timely delivery of the **Consent-Based Opt-In Finalist Book**.
+* **Golden Rule:** **Extreme professional polish.** Never allow a corporate representative to wander unescorted, search for an adapter, or wait for an agenda transition.
 
-### 2.4 College Management & Security (The Custodians):
-* **Their State of Mind:** Proud of institutional prestige, but acutely concerned about campus discipline, student safety, property damage, and hostel rules.
-* **What They Need:** Strict adherence to the 10 PM – 6 AM night lock-in, zero unauthorized wandering, segregated boys/girls dining routes, pristine venue maintenance, and zero noise outside the venue.
-* **Golden Rule:** **Never compromise on campus rules or student safety.**
+### 2.3 The VIP Judge & Technical Mentor (The Evaluators):
+* **State of Mind:** Senior industry engineering leaders and AWS Community Builders taking personal time off to evaluate student architectures.
+* **What They Need:** Comfortable executive lounge seating, intuitive digital scoring sheets that do not crash, strict adherence to pitch timers, and five-star hospitality.
+* **Golden Rule:** **Protect their time.** Ensure builder teams are lined up and laptops pre-cued 5 minutes before evaluation checkpoints begin.
+
+### 2.4 College Management & Campus Security (The Custodians):
+* **State of Mind:** Proud of institutional prestige, but acutely responsible for campus discipline, safety regulations, property integrity, and hostel welfare.
+* **What They Need:** Strict enforcement of the 10:00 PM – 06:00 AM secure night lock-in, zero unauthorized wandering across campus, orderly boys and girls dining transit, clean venue hygiene, and absolute noise discipline outside the arena.
+* **Golden Rule:** **Never compromise on campus safety or university regulations.**
 
 ### 2.5 You (The Organizer):
-* **Your State of Mind:** Proud, disciplined, alert, working in an 8-hour shift system under your assigned Sub-Head and Super Head.
-* **Golden Rule:** **Own your station.** If something is dirty, clean it. If someone is lost, guide them. If a wire is loose, tape it down.
+* **State of Mind:** Alert, disciplined, proud, operating in structured 8-hour shift rosters under your assigned Sub-Head and Super Head.
+* **Golden Rule:** **The Zero-Bystander Rule.** If something is dirty, clean it. If someone is lost, escort them. If a cable is exposed, gaffer-tape it down immediately.
+
+---
+
+## 3. The 6-Division Workforce Structure & Command Chain
+
+All 106 student organizers are deployed across six specialized operational divisions operating under the Incident Command System (ICS). Review [`18_team_structure_leads_and_workforce_deployment.md`](./18_team_structure_leads_and_workforce_deployment.md) for full squad rosters:
+
+| Division | Super Head / Lead | Register No | Operational Mandate |
+|---|---|:---:|---|
+| **Division 1: Partnerships & Finance** | **Nikki (Nangaiyar M)** | `44612059` | Corporate sponsors, MoUs, university invoicing, prize escrow, deliverable fulfillment. |
+| **Division 2: Technical & Infrastructure** | **Shaik Khaleelulla** | `44110756` | Qualifier platform, GitHub automation, 1 Gbps LAN, Wi-Fi 6 mesh, cloud sandboxes. |
+| **Division 3: Operations & Logistics** | **Viswanathan Ashok** | `44110907` | Indoor Stadium arena bays (A1-D4), 65 kVA power grid, catering, bus fleets, hostel lodging. |
+| **Division 4: Creative, UI/UX & Design** | **Rikish B** | `44110664` | Visual identity, evergreen branding, streetwear merch, smart badges, stage backdrops. |
+| **Division 5: Marketing, PR & Media** | **Caroline Mary McPherson** | `44110124` | Social media engine, national ambassadors, 48H multi-camera broadcast, press releases. |
+| **Division 6: Safety, Jury & Governance** | **Hemavarshine S** | `44110263` | Evaluation governance, VIP jury hospitality, 24/7 medical standby, night lock-in security. |
+
+---
+
+## 4. Operational Reflexes & Escalation Flowchart
+
+When an operational bottleneck, technical outage, or emergency occurs, execute the **3-Minute Escalation Protocol**:
+
+```mermaid
+graph TD
+    A["Issue Occurs on Arena Floor"] --> B{"Can Volunteer Resolve in < 3 Minutes?"}
+    B -- Yes --> C["Resolve immediately & log in Station Clipboard"]
+    B -- No --> D["Notify Station Sub-Head via Radio / Discord"]
+    D --> E{"Requires Cross-Team or Financial Approval?"}
+    E -- No --> F["Sub-Head deploys squad resources to fix"]
+    E -- Yes --> G["Escalate to relevant Super Head"]
+    G --> H{"Critical Safety, Legal, or Institutional Impact?"}
+    H -- No --> I["Super Head authorizes resolution"]
+    H -- Yes --> J["Emergency Conference with Thenappan T & Faculty Coordinators"]
+```
+
+### Non-Negotiable Operational Mantras:
+1. **Never Give Speculative Answers:** If a participant or corporate sponsor asks a policy, prize, or schedule question and you are uncertain, say: *"Let me connect with our Lead Coordinator immediately to confirm the exact protocol for you."*
+2. **Safety Over Schedule:** If any individual experiences medical distress or an electrical hazard occurs, halt all nearby activity immediately, notify Division 6 (Safety), and escort medical personnel.
+3. **Punctuality is Non-Negotiable:** Catering meals, checkpoint judging gates, and inaugural ceremonies run exactly to the minute specified in [`02_hard_office_copy_master_agenda.md`](./02_hard_office_copy_master_agenda.md).

@@ -1,63 +1,68 @@
-# Pitch Decks & Corporate Collateral Specification
+# Presentation Decks & Pitch Collateral Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/pitch_decks/`  
-> **Direct Lead & Final Approver:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
-> **Creative Collaborator:** Rikish B (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
-> **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya .S (Department of CSE)  
+> **Direct Lead & Final Approver:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`)  
+> **Creative Collaborator:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
+> **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
+> **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../03_pitch_deck_and_sponsor_meeting_kit.md`](../03_pitch_deck_and_sponsor_meeting_kit.md)
 
 ---
 
-## 1. Scope & Mandate
+## 1. The KAIROS Master Presentation Design System
 
-This folder contains all master slide decks, customized corporate pitch decks, executive one-pagers, and export artifacts presented to corporate sponsors, venture funds, and institutional grant bodies.
+To project institutional excellence and high developer prestige, all pitch decks, corporate proposals, and keynote decks strictly follow the **KAIROS Master Presentation System**:
 
-### What Must Be Done in This Folder
-1. Maintain the canonical 14-slide master corporate deck in both PowerPoint (`.pptx`) and print/vector PDF (`.pdf`).
-2. Generate customized pitch decks for tier-1 prospective sponsors (e.g., tailoring Slide 6 to feature AWS Bedrock, Presidio Cloud, Zoho SaaS, or Red Bull fueling).
-3. Export lightweight, high-resolution PDF one-pagers for email attachments (< 5MB) and 4K uncompressed versions for in-person C-suite presentations.
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                   KAIROS MASTER SLIDE DESIGN SYSTEM                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ • Background Canvas: Deep Obsidian Abyss (#0D1117)                     │
+│ • Primary Typography: Amazon Ember / Arial (Clean Corporate Standard)  │
+│ • Primary Header Color: Crisp Pure White (#FFFFFF)                     │
+│ • Accent Highlights: Amber Gold (#D97706) & Deep Navy (#0A2540)       │
+│ • Watermark: Subtle Hourglass brandmark (Top-Right, 8% opacity)        │
+│ • Consistent Header: "AWS Student Builder Group SIST" (10pt, #D97706)  │
+│ • Consistent Footer: Active Section Name + Page Number (e.g., "04/14") │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 2. Who Fills What (Accountability)
+## 2. Canonical Presentation Architecture
 
-| Section / Deliverable | Primary Owner | Co-Owner / Reviewer | Target Delivery |
-|---|---|---|---|
-| **Master 14-Slide Deck Copy** | Nikki (Nangaiyar M) | Rikish B | September 20, 2026 |
-| **Visual Styling & Slide Typography** | Rikish B | Caroline McPherson | September 25, 2026 |
-| **Custom Sponsor Addendums** | Enterprise Outreach Sub-Head | Nikki (Nangaiyar M) | 48h before client call |
-| **1-Page Executive PDF Brief** | Documentation Sub-Head | Nikki (Nangaiyar M) | October 01, 2026 |
-| **Slide Export & Cloud Drive Upload** | Treasury Lead | Nikki (Nangaiyar M) | Rolling |
+All corporate presentations follow the **Master 14-Slide Architecture** detailed in [`kairos_2027_master_pitch_deck_structure.md`](./kairos_2027_master_pitch_deck_structure.md) and [`../03_pitch_deck_and_sponsor_meeting_kit.md`](../03_pitch_deck_and_sponsor_meeting_kit.md):
+
+| Slide # | Slide Title | Core Purpose & Visual Content | Verified Callout / Guideline |
+|:---:|---|---|---|
+| **01** | **Hero Cover Lockup** | Primary logo lockup, event dates, badges (`100% Free`, `100 Teams`). | 22–24 January 2027 |
+| **02** | **Institutional Eminence** | Sathyabama NAAC A++, NIRF Top 50, AWS Student Builder Group charter. | Institutional pedigree |
+| **03** | **2-Tier Quality Funnel** | Online qualifier filter filtering 2,000+ applicants to Top 100 squads. | Zero vanity noise |
+| **04** | **Strategic Tracks** | 5 Frontier tracks (Agentic AI, Cloud-Native, Web3, FinTech, Healthcare). | Enterprise sandbox fit |
+| **05** | **Pure Cash Prize Escrow** | Audited ₹1,75,000 pure cash prize escrow model breakdown. | Guaranteed cash awards |
+| **06** | **Corporate Sponsor ROI** | Hiring access, API adoption, executive branding, ESG impact. | Opt-in consent talent |
+| **07** | **Tier Investment Matrix** | Title (₹2.0L), Co-Powered (₹1.0L), Associate (₹50k), Track (₹25k). | `[APPROVAL REQUIRED]` |
+| **08** | **48-Hour Experience & Ops** | Sathyabama Indoor Stadium, dual generator backup, 1 Gbps LAN, 6 meals. | Industrial infrastructure |
+| **09** | **Broadcast Reach & Media** | 48-Hour multicam stream on YouTube/LinkedIn, digital storytelling. | Projected media reach |
+| **10** | **Governance & Safety** | ICS organizational structure, night lockdown, 100% student IP ownership. | Zero-compromise safety |
+| **11** | **Track Record & Momentum** | Past AWS SBG workshops, bootcamps, and developer community traction. | Real community proof |
+| **12** | **Capital Deployment** | Transparent deployment of operational budget into student infrastructure. | Zero fund leakage |
+| **13** | **Next Steps & Onboarding** | 4-step onboarding from package selection to MoU and asset intake. | University MoU routing |
+| **14** | **Executive Leadership Desk** | Contact details for CPFO Nikki, President Thenappan T, Faculty Advisors. | Verified official desk |
 
 ---
 
 ## 3. Technical Specifications & Dimensions
 
-* **Aspect Ratio:** **16:9 Widescreen** (Strictly 3840 × 2160 px for 4K presentation displays or 1920 × 1080 px standard).
-* **Typography:** Official **Amazon Ember** typeface family only:
-  - Slide Titles (H1): `Amazon Ember Display Bold` (36pt – 44pt, `#FFFFFF`)
-  - Subheadings & Accents: `Amazon Ember Display Medium` (20pt – 24pt, `#FF9900` Smile Amber)
-  - Body Text: `Amazon Ember Display Regular` (14pt – 16pt, `#D5DBDB` Cloud Silver)
-  - Code & Metrics: `Amazon Ember Duospace` / `Amazon Ember Mono`
-* **Color Palette:**
-  - Canvas Background: Obsidian Abyss (`#0D1117`) or Deep Squid Ink (`#232F3E`)
-  - Accent Color: AWS Smile Amber (`#FF9900`)
-  - Secondary Card Fill: Cyber Slate (`#1A2433`)
-  - Positive Metrics: Terminal Green (`#3FB950`)
-* **File Naming Standard:**
-  - Canonical: `KAIROS_2027_Master_Sponsorship_Deck_v[Major].[Minor].pdf`
-  - Tailored: `KAIROS_2027_PitchDeck_[Company_Name]_[Tier].pdf`
-  - Executive 1-Pager: `KAIROS_2027_Executive_OnePager_v[Major].pdf`
-
----
-
-## 4. Quality Gates & Sign-Off Workflow
-
-```mermaid
-graph LR
-    DRAFT["1. Outreach squad drafts custom slides"] --> DSGN["2. Rikish B reviews layout & brand tokens"]
-    DSGN --> PRES["3. Nikki (Nangaiyar M) approves terms & ROI"]
-    PRES --> APPR["4. Approved for Executive Delivery to Sponsor"]
-```
-
-1. **No unauthorized discounts:** Tiers must adhere to the Master Budget (Title: ₹2,00,000; Powered-By: ₹1,00,000; Track Partner: ₹25,000–₹50,000; Operational Capital: ₹3,50,000–₹4,00,000).
-2. **Logo usage:** Never place third-party company logos without maintaining clear space buffers and high-res SVG assets.
+* **Aspect Ratio:** **16:9 Widescreen** (3840 × 2160 px for 4K presentation screens, or 1920 × 1080 px).
+* **Typography Hierarchy:**
+  * Slide Titles (H1): Bold Display (36pt – 44pt, `#FFFFFF`)
+  * Subheadings & Accents: SemiBold (20pt – 24pt, `#D97706` Amber Gold)
+  * Body Copy: Regular (14pt – 16pt, `#E2E8F0` / `#FFFFFF`, line height 1.5)
+  * Metrics & Code: Monospace (12pt – 14pt, `#F59E0B` / `#38BDF8`)
+* **Color Hierarchy:**
+  * Canvas: `#0D1117` (Deep Obsidian)
+  * Card Surfaces: `#161B22` with `1px solid #30363D`
+  * Active Elements: `#D97706` (Amber Gold) and `#0A2540` (Deep Navy)
+* **File Formats:**
+  * Master Source: Figma / PPTX
+  * External Distribution: Vector Compressed PDF (`< 5 MB` for email attachments).

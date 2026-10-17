@@ -1,25 +1,29 @@
 # KAIROS 2027 (Grand Edition) — Hands-On AWS Builder & Website Workspace
 
-> **Domain:** Full-Stack Web Development, AWS Cloud Infrastructure, Bedrock Sandboxes, Live Scoring Engines & Screening Webhooks  
-> **Direct Lead:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`, Phone: `+91 9080809088`, Email: `viswanathanvishal39@gmail.com`)  
-> **Technical Co-Lead:** **Shanmugapriyan S** (Technical Team Lead, Reg: `44111257`, Phone: `+91 7550091864`, Email: `shanthemach@gmail.com`)  
-> **Executive Review:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
-> **Governing Standards:** `website/` root documentation & `ANTI-Help/02_AWS_GLOBAL_SBGL_PROGRAM_HANDBOOK_SUMMARY.md`  
+**Document Reference:** `teams/05_hands_on_aws_builder_and_website/README.md`  
+**Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
+**Sponsoring Department:** School of Computing, Sathyabama Institute of Science and Technology, Chennai – 600119  
+**Super Head Mandate:** Super Head 2 (Chief Technology Officer — CTO Rikish P, Reg: `44110664`)  
+**Technical Leads:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`, Phone: `+91 9080809088`) & **Shanmugapriyan S** (Technical Team Lead, Reg: `44111257`, Phone: `+91 7550091864`)  
+**Executive Review:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
+**Production URL:** `https://kairos.sathyabama.ac.in`  
+**Governing Standards:** [00_hackathon_master_brief.md](../../docs/00_hackathon_master_brief.md) · [02_agenda_rounds_and_judging_rubric.md](../../docs/02_agenda_rounds_and_judging_rubric.md) · [16_website_design_and_experience_specification.md](../../docs/16_website_design_and_experience_specification.md) · [19_operations_logistics_crud_and_system_specs.md](../../docs/19_operations_logistics_crud_and_system_specs.md)  
+**Status:** `CONFIRMED MASTER OPERATING STANDARD`  
 
 ---
 
 ## 1. Domain Scope & Mandate
 
-The Hands-On AWS Builder & Website vertical is the technical engineering backbone of KAIROS 2027. This team is actively engineering the production web portal (`https://kairos.sistawscc.org`), orchestrating AWS Bedrock sandbox accounts for 100 finalist teams, running the dual-phase applicant screening pipeline, and deploying the real-time Z-score normalized scoring and leaderboard engine.
+The Hands-On AWS Builder & Website vertical is the technical engineering backbone of KAIROS 2027. This team is actively engineering the production web portal (`https://kairos.sathyabama.ac.in`), orchestrating AWS Bedrock sandbox accounts for 100 finalist teams, running the dual-phase applicant screening pipeline, and deploying the real-time Z-score normalized scoring and leaderboard engine.
 
 ```mermaid
 graph TD
-    ENG["HANDS-ON AWS BUILDER & WEBSITE<br/>Leads: Viswanathan Ashok & Shanmugapriyan S"]
+    ENG["HANDS-ON AWS BUILDER & WEBSITE<br/>Super Head 2: Rikish P (CTO) · Leads: Viswanathan Ashok & Shanmugapriyan S"]
     
     ENG --> E1["website_frontend_source/<br/>Next.js 14 App Router, Tailwind CSS & Framer Motion UI"]
     ENG --> E2["cloud_sandboxes_and_bedrock/<br/>AWS Organizations, IAM Bedrock Roles & $50k Cloud Credits"]
     ENG --> E3["judging_and_leaderboard_engine/<br/>Z-Score Normalization Algorithm, Real-time WebSocket Leaderboard"]
-    ENG --> E4["registration_and_screening_pipeline/<br/>Google Forms Ingestion, SES Mailers & Discord Role Bot"]
+    ENG --> E4["registration_and_screening_pipeline/<br/>Devfolio Webhooks, SES Mailers & Discord Role Bot"]
 ```
 
 ---
@@ -46,10 +50,10 @@ graph TD
 
 ## 3. Subfolder Directory Map & Deliverables
 
-1. **[`website_frontend_source/`](./website_frontend_source/)**: Frontend architecture, page route manifests, responsive breakpoints, Tailwind color tokens matching our Obsidian-Amber design system, and UI component catalog.
-2. **[`cloud_sandboxes_and_bedrock/`](./cloud_sandboxes_and_bedrock/)**: Automated provisioning blueprints for AWS Organizations, Service Control Policies (SCPs) preventing budget overruns, Amazon Bedrock IAM access, and distribution of $50,000+ AWS cloud credit vouchers.
-3. **[`judging_and_leaderboard_engine/`](./judging_and_leaderboard_engine/)**: The real-time evaluation portal used by 25+ industry judges and evaluators, powered by a mathematical **Z-score normalization algorithm** to eliminate judge bias, with live WebSocket leaderboard streaming.
-4. **[`registration_and_screening_pipeline/`](./registration_and_screening_pipeline/)**: Automated applicant ingestion engine pulling from Google Forms webhooks, executing dual-phase filtering (Round 1: 2,000+ $\rightarrow$ Top 250 Semi-Finalists; Round 2: $\rightarrow$ Top 100 Finalists), dispatching confirmation emails via SES, and assigning Discord roles.
+1. [**`website_frontend_source/`**](./website_frontend_source/README.md): Frontend architecture, page route manifests, responsive breakpoints, Tailwind color tokens matching our Obsidian-Violet design system, and UI component catalog.
+2. [**`cloud_sandboxes_and_bedrock/`**](./cloud_sandboxes_and_bedrock/README.md): Automated provisioning blueprints for AWS Organizations, Service Control Policies (SCPs) preventing budget overruns, Amazon Bedrock IAM access, and distribution of $50,000+ AWS cloud credit vouchers.
+3. [**`judging_and_leaderboard_engine/`**](./judging_and_leaderboard_engine/README.md): The real-time evaluation portal used by 25+ industry judges and evaluators, powered by a mathematical **Z-score normalization algorithm** to eliminate judge bias, with live WebSocket leaderboard streaming.
+4. [**`registration_and_screening_pipeline/`**](./registration_and_screening_pipeline/README.md): Automated applicant ingestion engine pulling from Devfolio / Google Forms webhooks, executing dual-phase filtering (Round 0: 2,000+ $\rightarrow$ Top 250 Semi-Finalists; Round 1: $\rightarrow$ Top 100 Finalists), dispatching confirmation emails via SES, and assigning Discord roles.
 
 ---
 

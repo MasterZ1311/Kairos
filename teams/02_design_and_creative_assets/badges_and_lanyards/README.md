@@ -1,73 +1,49 @@
-# Smart ID Badges & Lanyards Engineering Specification
+# KAIROS — Smart ID Badges & Lanyards Workspace
 
 > **Subfolder:** `teams/02_design_and_creative_assets/badges_and_lanyards/`  
 > **Direct Lead:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
 > **Systems Integration:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`, Phone: `+91 9080809088`)  
 > **Operations Lead:** **Nangaiyar M** (Logistics Lead, Reg: `44612059`)  
+> **Tagline:** **`48 HOURS. ONE CHANCE.`**  
+> **Master Specification:** [badge_and_lanyard_spec_sheet.md](./badge_and_lanyard_spec_sheet.md)  
 
 ---
 
-## 1. Scope & Mandate
+## 1. Scope & Participant Identity Mandate
 
-This folder defines the physical production specifications, graphic templates, NFC chip encoding, and print orders for **650 units of high-grade Smart ID Badges and custom woven satin lanyards** for KAIROS 2027.
+Participant badges and lanyards are not merely security passes—they are the core physical identity of KAIROS builders. Every finalist team wears their credentials throughout the 48-hour sprint.
 
----
+### Front Identity:
+* **`KAIROS`**
+* **`48 HOURS. ONE CHANCE.`**
+* **Visual Centerpiece:** Standalone Celestial Hourglass Emblem
+* **Participant Metadata:** Name, Team Name, College / University, Bay ID, Role Pill
 
-## 2. Physical & Electronic Specifications
+### Back Telemetry:
+* **Large Dynamic QR Code:** Resolves straight to the live event portal / team submission profile (`https://kairos.sathyabama.ac.in/team/[TEAM_ID]`)
+* **Contactless NFC:** NTAG213 chip for 1-tap check-in, dining hall validation, and judge scoring
 
-```text
-SMART BADGE HARDWARE ARCHITECTURE:
-────────────────────────────────────────────────────────────────────────
-Form Factor: Standard CR80 Credit Card Size
-Exact Dimensions: 85.60 mm (Width) × 53.98 mm (Height) | 3.370 in × 2.125 in
-Corner Radius: 3.18 mm (0.125 in) Rounded Corners
-Thickness: 0.82 mm (Heavy PVC Cardstock with Matte Velvet Anti-Scratch Lamination)
-Slot Hole: Oblong Euro-slot punched centered at top (14 mm × 3 mm, 4 mm from top edge)
-Embedded NFC Chip: NTAG213 / NTAG215 High-Frequency (13.56 MHz, ISO/IEC 14443 Type A)
-Barcoding: 2D Dynamic QR Code (links to participant verification profile on website)
-────────────────────────────────────────────────────────────────────────
-CUSTOM WOVEN LANYARD SPEC SHEET:
-────────────────────────────────────────────────────────────────────────
-Ribbon Length: 900 mm total loop (450 mm drop length)
-Ribbon Width: 20 mm (0.787 in)
-Material: High-Density Double-Layer Jacquard Satin Weave
-Colorway: Deep Void Black (`#000000`) base with Electric Violet (`#A855F7`) and Astral White (`#FFFFFF`) woven lettering
-Text Woven: "KAIROS 2027 • AWS STUDENT BUILDER GROUP • SIST"
-Hardware Attachment: Heavy-Duty Metal Lobster Claw Swivel Hook in Matte Gunmetal Black
-Safety Feature: Quick-Release Breakaway Safety Buckle at nape of neck
-────────────────────────────────────────────────────────────────────────
-```
+### Woven Lanyard:
+* High-density double-layer jacquard satin in Void Black (`#000000`).
+* Woven pattern: `KAIROS • [ ⏳ ] • KAIROS • [ ⏳ ] • KAIROS • [ ⏳ ] • KAIROS` with Astral White text and Electric Violet (`#A855F7`) tiny hourglass icons.
 
 ---
 
-## 3. Five-Tier Role Colorway Taxonomy
+## 2. Five-Tier Role Taxonomy
 
-To ensure instant visual identification by campus security and event coordinators, badges are color-coded by role:
-
-| Tier Code | Role Category | Badge Border & Accent Color | Substrate / Accent Details | Qty Ordered |
+| Tier Code | Role Category | Badge Accent Color | Access Rights | Qty Ordered |
 |:---:|---|:---:|---|:---:|
-| **BDG-01** | **Participant / Hacker** | Electric Violet (`#A855F7`) | Deep Nebula face, Violet border, Team Name & ID | 450 |
-| **BDG-02** | **Technical Evaluator** | Terminal Green (`#10B981`) | Green accent band, "EVALUATOR" badge, domain tags | 40 |
-| **BDG-03** | **Grand Finale Jury** | Royal Gold (`#FFD700`) | Metallic gold foil stamp, "VIP JURY", CXO Lounge access | 25 |
-| **BDG-04** | **Corporate Sponsor** | Pure Platinum (`#E5E4E2`) | Sponsor company logo, "INDUSTRY PARTNER" | 35 |
-| **BDG-05** | **Core Organizer / Lead** | Cyber Orchid (`#C084FC`) | Void Black face, Electric Violet glow, "ORGANIZER" | 100 |
+| **BDG-01** | **Participant / Hacker** | Electric Violet (`#A855F7`) | 24/7 Hacker Bays, Dining Hall, Rest Zones | 450 |
+| **BDG-02** | **Technical Mentor / Evaluator** | Terminal Green (`#10B981`) | Hacker Bays, Mentor Lounge, Checkpoint Rooms | 40 |
+| **BDG-03** | **Grand Finale Jury / VIP** | Royal Gold (`#FFD700`) | Main Stage, VIP Lounge, Deliberation Chamber | 25 |
+| **BDG-04** | **Corporate Sponsor** | Pure Platinum (`#E5E4E2`) | Sponsor Expo, Hacker Bays, Networking Suites | 35 |
+| **BDG-05** | **Core Organizer / Lead** | Cyber Orchid (`#C084FC`) | All-Access Master Override, Control Room | 100 |
 
 ---
 
-## 4. Digital Encoding & Webhook NFC Integration
-
-- **NFC Tag Content:** Each card is pre-flashed with a unique cryptographic URL:
-  `https://kairos.sistawscc.org/checkin?uid=[NFC_CARD_UUID]&auth=[HMAC_HASH]`
-- **Scan Functionality:**
-  1. *Check-In Desk:* Tap to confirm arrival, assign hacker bay, and issue developer kit.
-  2. *Mess Hall:* Tap at breakfast/lunch/dinner/midnight food counters to prevent double-serving and manage food count.
-  3. *Judging Milestone:* Tap by judges to bring up team evaluation rubric on judge tablets.
-- **Builder System Owner:** Viswanathan Ashok (Website & Backend Team).
-
----
-
-## 5. Pre-Print Quality Checklist
+## 3. Pre-Print Quality Checklist
 - [ ] Bleed margin of 2.5 mm maintained on all 4 sides of the card canvas.
-- [ ] Oblong lanyard punch hole area (14mm × 3mm) is free of critical text or QR codes.
-- [ ] QR code minimum size is strictly 18 mm × 18 mm at 300 DPI for reliable camera scanning.
+- [ ] Central hourglass icon rendered crisp at 300 DPI vector scale.
+- [ ] Lanyard punch hole area (14mm × 3mm) is free of critical text or QR codes.
+- [ ] Dynamic QR code points directly to `https://kairos.sathyabama.ac.in/team/[TEAM_ID]`.
 - [ ] Pre-printed test run of 5 cards verified with NFC reader app (NFC Tools) on Android & iOS.

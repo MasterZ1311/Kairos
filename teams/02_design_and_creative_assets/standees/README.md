@@ -9,7 +9,7 @@
 
 ## 1. Scope & Mandate
 
-This folder specifies the graphic design, physical dimensions, hardware bases, and exact venue placement coordinates for **16 units of 6 ft × 3 ft vertical rollup display standees** deployed throughout the Central Library Complex during KAIROS 2027.
+This folder specifies the graphic design, physical dimensions, hardware bases, and exact venue placement coordinates for **16 units of 6 ft × 3 ft vertical rollup display standees** deployed throughout the Sathyabama Indoor Stadium Complex during KAIROS 2027.
 
 ---
 
@@ -40,19 +40,19 @@ Support Pole: 3-Stage Telescopic Shock-Corded Pole
 
 | Standee # | Theme & Title | Exact Location in Venue | Key Content & Call to Action |
 |:---:|---|---|---|
-| **ST-01** | **Master Schedule & 48H Timeline** | Central Library Ground Foyer | Milestone checkpoints, judging gates, meal hours. |
-| **ST-02** | **Venue Navigation & Floor Map** | Ground Floor Elevator Lobby | Auditorium, Labs, Lecture Halls 1–3, Restrooms. |
-| **ST-03** | **Track 1: Agentic AI & Bedrock** | 2nd Floor — Lecture Hall 1 | Claude 3.5 Sonnet, AWS Bedrock API QR, criteria. |
-| **ST-04** | **Track 2: Cloud-Native Systems** | 2nd Floor — Lecture Hall 2 | Serverless, Kubernetes, AWS Lambda, microservices. |
-| **ST-05** | **Track 3: Web3 & Decentralized** | 2nd Floor — Lecture Hall 3 | Smart contracts, cryptographic privacy, Web3 track. |
-| **ST-06** | **Track 4: Next-Gen FinTech** | 1st Floor Computing Lab | Open banking, algorithmic ledger, payment APIs. |
-| **ST-07** | **Track 5: Smart Healthcare** | 1st Floor Computing Lab | Ambient intelligence, IoT telemetry, health models. |
-| **ST-08** | **Title Sponsor Innovation Stage** | Central Library Foyer | Title Sponsor branding, recruitment QR, API challenge. |
-| **ST-09** | **Co-Powered By Corporate Showcase** | Central Library Foyer | Co-Powered By sponsors, tech stacks, hiring links. |
-| **ST-10** | **100% Free Participant Perks** | Ground Floor Check-In Desk | Zero fee model, free meals, developer kit items. |
-| **ST-11** | **Hacker Code of Conduct & IP Policy** | 2nd Floor Corridor Junction | Anti-harassment, 100% participant IP ownership. |
-| **ST-12** | **Night Lock-In & Security Protocols** | Main Exit Gates & Stairwells | 10 PM – 6 AM curfew rules, segregated mess access. |
-| **ST-13** | **Campus Wi-Fi & Network Access** | Hack Bay 1 & 2 Junction | High-speed SSID, WPA2 enterprise credentials, IT desk. |
+| **ST-01** | **Master Schedule & 48H Timeline** | Indoor Stadium Main Foyer | Milestone checkpoints, judging gates, meal hours. |
+| **ST-02** | **Venue Navigation & Floor Map** | Stadium Arena Entrance Lobby | Main Arena, Bays Alpha–Echo, Green Rooms 1–2, Restrooms. |
+| **ST-03** | **Track 1: Agentic AI & Bedrock** | Arena Floor — Sector Alpha | Claude 3.5 Sonnet, AWS Bedrock API QR, criteria. |
+| **ST-04** | **Track 2: Cloud-Native Systems** | Arena Floor — Sector Bravo | Serverless, Kubernetes, AWS Lambda, microservices. |
+| **ST-05** | **Track 3: Web3 & Decentralized** | Arena Floor — Sector Charlie | Smart contracts, cryptographic privacy, Web3 track. |
+| **ST-06** | **Track 4: Next-Gen FinTech** | Arena Floor — Sector Delta | Open banking, algorithmic ledger, payment APIs. |
+| **ST-07** | **Track 5: Smart Healthcare** | Arena Floor — Sector Echo | Ambient intelligence, IoT telemetry, health models. |
+| **ST-08** | **Title Sponsor Innovation Stage** | Indoor Stadium Main Foyer | Title Sponsor branding, recruitment QR, API challenge. |
+| **ST-09** | **Co-Powered By Corporate Showcase** | Indoor Stadium Main Foyer | Co-Powered By sponsors, tech stacks, hiring links. |
+| **ST-10** | **100% Free Participant Perks** | Stadium Foyer Check-In Desk | Zero fee model, free meals, developer kit items. |
+| **ST-11** | **Hacker Code of Conduct & IP Policy** | Main Arena Central Concourse | Anti-harassment, 100% participant IP ownership. |
+| **ST-12** | **Night Lock-In & Security Protocols** | Main Stadium Portico & Gates | 10 PM – 6 AM curfew rules, segregated mess access. |
+| **ST-13** | **Campus Wi-Fi & Network Access** | Arena Central NOC Junction | High-speed SSID, WPA2 enterprise credentials, IT desk. |
 | **ST-14** | **AWS Cloud Sandbox & Bedrock Getting Started** | Computing Lab Entry | Cloud credits activation instructions, sandbox links. |
 | **ST-15** | **Emergency Contacts & Medical Desk** | Ground Floor Medical Station | 24/7 Security Chief, Medical Room, Apollo Ambulance. |
 | **ST-16** | **Social Media Challenge & Tagging** | Auditorium Photo Booth | `@awssbg_sist`, `#Kairos2027`, photo stinger frame. |

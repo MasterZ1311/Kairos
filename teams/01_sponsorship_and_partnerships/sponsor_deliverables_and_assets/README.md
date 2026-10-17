@@ -1,54 +1,55 @@
 # Sponsor Deliverables & Brand Assets Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/sponsor_deliverables_and_assets/`  
-> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
+> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
 > **Collaborating Leads:** Rikish B (Design Lead, Reg: `44110664`) & Caroline Mary McPherson (Media Head 1, Reg: `44110124`)  
-> **Deliverables Sub-Head:** Media & Asset Ingestion Sub-Head  
+> **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../06_fulfillment_assets_and_proof_of_performance.md`](../06_fulfillment_assets_and_proof_of_performance.md)  
+> **Hard Print Freeze Deadline:** **20 December 2026**
 
 ---
 
 ## 1. Scope & Mandate
 
-This folder manages the intake, verification, storage, and cross-team routing of corporate sponsor assets. When a sponsor commits to Kairos 2027, their brand assets must be ingested according to strict production standards for physical banners, digital broadcasts, stage LED walls, and print collateral.
+This directory manages the intake, technical validation, secure storage, and cross-team routing of corporate sponsor assets for KAIROS 2027. Once an enterprise sponsor commits via an executed bilateral MoU, their brand assets are ingested according to strict production standards for physical banners, digital broadcasts, stage LED walls, and print collateral.
 
-### Subdirectories to be Created upon Sponsor Onboarding:
-- `logos/`: High-resolution vector logos (SVG, EPS, AI, 300 DPI transparent PNG).
-- `video_stingers/`: 1080p 60fps video commercials for live stream breaks (15s / 30s).
-- `slide_templates/`: Keynote deck slides from corporate partners.
-- `booth_collateral/`: Stall design blueprints, roll-up banner print files.
-- `track_bounties/`: Problem statement PDFs, API keys, documentation links.
+### Core Resources in this Directory:
+- 📄 [`sponsor_benefit_fulfillment_checklist.md`](./sponsor_benefit_fulfillment_checklist.md): The live master deliverable tracking matrix across all contracted partners.
+- 📄 [`sponsor_asset_intake_and_delivery_spec.md`](./sponsor_asset_intake_and_delivery_spec.md): Comprehensive technical specifications for vector logos, video commercials, stage presentations, and banner dimensions.
 
 ---
 
-## 2. Who Fills What (Accountability)
+## 2. Ingestion Accountability & Cross-Team Workflow
 
-| Ingestion Step | Responsible Person | Verification Method |
+```mermaid
+graph LR
+    A["Asset Received by CPFO Nikki"] --> B["Design QA by Rikish B (Logos/Banners)"]
+    A --> C["Media QA by Caroline (Video/Audio)"]
+    B --> D["Pre-Press Proofing"]
+    C --> E["OBS Broadcast Cueing"]
+    D --> F["On-Site Verification & Proof of Performance"]
+    E --> F
+```
+
+| Ingestion Step | Responsible Person | Quality Verification Method |
 |---|---|---|
-| **Request Asset Package from Sponsor POC** | Nikki (Nangaiyar M) | Email with standardized asset checklist |
+| **Request Asset Package from Sponsor POC** | Nikki (Nangaiyar M) | Standardized intake email with specs sheet |
 | **Vector & Resolution Validation** | Rikish B (Design Lead) | Adobe Illustrator / Figma SVG node audit |
-| **Video Audio-Level & Codec Check** | Media Tech Squad | OBS / VLC render test (1080p60 H.264, -14 LUFS) |
-| **Placement on Physical Print Proofs** | Rikish B | Banner pre-press proofs checked |
-| **Live Stream Overlay Integration** | Media Head 1 (Caroline) | ATEM Mini Pro & OBS scene switch test |
-| **Post-Event Proof of Performance (PoP)** | Nikki (Nangaiyar M) | Photographs of booth, banners, LED wall compiled |
+| **Video Audio-Level & Codec Check** | Caroline Mary McPherson | OBS / VLC render test (1080p60 H.264, -14 LUFS) |
+| **Placement on Physical Print Proofs** | Rikish B | Banner pre-press proofs checked before Dec 20 |
+| **Live Stream Overlay Integration** | Caroline Mary McPherson | ATEM Mini Pro & OBS scene switch test |
+| **On-Site Proof of Performance (PoP)** | Nikki & Dedicated Photographer | 8-shot photographic protocol compiled into ROI dossier |
 
 ---
 
-## 3. Mandatory Asset Ingestion Specifications
+## 3. Directory Structure for Ingested Corporate Assets
 
-### Logo Assets
-- **Formats Allowed:** Vector (`.svg`, `.ai`, `.eps`) and 300 DPI transparent raster (`.png`).
-- **Variants Required:**
-  1. *Primary Full-Color* (for white/light backgrounds)
-  2. *Inverted Monochrome White* (for `#0D1117` Obsidian dark mode surfaces)
-  3. *Brand Monogram / Icon* (square 1:1 format for smart badges & web nav)
-- **Minimum Dimensions (PNG):** 2000 × 2000 px at 300 DPI.
-- **Strict Prohibition:** JPEGs with white square backgrounds, low-res web scraps, or distorted aspect ratios are strictly rejected.
+Upon executing an official agreement, the team provisions a dedicated partner folder within this directory:
 
-### Video Commercial Stingers (Live Stream Broadcast)
-- **Resolution:** `1920 × 1080 px` (1080p) at `60.00 fps`.
-- **Container / Codec:** `.mp4` container with `H.264 / AVC` video and `AAC 320 kbps` audio.
-- **Duration:** Exactly 15.0 seconds (Co-Powered By) or 30.0 seconds (Title Sponsor).
-- **Audio Normalization:** Target integrated loudness `-14 LUFS` (broadcast standard).
-
-### Problem Statements & API Documentation
-- PDF / Markdown format specifying: Challenge Overview, Evaluation Criteria, Supported APIs, Sandbox Credentials, and Jury Contact.
+```text
+sponsor_deliverables_and_assets/
+├── logos/                  # Vector logos (SVG, EPS, AI, 300 DPI transparent PNG)
+├── video_stingers/         # 1080p 60fps video commercials for live stream breaks (15s / 30s)
+├── slide_templates/        # Keynote deck slides and presentation decks from partners
+├── booth_collateral/       # Stall design blueprints, roll-up banner print files
+└── track_bounties/         # Problem statement markdown/PDFs, API keys, documentation links
+```

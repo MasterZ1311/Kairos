@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environments & Virtual Envs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch & Temporary
+scratch/
+*.tmp

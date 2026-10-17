@@ -33,12 +33,13 @@ graph LR
 
 | Ref Serial No | Letter Purpose | Target Recipient / Office | Key Clearances Requested | Lead Owner | Target Filing Date | Status |
 |:---:|---|---|---|:---:|:---:|:---:|
-| **EXT-001** | **Venue Requisition** | Dean, School of Computing & Campus Registrar | Central Library Complex (Auditorium, 1st Fl Lab, 2nd Fl LH 1-3, Top Fl Lounge) for 48H continuously | Nangaiyar M | Oct 01, 2026 | Approved |
+| **EXT-001** | **Venue Requisition** | Dean, School of Computing & Campus Registrar | Sathyabama Indoor Stadium (Indoor Auditorium & Green Rooms 1–2) for 48H continuously | Nangaiyar M | Oct 01, 2026 | Approved |
 | **EXT-002** | **Bus Fleet Permission** | Transport Officer & Administrative Office | 10 Sathyabama College Bus routes across Chennai hubs for participant pickup/drop | Nangaiyar M | Oct 15, 2026 | Drafted |
-| **EXT-003** | **Campus EV Transit** | Maintenance Engineer & Estate Officer | 2 Green Electric Vehicle Buggies for inter-campus shuttle (Library to Mess/Hostels) | Nangaiyar M | Oct 20, 2026 | Drafted |
+| **EXT-003** | **Campus EV Transit** | Maintenance Engineer & Estate Officer | 3 Green Electric Vehicle Buggies for inter-campus shuttle (Stadium to Mess/Hostels) | Nangaiyar M | Oct 20, 2026 | Drafted |
 | **EXT-004** | **Police Intimation** | Inspector of Police, Semmancheri Police Station | Law & order intimation for 48-hour continuous student gathering & night lock-in | Hemavarshine S | Nov 01, 2026 | Drafted |
-| **EXT-005** | **Judge Hospitality** | Dean (Computing) & Finance Officer | Top-floor executive lounge dining, shawls, mementos, honorarium | Hemavarshine S | Nov 15, 2026 | Drafted |
+| **EXT-005** | **Judge Hospitality** | Dean (Computing) & Finance Officer | Backstage Green Room 2 executive lounge dining, shawls, mementos, honorarium | Hemavarshine S | Nov 15, 2026 | Drafted |
 | **EXT-006** | **Academic On-Duty (OD)** | Dean (Student Affairs) & HoDs | 3-day official Academic On-Duty for 106 student organizers and participating students | Hemavarshine S | Dec 01, 2026 | Drafted |
+| **EXT-007** | **Power Grid & Generator Feeder** | Campus Chief Electrical Engineer & Estate Office | 65 kVA continuous arena grid sanction & dual 125 kVA diesel generator ATS failover | Viswanathan Ashok | Dec 10, 2026 | Drafted |
 
 ---
 

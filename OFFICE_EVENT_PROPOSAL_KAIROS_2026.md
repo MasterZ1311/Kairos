@@ -45,7 +45,7 @@ The entire event is funded through a **balanced ₹3,50,000 – ₹4,00,000 corp
 | **1** | **Event Window & Duration** | **January 22 – 24, 2027** · Continuous **48 Hours Non-Stop** Prototyping Sprint (Friday 08:00 AM to Sunday 05:00 PM). |
 | **2** | **Registration & Entry Fee** | **100% FREE — ZERO ENTRY FEE** (No fees collected from students; 100% corporate & grant funded). |
 | **3** | **Dual-Phase Quality Gate** | • *Round 1 (Online Technical Qualifier):* **January 02 – 04, 2027** (Top 250 Semi-Finalists).<br/>• *Round 2 (On-Campus Grand Finale):* **January 22 – 24, 2027** (**Top 100 Elite Teams / Teams of 4–6 students, ~400–600 Developers**). |
-| **4** | **Requested Venue** | **Central Library Complex**, Sathyabama Campus:<br/>• *Ground/1st Floor Auditorium:* Grand Inaugural Keynote, Sponsor Tracks, & Mega Valedictory.<br/>• *2nd Floor Lecture Halls (LH 1, 2, 3):* 100 Dedicated High-Density Prototype Hacking Bays.<br/>• *1st Floor Computing Lab:* Central Apex War Room, Cloud Sandbox, & 24/7 Technical Diagnostic Bay.<br/>• *Top Floor Executive Lounge:* VIP Jury, CXO Hospitality & Private Boardroom Dining. |
+| **4** | **Requested Venue** | **Sathyabama Indoor Stadium (Indoor Auditorium)**, Sathyabama Campus:<br/>• *Elevated Stage Complex:* 50x10ft Mega Backdrop, 12x8ft P2.5 LED Video Wall, Keynotes & Valedictory.<br/>• *Main Arena Floor:* 100 Dedicated Team Pods (75–80 Round Banquet Tables with Linens & Rubber Cable Ramps).<br/>• *Backstage Green Room 1:* Dedicated Female Rest Sanctuary (AC, Private Restrooms, Security Escort).<br/>• *Backstage Green Room 2:* VIP Industry Jury Lounge, Sponsor Briefing & Private Boardroom Dining.<br/>• *Upper Spectator Bleachers:* Partitioned Quiet Nap Pods (40 Padded Mats, 100% Silent Zone). |
 | **5** | **Participant & Delegate Count** | • **100 Shortlisted National Teams** (Teams of 4–6 students, ~400–600 student developers).<br/>• **106 Dedicated Student Organizers** (Under 6 Super Heads reporting to President Thenappan T).<br/>• **25+ VIP Industry Jury Members & Technical Evaluators** (VCs, CTOs, AWS Leaders, alumni, and technical industry volunteers). |
 | **6** | **Innovation Tracks** | **5 Enterprise Grand Challenge Tracks:**<br/>1. *Agentic AI & Generative Intelligence* (AWS Bedrock, Multi-Agent Workflows).<br/>2. *Cloud-Native, High-Throughput & Distributed Systems* (Event-Driven Cloud Backbones).<br/>3. *Autonomous Edge IoT & Sustainable Green Energy* (Hardware Telemetry, Smart Microgrids).<br/>4. *Next-Gen FinTech, Trust & Cryptographic Security* (Fraud Scoring, Zero-Knowledge Proofs).<br/>5. *Open Enterprise & Campus Life Innovation* (Hyper-scale Institutional Solutions). |
 | **7** | **Financial Model & Sponsorship** | • **Total Working Operational Capital:** **₹3,50,000 – ₹4,00,000**.<br/>• **Title Sponsor (Presented By):** **₹2,00,000 (2 Lakhs)**.<br/>• **Powered By Sponsor:** **₹1,00,000 (1 Lakh)**.<br/>• **Track & Associate Partners:** **₹50,000 – ₹1,00,000**.<br/>• **Sathyabama Institutional Grant:** **₹50,000**.<br/>• **Participant Entry Fees:** **₹0 (100% FREE)**.<br/>• **In-Kind Corporate Grants:** $50,000+ AWS Cloud Credits, 1,200+ Red Bull Cans, Developer Tool Packs. |
@@ -59,7 +59,7 @@ The entire event is funded through a **balanced ₹3,50,000 – ₹4,00,000 corp
 
 ```text
 ========================================================================================
-KAIROS 2027 (GRAND EDITION) — MASTER OPERATIONAL BUDGET MODEL (₹3,50,000 CAPITAL POOL)
+KAIROS 2027 (INDOOR AUDITORIUM MODEL) — MASTER OPERATIONAL BUDGET (₹3,50,000 CAPITAL)
 ========================================================================================
 INFLOW / REVENUE HEADS                                                      AMOUNT (₹)
 ----------------------------------------------------------------------------------------
@@ -74,12 +74,13 @@ TOTAL PROJECTED OPERATIONAL INFLOW                                          ₹3
 OUTFLOW / EXPENDITURE HEADS                                                 AMOUNT (₹)
 ----------------------------------------------------------------------------------------
 1. Pure Cash Prize Pool (1st: 60k, 2nd: 35k, 3rd: 20k, Tracks: 35k, Bounties: 25k) ₹1,75,000
-2. Participant Merch, Lanyards & Developer Kits                              ₹60,000
-3. Catering Supplement, Evening Refreshments & Midnight Coffee/Snacks        ₹45,000
-4. Stage Production, Audio-Visual Line Array & Valedictory Sound Rig         ₹30,000
-5. VIP Jury Care, Hospitality, Executive Dining & Mementos                   ₹20,000
-6. Electrical Power Distribution, Spike Hubs & Network Hardware              ₹10,000
-7. Standees (16 units), Banners, Trophies & Certificates                     ₹10,000
+2. Arena Floor Infrastructure & Table Linens (75-80 Round Tables + Cable Ramps) ₹38,000
+3. Stage Production, 12x8ft P2.5 LED Video Wall & Line Array Concert Audio     ₹32,000
+4. Participant Merchandise, Dry-Fit Tees & Laser-Etched Smart ID Badges        ₹45,000
+5. 48-Hour Continuous Refreshments, High Tea & 01:30 AM Midnight Fuel Bar       ₹25,000
+6. VIP Jury Care, Backstage Green Room Lounge Hospitality & Mementos           ₹15,000
+7. Stadium Branding, 50ft Mega Backdrop Banner, Standees & Trophies            ₹12,000
+8. Arena Ambience, Live Printing, Floor Mat Taping & Contingency Buffer         ₹8,000
 ----------------------------------------------------------------------------------------
 TOTAL PROJECTED OPERATIONAL OUTFLOW                                         ₹3,50,000
 ========================================================================================

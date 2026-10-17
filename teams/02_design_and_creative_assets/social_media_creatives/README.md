@@ -1,62 +1,68 @@
-# Social Media Creatives & Digital Asset Specifications
+# KAIROS — Social Media Identity & Template System
 
 > **Subfolder:** `teams/02_design_and_creative_assets/social_media_creatives/`  
 > **Direct Lead:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
-> **Content Collaborator:** **Caroline Mary McPherson** (Media Head 1, Reg: `44110124`, Phone: `+91 8838990182`)  
+> **Content Collaborator:** **Caroline Mary McPherson** (Media Head 1, Reg: `44110124`)  
 > **PR & Social Lead:** **Harshith Raj S** (Socials Lead)  
 > **Supervising Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
+> **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
+> **Official Instagram:** [`@awssbg_sist`](https://instagram.com/awssbg_sist)  
 
 ---
 
-## 1. Scope & Mandate
+## 1. Scope & The Reusable Instagram Template Engine
 
-This directory manages all raster, vector, motion, and template assets for the digital marketing and social media campaign of KAIROS 2027 across Instagram ([`@awssbg_sist`](https://instagram.com/awssbg_sist)), LinkedIn, YouTube Live, Discord, and WhatsApp.
+To ensure an unmistakably cohesive identity where any post or story is recognized within 2 seconds, all digital creatives strictly utilize the **KAIROS Modular Instagram Template System**:
 
----
-
-## 2. Multi-Platform Canvas Dimensions & Aspect Ratios
-
-```text
-+-------------------------------------------------------------------------------------------------------+
-|                                DIGITAL SOCIAL ASSET DIMENSIONS MATRIX                                 |
-+----+--------------------------------+-----------------+-----------------+---------+--------+----------+
-| ID | ASSET TYPE & PLATFORM          | ASPECT RATIO    | PIXEL DIMENSION | RES     | COLOR  | FORMAT   |
-+----+--------------------------------+-----------------+-----------------+---------+--------+----------+
-| S1 | Instagram Feed Portrait / Post | 4:5 Portrait    | 1080 × 1350 px  | 144 DPI | sRGB   | PNG / WEBP|
-| S2 | Instagram Carousel Slide Deck  | 4:5 Portrait    | 1080 × 1350 px  | 144 DPI | sRGB   | PNG      |
-| S3 | Instagram Square Grid Post     | 1:1 Square      | 1080 × 1080 px  | 144 DPI | sRGB   | PNG      |
-| S4 | Instagram Story & Reel Cover   | 9:16 Vertical   | 1080 × 1920 px  | 144 DPI | sRGB   | PNG / MP4|
-| S5 | LinkedIn Company Update Banner | 1.91:1 Landscape| 1200 × 627 px   | 144 DPI | sRGB   | PNG      |
-| S6 | YouTube 4K Live Stream Cover   | 16:9 Landscape  | 1920 × 1080 px  | 144 DPI | sRGB   | PNG (<2MB|
-| S7 | Discord / WhatsApp Banner Card | 16:9 Landscape  | 960 × 540 px    | 72 DPI  | sRGB   | PNG      |
-+----+--------------------------------+-----------------+-----------------+---------+--------+----------+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│               KAIROS REUSABLE INSTAGRAM TEMPLATE ENGINE                │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. ANNOUNCEMENT TEASER                                                 │
+│    "KAIROS IS COMING."                                                 │
+│    (Minimal hourglass pulsing on #050505 canvas, zero dates)           │
+├────────────────────────────────────────────────────────────────────────┤
+│ 2. REGISTRATION OPENING                                                │
+│    "REGISTRATIONS ARE OPEN."                                           │
+│    "48 HOURS. ONE CHALLENGE." (100% Free · Link in Bio)                │
+├────────────────────────────────────────────────────────────────────────┤
+│ 3. SPEAKER / MENTOR ANNOUNCEMENT                                       │
+│    "MEET THE MENTOR"                                                   │
+│    (Grayscale cutout with purple rim lighting, Name, Role, Org)        │
+├────────────────────────────────────────────────────────────────────────┤
+│ 4. SPONSOR ANNOUNCEMENT                                                │
+│    "POWERED BY"                                                        │
+│    (Corporate vector logo framed by electric violet orbital ring)      │
+├────────────────────────────────────────────────────────────────────────┤
+│ 5. CHALLENGE / TRACK REVEAL                                            │
+│    "YOUR MISSION:"                                                     │
+│    (Problem statement brief, AWS reference architectures)              │
+├────────────────────────────────────────────────────────────────────────┤
+│ 6. THE COUNTDOWN SEQUENCE                                              │
+│    "7 DAYS"  ➔  "6 DAYS"  ➔  "48 HOURS"  ➔  "24 HOURS"  ➔  "01 HOUR"   │
+├────────────────────────────────────────────────────────────────────────┤
+│ 7. LIVE HACKATHON STATUS (JAN 22–24)                                   │
+│    "HACKING HAS BEGUN." ➔ "24 HOURS LEFT." ➔ "12 HOURS LEFT."          │
+│    ➔ "6 HOURS LEFT." ➔ "SHIP IT."                                      │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Safe Zone Rules:
-- **Instagram 9:16 Stories & Reels (1080 × 1920 px):**
-  - Keep top 250 px clear (obscured by profile handle, time, and status bar).
-  - Keep bottom 280 px clear (obscured by caption, audio attribution, and comment overlay).
-  - Keep interactive elements (polls, links, sliders) within the central 1080 × 1390 px safe zone.
-- **Instagram 4:5 Carousels (1080 × 1350 px):**
-  - Ensure the central 1080 × 1080 px square region remains aesthetically complete when viewed on the profile grid feed.
+---
+
+## 2. Multi-Platform Canvas Dimensions
+
+| ID | Creative Type & Platform | Aspect Ratio | Resolution (px) | DPI | Primary Content |
+|:---:|---|:---:|:---:|:---:|---|
+| **S1** | **Instagram Feed Portrait** | 4:5 Portrait | 1080 × 1350 px | 144 | Official drops, sponsor reveals, speaker cards |
+| **S2** | **Instagram Square Grid Post** | 1:1 Square | 1080 × 1080 px | 144 | Permanent profile grid posts, badge reveals |
+| **S3** | **Instagram Story & Reel Cover** | 9:16 Vertical | 1080 × 1920 px | 144 | Live status updates, countdown timers |
+| **S4** | **LinkedIn Company Update** | 1.91:1 Landscape | 1200 × 627 px | 144 | Executive announcements, institutional letters |
+| **S5** | **YouTube 4K Stream Thumbnail** | 16:9 Landscape | 1920 × 1080 px | 144 | Live broadcast streams, valedictory recordings |
 
 ---
 
-## 3. The 3-Drop Campaign Cycle System
-
-Every major hackathon milestone follows the chapter's official 3-drop publishing cycle:
-1. **Drop 1 (The Conceptual Hook):** Dark Obsidian background with glowing Amber glyph, high-concept question, no dates initially.
-2. **Drop 2 (The Value & Scale Reveal):** ₹1,75,000 pure cash prize pool announcement, 100% free entry badge, 5 technical tracks, sponsor logos.
-3. **Drop 3 (The Registration Call to Action):** Direct link-in-bio graphic, deadline countdown ticker, student eligibility checklist.
-
----
-
-## 4. Who Fills What (Accountability)
-
-| Asset Category | Designer | Content Writer | QA Reviewer | Target Publishing Date |
-|---|---|---|---|:---:|
-| **Hackathon Teaser Motion Stinger** | Rikish B | Caroline McPherson | Thenappan T | Oct 01, 2026 |
-| **Track Spotlight Graphics (5 tracks)** | Rikish B | Shanmugapriyan S | Thenappan T | Oct 15 – Nov 01, 2026 |
-| **Sponsor Welcome Badges** | Rikish B | CPFO | Thenappan T | Rolling upon MoU |
-| **Live 48H Story Overlays** | Media Squad | Harshith Raj S | Caroline McPherson | Jan 22 – 24, 2027 |
-| **Winner Announcement Carousels** | Rikish B | Caroline McPherson | Thenappan T | Jan 24, 2027 (16:30) |
+## 3. Template Style & Visual Rules
+1. **Flat #050505 Base:** Maintain a flat Void Black background. Do not wash entire slides with noisy purple gradients.
+2. **Glowing Logo Accent:** The glowing KAIROS hourglass logo acts as the primary light source on every creative.
+3. **Typography:** Bold geometric sans-serif for titles (`Space Grotesk Bold`), clean modern sans-serif (`Inter`) for details.
+4. **Safe Zones:** On 9:16 Stories (1080 × 1920 px), keep top 250 px and bottom 280 px completely clear of critical copy.

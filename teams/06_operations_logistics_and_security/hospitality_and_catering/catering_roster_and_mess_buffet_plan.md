@@ -1,6 +1,6 @@
 # KAIROS 2027 — Full-Board Catering Roster & Mess Buffet Menus
 
-> **Direct Lead:** Chief Experience & Hospitality Officer (CXO)  
+> **Direct Lead:** Hemavarshine G (Chief Experience & Hospitality Officer, CXO)  
 > **Mess Superintendent:** Sathyabama Central Mess Management  
 
 ---
@@ -43,7 +43,7 @@ SUNDAY, JANUARY 24, 2027:
 
 ---
 
-## 2. Top Floor VIP Executive Lounge Menu (Jury & Corporate Dignitaries)
+## 2. Backstage Green Room 2 VIP Executive Lounge Menu (Jury & Corporate Dignitaries)
 
 - **Morning High Tea (10:00 AM):** Gourmet dry fruits platter (cashews, almonds, pistachios), assorted mini tea cakes, organic green tea, cappuccino.
 - **Executive Lunch (01:30 PM):** Multi-course executive buffet: Cream of Almond Soup, Cottage Cheese Steak with Herb Rice, Paneer Lababdar, Malabar Parotta, Fresh Fruit Trifle, and tender coconut water.

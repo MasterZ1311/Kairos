@@ -10,32 +10,41 @@
 
 ## 1. Scope & Mandate
 
-This folder directs the spatial architecture, table bay configurations, high-density electrical distribution, and network infrastructure across all levels of the **Central Library Complex** for KAIROS 2027.
+This folder directs the spatial architecture, table bay configurations, high-density electrical distribution, and network infrastructure for KAIROS 2027. Following institutional approval, the primary venue is the **Sathyabama Indoor Stadium (Indoor Auditorium)** (modeled on empirical benchmarks from Vexora'26 ACM Hackathon).
+
+* **Primary Active Spec:** [`indoor_stadium_arena_bay_allocation_and_power_grid.md`](./indoor_stadium_arena_bay_allocation_and_power_grid.md)
+* **Master Transition & Budget Plan:** [`../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md`](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)
+* **Archival Baseline:** [`central_library_bay_allocation_and_power_grid.md`](./central_library_bay_allocation_and_power_grid.md)
 
 ---
 
-## 2. Central Library Complex Multi-Level Floor Allocation
+## 2. Sathyabama Indoor Stadium Spatial Mapping
 
 ```text
-CENTRAL LIBRARY SPATIAL MAPPING:
+INDOOR STADIUM ARENA SPATIAL MAPPING:
 ────────────────────────────────────────────────────────────────────────
-• GROUND FLOOR:
-  - Grand Auditorium (500-Seat Capacity): Inaugural Ceremony, Keynotes, Stage LED Wall, Valedictory.
-  - Portico & Foyer: Registration Desks, Smart NFC Tap Stations, 12x8ft Welcome Banner, Corporate Booths.
-  - Hacker Lounge & Resting Pods: Quiet rest zone with floor mattresses for tired builders.
+• MAIN ARENA FLOOR:
+  - 100 Hacking Bays (75–80 Round Banquet Tables with Fitted Navy Linens)
+  - 550+ Institutional Plastic Chairs
+  - 3 Main 32A 3-Phase Power Distribution Trunk Lines encased in 20 Heavy Rubber Cable Ramps
+  - Central Apex War Room, Network NOC, and Live Broadcast Deck
 
-• 1ST FLOOR:
-  - Computing Lab (120 Linux Workstations): Track 4 (FinTech) & Track 5 (Healthcare) Hack Bays.
-  - Network Server Room: Core fiber patch panel and Wi-Fi controller.
+• ELEVATED STAGE COMPLEX:
+  - 50ft × 10ft Mega Stage Backdrop Banner
+  - 12ft × 8ft P2.5 High-Resolution LED Video Wall
+  - Line-Array Acoustic PA System + UHF Cordless Mics
 
-• 2ND FLOOR:
-  - Lecture Hall 1 (LH-1): Track 1 Hack Bays (Teams 01–25: Agentic AI & Bedrock).
-  - Lecture Hall 2 (LH-2): Track 2 Hack Bays (Teams 26–50: Cloud-Native Systems).
-  - Lecture Hall 3 (LH-3): Track 3 Hack Bays (Teams 51–75: Web3 & Decentralized).
-  - Central Corridor: Continuous 24/7 Water & Coffee Dispensation Bar.
+• BACKSTAGE GREEN ROOMS:
+  - Green Room 1: Female Rest Sanctuary (AC, Attached Restroom, Lady Guard Escort)
+  - Green Room 2: VIP Industry Jury Lounge & Boardroom Dining
 
-• TOP FLOOR:
-  - VIP Executive Lounge: Corporate Sponsor Suites, CXO Dining, Private Jury Deliberation Room.
+• UPPER BLEACHERS / MEZZANINE:
+  - Partitioned Quiet Nap Pods (40 Padded Mats, 100% Silent Zone)
+
+• PORTICO & FOYER:
+  - Registration & Smart NFC Badge Scanning Desks
+  - 24/7 Filter Coffee / Tea Fuel Bar & Mineral Water Station
+  - Campus EV Buggy & University Bus Terminal
 ────────────────────────────────────────────────────────────────────────
 ```
 
@@ -43,12 +52,12 @@ CENTRAL LIBRARY SPATIAL MAPPING:
 
 ## 3. Power Grid & Electrical Architecture
 
-- **Total Connected Load:** Capped at **45 kVA** with balanced three-phase 415V distribution.
-- **Generator Redundancy:** Dedicated 125 kVA institutional diesel generator on warm standby with an Automatic Transfer Switch (ATS) providing **< 10 millisecond failover** to prevent laptop rebooting.
+- **Total Connected Load:** Designed for **55–65 kVA** continuous demand (~69.2 kW peak) with balanced three-phase 415V distribution.
+- **Generator Redundancy:** Dedicated 125 kVA institutional feeder with dual 125 kVA campus diesel generators on auto-synchronization and Automatic Transfer Switch (ATS) providing **< 10 millisecond failover** to prevent laptop or server rebooting.
 - **Bay Power Infrastructure:**
-  - **40 Units of Heavy-Duty 6A/16A Spike-Protected Extension Strips** (Belkin / Havells commercial grade).
-  - Each 4-person team receives a dedicated 4-socket surge-protected power strip.
-  - Maximum 3 power strips daisy-chained per main 16A wall circuit breaker to eliminate tripping risk.
+  - **100–120 Units of Heavy-Duty 6A/16A Spike-Protected Extension Boards** (commercial grade with individual switches and surge arrestors).
+  - Each 4-to-6 person hack bay receives a dedicated 6-socket surge-protected power board.
+  - Three-phase trunk lines distributed across Sectors Alpha–Echo encased in 20 dual-channel heavy rubber cable protector ramps to prevent tripping hazards.
 
 ---
 

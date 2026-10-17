@@ -1,14 +1,18 @@
-# KAIROS 2027 — Certificate Text Copy & Trophy Inscription Catalog
+# KAIROS — Certificate Copy & Acrylic Hourglass Trophy Specifications
 
-> **Owner:** Rikish B (Design Lead, Reg: `44110664`)  
-> **Archivist:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
+**Document Reference:** `teams/02_design_and_creative_assets/certificates_and_awards/certificate_and_trophy_specifications.md`  
+**Direct Owner:** **Rikish B** (Design Lead, Reg: `44110664`)  
+**Archivist:** **Hemavarshine S** (Documentation Lead, Reg: `44110263`)  
+**Governing Standard:** [04_design_and_branding_guidelines.md](../../../docs/04_design_and_branding_guidelines.md) · [06_tracks_problem_statements_and_tech.md](../../../docs/06_tracks_problem_statements_and_tech.md) · [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md)  
+**Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
+**Trophy Inscription:** **`KAIROS: BUILD • CREATE • SHIP`**  
+**Status:** `APPROVED PLAN`  
 
 ---
 
-## 1. Physical Certificate Text Templates
+## 1. Physical & Digital Certificate Templates
 
-### Template A: Certificate of Excellence (Winners & Runners-Up)
-
+### 1.1 Participant Certificate (A4 Landscape)
 ```text
 ========================================================================================================
                       SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY
@@ -17,47 +21,100 @@
                                 in formal charter collaboration with
                               AWS STUDENT BUILDER GROUP — SIST CHAPTER
 
-                                   CERTIFICATE OF EXCELLENCE
-                                  This is proudly presented to
+                                    CERTIFICATE OF PARTICIPATION
+                                     This certifies that
 
-                                       [PARTICIPANT NAME]
-                           from [COLLEGE / INSTITUTION NAME]
-                    representing Team "[TEAM NAME]" in recognition of securing
+                                        [PARTICIPANT NAME]
+                            from [COLLEGE / INSTITUTION NAME]
+                     representing Team "[TEAM NAME]" in recognition of participating in
 
-                              [ GRAND CHAMPION / 1ST RUNNER-UP / TRACK WINNER ]
+                                 KAIROS — 48-Hour Hackathon
+            focused on Applied Cloud Computing, Foundation Models, and Autonomous AI Architectures,
+                 held at Sathyabama Institute of Science and Technology, Chennai.
 
-       at KAIROS 2027 (Grand Edition), India's Flagship 48-Hour Continuous National Student Hackathon
-           focused on Applied Cloud Computing, Foundation Models, and Agentic AI Architectures,
-                held at Sathyabama Institute of Science and Technology, Chennai from January 22 to 24, 2027.
+  Certificate ID: KAIROS-PAR-[UUID]                      Issued on: January 24, 2027
+  Verify Authenticity: https://kairos.sathyabama.ac.in/verify?id=[UUID]
 
-  Certificate ID: KAIROS-2027-EXC-[UUID]                 Issued on: January 24, 2027
-  Verify Authenticity: https://kairos.sistawscc.org/verify?id=[UUID]
-
-  [Signature]                [Signature]                [Signature]                [Signature]                [Signature]
-  Thenappan T                Dr. K. Ashok Kumar         Dr. Balapriya .S           Dr. L. Lakshmanan          Dr. T. Sasipraba
-  President & SBGL           Faculty Coordinator        Faculty Coordinator        Dean, School of Computing  Vice Chancellor
+  [Signature]                [Signature]                [Signature]                [Signature]
+  Thenappan T                Dr. K. Ashok Kumar         Dr. Balapriya .S           Dr. T. Sasipraba
+  President & SBGL           Faculty Coordinator        Faculty Coordinator        Vice Chancellor
 ========================================================================================================
 ```
 
 ---
 
-## 2. Trophy Inscription Text Specifications
+### 1.2 Winner Certificate (Elevated Metallic Purple Treatment)
+* Built upon the same architectural grid but features an **illuminated Electric Violet metallic foil border** and the bold heading:
 
-### Trophy T-01: Grand Champion (1st Place Overall)
 ```text
-┌────────────────────────────────────────────────────────┐
-│                      KAIROS 2027                       │
-│                     GRAND EDITION                      │
-│                  ★ GRAND CHAMPION ★                   │
-│                                                        │
-│                    Pure Cash Prize                     │
-│                      ₹1,50,000                         │
-│                                                        │
-│                      Awarded to:                       │
-│                   [TEAM NAME HERE]                     │
-│                                                        │
-│           AWS Student Builder Group — SIST             │
-│        Sathyabama Institute of Science & Tech          │
-│                  January 22-24, 2027                   │
-└────────────────────────────────────────────────────────┘
+========================================================================================================
+                                     🥇 WINNER CERTIFICATE
+                                  This is proudly presented to
+
+                                        [PARTICIPANT NAME]
+                            from [COLLEGE / INSTITUTION NAME]
+                     representing Team "[TEAM NAME]" in recognition of securing
+
+                                      [ AWARD CATEGORY ]
+
+                                 KAIROS — 48-Hour Hackathon
+                 Organized by AWS Student Builder Group Sathyabama
+========================================================================================================
 ```
+
+---
+
+## 2. The 11 Canonical Award Categories (Matching ₹1,75,000 Cash Escrow)
+
+Certificates and trophies are minted across **11 official canonical categories**:
+1. 🥇 **Grand Champion / 1st Place Overall** (₹60,000 Pure Cash)
+2. 🥈 **First Runner-Up / 2nd Place Overall** (₹35,000 Pure Cash)
+3. 🥉 **Second Runner-Up / 3rd Place Overall** (₹20,000 Pure Cash)
+4. 🤖 **Track 1 Winner: Agentic AI & Next-Gen Autonomous Systems** (₹7,000 Pure Cash)
+5. ☁️ **Track 2 Winner: Cloud-Native, Serverless & Distributed Systems** (₹7,000 Pure Cash)
+6. ⛓️ **Track 3 Winner: Web3, Decentralized Identity & Zero-Trust Security** (₹7,000 Pure Cash)
+7. 💳 **Track 4 Winner: FinTech, High-Frequency Systems & Algorithmic Trust** (₹7,000 Pure Cash)
+8. 🏢 **Track 5 Winner: Open Enterprise & Sustainable Engineering Solutions** (₹7,000 Pure Cash)
+9. 👩‍💻 **Special Bounty: Best All-Women Engineering Team** (₹10,000 Pure Cash)
+10. 🚀 **Special Bounty: Best Freshmen / First-Time Hackers** (₹7,500 Pure Cash)
+11. 📈 **Special Bounty: Most Scalable Cloud Architecture** (₹7,500 Pure Cash)
+
+---
+
+## 3. Custom Acrylic Hourglass Physical Trophy
+
+Rather than utilizing generic trophy cups, the KAIROS trophy is engineered in the **physical silhouette of the Celestial Hourglass**:
+
+```
+                       ╭───────────────────╮
+                       │ ╱               ╲ │
+                       │╱                 ╲│
+                       │\                 /│
+                       │ \               / │
+                       │  \             /  │
+                       │   \           /   │
+                       │    \         /    │
+                       │     ╰───┬───╯     │
+                       │         │         │
+                       │     ╭───┴───╮     │
+                       │    /         \    │
+                       │   /           \   │
+                       │  /             \  │
+                       │ /               \ │
+                       │/                 \│
+                       │\                 /│
+                       │ ╲               ╱ │
+                       ╰───────────────────╯
+```
+
+### 3.1 Fabrication Parameters
+* **Substrate Base:** Heavy solid matte black acrylic pedestal (100 mm × 100 mm × 35 mm).
+* **Hourglass Column:** 15 mm optical-grade cast clear acrylic contour-cut via precision CNC laser.
+* **Etching & Infill:** Reverse laser engraving infill with UV-reactive Electric Violet epoxy ink (`#A855F7`).
+* **Official Trophy Inscription:**
+  ```text
+  KAIROS
+  BUILD • CREATE • SHIP
+  [AWARD CATEGORY] — 2027
+  AWS Student Builder Group · Sathyabama
+  ```

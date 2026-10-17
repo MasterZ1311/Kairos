@@ -9,7 +9,7 @@
 
 ```text
 PICKUP TIMING: Friday, January 22, 2027 — Departs Starting Point at 06:45 AM IST (Arrives at Sathyabama Campus by 09:15 AM ahead of 09:30 AM check-in)
-DROP TIMING: Sunday, January 24, 2027 — Departs Central Library at 05:30 PM IST
+DROP TIMING: Sunday, January 24, 2027 — Departs Sathyabama Indoor Stadium at 05:30 PM IST
 COST TO PARTICIPANTS: 100% COMPLIMENTARY (FREE PASS REQUIRED VIA SMART BADGE)
 ```
 
@@ -32,5 +32,6 @@ COST TO PARTICIPANTS: 100% COMPLIMENTARY (FREE PASS REQUIRED VIA SMART BADGE)
 
 | Vehicle ID | Type / Capacity | Operational Hours | Base Station | Primary Route & Purpose |
 |:---:|:---:|:---:|:---:|---|
-| **EV-01** | 8-Seater Green Electric Buggy | 24 Hours Continuous | Central Library Front Porch | Non-stop continuous loop: Central Library $\leftrightarrow$ Boys Mess Hall $\leftrightarrow$ Girls Mess Hall $\leftrightarrow$ Main Gate, transporting girls and boys to the nearest best restrooms and rest facilities across campus. |
-| **EV-02** | 6-Seater Executive VIP Buggy | 08:00 AM – 10:00 PM | University Guest House Porch | VIP Guest & Corporate Sponsor transit: Guest House $\leftrightarrow$ VIP Executive Lounge $\leftrightarrow$ Auditorium. |
+| **EV-01** | 8-Seater Green Electric Buggy | 24 Hours Continuous | Sathyabama Indoor Stadium Front Porch | Non-stop continuous loop: Sathyabama Indoor Stadium $\leftrightarrow$ Boys Mess Hall $\leftrightarrow$ Girls Mess Hall $\leftrightarrow$ Main Campus Gate, transporting attendees across campus. |
+| **EV-02** | 6-Seater Executive VIP Buggy | 08:00 AM – 10:00 PM | University Guest House Porch | VIP Guest & Corporate Sponsor transit: Guest House $\leftrightarrow$ Backstage Green Room 2 VIP Lounge $\leftrightarrow$ Main Stage. |
+| **EV-03** | 6-Seater Utility & Rapid Response Buggy | 24 Hours Continuous | Stadium Foyer / NOC Station | Rapid response: Emergency medical transit liaison to Sathyabama General Hospital, night escort duty, and midnight catering/water canister deployment. |

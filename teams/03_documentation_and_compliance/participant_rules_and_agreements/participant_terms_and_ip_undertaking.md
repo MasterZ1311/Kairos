@@ -1,7 +1,12 @@
 # KAIROS 2027 — Participant Legal Terms, Code of Conduct & IP Ownership Undertaking
 
-> **Standard Form:** Required for all 100 Shortlisted Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)  
-> **Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
+**Document Reference:** `teams/03_documentation_and_compliance/participant_rules_and_agreements/participant_terms_and_ip_undertaking.md`  
+**Standard Form:** Required for all 100 Shortlisted Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)  
+**Governing Standard:** [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md) · [09_participant_handbook_and_rules.md](../../../docs/09_participant_handbook_and_rules.md) · [14_official_letters_and_administrative_approvals.md](../../../docs/14_official_letters_and_administrative_approvals.md) · [15_google_form_registration_and_confirmation_template.md](../../../docs/15_google_form_registration_and_confirmation_template.md)  
+**Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
+**Super Head Authority:** Shaik Khaja Mohiddin (CSO, Reg: `44110756`)  
+**Official Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  
+**Status:** `APPROVED PLAN` & `TEMPLATE`  
 
 ---
 
@@ -12,21 +17,29 @@
 
 ---
 
-### 2. CODE OF CONDUCT & COMMUNITY ETHICS
-- **Zero Harassment:** We are dedicated to providing a safe, welcoming, and inclusive experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, race, nationality, or technical experience.
-- **Fair Play & Integrity:** All application code must be written during the official 48-hour hackathon window. The use of generative AI tools (AWS Bedrock, Claude, GitHub Copilot) is encouraged for acceleration, but core architecture and business logic must represent original engineering work.
-- **Campus Property Respect:** Participants must treat the Central Library Complex, university furniture, and computing infrastructure with absolute care. Malicious vandalism will result in immediate police and institutional action.
+### 2. CANDIDATE DATA PRIVACY & RECRUITMENT CONSENT
+1. **Opt-In Corporate Talent Book:** In compliance with the Digital Personal Data Protection (DPDP) Act, participant resumes, GitHub profiles, and contact numbers are shared with corporate sponsors **strictly on an affirmative opt-in basis**.
+2. **Voluntary Participation:** Students who opt out of corporate recruitment sharing remain 100% eligible for all hackathon tracks, judging rounds, cash prizes, and AWS Cloud credits.
+3. **Data Security:** All shared candidate books are delivered via encrypted, password-protected portals directly to corporate HR talent acquisition leads, with no public data scraping permitted.
 
 ---
 
-### 3. NIGHT LOCK-IN & CAMPUS TRANSIT PROTOCOLS
-1. **Mandatory Night Lock-In:** For participant security and university discipline, the Central Library Complex operates under a strict **Night Lock-In between 10:00 PM and 06:00 AM** on both nights (Jan 22 and Jan 23, 2027).
-2. **Segregated Pathways & Restroom Escort:** Female participants and male participants shall access separate, designated rest zones and segregated dining stairwells as marked by floor wardens. Campus EV buggies provide escorted transit for girls and boys to the nearest best restrooms across campus.
-3. **Emergency Exit:** Any departure from the facility during lock-in hours is permitted strictly for medical emergencies under escort by designated student organizers and security staff.
+### 3. CODE OF CONDUCT & COMMUNITY ETHICS
+- **Zero Harassment Policy:** We are dedicated to providing a safe, welcoming, and inclusive experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, race, nationality, or technical experience.
+- **Fresh Code Rule (100% Zero Pre-Built Code):** All project code must be written after the official hackathon start at **12:00 PM on Friday, January 22, 2027**. The use of public open-source libraries and foundation models (via AWS Bedrock) is permitted if declared in the project README.
+- **Campus Property Preservation:** Participants must treat the **Sathyabama Indoor Stadium**, athletic synthetic sports floor, furniture, and computing infrastructure with absolute care. Dragging bare metal furniture or tampering with electrical panels is strictly prohibited.
 
 ---
 
-### 4. PARTICIPANT ATTESTATION & SIGNATURE
+### 4. NIGHT LOCK-IN & CAMPUS TRANSIT PROTOCOLS
+1. **Mandatory Night Lock-In (10:00 PM – 06:00 AM):** For participant security and institutional compliance, the Sathyabama Indoor Stadium operates under a strict **Night Perimeter Lock-In** on both nights (Jan 22 and Jan 23, 2027).
+2. **Female Rest Sanctuary:** Backstage Green Room 1 is exclusively reserved for female participants and female faculty proctors, protected 24/7 by a female security guard.
+3. **Hostel Sleep Rotations & EV Transit:** Campus EV buggies provide safe, escorted shuttle transit between the Indoor Stadium, dining messes, and designated hostel rest rooms.
+4. **Emergency Exit:** Any departure from the facility during lock-in hours is permitted strictly for verified medical emergencies under escort by student marshals and campus security.
+
+---
+
+### 5. PARTICIPANT ATTESTATION & SIGNATURE
 By checking in and scanning our smart badges at KAIROS 2027, we, the undersigned team members, agree to abide by all the rules and undertakings detailed above:
 
 - **Team Name:** __________________________________________________

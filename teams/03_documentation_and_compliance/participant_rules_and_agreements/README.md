@@ -32,4 +32,4 @@ Under the constitution of the AWS Student Builder Group — SIST Chapter:
 ## 3. Policy Enforcement & Disqualification Thresholds
 - **Pre-Existing Code:** All functional software code must be authored during the official 48-hour hacking window. Libraries, open-source SDKs, and foundational models are permitted, provided they are declared during Milestone Gate 1.
 - **Git Commit Audits:** Repositories must maintain regular public commits. Bulk commits of completed applications will trigger automatic disqualification by the Technical Jury.
-- **Lock-In Violations:** Any student leaving the Central Library perimeter between 10:00 PM and 06:00 AM without medical or executive escort is immediately disqualified and reported to university authorities.
+- **Lock-In Violations:** Any student leaving the Sathyabama Indoor Stadium perimeter between 10:00 PM and 06:00 AM without medical or executive escort is immediately disqualified and reported to university authorities.

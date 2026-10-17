@@ -1,48 +1,63 @@
 # KAIROS 2027 — Official Letters Compendium & Sanction Dispatch Ledger
 
-> **Master Reference File:** `docs/14_official_letters_and_administrative_approvals.md`  
-> **Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
-> **Field Runner:** Nangaiyar M (Logistics Lead, Reg: `44612059`)  
+**Document Reference:** `teams/03_documentation_and_compliance/official_letters/official_letters_compendium_and_status.md`  
+**Master Canonical Document:** [docs/14_official_letters_and_administrative_approvals.md](../../../docs/14_official_letters_and_administrative_approvals.md)  
+**Governing Standard:** [00_hackathon_master_brief.md](../../../docs/00_hackathon_master_brief.md) · [20_indoor_auditorium_venue_transition_and_budget_plan.md](../../../docs/20_indoor_auditorium_venue_transition_and_budget_plan.md)  
+**Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
+**Super Head Authority:** Shaik Khaja Mohiddin (CSO, Reg: `44110756`)  
+**Status:** `CONFIRMED MASTER OPERATING STANDARD`  
 
 ---
 
 ## 1. Executive Summary of Administrative Letters
 
-Below is the structured action summary for all 6 university sanction letters. Detailed text copy is indexed in `docs/14`.
+Below is the structured action summary for all 7 university sanction letters. Detailed text copy and signature blocks are indexed in [docs/14](../../../docs/14_official_letters_and_administrative_approvals.md).
 
-### Letter 1: Central Library Complex & 24/7 Power Sanction
-- **Reference:** `SIST/CSE/AWS-SBG/2026-27/EXT/001`
-- **Addressed To:** The Registrar & Dean, School of Computing
+### Letter 1: Sathyabama Indoor Stadium Venue & 65 kVA Power Sanction
+- **Reference:** `SIST/AWSSBG/VEN/2026-27/001-REV`
+- **Addressed To:** The Dean (School of Computing) / The Registrar / The Dean (Student Affairs)
 - **Facilities Requested:**
-  - Ground Floor Central Library Auditorium (500-seat capacity) for Inauguration & Valedictory.
-  - 1st Floor Computing Lab (120 high-spec Linux terminals).
-  - 2nd Floor Lecture Halls 1, 2, and 3 for 100 Finalist Team Hack Bays.
-  - Top Floor VIP Executive Lounge for Grand Finale Jury Dining.
-  - Continuous 48-hour air conditioning, uninterrupted 45 kVA generator backup line, high-density Wi-Fi router reboot bypass.
-- **Status:** **Formally Sanctioned & Approved**.
+  - Main Stadium Arena Floor (Bays A–D) housing 100 Finalist Team Hack Pods (75–80 round banquet tables, 550+ chairs).
+  - Elevated Stage Complex with 50×10ft truss backdrop frame and 12×8ft LED video wall.
+  - Backstage Green Room 1 (Air-conditioned Female Rest Sanctuary).
+  - Backstage Green Room 2 / Upper Mezzanine VIP Executive Lounge.
+  - Upper Spectator Bleachers Quiet Nap Pods (40 padded rest mats).
+  - Continuous 48-hour air conditioning, uninterrupted 65 kVA power grid, dual 125 kVA diesel generator failover (<10ms).
+- **Status:** **Formally Reconciled & Queued for Administrative Seal**.
 
-### Letter 2: Sathyabama College Bus Fleet Routing (10 Routes)
-- **Reference:** `SIST/CSE/AWS-SBG/2026-27/EXT/002`
-- **Addressed To:** The Transport Officer, Central Transport Division, SIST
-- **Scope:** Sanctioning 10 designated college bus routes across major Chennai transport hubs (Central Railway Station, Tambaram, Koyambedu, Guindy, Velachery, Chengalpattu) for morning pickup on Jan 22 and evening drop on Jan 24, 2027.
+### Letter 2: Master Event Workflow, 48-Hour Night-Stay & Safety Assurance Plan
+- **Reference:** `SIST/AWSSBG/SEC/2026-27/002-REV`
+- **Addressed To:** The Dean (Student Affairs) & Campus Chief Security Officer
+- **Scope:** 48-hour continuous operational schedule, 10:00 PM – 06:00 AM stadium perimeter lockdown, segregated female rest sanctuary (Green Room 1) with female security guard, smart badge verification, and 24/7 on-site doctor/ambulance triage.
+- **Status:** **Formally Reconciled & Queued**.
+
+### Letter 3: Audio-Visual, High-Density Wi-Fi 6 & Infrastructure Requisition
+- **Reference:** `SIST/AWSSBG/INFRA/2026-27/003-REV`
+- **Addressed To:** Estate Office / Maintenance Officer & Audio-Visual Department In-Charge
+- **Scope:** 120 multi-socket surge extension boards, 3 32A 3-Phase power drops, 20 rubber cable ramps, 18–20 Wi-Fi 6 APs, Line Array PA sound system, and 550 plastic chairs from Central Stores.
+- **Status:** **Formally Reconciled & Queued**.
+
+### Letter 4: Sathyabama College Bus Fleet Routing (10 Routes)
+- **Reference:** `SIST/AWSSBG/TRANS/2026-27/004`
+- **Addressed To:** The Transport Officer / Manager, SIST
+- **Scope:** Boarding authorization on existing college bus routes for registered delegates on Friday morning (Jan 22) and Sunday evening (Jan 24), plus dedicated morning pickup shuttles from Chennai Central and Tambaram hubs.
 - **Cost to Participant:** **100% Free** (institutional facility).
+- **Status:** **Formally Reconciled & Queued**.
 
-### Letter 3: Green Campus Electric Vehicle (EV) Buggy Requisition
-- **Reference:** `SIST/CSE/AWS-SBG/2026-27/EXT/003`
-- **Addressed To:** The Estate Officer & Maintenance Division
-- **Scope:** Deployment of **2 Electric Campus Buggies** with designated drivers for non-stop shuttle service between Central Library, Hostels, and Guest Houses (Jan 22–24, 2027) for female hacker safety, baggage transit, and VIP guest transport.
+### Letter 5: VIP Executive Hospitality & Evening Refreshments Requisition
+- **Reference:** `SIST/AWSSBG/CAT/2026-27/005-REV`
+- **Addressed To:** The Catering Manager / Mess In-Charge & Administrative Officer
+- **Scope:** Executive dining and continuous espresso/tea service in Green Room 2 / Mezzanine Lounge for 25+ industry jury members; evening hot snacks for 500 pax on Days 1 & 2; midnight coffee and biscuit energy stations at 01:30 AM both nights.
+- **Status:** **Formally Reconciled & Queued**.
 
-### Letter 4: Semmancheri Police Station Security Intimation
-- **Reference:** `SIST/CSE/AWS-SBG/2026-27/EXT/004`
-- **Addressed To:** The Inspector of Police, Semmancheri Police Station, OMR, Chennai
-- **Scope:** Formal administrative intimation regarding overnight presence of 500+ national student delegates inside the campus, affirming institutional night lock-in protocols, campus security cordon, and emergency Apollo clinic liaison.
+### Letter 6: Green Campus Electric Vehicle (EV) Buggy Requisition
+- **Reference:** `SIST/AWSSBG/EV/2026-27/006-REV`
+- **Addressed To:** The Campus Estate Officer / Transport In-Charge
+- **Scope:** Deployment of **3 Electric Campus Buggies** with designated drivers for non-stop shuttle service between Sathyabama Indoor Stadium, University Mess Halls, and Hostel Guest Wings (Jan 22–24, 2027) for female hacker safety, baggage transit, and VIP guest transport.
+- **Status:** **Formally Reconciled & Queued**.
 
-### Letter 5: VIP Jury & Industry Guest Hospitality Memo
-- **Reference:** `SIST/CSE/AWS-SBG/2026-27/EXT/005`
-- **Addressed To:** Dean, School of Computing & Institutional Finance Section
-- **Scope:** Approval for traditional silk shawls, sandalwood mementos, specialized executive high tea, and buffet lunch in the Top Floor VIP Executive Lounge for 25+ industry judges and AWS architects.
-
-### Letter 6: Academic On-Duty (OD) Sanction Order
-- **Reference:** `SIST/CSE/AWS-SBG/2026-27/EXT/006`
-- **Addressed To:** Deans & Heads of Departments (School of Computing, ECE, EEE, Mechanical)
-- **Scope:** Granting full academic attendance on-duty credit for 106 student organizers and participating student teams from Jan 22 to Jan 24, 2027.
+### Letter 7: Student Organizer & Finalist Academic On-Duty (OD) Attendance Sanction
+- **Reference:** `SIST/AWSSBG/OD/2026-27/007`
+- **Addressed To:** Heads of Departments (CSE, IT, AI/DS, ECE, EEE, Mech, BioTech)
+- **Scope:** Granting full academic attendance on-duty credit for 35 setup leads (Jan 21), 106 student organizers (Jan 22), 20 teardown leads (Jan 25), and all internal student finalist teams.
+- **Status:** **Formally Reconciled & Queued**.

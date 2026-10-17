@@ -1,7 +1,7 @@
 # KAIROS 2027 — Night Security Standard Operating Procedure (SOP) & Medical Incident Log
 
 > **Direct Lead:** Chief Safety Officer (CSO)  
-> **Medical Incharge:** Sathyabama Campus Health Center & Apollo Clinic  
+> **Medical Incharge:** Sathyabama General Hospital (On-Campus Emergency Center) & Apollo Specialty Hospital OMR  
 
 ---
 
@@ -10,15 +10,15 @@
 ```mermaid
 graph TD
     INC["Incident Reported (Medical / Security)"]
-    INC --> REP["Report to Ground Floor Operations Desk"]
-    REP --> DOC["Duty Doctor Evaluates at Library Clinic Desk"]
+    INC --> REP["Report to Stadium Foyer Operations NOC Desk"]
+    REP --> DOC["Duty Doctor Evaluates at Stadium Foyer Health Desk"]
     
-    DOC -->|"Minor (Headache, Fatigue, Acidity)"| MINOR["Administer First-Aid, ORS & Rest in Lounge"]
-    DOC -->|"Serious / Hospitalization Needed"| AMB["Board Standby Apollo Ambulance"]
+    DOC -->|"Minor (Headache, Fatigue, Acidity)"| MINOR["Administer First-Aid, ORS & Rest in Nap Pods / Green Room"]
+    DOC -->|"Serious / Hospitalization Needed"| AMB["Board Standby On-Campus Ambulance"]
     
-    AMB --> ESCORT["Student Organizer Escort Accompanies"]
-    AMB --> CALL["Thenappan T & Faculty Coordinators Alerted"]
-    AMB --> HOSP["Transfer to Apollo Specialty Hospital OMR (5 Mins)"]
+    AMB --> ESCORT["Student Organizer Escort & Lady Warden (if female) Accompanies"]
+    AMB --> CALL["Thenappan T & Faculty Coordinators Alerted Immediately"]
+    AMB --> HOSP["Transfer to Sathyabama General Hospital Emergency Wing (2 Mins Across Campus)"]
 ```
 
 ---
@@ -27,18 +27,19 @@ graph TD
 
 | Shift Time | Patrol Sector | Assigned Guards & Student Leads | Checkpoints Checked |
 |:---:|---|---|---|
-| **22:00 – 00:00** | Perimeter Doors & Entry Porch | 2 Security Guards + Squad Lead 1 | Verify all doors locked, smart badge audit |
-| **00:00 – 02:00** | 2nd Floor Hack Bays (LH 1–3) | 2 Student Organizers + Floor Warden | Check air conditioning, power strips, hydration |
-| **02:00 – 04:00** | Rest Lounges & Stairwells | Lady Warden (South) + Guard (North) | Verify strict segregation and quiet hours |
-| **04:00 – 06:00** | Foyer, Restrooms & Main Porch | 2 Security Guards + Squad Lead 2 | Prepare venue unlocking at 06:00 AM |
+| **22:00 – 00:00** | Stadium Arena Perimeter Doors & Foyer | 2 Campus Guards + Ops Squad Lead 1 | Verify all arena perimeter doors secured, badge audit |
+| **00:00 – 02:00** | Arena Floor Hack Bays (Sectors Alpha–Echo) | 2 Student Organizers + Floor Warden | Check ventilation, power strips, hydration, laptop security |
+| **02:00 – 04:00** | Green Room 1 Sanctuary & Upper Bleachers | Lady Warden (Green Room) + Guard (Bleachers) | Verify strict female sanctuary protection & quiet hours |
+| **04:00 – 06:00** | Foyer Porch, Restrooms & Portico | 2 Campus Guards + Ops Squad Lead 2 | Prepare venue unlocking at 06:00 AM, clean water check |
 
 ---
 
 ## 3. Emergency Contact Numbers Speed Dial
 
-- **Apex Organizer (Thenappan T):** `+91 6381801640`
+- **Apex Executive (Thenappan T):** `+91 6381801640`
 - **Faculty Coordinator (Dr. Balapriya .S):** `+91 9444101234`
 - **Campus Chief Security Officer:** `044-24503100` / `Ext: 555`
-- **SIST Campus Health Center:** `044-24503150`
+- **Sathyabama General Hospital Emergency:** `044-24503150`
 - **Apollo Specialty Hospital (OMR Kandanchavadi):** `044-24961111` / Ambulance: `1066`
 - **Semmancheri Police Station:** `044-24500100`
+

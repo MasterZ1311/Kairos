@@ -12,7 +12,7 @@ PURCHASE ORDER: PO-APP-2027-01
 Vendor: Tirupur Knitwear & Garment Exports / Chennai Direct
 Order Date: December 01, 2026
 Handoff Target: January 15, 2027
-Delivery Location: Central Library Ground Storage Bay, SIST Campus
+Delivery Location: Sathyabama Indoor Stadium Ground Storage Bay, SIST Campus
 ```
 
 | Item | Unit Cost (₹) | Quantity | Total Cost (₹) | Funding Source |

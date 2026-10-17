@@ -14,7 +14,7 @@
 **Corporate Sponsorship Target:** **₹3,00,000** (Title Partner ₹1.25L, Powered-By ₹70k, Track Partners ₹1.05L)  
 **Working Operational Capital:** **₹3,50,000** (Corporate Sponsorships + ₹50,000 College Grant)  
 **Pure Cash Prize Pool:** **₹1,75,000 Pure Cash** (1st: ₹60k, 2nd: ₹35k, 3rd: ₹20k, 5 Tracks: ₹35k, Bounties: ₹25k) + $50,000+ AWS Cloud Credits  
-**Venue:** Central Library Complex (Auditorium, 1st Floor Computing Lab, 2nd Floor Lecture Halls 1–3, Top Floor VIP Lounge)  
+**Venue:** Sathyabama Indoor Stadium (Indoor Auditorium Arena Floor, Stage Complex, Backstage Green Rooms, Upper Bleachers Rest Pods)  
 **Leadership:** Thenappan T (Register No: `44110855`), President & SBGL | Faculty Coordinators: Dr. K. Ashok Kumar & Dr. Balapriya .S  
 **Official Email:** `sistawscc@gmail.com` | **Phone:** `+91 6381801640` | **Instagram:** [`@awssbg_sist`](https://instagram.com/awssbg_sist)  
 
@@ -24,7 +24,7 @@
 
 Paste this block at the top of any conversation — with your team, or with an AI assistant:
 
-> We are AWS Student Builder Group Sathyabama, organizing India's premier 48-hour national hackathon on our university campus, **"KAIROS 2027 (Grand Edition)"**, scheduled for **January 22–24, 2027** at **Sathyabama Institute of Science and Technology, Chennai**. The hackathon has **ZERO ENTRY FEE (100% FREE for all participants)** and is backed by **₹3,00,000 – ₹3,50,000 in external corporate sponsorships** (Title Partner ₹2L, Powered By ₹1L, Track Bounty Partners ₹25k each, plus Red Bull energy partnerships, and $50k+ AWS cloud credits). To guarantee peak technical quality, Kairos implements a **Dual-Phase Selection Funnel**: 2,000+ national applicant teams are filtered to **Top 250 Semi-Finalists for the Online Qualifier Round (Round 1: Jan 02–04, 2027)**, where teams defend their GitHub repositories and Loom prototypes live with AWS architects. Only the **Top 100 Elite National Teams (Teams of 4–6 students, ~400–600 developers)** advance to the on-campus 48-hour grand finale. There is no pre-event on-campus onboarding; finalists report directly to the venue at Sathyabama Institute of Science and Technology, Chennai on event day. The event features a **₹1,75,000 pure cash prize pool** and 3 progressive on-ground evaluation gates. Technical evaluation and grand jury judging are powered by AWS community builders, tech leads, startup founders, distinguished alumni, and any other industry professionals with technical knowledge who volunteer. The organization is led by **6 Super Heads** reporting directly to President Thenappan T (Register No: 44110855) across 106 student organizers. All venue amenities, power strips, high-speed campus Wi-Fi, university bus fleet, campus EV buggies (transporting girls and boys to the nearest best restrooms), buffet meals, developer kits, smart badges, and 24/7 security with strictly segregated boys/girls stairwells are 100% complimentary for all finalist hackers. Faculty Coordinators: **Dr. K. Ashok Kumar** & **Dr. Balapriya .S**. Official Email: **sistawscc@gmail.com**.
+> We are AWS Student Builder Group Sathyabama, organizing India's premier 48-hour national hackathon on our university campus, **"KAIROS 2027 (Grand Edition)"**, scheduled for **January 22–24, 2027** at **Sathyabama Institute of Science and Technology, Chennai** in the **Sathyabama Indoor Stadium (Indoor Auditorium)**. The hackathon has **ZERO ENTRY FEE (100% FREE for all participants)** and is backed by **₹3,00,000 – ₹3,50,000 in external corporate sponsorships** (Title Partner ₹2L, Powered By ₹1L, Track Bounty Partners ₹25k each, plus Red Bull energy partnerships, and $50k+ AWS cloud credits). To guarantee peak technical quality, Kairos implements a **Dual-Phase Selection Funnel**: 2,000+ national applicant teams are filtered to **Top 250 Semi-Finalists for the Online Qualifier Round (Round 1: Jan 02–04, 2027)**, where teams defend their GitHub repositories and Loom prototypes live with AWS architects. Only the **Top 100 Elite National Teams (Teams of 4–6 students, ~400–600 developers)** advance to the on-campus 48-hour grand finale. There is no pre-event on-campus onboarding; finalists report directly to the venue at Sathyabama Institute of Science and Technology, Chennai on event day. The event features a **₹1,75,000 pure cash prize pool** and 3 progressive on-ground evaluation gates. Technical evaluation and grand jury judging are powered by AWS community builders, tech leads, startup founders, distinguished alumni, and any other industry professionals with technical knowledge who volunteer. The organization is led by **6 Super Heads** reporting directly to President Thenappan T (Register No: 44110855) across 106 student organizers. All venue amenities, power strips, high-speed campus Wi-Fi, university bus fleet, campus EV buggies (transporting girls and boys to the nearest best restrooms), buffet meals, developer kits, smart badges, and 24/7 security with strictly segregated boys/girls stairwells are 100% complimentary for all finalist hackers. Faculty Coordinators: **Dr. K. Ashok Kumar** & **Dr. Balapriya .S**. Official Email: **sistawscc@gmail.com**.
 
 ---
 
@@ -78,15 +78,16 @@ graph TD
   * Sathyabama Management Institutional Grant: **₹50,000**
   * Participant Entry Fees: **₹0 (100% FREE)**
   * **Total Operational Working Inflow:** **₹3,50,000 – ₹4,00,000**
-* **Outflow Allocations:**
-  * Pure Cash Prizes: **₹1,75,000** (1st: ₹60k, 2nd: ₹35k, 3rd: ₹20k, 5 Tracks: ₹35k, Bounties: ₹25k)
-  * Participant Merch, Badges & Kits: **₹60,000**
-  * Catering Supplement & Refreshments: **₹45,000**
-  * Stage & Line Array Sound: **₹30,000**
-  * VIP Jury Care & Lounge Hospitality: **₹20,000**
-  * Power Grid & Network Infrastructure: **₹10,000**
-  * Signage, Standees, Banners & Awards: **₹10,000**
-  * **Total Operational Outflow:** **₹3,50,000** (Balanced to the rupee).
+* **Outflow Allocations (Calibrated for Indoor Stadium):**
+  * Pure Cash Prizes (Escrow Wire): **₹1,75,000** (1st: ₹60k, 2nd: ₹35k, 3rd: ₹20k, 5 Tracks: ₹35k, Bounties: ₹25k)
+  * Arena Floor Infrastructure & Table Linens: **₹38,000** (75–80 round tables with cloths, rubber cable ramps, mat tape)
+  * Stage Production, P2.5 LED Video Wall & Line Array Sound: **₹32,000** (12x8ft LED wall, concert audio, UHF mics)
+  * Participant Merch, Smart Badges & Kits: **₹45,000** (Dry-fit tees, RFID/QR smart badges, lanyards, stickers)
+  * Continuous 48-Hour Refreshments & Midnight Fuel Bar: **₹25,000** (High tea, 01:30 AM midnight coffee/tea, biscuits, water)
+  * VIP Jury Care, Green Room Lounge & Mementos: **₹15,000** (Executive hospitality, shawls, brass mementos)
+  * Stadium Branding, 50ft Mega Backdrop Banner & Trophies: **₹12,000** (50x10ft stage banner, standees, acrylic trophies)
+  * Arena Ambience, Live Printing & Contingency Buffer: **₹8,000** (Floor decor, score sheets, emergency consumables)
+  * **Total Operational Outflow:** **₹3,50,000** (Balanced to the rupee against ₹3.50L target inflow).
 
 ---
 

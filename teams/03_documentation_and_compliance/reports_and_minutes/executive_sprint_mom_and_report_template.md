@@ -37,7 +37,7 @@
 ### 1. DOMAIN STATUS REPORTS & KEY PROGRESS
 - **Partnerships (CPFO):** [Capital pipeline status, closed sponsors, funds deposited]
 - **Technology & Web (CTO):** [Website deployment, Bedrock sandbox, scoring system status]
-- **Operations & Venue (COO):** [Central Library clearances, bus routes, EV buggy requisition]
+- **Operations & Venue (COO):** [Sathyabama Indoor Stadium clearances, bus routes, EV buggy requisition]
 - **Hospitality (CXO):** [Buffet caterer menu lock, midnight snack procurement]
 - **Creative & Media (CCMO):** [Banner prints, standee vector proofs, Instagram analytics]
 - **Safety & Jury (CSO):** [Jury confirmations, police intimation dispatch]

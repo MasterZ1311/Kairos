@@ -1,60 +1,59 @@
-# KAIROS 2027 (Grand Edition) — Corporate Sponsorship Pipeline & CRM Master Sheet
+# KAIROS 2027 — Corporate Sponsorship Pipeline & CRM Master Sheet
 
-> **Financial Baseline:** ₹3,50,000 – ₹4,00,000 Uncapped  
-> **Target Closed Tiers:** Title (₹2L), Powered-By (₹1L), Track Partners (₹25k–₹50k), In-Kind Perks  
-> **Master Roster File:** `teams/01_sponsorship_and_partnerships/company_leads_tracker/corporate_sponsorship_pipeline_crm.md`  
-> **Governing Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Document Status:** CANONICAL OPERATIONAL CRM (AUDITED & RECONCILED)  
+> **Direct Lead & Overseer:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Working Capital Target:** ₹3,50,000 – ₹4,00,000 (Liquid Operational Cash Pool)  
+> **Current Working Date:** 17 October 2026 | **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md)  
+> **Verification Rule:** No lead may be marked "Closed Won" or "Committed" without a countersigned MoU or audited university bank receipt.
 
 ---
 
-## 1. Executive Pipeline Summary
+## 1. Executive Pipeline Snapshot (As of 17 October 2026)
 
-| Pipeline Stage | Target Count | Current Count | Weighted Pipeline Value | Closed Value |
-|---|:---:|:---:|:---:|:---:|
-| **Stage 1: Identified** | 30 | 12 | ₹12,50,000 | ₹0 |
-| **Stage 2: Outreach Sent** | 20 | 8 | ₹8,00,000 | ₹0 |
-| **Stage 3: Discovery Call Held** | 12 | 5 | ₹5,50,000 | ₹0 |
-| **Stage 4: Deck Customized Sent** | 8 | 4 | ₹4,50,000 | ₹0 |
-| **Stage 5: Legal & MoU Review** | 5 | 2 | ₹5,50,000 | ₹0 |
-| **Stage 6: Closed Won (Escrowed)** | 5 | 1 | — | **₹1,25,000** |
-| **Stage 7: Closed Lost** | — | 1 | — | — |
-| **TOTALS** | **75+** | **33** | **₹36,00,000** | **₹1,25,000** |
+> [!NOTE]
+> All unverified corporate claims have been audited and reset to their accurate operational status. Liquid cash receipts currently stand at **₹0.00** pending formal invoice issuance and bank reconciliation by University Accounts.
+
+| Pipeline Stage | Active Leads Count | Target Deals to Close | Target Cash Value (₹) | Formally Received Cash (₹) | Formally Secured In-Kind |
+|---|:---:|:---:|:---:|:---:|---|
+| **Stage 1: Target Identified & Researched** | 5 | 15+ | ₹1,25,000 | ₹0 | — |
+| **Stage 2: Outreach Sent / In Queue** | 3 | 10+ | ₹75,000 | ₹0 | — |
+| **Stage 3: Discovery Scheduled / Completed** | 2 | 5+ | ₹2,00,000 | ₹0 | — |
+| **Stage 4: Customized Proposal Sent** | 1 | 3+ | ₹1,00,000 | ₹0 | — |
+| **Stage 5: Institutional Review / Legal MoU** | 0 | 2 | ₹0 | ₹0 | — |
+| **Stage 6: Agreement Signed & Invoiced** | 0 | 2 | ₹0 | ₹0 | — |
+| **Stage 7: Closed Won (Payment Verified)** | **0** | **1–2** | — | **₹0.00** | **$0.00** |
+| **Closed Lost / Nurture** | 0 | — | — | — | — |
+| **TOTAL ACTIVE PIPELINE** | **11** | **35+** | **₹5,00,000 (Gross Target)** | **₹0.00 (Verified)** | **Awaiting Verification** |
 
 ---
 
 ## 2. Active Enterprise Leads Tracking Matrix
 
-| Lead ID | Company Name | Target Tier | Potential Value (₹) | Key POC & Title | Outreach Owner | Current Stage | Next Action & Due Date |
-|:---:|---|---|:---:|---|---|---|---|
-| **ENT-01** | **Amazon Web Services (AWS)** | Title / Program Partner | ₹2,00,000 + $50k Cloud Credits | Regional Community Manager / DevRel Lead | Nikki (Nangaiyar M) | `STAGE 5: LEGAL & MOU` | Submit university sponsorship requisition letter by Sep 25 |
-| **ENT-02** | **Presidio Cloud Solutions** | Co-Powered By | ₹1,00,000 | Director of Talent Acquisition / Cloud Practice Lead | Nikki (Nangaiyar M) | `STAGE 4: DECK SENT` | Schedule technical track alignment call by Sep 28 |
-| **ENT-03** | **Zoho Corporation** | Co-Powered By | ₹1,00,000 | Head of University Relations / Zoho Schools | Enterprise Squad | `STAGE 3: DISCOVERY CALL` | Deliver customized SaaS track pitch deck by Oct 02 |
-| **ENT-04** | **Freshworks** | Track Partner (AI) | ₹25,000 | DevRel Lead / Engineering Manager | Enterprise Squad | `STAGE 3: DISCOVERY CALL` | Send Freddy AI challenge integration document by Oct 05 |
-| **ENT-05** | **Red Bull India** | Official Energy Partner | In-Kind (2,000 Cans + DJ Sound Setup) | Brand Marketing Manager (South) | Outreach Sub-Head | `STAGE 5: LEGAL & MOU` | Finalize cold-chain delivery schedule to campus by Oct 10 |
-| **ENT-06** | **Polygon / Ethereum Foundation** | Track Partner (Web3) | ₹25,000 | India Ecosystem Lead | Track Squad | `STAGE 2: OUTREACH SENT` | Follow up on Twitter/LinkedIn regarding bounty allocation |
-| **ENT-07** | **Postman** | Tooling & API Partner | In-Kind (Enterprise Access + Swag) | Student Program Manager | Outreach Squad | `STAGE 3: DISCOVERY CALL` | Request 500 developer stickers & swag drop by Oct 12 |
-| **ENT-08** | **JetBrains** | Educational Tooling | In-Kind (500 All-Product Licenses) | Academic Program Lead | Outreach Squad | `STAGE 6: CLOSED WON` | Vouchers received, stored in website team vault |
-| **ENT-09** | **LTIMindtree** | Track Partner (FinTech) | ₹25,000 | Campus Recruitment Head | Nikki (Nangaiyar M) | `STAGE 2: OUTREACH SENT` | Follow up via institutional alumni network |
-| **ENT-10** | **Cognizant** | Track Partner (Healthcare) | ₹25,000 | CSR & Campus Engagement Lead | Enterprise Squad | `STAGE 1: IDENTIFIED` | Draft introductory letter via Faculty Coordinators |
-| **ENT-11** | **Sathyabama Institutional Grant** | University Grant | ₹50,000 | Dean, School of Computing | Nikki (Nangaiyar M) | `STAGE 5: LEGAL & MOU` | File master proposal to Vice Chancellor office |
+*All leads below are prospective targets undergoing qualification, research, or exploratory contact. No legal commitments exist unless explicitly cited.*
+
+| Lead ID | Company Name | Segment / Sector | Public Source / Citation | Fit Rationale | Target Role / Title (Verified POC) | Lead Owner | Current Operational Status | Expected Cash (₹) | Estimated In-Kind Value | Last Contact Date | Next Action & Target Due Date |
+|:---:|---|---|---|---|---|---|---|:---:|---|:---:|---|
+| *SAMPLE* | *Acme Cloud Tech* | *Cloud Infrastructure* | *acme.com/press (2026)* | *Flagship DevRel partner* | *Head of DevRel [VERIFY]* | *Nikki* | `ILLUSTRATIVE — NOT A REAL LEAD` | *₹1,00,000* | *$10,000 Credits* | *2026-10-17* | *Sample action due Oct 22* |
+| **ENT-01** | **Amazon Web Services (AWS)** | Cloud & Foundation AI | Public Global SBG Charter | Organizing chapter program affiliation; Bedrock & Cloud adoption | AWS Student Programs Lead [VERIFY] | Nikki (Nangaiyar M) | `Prospect — In Discussion [VERIFY]` | ₹2,00,000 | Cloud credits & sandbox tools | 2026-10-15 | Submit faculty-endorsed university proposal letter by Oct 24 |
+| **ENT-02** | **Presidio Cloud Solutions** | Cloud Consulting & Dev | Public Campus Hiring Portal | Active cloud engineer hiring; alumni connections | University Hiring / Cloud Practice Lead [VERIFY] | Nikki (Nangaiyar M) | `Prospect — In Qualification` | ₹1,00,000 | Tech mentorship / Jury | 2026-10-12 | Research verified hiring director on LinkedIn by Oct 20 |
+| **ENT-03** | **Zoho Corporation** | Enterprise SaaS | zoho.com / Chennai Campus | Major regional tech employer; SaaS track synergy | Head of University Relations / Campus Outreach [VERIFY] | Enterprise Squad | `Prospect — Outreach Queued` | ₹1,00,000 | SaaS platform credits | 2026-10-10 | Send customized cold email (Template 1) by Oct 21 |
+| **ENT-04** | **Freshworks** | CRM & Customer AI | freshworks.com/company | GenAI developer advocacy; Chennai engineering hub | DevRel / Campus Engagement Lead [VERIFY] | Enterprise Squad | `Prospect — Outreach Queued` | ₹25,000 | Developer API access | 2026-10-08 | Draft AI track challenge integration concept by Oct 22 |
+| **ENT-05** | **Red Bull India** | Beverage & Energy | redbull.com/in-en | Proven 48-hour hackathon energy sampling partner | Regional Student Brand Manager (South) [VERIFY] | Outreach Sub-Head | `Prospect — In Discussion [VERIFY]` | ₹0 (In-Kind) | 1,500–2,000 Cans + Chiller Setup | 2026-10-14 | Confirm campus cold-chain logistics requirement with Dean by Oct 23 |
+| **ENT-06** | **Polygon / Ethereum Devs** | Web3 & Blockchain | polygon.technology | Decentralized infrastructure and smart contracts track | Ecosystem Growth Lead (India) [VERIFY] | Track Squad | `Prospect — Target Identified` | ₹25,000 | Web3 developer bounties | 2026-10-05 | Connect with ecosystem lead on Twitter/LinkedIn by Oct 21 |
+| **ENT-07** | **Postman** | Developer Tooling & APIs | postman.com/student-program | API engineering workshops and student developer badges | Student Program Manager [VERIFY] | Outreach Squad | `Prospect — Outreach Queued` | ₹0 (In-Kind) | 500 Developer Kits + API Access | 2026-10-09 | Submit API track partnership inquiry via portal by Oct 22 |
+| **ENT-08** | **JetBrains** | Developer IDE Tooling | jetbrains.com/community/education | IDE software licenses for hackathon participants | Academic Relations Coordinator [VERIFY] | Outreach Squad | `Prospect — In Discussion [VERIFY]` | ₹0 (In-Kind) | Free All-Product Pack licenses | 2026-10-11 | Verify license distribution terms & validity dates by Oct 24 |
+| **ENT-09** | **LTIMindtree** | IT & FinTech Consulting | ltimindtree.com | Campus placement presence; FinTech track sponsor fit | Campus Recruitment Lead [VERIFY] | Nikki (Nangaiyar M) | `Prospect — Target Identified` | ₹25,000 | Pre-placement interview slots | 2026-10-04 | Seek faculty introduction via SIST Placement Cell by Oct 25 |
+| **ENT-10** | **Cognizant** | Enterprise IT & Healthcare | cognizant.com | Healthcare innovation and societal technology tracks | CSR / Campus Engagement Lead [VERIFY] | Enterprise Squad | `Prospect — Target Identified` | ₹25,000 | HealthTech track award | 2026-10-02 | Draft introductory proposal via Faculty Coordinators by Oct 25 |
+| **ENT-11** | **Sathyabama Institutional Grant** | University Administration | SIST Internal Budget Plan | Internal institutional grant support for national event | Dean, School of Computing / Registrar [VERIFY] | Nikki & Thenappan T | `Approved Plan — Proposal In Draft` | ₹50,000 | Free auditorium, power & bus transit | 2026-10-16 | Submit official budget requisition to Vice Chancellor office by Oct 26 |
 
 ---
 
-## 3. Outreach Call Logs & Minutes
+## 3. CRM Hygiene & Weekly Review Rules
 
-### Log Entry: ENT-01 (Amazon Web Services)
-- **Date:** September 05, 2026
-- **Attendees:** Nikki (Nangaiyar M), AWS Community Program Lead
-- **Key Discussion Points:**
-  1. Affirmed Kairos 2027 as the premier national student event for AWS Student Builder Groups.
-  2. Confirmed AWS Bedrock starter kits and $50,000 institutional cloud credit grant for 100 finalist teams.
-  3. Escalated sponsorship co-funding package for travel support and grand prizes.
-- **Action Item:** Nikki (Nangaiyar M) to coordinate Dean-signed formal letter by Sep 25.
+To prevent stale data, phantom pipeline projections, and uncoordinated contact:
 
-### Log Entry: ENT-02 (Presidio Cloud Solutions)
-- **Date:** September 08, 2026
-- **Attendees:** Nikki (Nangaiyar M), Presidio University Hiring Lead
-- **Key Discussion Points:**
-  1. Presidio interested in recruiting top 100 cloud architects and GenAI finalists.
-  2. Proposed Co-Powered By tier at ₹1.0L with resume database access and 2 VIP jury seats.
-- **Action Item:** Deliver customized pitch deck highlighting GenAI & Cloud-Native tracks.
+1. **Mandatory Field Standard:** Every newly logged prospect must contain: Company Name, Sector, Public Source URL, Target Role, Lead Owner, Stage, Expected Value (Cash vs In-Kind separate), and Next Action Due Date.
+2. **Stale Lead Purge SLA:** If a lead has had no response or status movement for **14 consecutive business days**, the Lead Owner must send Follow-Up 3 (Template 6) and move the deal to `Closed Lost / Nurture`.
+3. **No Phantom Closed-Won Deals:** Moving a deal into `Stage 7: Closed Won` requires a verified file path to the countersigned MoU PDF in `signed_mous_and_contracts/` and verified credit confirmation from University Accounts.
+4. **Duplicate Protection:** Before reaching out to any corporate contact, search this CRM sheet by company domain. If a lead is already assigned to a team member, coordinate directly with that Lead Owner before initiating contact.
+5. **Data Minimization & Confidentiality:** Corporate email addresses and direct phone numbers must be stored in secure internal team vaults, never checked into public version control.
