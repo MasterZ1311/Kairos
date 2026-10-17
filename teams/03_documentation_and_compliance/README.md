@@ -13,22 +13,70 @@
 
 ---
 
-## 1. Domain Scope & Mandate
+## 1. Team Charter & Governance
 
-The Documentation & Compliance vertical is responsible for the absolute legal, administrative, and institutional integrity of KAIROS 2027. Every external and internal movement—from securing formal sanction for the **Sathyabama Indoor Stadium**, 65 kVA electrical power drops, 10 college buses, and 3 campus EV buggies, to drafting police intimation letters, capturing weekly sprint minutes, and protecting student participant IP—flows through this vertical.
+### 1.1 Mission & Core Objectives
+Division 3 safeguards the institutional legality, safety compliance, academic sanction, and intellectual property governance of KAIROS 2027. It serves as the official administrative bridge between the student organizing body and Sathyabama University administration, state statutory authorities, and participant legal rights.
 
-```mermaid
-graph TD
-    DOC["DOCUMENTATION & COMPLIANCE<br/>Super Head 6: Shaik Khaja Mohiddin (CSO) · Lead: Hemavarshine S"]
-    
-    DOC --> D1["official_letters/<br/>7 Administrative Sanction Letters & Institutional Gate Passes"]
-    DOC --> D2["reports_and_minutes/<br/>Weekly MoMs, Sprint Checklists & Post-Event Dossier"]
-    DOC --> D3["participant_rules_and_agreements/<br/>100% Student IP Charter, Code of Conduct & Opt-In Privacy"]
+### 1.2 Core Mandates & Success Measures
+- **100% University Sanction Rate:** All 7 institutional approval letters signed, stamped, and archived by `T-14 Days` (`[DEADLINE: 08 JAN 2027]`).
+- **100% Student IP Ownership:** Zero sponsor, university, or third-party claims over student-built code, models, or hardware.
+- **Affirmative DPDP Act 2023 Compliance:** Zero bulk resume or participant data sharing without explicit, affirmative opt-in consent from individual students.
+- **Academic On-Duty (OD) Guarantee:** Formal OD sanction letters issued for all 106 student organizers and all SIST participant teams before event kick-off.
+- **Audit-Proof Minutes & Archiving:** Weekly sprint Minutes of Meeting (MoMs) logged within 24 hours of every Executive Council sync.
+
+### 1.3 Operational Boundaries (Scope of Control)
+- **What This Team Controls:** Drafting and tracking all 7 official university sanction letters, student terms of participation, IP protection agreements, DPDP consent forms, weekly MoMs, and the 7-day post-event institutional dossier.
+- **What This Team Does NOT Control:**
+  - *No Financial Authority:* Budget approvals, invoice authorizations, and cash prize disbursements are controlled strictly by CPFO Nikki and University Finance.
+  - *No On-Ground Physical Operations:* Arena floor management, bus fleet scheduling, and mess buffet setups are executed by Division 6 (Operations).
+  - *No Technical Scoring / Judging:* Hacker evaluation algorithms and Z-score normalization are owned by Division 5 (Builder Squad).
+
+---
+
+## 2. Internal RACI Responsibility Map
+
+```
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+| Governance & Compliance Deliverable      | CSO   | Hema  | Nang. | Pres. | Fac.  | Dean/ |
+|                                          | Shaik | (Lead)| (Ops) | Then. | Coord | Reg.  |
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+| Letters 01-03: Venue, Power, 48H Night   |   A   |   R   |   R   |   C   |   C   |   A   |
+| Letters 04-06: Fleet Bus & EV Transit    |   A   |   R   |   R   |   I   |   C   |   A   |
+| Letter 07: Academic On-Duty (OD) Sanction|   A   |   R   |   I   |   C   |   R   |   A   |
+| Student IP Charter & DPDP Opt-In Consent |   A   |   R   |   I   |   C   |   C   |   I   |
+| Police & Campus Security Intimation      |   A   |   R   |   R   |   C   |   R   |   A   |
+| Weekly Executive Council Sprint MoMs     |   I   |   A   |   I   |   C   |   I   |   I   |
+| Post-Event Institutional Dossier (T+7)   |   A   |   R   |   I   |   C   |   R   |   A   |
++------------------------------------------+-------+-------+-------+-------+-------+-------+
 ```
 
 ---
 
-## 2. Institutional Reference Numbering System
+## 3. The 7 Administrative Approval Workflows & Timetable
+
+| Letter Ref | Subject & Institutional Request | Primary Signatory | Target Approval | Status & Tracking |
+|:---:|---|---|:---:|:---:|
+| **Letter 01** | Sathyabama Indoor Stadium Venue & 65 kVA Power Drop | Registrar & Estate Officer | `T-30 Days` | `[CONFIRMED APPROVED]` |
+| **Letter 02** | 48-Hour Continuous Master Workflow & Night-Stay Safety | Vice Chancellor & Dean | `T-20 Days` | `[IN REVIEW]` |
+| **Letter 03** | Audio-Visual, High-Density Wi-Fi 6 & Stadium PA System | IT Directorate & AV Head | `T-14 Days` | `[IN REVIEW]` |
+| **Letter 04** | Fleet Transportation (10 Sathyabama College Bus Routes)| Transport Manager | `T-10 Days` | `[PROPOSED]` |
+| **Letter 05** | VIP Guest, Evaluator & Judge Hospitality (Green Room 2)| Dean & Guest House In-Charge| `T-7 Days` | `[PROPOSED]` |
+| **Letter 06** | Campus EV Transit Buggies Allocation (3 Shuttles) | Campus Maintenance Office | `T-7 Days` | `[PROPOSED]` |
+| **Letter 07** | Academic On-Duty (OD) Attendance Sanction Order | Dean & Head of Department | `T-3 Days` | `[PROPOSED]` |
+
+---
+
+## 4. Participant IP & DPDP Compliance Governance
+
+1. **100% Student IP Retention:** Participants retain all right, title, and interest in their intellectual property, source code, models, and hardware prototypes developed during KAIROS 2027.
+2. **DPDP Act 2023 Talent Connect Protocol:** Corporate sponsors receive candidate portfolios exclusively for participants who affirmatively check:
+   > *"I explicitly consent to sharing my resume, GitHub profile, and contact details with KAIROS 2027 corporate partners for employment and internship opportunities."*
+   Unchecked profiles are permanently scrubbed from external sponsor data exports.
+
+---
+
+## 5. Institutional Reference Numbering System
 
 All formal letters drafted and dispatched by the AWS Student Builder Group — SIST Chapter must bear an official institutional tracking serial number formatted as:
 
@@ -38,21 +86,29 @@ Example: `SIST/CSE/AWS-SBG/2026-27/EXT/001-REV` (Venue Requisition for Sathyabam
 
 ---
 
-## 3. Subfolder Directory Map & Deliverables
+## 6. Compliance Lifecycle & Operating Cadence
 
-1. [**`official_letters/`**](./official_letters/README.md): Houses the complete compendium of university administrative sanction letters:
-   - Letter 01: Sathyabama Indoor Stadium Venue & 65 kVA Power Requisition
-   - Letter 02: 48-Hour Continuous Master Workflow, Night-Stay & Safety Assurance Plan
-   - Letter 03: Audio-Visual, High-Density Wi-Fi 6 & Electrical Resource Requisition
-   - Letter 04: Fleet Transportation Permission (10 Sathyabama College Bus Routes)
-   - Letter 05: VIP Guest, Evaluator & Judge Hospitality Requisition (Green Room 2 / Mezzanine)
-   - Letter 06: Green Campus EV Transit Buggies Allocation (3 Electric Vehicles)
-   - Letter 07: Academic On-Duty (OD) Attendance Sanction Order for Organizers & Finalists
+### 6.1 5-Phase Governance Lifecycle
+1. **Phase 1: Institutional Permitting (T-120 to T-60 Days):** Submit master proposal memorandum and Letters 01–03.
+2. **Phase 2: Operational Sanctions (T-60 to T-14 Days):** Process transport, VIP guest, and EV buggy letters (Letters 04–06).
+3. **Phase 3: Academic Clearance & Finalist OD (T-14 to T-1 Days):** Issue formal OD list for 106 student organizers and top 100 finalists (Letter 07).
+4. **Phase 4: Live Event Incident Logging (Event Window Jan 22–24):** Manage physical NOC desk, legal incident logs, and attendance affidavits.
+5. **Phase 5: Institutional Retrospective (T+1 to T+14 Days):** Compile post-event documentation compendium and financial utilization submission to Registrar.
+
+### 6.2 Operating Cadence
+- **Weekly MoM Dispatch:** Distributed to all Super Heads and Faculty Advisors within 24 hours of every Sunday sprint meeting.
+- **Physical Document Custody:** Hardcopy letters kept in the CSE Department Office under lock; digital scans uploaded within 4 hours of receipt.
+
+---
+
+## 7. Subfolder Directory Map & Deliverables
+
+1. [**`official_letters/`**](./official_letters/README.md): Houses the complete compendium of university administrative sanction letters (Letters 01 to 07).
 2. [**`reports_and_minutes/`**](./reports_and_minutes/README.md): Master repository for weekly Executive Council Minutes of Meeting (MoM), sprint task completions, crisis incident logs, and the 7-day post-event institutional dossier.
 3. [**`participant_rules_and_agreements/`**](./participant_rules_and_agreements/README.md): Legal charters guaranteeing 100% student IP ownership, non-disclosure waivers, anti-plagiarism agreements, opt-in talent recruitment consent, and night-stay undertakings.
 
 ---
 
-## 4. Archival Protocols & Physical Filing
+## 8. Archival Protocols & Physical Filing
 - Every signed letter must be scanned at **300 DPI PDF**, named systematically, and filed in both the local workspace and the chapter's secured cloud repository.
 - Hard copies with original institutional rubber stamps and signatures are maintained in the **AWS SBGL Physical Documentation Portfolio** in the CSE Department Office.

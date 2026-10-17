@@ -15,7 +15,71 @@
 
 ---
 
-## 1. Executive Brand Identity Framework
+## 1. Team Charter & Operational Scope
+
+### 1.1 Mission & Design Philosophy
+Division 2 establishes and guards the master visual identity of KAIROS 2027. Under our core thesis—**"Someone should see any KAIROS asset for 2 seconds and immediately recognize the hackathon"**—the team crafts an immersive Obsidian-Violet cyber-aesthetic spanning massive 50×10ft stage vinyls, laser-etched smart NFC badges, developer streetwear, acrylic hourglass trophies, and high-engagement social media campaigns.
+
+### 1.2 Core Mandates & Success Measures
+- **2-Second Visual Recognition:** 100% adherence to the Obsidian-Violet (`#050505` / `#A855F7`) design system.
+- **Zero Pixelation Guarantee:** All printed assets exported as vector PDFs or minimum 300 DPI high-resolution CMYK raster files with calibrated 3mm bleed margins.
+- **Evergreen Logo Integrity:** Primary circular emblem preserved across all collateral with zero hardcoded date lockups.
+- **Pre-Press Delivery Deadline:** All print-ready artwork (backdrop, 16 standees, 600 badges, 550 tees) approved and delivered to vendors by `T-7 Days` (`[DEADLINE: 15 JAN 2027]`).
+- **Physical Inspection Acceptance:** 100% of vendor physical proofs inspected and verified before bulk production run.
+
+### 1.3 Operational Boundaries (Scope of Control)
+- **What This Team Controls:** Vector logo vaults, typography guidelines, stage and venue banner artwork, rollup standees, badge/lanyard graphic specs, merchandise mockups, trophy/certificate vectors, Figma UI component design.
+- **What This Team Does NOT Control:**
+  - *No Code Implementation:* Web frontend deployment and React/Next.js components are coded by Division 5 (Hands-On Builder & Website).
+  - *No Physical Stage Rigging:* Physical truss mounting, banner zip-tying, and LED wall cable runs are executed by Division 6 (Operations).
+  - *No Copywriting or Social Publishing:* Post captions, hashtag strategies, and live posting schedules are executed by Division 4 (Media & PR).
+  - *No Financial Vendor Contracting:* Vendor price negotiations, purchase orders, and invoice clearance route strictly through CPFO Nikki and University Accounts.
+
+---
+
+## 2. Internal RACI Responsibility Map
+
+```
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+| Creative Deliverable / Workstream        | Rikish| Carol.| Social| Print | Merch | Pres. |
+|                                          | (Lead)| (CCMO)| Desgn | Lead  | Lead  | Then. |
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+| Master Brand Guidelines & Vector Vault   |   A   |   C   |   R   |   I   |   I   |   C   |
+| 50×10ft Stage Backdrop & LED Video Wall  |   A   |   C   |   I   |   R   |   I   |   C   |
+| 16 Venue Rollup Standees (6×3ft)         |   A   |   I   |   I   |   R   |   I   |   I   |
+| CR80 Smart NFC Badge & Woven Lanyards    |   A   |   I   |   I   |   R   |   C   |   I   |
+| T-Shirts, Hoodies & Sticker Pack         |   A   |   I   |   I   |   I   |   R   |   C   |
+| 11 Hourglass Trophies & Certificates     |   A   |   I   |   I   |   R   |   I   |   C   |
+| Instagram Grid (4:5) & Stories (9:16)    |   C   |   A   |   R   |   I   |   I   |   I   |
+| Sponsor Vector Logo Placement & Pre-Press|   A   |   I   |   I   |   R   |   I   |   I   |
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+```
+
+---
+
+## 3. Creative Asset Intake & Production Workflow
+
+Every design request follows a rigorous 6-step quality control pipeline:
+
+```mermaid
+graph LR
+    W1[1. Brief Intake] --> W2[2. Design Queue]
+    W2 --> W3[3. Internal Draft Review]
+    W3 --> W4[4. Stakeholder Sign-Off]
+    W4 --> W5[5. Pre-Press Proofing]
+    W5 --> W6[6. Ops Handoff & Inspection]
+```
+
+1. **Brief Intake:** Initiating squad submits dimensions, required copy, sponsor tier logos, and delivery deadline using Template 3.
+2. **Design Queue:** Design Lead Rikish B logs asset into the Figma workspace and assigns a designated squad designer.
+3. **Internal Review (Round 1):** Review against Obsidian-Violet color tokens, typography hierarchy, and safe margins.
+4. **Stakeholder Sign-Off (Round 2):** Division Super Head and relevant functional lead approve visual proof.
+5. **Pre-Press Proofing:** Export in CMYK (U.S. Web Coated SWOP v2 or Fogra39), 300 DPI, vector curves converted to outlines, 3mm bleed added.
+6. **Physical Inspection & Handoff:** Physical sample proof verified for color drift; handed off to Operations for installation.
+
+---
+
+## 4. Executive Brand Identity Framework
 
 All physical and digital artifacts produced by Division 2 must adhere to the **KAIROS Brand System**:
 
@@ -37,7 +101,7 @@ Do NOT embed `"48-HOUR HACKATHON"` inside the primary circular logo badge. Keep 
 
 ---
 
-## 2. Official Brand Assets & Typography
+## 5. Official Brand Assets & Typography
 
 ### Master Assets in [`brand_identity_and_logos/`](./brand_identity_and_logos/README.md)
 1. **Primary Circular Logo (4 Variants):**
@@ -71,7 +135,7 @@ Do NOT embed `"48-HOUR HACKATHON"` inside the primary circular logo badge. Keep 
 
 ---
 
-## 3. The 5 Recurring Visual Motifs
+## 6. The 5 Recurring Visual Motifs
 
 All graphics must weave together these 5 celestial motifs:
 1. ⏳ **Time:** The Celestial Hourglass
@@ -82,7 +146,7 @@ All graphics must weave together these 5 celestial motifs:
 
 ---
 
-## 4. Minimum Brand Package (Top 15 Asset Execution Priority)
+## 7. Minimum Brand Package (Top 15 Asset Execution Priority)
 
 | Priority | Asset Name | Assigned Lead | Status | Primary Destination |
 |:---:|---|---|:---:|---|
@@ -104,7 +168,23 @@ All graphics must weave together these 5 celestial motifs:
 
 ---
 
-## 5. Subfolder Directory Map & Deliverables
+## 8. Creative Lifecycle & Operating Cadence
+
+### 8.1 5-Phase Production Lifecycle
+1. **Phase 1: Brand System Lock (T-90 Days):** Typography, color tokens, and evergreen logo vectors frozen.
+2. **Phase 2: Digital Asset Deployment (T-60 Days):** Website UI SVGs delivered to Team 05; social media templates delivered to Team 04.
+3. **Phase 3: Pre-Press Freeze & Vendor PO (T-14 Days):** All physical print proofs (50×10ft backdrop, 16 standees, 600 CR80 badges) signed off with vendors.
+4. **Phase 4: Live Event Stage Loops (Event Window Jan 22–24):** 12×8ft LED video loop, 48-hour terminal countdown, live stage motion slides.
+5. **Phase 5: Master Asset Archiving (T+7 Days):** All final `.ai`, `.svg`, and 300 DPI exports committed to the permanent brand vault.
+
+### 8.2 Deliverable Acceptance Standards
+- **Vector Guarantee:** All logos, icons, and trophies must be delivered in clean `.svg` or native vector `.ai` with text converted to curves.
+- **Color Drift Limit:** CMYK print proofs must not deviate more than Delta E < 2.5 from calibrated `#A855F7` electric violet.
+- **Bleed & Crop:** Full-bleed vinyls (backdrop and standees) must include minimum 1-inch wrapper hem margins; badges must include 3mm outer bleed.
+
+---
+
+## 9. Subfolder Directory Map & Deliverables
 
 0. [**`brand_identity_and_logos/`**](./brand_identity_and_logos/README.md): 4 master logo variants, 3 hourglass icon system tiers, vector SVGs, and clearspace rules.
 1. [**`stage_and_venue_banners/`**](./stage_and_venue_banners/README.md): 50×10ft stage backdrop with circular logo, 12×8ft entrance banner, registration desk wrap, and purple directional arrows for Sathyabama Indoor Stadium.

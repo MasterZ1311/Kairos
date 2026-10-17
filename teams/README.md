@@ -334,3 +334,152 @@ teams/
 #### 4. Review & Governance Sign-Off
 - **Logged By:** `[Name / Role]` · **Reviewed By CSO:** `Shaik Khaja Mohiddin (CSO)`
 ```
+
+---
+
+### 7.5 Template 5: Deliverable Acceptance Checklist
+
+```markdown
+### Deliverable Acceptance Checklist
+**Deliverable Name:** `[DELIVERABLE NAME]`  
+**Accountable Lead:** `[NAME / ROLE]` · **Working Squad:** `[SQUAD]`  
+**Target Delivery Date:** `[DD/MM/YYYY]` · **Review Date:** `[DD/MM/YYYY]`  
+
+| Check Item | Acceptance Standard | Verified | Notes / Deviations |
+|---|---|:---:|---|
+| **1. Functional Completeness** | Meets 100% of defined charter requirements without missing sections. | [ ] | |
+| **2. Technical Specifications** | Verified dimensions, schemas, color profiles (CMYK/RGB), and DPI. | [ ] | |
+| **3. Brand Compliance** | Complies with Obsidian-Violet tokens, typography, and evergreen logo. | [ ] | |
+| **4. Legal / IP Integrity** | Zero unauthorized sponsor commitments, 100% student IP ownership. | [ ] | |
+| **5. Stakeholder Sign-Off** | Written confirmation from Super Head and downstream receiver. | [ ] | |
+
+**Final Disposition:** `[ACCEPTED / REJECTED / REVISE & RESUBMIT]`  
+**Sign-Off Lead:** `[Lead Name / Role]` · **Date:** `[DD/MM/YYYY]`
+```
+
+---
+
+### 7.6 Template 6: Event-Day Volunteer Shift & Briefing Checklist
+
+```markdown
+### Event-Day Shift Briefing Checklist (NOC Desk)
+**Shift:** `[SHIFT 1 (Day Prime) / SHIFT 2 (Evening Sprint) / SHIFT 3 (Graveyard Fuel)]`  
+**Shift Hours:** `[08:00–16:00 / 16:00–00:00 / 00:00–08:00 IST]`  
+**Shift Marshal:** `[NAME / REG NO / PHONE]` · **Headcount Present:** `[COUNT / TARGET]`  
+
+- [ ] **1. Headcount & Station Rollcall:** All table marshals, entrance security, stage runners, and food station leads present.
+- [ ] **2. Comms & Radio Channel Check:** Radios operational on Channel 1 (NOC/Ops), Channel 2 (Jury/Stage), Channel 3 (Security/Medical).
+- [ ] **3. Power & Wi-Fi Stability Check:** NOC displays confirm 65 kVA load < 80% capacity; Wi-Fi 6 AP latency < 15ms.
+- [ ] **4. Catering & Refreshments Readiness:** Next food service window confirmed with Sathyabama Central Mess; water canisters restocked.
+- [ ] **5. Incident Log Review:** Outstanding issues from prior shift reviewed and assigned to active marshals.
+- [ ] **6. Emergency Protocol Briefing:** Re-emphasized 10 PM lock-in, ambulance standby contact, and zero-tolerance policy.
+```
+
+---
+
+### 7.7 Template 7: Post-Event Closeout & Lessons-Learned Report Template
+
+```markdown
+### KAIROS 2027 Division Closeout & Retrospective Report
+**Division / Squad:** `[DIVISION NAME]`  
+**Accountable Super Head:** `[SUPER HEAD ROLE]`  
+**Submission Date:** `[DD/MM/YYYY (Target: T+7 Days)]`  
+
+#### 1. Executive Summary & Metric Delivery
+- **Planned Target:** `[Target metrics from charter]`
+- **Actual Delivered:** `[Actual verified metrics delivered]`
+- **Variance Analysis:** `[Explanation of gaps or over-performance]`
+
+#### 2. What Went Exceptionally Well (Keep Doing)
+- `[Successful operational practice 1]`
+- `[Successful operational practice 2]`
+
+#### 3. Operational Pain Points & Bottlenecks (Fix for Next Edition)
+- `[Bottleneck description, root cause, and impact]`
+
+#### 4. Recommendations for KAIROS 2028
+- `[Actionable recommendation for future organizers]`
+
+#### 5. Financial & Asset Reconciliation
+- **Physical Equipment Returned:** `[Chairs, spike boards, cables, standees audited]`
+- **Ledger Clearance:** `[All vendor bills and prize escrow receipts reconciled]`
+```
+
+---
+
+### 7.8 Template 8: Meeting Agenda & Decision Log Template
+
+```markdown
+### Executive Council / Squad Meeting Minutes
+**Meeting Purpose:** `[Weekly Sprint Review / Emergency Decision / Vendor Alignment]`  
+**Date & Time:** `[DD/MM/YYYY · HH:MM–HH:MM IST]`  
+**Chair:** `[Name / Role]` · **Minutes Recorded By:** `[Name / Reg No]`  
+**Attendees:** `[List attendees]`  
+
+#### 1. Agenda Items
+1. `[Item 1: Review outstanding blockers]`
+2. `[Item 2: Sponsorship pipeline update]`
+3. `[Item 3: Venue logistics & power load test sign-off]`
+
+#### 2. Decisions Ratified
+| Decision ID | Description of Agreed Policy / Choice | Deciding Roles | Effective Date | Status |
+|:---:|---|---|:---:|:---:|
+| **DEC-[ID]** | `[Agreed Decision]` | `[Roles / Signatories]` | `[DD/MM/YYYY]` | `RATIFIED` |
+
+#### 3. Action Items Assigned
+| Action ID | Description | Accountable Lead | Deadline | Dependency |
+|:---:|---|---|:---:|---|
+| **ACT-[ID]** | `[Specific task]` | `[Role Placeholder]` | `[DD/MM/YYYY]` | `[Prerequisite]` |
+```
+
+---
+
+### 7.9 Template 9: Blocker & Escalation Record Template
+
+```markdown
+### Rapid Blocker & Escalation Record
+**Logged Date & Time:** `[DD/MM/YYYY · HH:MM IST]`  
+**Logging Squad & Lead:** `[Squad Name]` — `[Lead Name / Reg No]`  
+**Escalated To:** `[Super Head Role / President / Faculty Coordinator]`  
+
+- **Blocker Description:** `[Clear, concise statement of what is blocked]`
+- **Root Cause / Missing Input:** `[Pending signature, late vendor proof, delayed data, budget approval]`
+- **Impact if Unresolved:** `[Schedule slip, financial loss, event failure]`
+- **Proposed Solution / Options:**
+  - *Option A:* `[Description, cost, tradeoff]`
+  - *Option B:* `[Fallback option, cost, tradeoff]`
+- **Required Resolution Deadline:** `[HH:MM / DD/MM/YYYY]`
+- **Final Decision & Next Action:** `[To be filled by Escalation Authority]`
+```
+
+---
+
+## 8. Canonical Document Catalog & Beginner Reading Order
+
+For new student organizers joining the KAIROS workforce, follow this recommended sequential onboarding path:
+
+| Reading Step | Document Name | File Path | Target Audience | Canonical Status | Core Knowledge Imparted |
+|:---:|---|---|---|:---:|---|
+| **Step 1** | **Multi-Team Hub & Operating System** | [`README.md`](./README.md) | All Organizers | `CONFIRMED MASTER` | Command hierarchy, RACI, 5-phase lifecycle, 3-minute escalation ladder. |
+| **Step 2** | **Your Division Master Manual** | `teams/[01-06]*/README.md` | Specific Division | `CONFIRMED MASTER` | Domain charter, squad boundaries, internal RACI, operational deliverables. |
+| **Step 3** | **Sponsorship Source of Truth** | [`01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md`](./01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md) | Leadership & Sponsorship | `CONFIRMED AUDIT` | Official budget baseline (₹3.5L–₹4.0L), tier pricing, quarantined policies. |
+| **Step 4** | **Master Brand Guidelines** | [`02_design_and_creative_assets/README.md`](./02_design_and_creative_assets/README.md) | Creative & Media | `CONFIRMED STANDARD` | Obsidian-Violet tokens, typography hierarchy, evergreen logo rules. |
+| **Step 5** | **Official Sanction Letters Compendium** | [`03_documentation_and_compliance/official_letters/README.md`](./03_documentation_and_compliance/official_letters/README.md) | Governance & Operations | `CONFIRMED STANDARD` | Status of all 7 university permission letters, bus fleet, and venue access. |
+| **Step 6** | **Indoor Stadium Venue & Power Grid** | [`06_operations_logistics_and_security/venue_floorplans_and_power/README.md`](./06_operations_logistics_and_security/venue_floorplans_and_power/README.md) | Operations & Volunteers | `CONFIRMED STANDARD` | Arena floor bays Alpha–Echo, 65 kVA electrical grid, dual generator backup. |
+| **Step 7** | **Participant Terms & IP Undertaking** | [`03_documentation_and_compliance/participant_rules_and_agreements/README.md`](./03_documentation_and_compliance/participant_rules_and_agreements/README.md) | Screening & Helpdesk | `CONFIRMED STANDARD` | 100% student IP ownership, DPDP opt-in rules, night lock-in code of conduct. |
+
+---
+
+## 9. Cross-Team Decision & Verification Register
+
+To maintain radical transparency and preserve planning assumptions without premature factual claims, all material operational decisions are tracked below:
+
+| Decision ID | Operational Domain & Issue | Status Label | Source / Evidence Path | Accountable Role | Impact & Fallback Path |
+|:---:|---|:---:|---|---|---|
+| **DEC-01** | Sponsorship Base Funding Scenario (Target ₹3.50L vs Stretch ₹4.00L) | `CONFIRMED BASELINE` | [`01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md`](./01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md) | CPFO Nikki & President | Base scenario locked at ₹3.50L; supports 100% free participant experience. |
+| **DEC-02** | Master Venue: Sathyabama Indoor Stadium (Indoor Auditorium) | `CONFIRMED APPROVED` | [`03_documentation_and_compliance/official_letters/office_event_proposal_memorandum.md`](./03_documentation_and_compliance/official_letters/office_event_proposal_memorandum.md) | Estate Office & COO | 2,500-seat stadium arena floor; 5 sectors Alpha–Echo; Central Library archival only. |
+| **DEC-03** | Pure Liquid Cash Prize Escrow (₹1,75,000) | `CONFIRMED ESCROW` | [`README.md`](./README.md) | CPFO & Faculty Coordinators | 1st ₹60k, 2nd ₹35k, 3rd ₹20k, 5 Tracks ₹35k, Bounties ₹25k; disbursed within 72h via NEFT. |
+| **DEC-04** | Dual-Phase Quality Intake (Round 0 Online $\rightarrow$ Round 1 Virtual $\rightarrow$ Round 2 Finale) | `CONFIRMED STANDARD` | [`05_hands_on_aws_builder_and_website/README.md`](./05_hands_on_aws_builder_and_website/README.md) | CTO Rikish P & Screening Lead | Filters 2,000+ teams down to 250 semi-finalists, then Top 100 elite teams on campus. |
+| **DEC-05** | Student Cash Referral Commissions (Rainmaker Bounty) | `APPROVAL REQUIRED — DO NOT OFFER` | [`01_sponsorship_and_partnerships/README.md`](./01_sponsorship_and_partnerships/README.md) | University Finance Officer | Quarantined. Unapproved financial payout creates tax/legal liabilities. Non-monetary honors only. |
+| **DEC-06** | Fleet Bus Transportation (10 Sathyabama College Bus Routes) | `PROPOSED — IN REVIEW` | [`06_operations_logistics_and_security/transport_and_fleet/README.md`](./06_operations_logistics_and_security/transport_and_fleet/README.md) | Transport Manager & CSO | Pending final route timetable sign-off; fallback to participant arrival via suburban train/metro. |
+| **DEC-07** | High-Density Wi-Fi 6 AP Configuration (18–20 APs) | `TO VERIFY` | [`06_operations_logistics_and_security/venue_floorplans_and_power/README.md`](./06_operations_logistics_and_security/venue_floorplans_and_power/README.md) | Campus IT Directorate & CTO | Physical site survey and RF interference test scheduled for Setup Day (Jan 21). |

@@ -9,23 +9,80 @@
 
 ---
 
-## 1. Domain Ownership & Escalation Path
+## 1. Team Charter & Governance
 
-The Sponsorship & Corporate Partnerships division is directly led and managed by **Nikki (Nangaiyar M)**, Chief Partnerships & Finance Officer (CPFO). All corporate interactions, proposal submissions, negotiation terms, and sponsor fulfillment are governed through this chain of command.
+### 1.1 Mission & Value Creation
+The Sponsorship & Corporate Partnerships division fuels KAIROS 2027 by securing the capital, cloud resources, developer toolkits, and in-kind logistics necessary to deliver a **100% free, premier national hackathon experience** for 100 shortlisted finalist teams (~400–600 developers). 
 
-| Role | Officer | Identity / Reg No | Official Contact | Operational Scope |
-|---|---|:---:|---|---|
-| **CPFO & Sponsorship Lead** | **Nikki (Nangaiyar M)** | `44612059` | `+91 8754976892`<br/>`nangaiyarmuthkrishnan@gmail.com` | **Domain Owner:** Corporate outreach pipeline, customized proposals, deal negotiation, contract closing, and sponsor fulfillment. |
-| **Outreach & Pipeline Sub-Head** | Corporate Outreach Lead | Assigned Lead | Internal Operations Discord/Slack | Lead qualification, cold outreach dispatch, LinkedIn networking, discovery meeting scheduling. |
-| **Track & Bounty Sub-Head** | Track Partnerships Lead | Assigned Lead | Internal Operations Discord/Slack | Technical challenge briefs, developer tooling perks, cloud sandbox access, track sponsor coordination. |
-| **Finance & Escrow Sub-Head** | Treasury & Audit Lead | Assigned Lead | Internal Operations Discord/Slack | University invoice tracking, payment receipt verification, financial ledger updates, prize escrow audit. |
-| **Faculty Coordinator** | **Dr. K. Ashok Kumar** | Faculty CSE | `ashokkumar.cse@sathyabama.ac.in` | Institutional representation, university requisition letters, administrative authorizations. |
-| **Faculty Coordinator** | **Dr. Balapriya S** | Faculty CSE | `balapriya.cse@sathyabama.ac.in` | MoU vetting, departmental endorsement, university accounting and clearance coordination. |
-| **Chapter President & SBGL** | **Thenappan T** | `44110855` | `+91 6381801640`<br/>`thenappanmasterz1311@gmail.com` | Macro chapter oversight, cross-team escalation, apex institutional representation. |
+### 1.2 Core Mandates & Success Measures
+- **Capital Target:** Secure ₹3,50,000 – ₹4,00,000 in liquid corporate sponsorship into university escrow (`[CONFIRMED BASELINE]`).
+- **Title Partner Anchor:** ₹2,00,000 Title Partner commitment locked via bilateral MoU (`[STAGE 5 — IN REVIEW]`).
+- **Co-Powered By Anchor:** ₹1,00,000 Co-Powered Sponsor commitment locked via bilateral MoU.
+- **Track Bounty Partners:** 5 specialized innovation track bounties (₹25,000 – ₹50,000 each).
+- **In-Kind Ecosystem Perks:** $50,000+ AWS Cloud Credits, 2,000+ cans of energy beverages, 500+ developer IDE/API licenses.
+- **MoU Compliance Rate:** 100% of corporate logos displayed on stage, website, and banners must be backed by a verified university agreement or written corporate authorization.
+
+### 1.3 Division Structure & Internal Roles
+```mermaid
+graph TD
+    CPFO["Super Head 1: CPFO & Sponsorship Lead<br/>Nikki (Nangaiyar M) · Reg: 44612059"]
+    
+    CPFO --> SQ1["Enterprise Outreach Squad<br/>Lead: [OUTREACH LEAD PLACEHOLDER]<br/>Target: 60+ Tier-1/Tier-2 Tech & Cloud Leads"]
+    CPFO --> SQ2["Track & DevRel Squad<br/>Lead: [TRACK PARTNERSHIPS LEAD]<br/>Target: 5 Track Sponsors & API Sandboxes"]
+    CPFO --> SQ3["Treasury & Legal Liaison Squad<br/>Lead: [TREASURY LEAD PLACEHOLDER]<br/>Target: GST Invoicing, University Escrow & MoU Clearance"]
+    CPFO --> SQ4["Fulfillment & PoP Squad<br/>Lead: [FULFILLMENT LEAD PLACEHOLDER]<br/>Target: Logo Audits, VIP Passes & Post-Event ROI Dossiers"]
+```
+
+| Role | Designate / Lead | Register No / Contact | Authority & Accountabilities |
+|---|---|:---:|---|
+| **CPFO & Sponsorship Lead** | **Nikki (Nangaiyar M)** | `44612059`<br/>`+91 8754976892` | **Division Accountable (A):** Master pipeline velocity, final commercial negotiations, custom package approvals, executive reporting. |
+| **Enterprise Outreach Lead** | Corporate Outreach Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** Target research, initial touchpoints, CRM lead scoring, discovery call scheduling. |
+| **Track Partnerships Lead** | Track & Bounties Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** Technical problem statement alignment, API sandbox perks, tool licenses, mentor slots. |
+| **Treasury & Audit Lead** | Treasury & Escrow Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** University bank invoice coordination, receipt tracking, financial ledger reconciliation, prize escrow audit. |
+| **Fulfillment Lead** | Fulfillment & PoP Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** High-res vector logo intake, pre-press proof approval, on-site photo evidence collection, 10-slide ROI report. |
+| **Chapter President & SBGL** | **Thenappan T** | `44110855`<br/>`+91 6381801640` | **Consulted / Informed (C/I):** Apex chapter governance, institutional escalations, keynote sponsor reception. |
+| **Faculty Coordinators** | **Dr. K. Ashok Kumar** & **Dr. Balapriya S** | Dept. of CSE, SIST | **Institutional Authority:** Official University sanction letters, administrative endorsements, university escrow approvals. |
 
 ---
 
-## 2. Operational Boundaries (Scope of Control)
+## 2. Internal RACI Responsibility Map
+
+To eliminate duplicate efforts and ensure single-point accountability across the 5 squads:
+
+```
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+| Sponsorship Deliverable / Workstream     | CPFO  | Outr. | Track | Treas | Fulf. | Pres. |
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+| Corporate Prospect Scoring & CRM Hygiene |   A   |   R   |   C   |   I   |   I   |   I   |
+| 15-Minute CXO Discovery Calls            |   A   |   R   |   C   |   I   |   I   |   C   |
+| Custom Proposal Deck & Pitch Letter      |   A   |   R   |   R   |   C   |   I   |   I   |
+| Commercial Term Negotiation              |   A   |   C   |   C   |   C   |   I   |   C   |
+| Institutional MoU Review & Legal Sign-off|   A   |   I   |   I   |   R   |   I   |   C   |
+| University Bank Transfer & GST Receipt   |   C   |   I   |   I   |   A   |   I   |   I   |
+| Vector Logo Intake & Brand Handoff       |   I   |   I   |   I   |   I   |   A   |   I   |
+| On-Site Sponsor Booth & VIP Hospitality  |   C   |   I   |   R   |   I   |   A   |   C   |
+| 48H Proof of Performance (PoP) Dossier   |   A   |   I   |   I   |   I   |   R   |   I   |
+| Post-Event Sponsor ROI Deck & Renewal    |   A   |   C   |   C   |   C   |   R   |   C   |
++------------------------------------------+-------+-------+-------+-------+-------+-------+
+```
+
+---
+
+## 3. Major Deliverables, Workflows & Acceptance Standards
+
+| Output / Deliverable | Accountable | Working Role | Target Due Date | Acceptance Criteria (Must Meet Before Closing) | Downstream Hand-off |
+|---|---|---|:---:|---|---|
+| **Audited CRM Leads Pipeline** | CPFO | Outreach Squad | Weekly (Fridays) | 60+ verified leads, 0 fictitious Closed-Won claims, all next actions assigned. | Core Council |
+| **Customized Corporate Pitch Deck** | CPFO | Pitch Squad | T-60 Days | 14-slide master format, verified tiers, zero unapproved cash bounty claims. | Prospective Sponsor |
+| **Official Corporate Proposal Letter** | CPFO | Treasury Lead | T-45 Days | SIST official letterhead, correct signatory designations, university escrow terms. | Corporate VP/CMO |
+| **Bilateral Sponsorship MoU** | CPFO | Faculty Coord. | T-14 Days | University legal review passed, countersigned by Registrar/Dean and Corporate Head. | Institutional Archive |
+| **Vector Logo & Asset Vault** | Fulfillment | Design Liaison | T-14 Days | High-res `.svg`/`.ai` vector with transparent background and clear zone guidelines. | Team 02 (Design) |
+| **Sponsor On-Site Requirements** | Fulfillment | Ops Liaison | T-7 Days | Exact power wattage, booth footprint, banner count, VIP headcount documented. | Team 06 (Operations) |
+| **Proof of Performance (PoP) Dossier** | CPFO | Fulfillment Lead | T+7 Days | High-res photos of stage backdrop, LED loop, booth, banner, and social reach stats. | Corporate Sponsor |
+
+---
+
+## 4. Operational Boundaries (Scope of Control)
 
 To ensure operational excellence and avoid cross-team friction, the Sponsorship team operates within defined jurisdictional boundaries:
 
@@ -46,7 +103,7 @@ To ensure operational excellence and avoid cross-team friction, the Sponsorship 
 
 ---
 
-## 3. Immediate "Start Here Today" Action Checklist (17–24 October 2026)
+## 5. Immediate "Start Here Today" Action Checklist (17–24 October 2026)
 
 > [!IMPORTANT]
 > Today is **17 October 2026**. Historical tasks with September or early October deadlines are **overdue** and must be rescheduled immediately. Do not treat overdue tasks as completed.
@@ -77,7 +134,7 @@ To ensure operational excellence and avoid cross-team friction, the Sponsorship 
 
 ---
 
-## 4. Master Documentation Architecture
+## 6. Master Documentation Architecture
 
 The sponsorship workspace is structured into a modular operating system. Refer to the canonical document corresponding to your task:
 
@@ -102,7 +159,7 @@ The sponsorship workspace is structured into a modular operating system. Refer t
 
 ---
 
-## 5. End-to-End Sponsorship Deal Lifecycle
+## 7. End-to-End Sponsorship Deal Lifecycle
 
 Every partnership follows an 11-step stage-gated lifecycle to ensure compliance, transparency, and flawless execution:
 
@@ -134,7 +191,21 @@ graph TD
 
 ---
 
-## 6. Policy Notice: Student Referral Commissions
+## 8. Operating Cadence, Escalation & Review Rules
+
+### 8.1 Weekly Review Cadence
+- **Friday 18:00 IST — CRM Pipeline Freeze:** All outreach calls, touchpoints, and stage transitions must be logged in [`corporate_sponsorship_pipeline_crm.md`](./company_leads_tracker/corporate_sponsorship_pipeline_crm.md).
+- **Sunday 19:00 IST — Core Council Sync:** CPFO Nikki presents the week's pipeline velocity, stage conversions, and upcoming CXO discovery meetings.
+- **Bi-Weekly Faculty Escrow Audit:** Reconcile institutional bank credits against signed corporate agreements.
+
+### 8.2 Escalation Triggers
+- **Stalled MoU (> 5 business days):** Escalate immediately to Faculty Coordinators (Dr. K. Ashok Kumar & Dr. Balapriya S) for administrative intervention.
+- **Unapproved Deliverable Request:** If a corporate prospect requests custom perks outside the approved tier matrix (e.g. exclusive main-stage access, raw candidate resumes without affirmative opt-in consent), escalate to President Thenappan T before responding.
+- **Payment Delay Post-Agreement (> 7 days):** Alert Treasury Lead to issue a formal university invoice reminder with GST tracking.
+
+---
+
+## 9. Policy Notice: Student Referral Commissions
 
 > [!WARNING]
 > **RAINMAKER BOUNTY STATUS: `[APPROVAL REQUIRED — DO NOT OFFER]`**  
