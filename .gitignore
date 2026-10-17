@@ -19,3 +19,10 @@ desktop.ini
 # Scratch & Temporary
 scratch/
 *.tmp
+
+# Website & Frontend Artifacts
+website/
+node_modules/
+.next/
+dist/
+build/

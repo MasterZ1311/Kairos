@@ -13,22 +13,23 @@
 **Cash Prize Pool:** **₹1,75,000 Pure Cash Escrow** + $50,000+ AWS Cloud Credits  
 **Event Window:** January 22 – 24, 2027 (48 Continuous Hours)  
 **Grand Finale Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  
-**Full Production Architecture Suite:** Located in [../website/](../website/)  
+**Implementation Team Directory:** Located in [`../teams/05_hands_on_aws_builder_and_website/`](../teams/05_hands_on_aws_builder_and_website/)  
 **Status:** `APPROVED PLAN`  
 
 ---
 
-## 1. Product Vision & Dedicated Website Architecture Suite
+## 1. Product Vision & Architecture Documentation
 
-The Kairos 2027 digital portal is an enterprise-grade, multi-page platform engineered to handle the complete lifecycle of India's premier 48-hour student hackathon. To ensure seamless execution across engineering, design, operations, and AWS compliance, the platform architecture is documented across five specialized master specifications:
+The Kairos 2027 digital portal is an enterprise-grade, multi-page platform engineered to handle the complete lifecycle of India's premier 48-hour student hackathon. To ensure seamless execution across engineering, design, operations, and AWS compliance, the platform architecture maps directly to the following master specifications:
 
 | Master Specification Document | Focus Area & Operational Scope |
 |:---|:---|
-| **[1. Website Specification & Roadmap](../website/website_specification_and_roadmap.md)** | Core product requirements, 15-route sitemap, UX wireframes, and phased development roadmap. |
-| **[2. Pages & Routes Deep Dive](../website/website_pages_and_routes_deepdive.md)** | Granular UI/UX layouts, component trees, states, and client logic across all 15 production routes. |
-| **[3. Technical Architecture & API](../website/website_technical_architecture_and_api.md)** | Next.js 14 App Router, PostgreSQL schema DDL, Redis caching, REST API specifications, and AWS deployment. |
-| **[4. AWS SBG Brand & Toolkit Integration](../website/aws_sbg_brand_and_event_toolkit_integration.md)** | Strict adherence to `Leader Library`: Amazon Ember fonts, Builder Center, and CSAT. |
-| **[5. Content & Copy Reference](../website/website_content_and_copy_reference.md)** | Production-ready copy kit: hero headlines, track briefs, prize breakdowns, FAQ bank, and legal disclaimers. |
+| **[`teams/05_hands_on_aws_builder_and_website/`](../teams/05_hands_on_aws_builder_and_website/README.md)** | Engineering lead workspace, Next.js App Router structure, and AWS Bedrock sandbox provisioning. |
+| **[`15_google_form_registration_and_confirmation_template.md`](./15_google_form_registration_and_confirmation_template.md)** | Registration schemas, applicant screening pipeline, and validation rules. |
+| **[`17_content_reference_and_copy_bank.md`](./17_content_reference_and_copy_bank.md)** | Production-ready copy kit: hero headlines, track briefs, prize breakdowns, FAQ bank, and legal disclaimers. |
+| **[`19_operations_logistics_crud_and_system_specs.md`](./19_operations_logistics_crud_and_system_specs.md)** | Relational PostgreSQL schema DDL, REST API endpoints, Redis cache layers, and scoring logic. |
+| **[`04_design_and_branding_guidelines.md`](./04_design_and_branding_guidelines.md)** | Amazon Ember typography, Obsidian-Gold aesthetic tokens, and component styling standards. |
+
 
 ---
 

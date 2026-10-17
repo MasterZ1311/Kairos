@@ -7,7 +7,7 @@
 ## 1. Event Overview & Core Parameters (Grand Edition)
 
 * **Event Dates:** January 22 – January 24, 2027 (48 Hours Continuous Non-Stop Sprint)
-* **Venue:** Central Library Complex (Auditorium, 1st Floor Computing Lab, 2nd Floor Lecture Halls 1–3, Top Floor VIP Executive Lounge), Sathyabama Campus, Chennai
+* **Venue:** Sathyabama Indoor Stadium (Indoor Auditorium Arena Floor, Elevated Stage, Backstage Green Rooms 1 & 2, Upper Bleachers Nap Pods), Sathyabama Campus, Chennai
 * **Registration Fee:** **100% FREE — ZERO ENTRY FEE** for all participants (Fully sponsored by corporate partners and institutional grants).
 * **Dual-Phase Quality Gate:**
   * **Round 0 (National Applications):** Oct 15 – Dec 15, 2026 (Free online abstract & architecture submission from 2,000+ teams).
@@ -29,38 +29,39 @@
 
 ## 2. Multi-Team Collaborative Workspaces (`teams/`)
 
-To enable parallel execution across all club domains, the repository features dedicated operational team directories under [`teams/`](file:///e:/AWS%20SBGL/Events/Kairos/teams/). **Every folder and subfolder contains a specialized specification document and ready-to-use template** with designated owners, verified contact info, dimensions, and checklists:
+To enable parallel execution across all club domains, the repository features dedicated operational team directories under [`teams/`](./teams/). **Every folder and subfolder contains a specialized specification document and ready-to-use template** with designated owners, verified contact info, dimensions, and checklists:
 
 ```mermaid
 graph TD
     TEAMS["KAIROS TEAMS WORKSPACE (/teams/)"]
     
-    TEAMS --> T1["01_sponsorship_and_partnerships/<br/>Lead: Nikki (Nangaiyar M) (₹3.5L–₹4L Uncapped)"]
-    TEAMS --> T2["02_design_and_creative_assets/<br/>Lead: Rikish B (20x10ft Banners, 16 Standees, Badges)"]
-    TEAMS --> T3["03_documentation_and_compliance/<br/>Lead: Hemavarshine S (6 University Sanction Letters & IP)"]
-    TEAMS --> T4["04_media_pr_and_broadcast/<br/>Lead: Caroline McPherson (48H Live Stream, 120+ CAs)"]
-    TEAMS --> T5["05_hands_on_aws_builder_and_website/<br/>Leads: Viswanathan Ashok & Shanmugapriyan S"]
-    TEAMS --> T6["06_operations_logistics_and_security/<br/>Leads: Operations Team & CSO (Central Library, 10 Buses, 2 EVs)"]
+    TEAMS --> T1["01_sponsorship_and_partnerships/<br/>Leads: Thenappan T (CPFO) & Nangaiyar M (₹3.5L–₹4L Uncapped)"]
+    TEAMS --> T2["02_design_and_creative_assets/<br/>Lead: Rikish B (50x10ft Banner, 16 Standees, 11 Trophies)"]
+    TEAMS --> T3["03_documentation_and_compliance/<br/>Lead: Hemavarshine S (7 University Sanction Letters & IP)"]
+    TEAMS --> T4["04_media_pr_and_broadcast/<br/>Leads: Caroline McPherson & Harshith Raj S (48H Live Stream)"]
+    TEAMS --> T5["05_hands_on_aws_builder_and_website/<br/>Leads: Rikish P (CTO) & Viswanathan Ashok"]
+    TEAMS --> T6["06_operations_logistics_and_security/<br/>Leads: Viswanathan S (COO), Hemavarshine G (CXO) & CSO (Indoor Stadium, 65 kVA, 10 Buses, 3 EVs, 8 Food Services)"]
 ```
 
 | Domain & Team Directory | Super Head / Direct Leads | Subfolders & Core Deliverables | Dedicated Workspace Link |
 |---|---|---|:---:|
-| **1. Sponsorship & Partnerships** | **Nikki (Nangaiyar M)** (`44612059`) | • `pitch_decks/`: 14-slide master corporate deck (16:9 4K)<br/>• `company_leads_tracker/`: 7-stage CRM with 60+ leads<br/>• `signed_mous_and_contracts/`: Standard MoU & escrow forms<br/>• `sponsor_deliverables_and_assets/`: Vector logo ingestion & PoP | [01_sponsorship_and_partnerships/](file:///e:/AWS%20SBGL/Events/Kairos/teams/01_sponsorship_and_partnerships/) |
-| **2. Design & Creative Assets** | **Rikish B** (`44110664`) & **Caroline McPherson** | • `stage_and_venue_banners/`: 20x10ft backdrop & 3840×1920 LED<br/>• `standees/`: 16 units of 6x3ft rollup aluminum banners<br/>• `badges_and_lanyards/`: 85.6x53.98mm CR80 NFC smart badges<br/>• `apparel_and_merchandise/`: 380 GSM hoodies & 180 GSM tees<br/>• `certificates_and_awards/`: A4 gold foil & 10" brass trophies<br/>• `social_media_creatives/`: 4:5 posts, 9:16 reels & 16:9 covers | [02_design_and_creative_assets/](file:///e:/AWS%20SBGL/Events/Kairos/teams/02_design_and_creative_assets/) |
-| **3. Documentation & Compliance** | **Hemavarshine S** (`44110263`) & **Nangaiyar M** | • `official_letters/`: Venue, 10 Buses, 2 EVs, Police, Jury & OD<br/>• `reports_and_minutes/`: Weekly MoM & 7-day wrap reports<br/>• `participant_rules_and_agreements/`: 100% Student IP charter | [03_documentation_and_compliance/](file:///e:/AWS%20SBGL/Events/Kairos/teams/03_documentation_and_compliance/) |
-| **4. Media, PR & Broadcast** | **Caroline Mary McPherson** (`44110124`) & **Harshith Raj S** | • `press_releases_and_articles/`: National news & tech wires<br/>• `broadcast_and_streaming/`: 48H multicam OBS/ATEM live rig<br/>• `campus_ambassador_toolkit/`: 120+ national CA handbook<br/>• `social_media_schedules/`: 90-day Instagram & LinkedIn calendar | [04_media_pr_and_broadcast/](file:///e:/AWS%20SBGL/Events/Kairos/teams/04_media_pr_and_broadcast/) |
-| **5. Hands-On Builder & Website** | **Viswanathan Ashok** (`44110907`) & **Shanmugapriyan S** | • `website_frontend_source/`: Next.js 14 App Router portal<br/>• `cloud_sandboxes_and_bedrock/`: 100 AWS Bedrock accounts<br/>• `judging_and_leaderboard_engine/`: Z-score normalization math<br/>• `registration_and_screening_pipeline/`: DynamoDB & webhooks | [05_hands_on_aws_builder_and_website/](file:///e:/AWS%20SBGL/Events/Kairos/teams/05_hands_on_aws_builder_and_website/) |
-| **6. Operations, Logistics & Security** | **Nangaiyar M** (`44612059`) & **CSO** | • `venue_floorplans_and_power/`: Central Library 45 kVA grid<br/>• `transport_and_fleet/`: 10 bus route timetables & 2 EV buggies<br/>• `hospitality_and_catering/`: 6 free buffet meals & midnight drops<br/>• `safety_medical_and_night_lockin/`: 10 PM - 6 AM curfew & clinic | [06_operations_logistics_and_security/](file:///e:/AWS%20SBGL/Events/Kairos/teams/06_operations_logistics_and_security/) |
+| **1. Sponsorship & Partnerships** | **Thenappan T** (`44110855`) & **Nangaiyar M** (`44612059`) | • `pitch_decks/`: 14-slide master corporate deck & 2H speech deck<br/>• `company_leads_tracker/`: 7-stage CRM with verified leads<br/>• `signed_mous_and_contracts/`: Standard MoU & proposal letters<br/>• `sponsor_deliverables_and_assets/`: Vector logo ingestion & PoP<br/>• `word_documents/`: 8 production-grade Word `.docx` masters<br/>• `scripts/`: Automated Python document compilers | [01_sponsorship_and_partnerships/](./teams/01_sponsorship_and_partnerships/) |
+| **2. Design & Creative Assets** | **Rikish B** (`44110664`) & **Caroline McPherson** | • `stage_and_venue_banners/`: 50x10ft backdrop & 12x8ft LED video wall<br/>• `standees/`: 16 units of 6x3ft rollup aluminum banners<br/>• `badges_and_lanyards/`: 85.6x53.98mm CR80 NFC smart badges<br/>• `apparel_and_merchandise/`: 380 GSM hoodies & 180 GSM tees<br/>• `certificates_and_awards/`: 11 canonical hourglass acrylic trophies<br/>• `social_media_creatives/`: 4:5 posts, 9:16 reels & 16:9 covers | [02_design_and_creative_assets/](./teams/02_design_and_creative_assets/) |
+| **3. Documentation & Compliance** | **Hemavarshine S** (`44110263`) & **Nangaiyar M** | • `official_letters/`: 7 University Sanctions, Police, OD & Signed PDF<br/>• `reports_and_minutes/`: Weekly MoM & executive sprint templates<br/>• `participant_rules_and_agreements/`: 100% Student IP & DPDP consent | [03_documentation_and_compliance/](./teams/03_documentation_and_compliance/) |
+| **4. Media, PR & Broadcast** | **Caroline Mary McPherson** (`44110124`) & **Harshith Raj S** | • `press_releases_and_articles/`: National news & tech wires<br/>• `broadcast_and_streaming/`: 48H multicam OBS/ATEM live rig<br/>• `campus_ambassador_toolkit/`: 120+ national CA handbook<br/>• `social_media_campaigns/`: Multi-channel social launch copy | [04_media_pr_and_broadcast/](./teams/04_media_pr_and_broadcast/) |
+| **5. Hands-On Builder & Website** | **Rikish P** (CTO) & **Viswanathan Ashok** (`44110907`) | • `website_frontend_source/`: Next.js 14 App Router specifications<br/>• `sandbox_and_aws_credits/`: 100 AWS Bedrock accounts & sandbox<br/>• `evaluation_and_scoring_system/`: Z-score normalization engine<br/>• `participant_dashboard_and_portal/`: DynamoDB & candidate portal | [05_hands_on_aws_builder_and_website/](./teams/05_hands_on_aws_builder_and_website/) |
+| **6. Operations, Logistics & Security** | **Viswanathan S** (COO), **Hemavarshine G** (CXO) & **CSO** | • `venue_floorplans_and_power/`: Indoor Stadium 65 kVA grid & bays<br/>• `transport_and_fleet/`: 10 bus route timetables & 3 EV buggies<br/>• `hospitality_and_catering/`: 8 food services (6 buffets, high teas, midnight pizza drops)<br/>• `safety_medical_and_night_lockin/`: 10 PM - 6 AM lock-in & Sathyabama General Hospital clinic | [06_operations_logistics_and_security/](./teams/06_operations_logistics_and_security/) |
 
 ---
 
 ## 3. Complete Documentation Ecosystem & Navigation Map
 
-The entire strategic, financial, technical, operational, and media architecture is modularized into **19 production-grade documents** below:
+The entire strategic, financial, technical, operational, and media architecture is modularized into **21 production-grade documents** in [`docs/`](./docs/):
 
 ```mermaid
 graph TD
-    Hub[Kairos Master Documentation Hub] --> D18[18. Master Workforce & 6 Super Heads]
+    Hub[Kairos Master Documentation Hub] --> D20[20. Indoor Stadium Transition & Budget Plan]
+    Hub --> D18[18. Master Workforce & 6 Super Heads]
     Hub --> D0[00. Master Brief & Executive Vision]
     Hub --> D1[01. Sponsorship Deck & Outreach]
     Hub --> D2[02. Agenda & 100-Pt Rubrics]
@@ -80,39 +81,37 @@ graph TD
     Hub --> D16[16. Website PRD & Experience]
     Hub --> D17[17. Copy Bank & Outreach Kits]
     Hub --> D19[19. Operations & Logistics CRUD]
-    Hub --> D20[20. Indoor Stadium Transition & Budget Plan]
-    Hub --> W[Website Architecture Suite]
 ```
 
-### 2.1 Core Strategy, Finance & Operations (`docs/`)
+### 3.1 Core Strategy, Finance & Operations (`docs/`)
 
 | Document | Primary Owner | Description & Key Contents | Clickable File Link |
 |---|---|---|---|
-| **20. Indoor Stadium Transition & Budget Plan** | Super Head 1 (CPFO) & Super Head 3 (COO) | **Master Indoor Auditorium Transition Plan**, empirical learnings from Vexora'26 report, itemized ₹3.50L budget, college-level provisions, 48h accommodation & rest architecture. | [20_indoor_auditorium_venue_transition_and_budget_plan.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/20_indoor_auditorium_venue_transition_and_budget_plan.md) |
-| **18. Master Workforce & 6 Super Heads** | President & Executive Office | **Apex Command Hierarchy**, 6 Super Heads, 106 dedicated organizers, sub-heads, headcounts, 4-phase workflows (Pre, Online Qualifier, On-Ground, Post), and procurement catalog. | [18_team_structure_leads_and_workforce_deployment.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/18_team_structure_leads_and_workforce_deployment.md) |
-| **00. Master Brief & Executive Summary** | Apex Directorate | Grand vision, high-level timeline, 100-team on-ground scale, Online Qualifier (Jan 02–04), ₹3.5L capital pool, zero entry fee, and cross-functional RACI. | [00_hackathon_master_brief.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/00_hackathon_master_brief.md) |
-| **01. Sponsorship Strategy & Pitch Deck** | Super Head 1 (CPFO) | Enterprise sponsorship tiers (Title ₹2L, Powered-By ₹1L, Associate ₹50k, Track Bounties ₹25k), zero-fee student impact narrative, pitch scripts, and corporate MoU. | [01_sponsorship_deck_and_outreach.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/01_sponsorship_deck_and_outreach.md) |
-| **02. Master Agenda & Judging Rubrics** | Super Head 6 (CSO) & CTO | Online Qualifier evaluation rubric, 48-Hour on-ground minute-by-minute timeline, 3 Progressive Gates, and automated scoring normalization. (See also: [Hard Office Copy](file:///e:/AWS%20SBGL/Events/Kairos/docs/02_hard_office_copy_master_agenda.md) & [Website Participant View](file:///e:/AWS%20SBGL/Events/Kairos/website/website_participant_agenda.md)). | [02_agenda_rounds_and_judging_rubric.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/02_agenda_rounds_and_judging_rubric.md) |
-| **03. Itemized Budget & Procurement Catalog**| Super Head 1 (CPFO / Treasurer) | Balanced ₹3,50,000 zero-fee budget model, ₹1,75,000 cash prize allocation, itemized purchasing catalog (swag, standees, banners, AV, food, celebrations). | [03_budget_and_financial_tracker.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/03_budget_and_financial_tracker.md) |
-| **04. Design Identity & Brand Guidelines** | Super Head 5 (CCMO) | Obsidian-Gold visual identity, stage backdrop, streetwear hoodies, laser-etched smart badges, and print specifications. | [04_design_and_branding_guidelines.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/04_design_and_branding_guidelines.md) |
-| **05. Marketing, PR & Media Strategy** | Super Head 5 (CCMO) | 120+ Campus Ambassador national network, 2,000+ applicant funnel, Online Qualifier broadcast, 48-hour live stream production, and aftermovie brief. | [05_marketing_media_and_promotion.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/05_marketing_media_and_promotion.md) |
-| **06. Tracks, Problem Statements & Tech** | Super Head 2 (CTO) | 5 Enterprise Grand Innovation Tracks (GenAI/Bedrock, Serverless, IoT/Smart Cities, FinTech/Trust, Open Innovation), AWS architecture blueprints, and API sandbox specs. | [06_tracks_problem_statements_and_tech.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/06_tracks_problem_statements_and_tech.md) |
-| **07. Judges & Grand Jury Playbook** | Super Head 6 (CSO) | Target CXO/VP profiles, Online Qualifier review protocols, VIP hospitality protocol in Top Floor Lounge, scoring portal guide, and conflict-of-interest rules. | [07_judges_and_mentors_handbook.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/07_judges_and_mentors_handbook.md) |
-| **08. Operations & Volunteer Shift Roster** | Super Head 3 (COO) | Physical venue layout across Sathyabama Indoor Stadium, arena power grid, campus LAN, and 3-shift rotating volunteer roster for 106 organizers. | [08_event_operations_and_volunteer_manual.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/08_event_operations_and_volunteer_manual.md) |
-| **09. Participant Handbook & Rulebook** | Super Head 4 (CXO) | Comprehensive handbook: teams of 4–6 students, zero entry fee, direct event day venue reporting, 100% student IP ownership, fresh code rules, hardware maker bay access, cloud credit usage, and Code of Conduct. | [09_participant_handbook_and_rules.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/09_participant_handbook_and_rules.md) |
-| **10. Side Events & Hacker Culture Playbook** | Super Head 4 (CXO) | Midnight Lightning CTF, Speed Typing Championship, retro arcade arena, 3 AM AI Prompt Battles, live acoustic set, and foam-mattress rest zones. | [10_side_events_and_engagement_playbook.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/10_side_events_and_engagement_playbook.md) |
-| **11. Crisis Management & Safety Protocols** | Super Head 6 (CSO) | Three-tier crisis response matrix, generator auto-switchover, 24/7 on-campus ambulance, and segregated hostel/dining corridors. | [11_crisis_management_and_safety_protocol.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/11_crisis_management_and_safety_protocol.md) |
-| **12. Post-Event Impact & Sponsor ROI** | Super Head 1 (CPFO) | Executive sponsor ROI proof-of-performance report, resume database release, instant NEFT prize escrow disbursement, and digital credential engine. | [12_post_event_report_and_sponsor_roi_deck.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/12_post_event_report_and_sponsor_roi_deck.md) |
-| **13. Hackathon 101: Core Team Primer** | Core Team Onboarding | Grounded training manual for all 106 student organizers, stakeholder psychology, rookie mistake prevention, and emergency reflexes. | [13_hackathon_101_core_team_primer.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/13_hackathon_101_core_team_primer.md) |
-| **14. Official Administrative Approvals** | Executive Office | All 6 formal university permission letters (Indoor Stadium reservation, night pass safety, AV/power requisition, bus transit, VIP dining, EV buggy transit for restroom access). | [14_official_letters_and_administrative_approvals.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/14_official_letters_and_administrative_approvals.md) |
-| **15. Google Form & Screening Schemas** | Technical & Screening Lead | Schema definitions for Round 0 free applications, Online Qualifier submission schema, on-campus confirmation workflows, and Discord onboarding. | [15_google_form_registration_and_confirmation_template.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/15_google_form_registration_and_confirmation_template.md) |
-| **16. Website PRD & Design Specification** | Super Head 5 (CCMO) & CTO | Full Product Requirements Document, live terminal CLI simulator, live 48-hour countdown, interactive judging portal, and real-time leaderboard specs. | [16_website_design_and_experience_specification.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/16_website_design_and_experience_specification.md) |
-| **17. Content Reference & Copy Bank** | Super Head 5 (CCMO) | Production-ready cold emails, sponsor pitches (Title ₹2L), press release copy, social media broadcast scripts, and complete FAQ banks. | [17_content_reference_and_copy_bank.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/17_content_reference_and_copy_bank.md) |
-| **19. Operations & Logistics CRUD Specification** | Super Head 2 (CTO) & Super Head 3 (COO) | Complete relational PostgreSQL DDL schemas, REST API contracts, and operational state machines for all 10 on-ground micro-logistics domains. | [19_operations_logistics_crud_and_system_specs.md](file:///e:/AWS%20SBGL/Events/Kairos/docs/19_operations_logistics_crud_and_system_specs.md) |
+| **20. Indoor Stadium Transition & Budget Plan** | Super Head 1 (CPFO) & Super Head 3 (COO) | **Master Indoor Auditorium Transition Plan**, empirical learnings from Vexora'26 report, itemized ₹3.50L budget, college-level provisions, 48h accommodation & rest architecture. | [`20_indoor_auditorium_venue_transition_and_budget_plan.md`](./docs/20_indoor_auditorium_venue_transition_and_budget_plan.md) |
+| **18. Master Workforce & 6 Super Heads** | President & Executive Office | **Apex Command Hierarchy**, 6 Super Heads, 106 dedicated organizers, sub-heads, headcounts, 4-phase workflows (Pre, Online Qualifier, On-Ground, Post), and procurement catalog. | [`18_team_structure_leads_and_workforce_deployment.md`](./docs/18_team_structure_leads_and_workforce_deployment.md) |
+| **00. Master Brief & Executive Summary** | Apex Directorate | Grand vision, high-level timeline, 100-team on-ground scale, Online Qualifier (Jan 02–04), ₹3.5L capital pool, zero entry fee, and cross-functional RACI. | [`00_hackathon_master_brief.md`](./docs/00_hackathon_master_brief.md) |
+| **01. Sponsorship Strategy & Pitch Deck** | Super Head 1 (CPFO) | Enterprise sponsorship tiers (Title ₹2L, Powered-By ₹1L, Associate ₹50k, Track Bounties ₹25k), zero-fee student impact narrative, pitch scripts, and corporate MoU. | [`01_sponsorship_deck_and_outreach.md`](./docs/01_sponsorship_deck_and_outreach.md) |
+| **02. Master Agenda & Judging Rubrics** | Super Head 6 (CSO) & CTO | Online Qualifier evaluation rubric, 48-Hour on-ground minute-by-minute timeline, 3 Progressive Gates, and automated scoring normalization. | [`02_agenda_rounds_and_judging_rubric.md`](./docs/02_agenda_rounds_and_judging_rubric.md) |
+| **03. Itemized Budget & Procurement Catalog**| Super Head 1 (CPFO / Treasurer) | Balanced ₹3,50,000 zero-fee budget model, ₹1,75,000 cash prize allocation, itemized purchasing catalog (swag, standees, banners, AV, food, celebrations). | [`03_budget_and_financial_tracker.md`](./docs/03_budget_and_financial_tracker.md) |
+| **04. Design Identity & Brand Guidelines** | Super Head 5 (CCMO) | Obsidian-Gold visual identity, stage backdrop, streetwear hoodies, laser-etched smart badges, and print specifications. | [`04_design_and_branding_guidelines.md`](./docs/04_design_and_branding_guidelines.md) |
+| **05. Marketing, PR & Media Strategy** | Super Head 5 (CCMO) | 120+ Campus Ambassador national network, 2,000+ applicant funnel, Online Qualifier broadcast, 48-hour live stream production, and aftermovie brief. | [`05_marketing_media_and_promotion.md`](./docs/05_marketing_media_and_promotion.md) |
+| **06. Tracks, Problem Statements & Tech** | Super Head 2 (CTO) | 5 Enterprise Grand Innovation Tracks (GenAI/Bedrock, Serverless, IoT/Smart Cities, FinTech/Trust, Open Innovation), AWS architecture blueprints, and API sandbox specs. | [`06_tracks_problem_statements_and_tech.md`](./docs/06_tracks_problem_statements_and_tech.md) |
+| **07. Judges & Grand Jury Playbook** | Super Head 6 (CSO) | Target CXO/VP profiles, Online Qualifier review protocols, VIP hospitality protocol in Backstage Green Room 2, scoring portal guide, and conflict-of-interest rules. | [`07_judges_and_mentors_handbook.md`](./docs/07_judges_and_mentors_handbook.md) |
+| **08. Operations & Volunteer Shift Roster** | Super Head 3 (COO) | Physical venue layout across Sathyabama Indoor Stadium, 65 kVA arena power grid, campus LAN, and 3-shift rotating volunteer roster for 106 organizers. | [`08_event_operations_and_volunteer_manual.md`](./docs/08_event_operations_and_volunteer_manual.md) |
+| **09. Participant Handbook & Rulebook** | Super Head 4 (CXO) | Comprehensive handbook: teams of 4–6 students, zero entry fee, direct event day venue reporting, 100% student IP ownership, fresh code rules, hardware maker bay access, cloud credit usage, and Code of Conduct. | [`09_participant_handbook_and_rules.md`](./docs/09_participant_handbook_and_rules.md) |
+| **10. Side Events & Hacker Culture Playbook** | Super Head 4 (CXO) | Midnight Lightning CTF, Speed Typing Championship, retro arcade arena, 3 AM AI Prompt Battles, live acoustic set, and foam-mattress rest zones. | [`10_side_events_and_engagement_playbook.md`](./docs/10_side_events_and_engagement_playbook.md) |
+| **11. Crisis Management & Safety Protocols** | Super Head 6 (CSO) | Three-tier crisis response matrix, generator auto-switchover, 24/7 on-campus ambulance liaison with Sathyabama General Hospital, and segregated rest sanctuaries. | [`11_crisis_management_and_safety_protocol.md`](./docs/11_crisis_management_and_safety_protocol.md) |
+| **12. Post-Event Impact & Sponsor ROI** | Super Head 1 (CPFO) | Executive sponsor ROI proof-of-performance report, resume database release via affirmative opt-in consent, instant NEFT prize escrow disbursement, and digital credential engine. | [`12_post_event_report_and_sponsor_roi_deck.md`](./docs/12_post_event_report_and_sponsor_roi_deck.md) |
+| **13. Hackathon 101: Core Team Primer** | Core Team Onboarding | Grounded training manual for all 106 student organizers, stakeholder psychology, rookie mistake prevention, and emergency reflexes. | [`13_hackathon_101_core_team_primer.md`](./docs/13_hackathon_101_core_team_primer.md) |
+| **14. Official Administrative Approvals** | Executive Office | All 7 formal university permission letters (Indoor Stadium reservation, night pass safety, AV/power requisition, bus transit, VIP dining, EV buggy transit, and student OD sanction). | [`14_official_letters_and_administrative_approvals.md`](./docs/14_official_letters_and_administrative_approvals.md) |
+| **15. Google Form & Screening Schemas** | Technical & Screening Lead | Schema definitions for Round 0 free applications, Online Qualifier submission schema, on-campus confirmation workflows, and Discord onboarding. | [`15_google_form_registration_and_confirmation_template.md`](./docs/15_google_form_registration_and_confirmation_template.md) |
+| **16. Website PRD & Design Specification** | Super Head 5 (CCMO) & CTO | Full Product Requirements Document, live terminal CLI simulator, live 48-hour countdown, interactive judging portal, and real-time leaderboard specs. | [`16_website_design_and_experience_specification.md`](./docs/16_website_design_and_experience_specification.md) |
+| **17. Content Reference & Copy Bank** | Super Head 5 (CCMO) | Production-ready cold emails, sponsor pitches (Title ₹2L), press release copy, social media broadcast scripts, and complete FAQ banks. | [`17_content_reference_and_copy_bank.md`](./docs/17_content_reference_and_copy_bank.md) |
+| **19. Operations & Logistics CRUD Specification** | Super Head 2 (CTO) & Super Head 3 (COO) | Complete relational PostgreSQL DDL schemas, REST API contracts, and operational state machines for all 10 on-ground micro-logistics domains. | [`19_operations_logistics_crud_and_system_specs.md`](./docs/19_operations_logistics_crud_and_system_specs.md) |
 
 ---
 
-## 3. The Master Execution Runway (September 2026 – January 2027)
+## 4. The Master Execution Runway (September 2026 – January 2027)
 
 ```mermaid
 gantt
@@ -120,7 +119,7 @@ gantt
     dateFormat  YYYY-MM-DD
     section Corporate Partnerships
     Sponsor Deck & Tier Packaging         :done, 2026-08-25, 2026-09-10
-    Title (₹1.25L) & Corporate Outreach   :active, 2026-09-10, 2026-12-15
+    Title (₹2.0L) & Corporate Outreach    :active, 2026-09-10, 2026-12-15
     Collect Swag, Bounties & APIs        :2026-12-15, 2027-01-10
     section National Registrations
     Website Launch & Free Round 0 Opens  :active, 2026-10-15, 2026-12-15
@@ -131,6 +130,6 @@ gantt
     section Event Operations
     College Approvals & Letters          :active, 2026-08-25, 2026-09-30
     AV, Electrical & Bus Fleet Logistics :2026-12-15, 2027-01-15
-    On-Campus Setup (Central Library)    :2027-01-21, 2027-01-21
+    On-Campus Setup (Indoor Stadium)     :2027-01-21, 2027-01-21
     Grand 48-Hour National Hackathon     :2027-01-22, 2027-01-24
 ```

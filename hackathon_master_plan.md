@@ -94,4 +94,4 @@ graph TD
 ## 4. Master Navigation & Documentation Index
 
 All operational, financial, technical, and branding specifications are accessible via the Master Hub:  
-👉 [KAIROS 2027 Documentation Hub (`README.md`)](file:///e:/AWS%20SBGL/Events/Kairos/README.md)
+👉 [KAIROS 2027 Documentation Hub (`README.md`)](./README.md)

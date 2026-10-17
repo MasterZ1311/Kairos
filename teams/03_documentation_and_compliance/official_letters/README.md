@@ -48,3 +48,11 @@ graph LR
 - Must feature official register number (`44110855`) and contact phone (`+91 6381801640`) of Thenappan T.
 - Official blue ink signatures only; no digital copy-paste signatures on hard copy submissions.
 - Signed and sealed documents scanned at 300 DPI PDF and saved in `signed_scans/`.
+
+---
+
+## 5. Directory Inventory & Official Letters Archive
+
+1. **[`official_letters_compendium_and_status.md`](./official_letters_compendium_and_status.md)**: Master compendium of all 7 administrative letters (EXT-001 through EXT-007) with exact institutional letter text, filing dates, and approval tracking.
+2. **[`office_event_proposal_memorandum.md`](./office_event_proposal_memorandum.md)**: Formal administrative proposal & office memorandum (Ref: `SIST/AWSSBG/PROP/2026-27/001`) submitted to the Registrar and Deans for KAIROS 2027.
+3. **[`signed_scans/venue_proposal_letter.pdf`](./signed_scans/venue_proposal_letter.pdf)**: Official scanned and signed physical venue requisition letter.

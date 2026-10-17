@@ -66,3 +66,10 @@ All corporate presentations follow the **Master 14-Slide Architecture** detailed
 * **File Formats:**
   * Master Source: Figma / PPTX
   * External Distribution: Vector Compressed PDF (`< 5 MB` for email attachments).
+
+---
+
+## 4. Subfolder Inventory & Collateral Files
+
+1. **[`kairos_2027_master_pitch_deck_structure.md`](./kairos_2027_master_pitch_deck_structure.md)**: Master 14-slide pitch deck structure, visual wireframe guidance, and speaker delivery talking points.
+2. **[`kairos_sponsorship_speech_deck.md`](./kairos_sponsorship_speech_deck.md)**: Complete 2-hour+ internal speaking script, motivational address, and sponsor closing masterclass by President Thenappan T for the sponsorship team.

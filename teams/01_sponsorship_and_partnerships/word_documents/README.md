@@ -26,7 +26,7 @@ Microsoft Word (`.docx`) documents in this directory represent **audience-specif
 
 | File Name | Canonical Markdown Source | Primary Audience | Current Export Status | Audit Notes & Verification Cautions |
 |---|---|---|:---:|---|
-| [`00_KAIROS_2027_Sponsorship_Meeting_2Hour_Speech_Deck_and_Script.docx`](./00_KAIROS_2027_Sponsorship_Meeting_2Hour_Speech_Deck_and_Script.docx) | Root `kairos_sponsorship_speech_deck.md` (v2.0) | **Internal Leadership & Team** | `Working Draft` | Internal 2-hour speaking script and training masterclass for Thenappan T & team. Not for external sponsor distribution. |
+| [`00_KAIROS_2027_Sponsorship_Meeting_2Hour_Speech_Deck_and_Script.docx`](./00_KAIROS_2027_Sponsorship_Meeting_2Hour_Speech_Deck_and_Script.docx) | [`../pitch_decks/kairos_sponsorship_speech_deck.md`](../pitch_decks/kairos_sponsorship_speech_deck.md) | **Internal Leadership & Team** | `Working Draft` | Internal 2-hour speaking script and training masterclass for Thenappan T & team. Not for external sponsor distribution. |
 | [`01_KAIROS_2027_Sponsorship_Strategy_and_Outreach_Playbook.docx`](./01_KAIROS_2027_Sponsorship_Strategy_and_Outreach_Playbook.docx) | [`../01_sponsorship_strategy_and_package_matrix.md`](../01_sponsorship_strategy_and_package_matrix.md) · [`../02_prospecting_outreach_and_negotiation_playbook.md`](../02_prospecting_outreach_and_negotiation_playbook.md) | **CPFO Nikki & Outreach Squad** | `Working Draft — Requires Regen` | Contains legacy referral bounty language; refer to Markdown `01` & `02` for quarantined policy. |
 | [`02_KAIROS_2027_Corporate_Pitch_Deck_Slide_Guide.docx`](./02_KAIROS_2027_Corporate_Pitch_Deck_Slide_Guide.docx) | [`../03_pitch_deck_and_sponsor_meeting_kit.md`](../03_pitch_deck_and_sponsor_meeting_kit.md) | **Sponsorship Pitchers** | `Working Draft — Aligned` | 14-slide master corporate pitch guide with presenter notes and CXO talking points. |
 | [`03_KAIROS_2027_Official_Corporate_Sponsorship_Proposal_Letter.docx`](./03_KAIROS_2027_Official_Corporate_Sponsorship_Proposal_Letter.docx) | [`../signed_mous_and_contracts/non_tech_corporate_sponsorship_proposal_letter.md`](../signed_mous_and_contracts/non_tech_corporate_sponsorship_proposal_letter.md) | **Corporate VPs, CMOs, CSR Heads** | `Draft — Review Required` | Letterhead proposal template; bank details and GST claims must be confirmed by University Accounts before sending. |
@@ -39,17 +39,17 @@ Microsoft Word (`.docx`) documents in this directory represent **audience-specif
 
 ## 3. Python Document Generators Directory
 
-The following automated Python scripts in `teams/01_sponsorship_and_partnerships/` generate these Word files:
+The automated Python generator scripts are maintained in [`../scripts/`](../scripts/):
 
-- `docx_utils.py`: Shared design token library, table stylers, callout boxes, and header/footer formatters.
-- `gen_doc0_speech_deck.py`: Generates Document 0 (Internal Speech Deck & Meeting Script).
-- `gen_doc1_playbook.py`: Generates Document 1 (Strategy & Outreach Playbook).
-- `gen_doc2_pitch_guide.py`: Generates Document 2 (Pitch Deck Slide Guide).
-- `gen_doc3_proposal_letter.py`: Generates Document 3 (Official Proposal Letter).
-- `gen_doc4_mou_template.py`: Generates Document 4 (MoU Agreement Template).
-- `gen_doc5_crm_tracker.py`: Generates Document 5 (CRM & Leads Tracker).
-- `gen_doc6_fulfillment_checklist.py`: Generates Document 6 (Fulfillment Checklist).
-- `gen_doc7_master_binder.py`: Compiles Documents 0 through 6 into the Master Operations Manual.
+- [`../scripts/docx_utils.py`](../scripts/docx_utils.py): Shared design token library, table stylers, callout boxes, and header/footer formatters.
+- [`../scripts/gen_doc0_speech_deck.py`](../scripts/gen_doc0_speech_deck.py): Generates Document 0 (Internal Speech Deck & Meeting Script).
+- [`../scripts/gen_doc1_playbook.py`](../scripts/gen_doc1_playbook.py): Generates Document 1 (Strategy & Outreach Playbook).
+- [`../scripts/gen_doc2_pitch_guide.py`](../scripts/gen_doc2_pitch_guide.py): Generates Document 2 (Pitch Deck Slide Guide).
+- [`../scripts/gen_doc3_proposal_letter.py`](../scripts/gen_doc3_proposal_letter.py): Generates Document 3 (Official Proposal Letter).
+- [`../scripts/gen_doc4_mou_template.py`](../scripts/gen_doc4_mou_template.py): Generates Document 4 (MoU Agreement Template).
+- [`../scripts/gen_doc5_crm_tracker.py`](../scripts/gen_doc5_crm_tracker.py): Generates Document 5 (CRM & Leads Tracker).
+- [`../scripts/gen_doc6_fulfillment_checklist.py`](../scripts/gen_doc6_fulfillment_checklist.py): Generates Document 6 (Fulfillment Checklist).
+- [`../scripts/gen_doc7_master_binder.py`](../scripts/gen_doc7_master_binder.py): Compiles Documents 0 through 6 into the Master Operations Manual.
 
 ### Script Re-Execution Guardrail:
 Do not execute generator scripts without verifying that their embedded data structures match [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md). Future updates should refactor generators to parse canonical Markdown source files directly.

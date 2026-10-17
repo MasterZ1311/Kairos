@@ -51,7 +51,7 @@ The **Top 250 Semi-Finalist Teams** participate in a mandatory 48-hour virtual m
 ## 3. Round 2: On-Campus 48-Hour Minute-by-Minute Master Agenda
 
 > **Companion Agenda References:**  
-> • **Website Developer View:** See [`../website/website_participant_agenda.md`](../website/website_participant_agenda.md) for the streamlined developer-first schedule.  
+> • **Participant Rulebook & Timeline:** See [`09_participant_handbook_and_rules.md`](./09_participant_handbook_and_rules.md) for participant rules, deliverables, and milestone checkpoints.  
 > • **Hard Administrative Copy:** See [`02_hard_office_copy_master_agenda.md`](./02_hard_office_copy_master_agenda.md) for the minute-by-minute operational run of show with power/network telemetry, volunteer shift rotas, and university signoffs.
 
 ### Day 1: Friday, January 22, 2027 — Kickoff, Architecture & Cloud Gate

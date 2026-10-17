@@ -27,7 +27,8 @@ def build_doc0():
     )
     
     # Read the markdown source
-    md_path = r"e:\AWS SBGL\Events\Kairos\kairos_sponsorship_speech_deck.md"
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    md_path = os.path.join(base_dir, "pitch_decks", "kairos_sponsorship_speech_deck.md")
     with open(md_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
         
