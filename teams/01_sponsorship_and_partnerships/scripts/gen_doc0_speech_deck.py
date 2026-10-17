@@ -29,6 +29,8 @@ def build_doc0():
     # Read the markdown source
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     md_path = os.path.join(base_dir, "pitch_decks", "kairos_sponsorship_speech_deck.md")
+    if not os.path.exists(md_path):
+        md_path = os.path.join(base_dir, "03_pitch_deck_and_sponsor_meeting_kit.md")
     with open(md_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
         
