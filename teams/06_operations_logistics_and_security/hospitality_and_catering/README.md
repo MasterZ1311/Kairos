@@ -1,9 +1,9 @@
 # Hospitality, Food Arrangements & Catering Operations Specification
 
 > **Subfolder:** `teams/06_operations_logistics_and_security/hospitality_and_catering/`  
-> **Direct Lead:** **Hemavarshine G** (Chief Experience & Hospitality Officer, CXO)  
+> **Direct Lead:** **Hemavarshine G** (Hospitality Lead)  
 > **Logistics Coordinator:** **Nangaiyar M** (Community & Events Lead, Reg: `44612059`)  
-> **Operations Super Head:** **Viswanathan S** (COO)  
+> **Operations Team Lead:** **Viswanathan S**  
 > **Apex Executive Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
 
 ---

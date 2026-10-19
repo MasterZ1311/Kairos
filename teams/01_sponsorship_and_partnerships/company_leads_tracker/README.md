@@ -1,7 +1,7 @@
 # Company Leads Tracker & Corporate CRM Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/company_leads_tracker/`  
-> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Direct Lead:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md)  
 > **Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 
@@ -41,8 +41,8 @@ Every prospect in the CRM must strictly occupy one of these standardized stages:
 | **Lead Research & Profiling** | Enterprise Outreach Squad | Minimum 5 newly profiled leads per week |
 | **Initial Outreach Dispatch** | Outreach Sub-Head & Nikki | Within 24 hours of qualification |
 | **Meeting Minutes Logging** | Meeting Attendees / Nikki | Within 1 hour using [`meeting_notes_template.md`](./meeting_notes_template.md) |
-| **Proposal Customization** | CPFO Nikki & Design Lead | Within 48 hours of discovery call |
-| **MoU Routing & Legal Review** | CPFO Nikki & Faculty Coordinators | Weekly Executive Council review |
+| **Proposal Customization** | Nikki (Sponsorship Lead) & Design Lead | Within 48 hours of discovery call |
+| **MoU Routing & Legal Review** | Nikki (Sponsorship Lead) & Faculty Coordinators | Weekly Executive Council review |
 | **Payment Verification** | Treasury Sub-Head & University Accounts | Immediate logging upon NEFT/RTGS credit voucher |
 
 ---

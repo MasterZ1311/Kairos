@@ -2,7 +2,7 @@
 
 **Document Reference:** `teams/04_media_pr_and_broadcast/broadcast_and_streaming/live_stream_rundown_and_av_cues.md`  
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
-**Live Stream Director:** Caroline Mary McPherson (Media Head 1 / CCMO, Reg: `44110124`)  
+**Live Stream Director:** Caroline Mary McPherson (Media & PR Team Lead, Reg: `44110124`)  
 **Master Rig Engineer:** Broadcast Operations Squad  
 **Governing Standard (Executive Planning Framework):** `DOC-02 (Master Agenda)` · `DOC-05 (Marketing, Media & Promotion)` · `DOC-08 (Operations & Volunteer Manual)`  
 **Broadcast Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  

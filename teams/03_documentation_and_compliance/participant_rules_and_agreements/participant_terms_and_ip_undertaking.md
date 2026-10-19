@@ -4,7 +4,7 @@
 **Standard Form:** Required for all 100 Shortlisted Finalist Teams (Teams of 4–6 students, ~400–600 Hackers)  
 **Governing Standard (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-09 (Participant Handbook)` · `DOC-14 (Official Letters & Approvals)` · `DOC-15 (Registration & Confirmation Template)`  
 **Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
-**Super Head Authority:** Shaik Khaja Mohiddin (CSO, Reg: `44110756`)  
+**Governance Lead:** Shaik Khaja Mohiddin (Safety & Governance Lead, Reg: `44110756`)  
 **Official Venue:** Sathyabama Indoor Stadium (Indoor Auditorium), Sathyabama Campus  
 **Status:** `APPROVED PLAN` & `TEMPLATE`  
 

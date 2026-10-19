@@ -16,7 +16,7 @@ def build_doc6():
         title="KAIROS 2027 (GRAND EDITION)",
         subtitle="Corporate Sponsor Benefit Fulfillment Matrix & Proof-of-Performance (PoP) Checklist\nComprehensive Quality Assurance, Ground Operations & Post-Event ROI Protocol",
         badges=[
-            "DIRECT ACCOUNTABILITY: NIKKI (CPFO)",
+            "DIRECT ACCOUNTABILITY: NIKKI (SPONSORSHIP LEAD)",
             "PRINT FREEZE: DEC 20, 2026",
             "PROOF OF PERFORMANCE (PoP) PROTOCOL",
             "POST-EVENT ROI DOSSIER SLA: 7-10 DAYS"

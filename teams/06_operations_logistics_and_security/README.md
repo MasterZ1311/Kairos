@@ -1,9 +1,9 @@
 # KAIROS 2027 (Grand Edition) — Operations, Logistics & Security Workspace
 
 > **Domain:** Venue Infrastructure, 65 kVA Power Grid, Bus Fleet & Campus EV Transit, 8-Service Free Catering, 24/7 Night Security & Medical  
-> **Operations & Logistics Super Head:** **Viswanathan S** (COO) & **Nangaiyar M** (Community & Events Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
-> **Hospitality & Experience Super Head:** **Hemavarshine G** (CXO)  
-> **Safety, Security & Discipline Head:** **Chief Safety Officer (CSO)**  
+> **Operations & Logistics Lead:** **Viswanathan S** (Operations Team Lead) & **Nangaiyar M** (Community & Events Lead, Reg: `44612059`, Phone: `+91 8754976892`, Email: `nangaiyarmuthkrishnan@gmail.com`)  
+> **Hospitality & Experience Lead:** **Hemavarshine G** (Hospitality Lead)  
+> **Safety, Security & Discipline Head:** **Shaik Khaja Mohiddin** (Safety & Governance Lead)  
 > **Apex Executive Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 > **Faculty Liaison:** **Dr. K. Ashok Kumar** (Dept. of CSE)  
 
@@ -26,7 +26,7 @@ Division 6 is the physical operational backbone of KAIROS 2027. Commanding the m
 - **What This Team Does NOT Control:**
   - *No Graphic Printing:* Standee, banner, and badge graphic design is owned by Division 2 (Design). Operations mounts and positions finished prints.
   - *No Software/Judge Scoring:* Judging portal operation and leaderboard scoring are owned by Division 5 (Builder Squad).
-  - *No Commercial Negotiations:* Food and material procurement budgets are audited and approved by CPFO Nikki (Division 1).
+  - *No Commercial Negotiations:* Food and material procurement budgets are audited and approved by Nikki (Sponsorship Lead) (Division 1).
 
 ---
 
@@ -34,8 +34,8 @@ Division 6 is the physical operational backbone of KAIROS 2027. Commanding the m
 
 ```
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
-| Operations & Logistics Workstream        | Viswa.| Hema. | Nang. | CSO   | Floor | Pres. |
-|                                          | (COO) | (CXO) | (Comm)| Shaik | Lead  | Then. |
+| Operations & Logistics Workstream        | Viswa.| Hema. | Nang. | Shaik | Floor | Pres. |
+|                                          |(Oper.)|(Hosp.)| (Comm)|(Safe.)| Lead  | Then. |
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Arena Bays Alpha-Echo Setup & Teardown   |   A   |   C   |   C   |   I   |   R   |   I   |
 | 65 kVA Power Grid & Generator Sync       |   A   |   I   |   I   |   C   |   R   |   C   |
@@ -84,7 +84,7 @@ Division 6 is the physical operational backbone of KAIROS 2027. Commanding the m
 [Floor Marshal contacts NOC Desk over UHF Radio Channel 1]
                 │
                 ▼ (< 3 Minutes)
-[CSO Shaik Khaja dispatches On-Site First Aid Responder]
+[Shaik Khaja (Safety Lead) dispatches On-Site First Aid Responder]
                 │
                 ▼ (If Tier 3 Serious: Chest Pain, Unconsciousness, Trauma)
 [Ambulance dispatched to Sathyabama General Hospital (3-minute drive) + Alert President & Faculty]

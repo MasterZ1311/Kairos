@@ -19,7 +19,7 @@ def build_doc5():
             "BASELINE BUDGET: ₹3.5L–₹4.0L+ UNCAPPED",
             "PIPELINE VALUE: ₹36,00,000+",
             "ACTIVE TARGET LEADS: 33+ (ENT-01 TO ENT-11+)",
-            "LEAD OWNER: NIKKI (CPFO)"
+            "LEAD OWNER: NIKKI (SPONSORSHIP LEAD)"
         ]
     )
     
@@ -70,17 +70,17 @@ def build_doc5():
     
     leads_headers = ["Lead ID", "Company Name", "Target Tier", "Potential Value", "Key POC & Title", "Lead Owner", "Stage", "Next Action & Due Date"]
     leads_data = [
-        ["ENT-01", "Amazon Web Services", "Title Sponsor", "₹2,00,000 + $50k Credits", "Regional Community Manager / DevRel", "Nikki (CPFO)", "Stage 5: MoU", "Dean-signed formal letter by Sep 25"],
-        ["ENT-02", "Presidio Cloud Solutions", "Co-Powered By", "₹1,00,000", "Director Talent Acquisition / Cloud Lead", "Nikki (CPFO)", "Stage 4: Deck Sent", "Technical track alignment call by Sep 28"],
+        ["ENT-01", "Amazon Web Services", "Title Sponsor", "₹2,00,000 + $50k Credits", "Regional Community Manager / DevRel", "Nikki (Sponsorship Lead)", "Stage 5: MoU", "Dean-signed formal letter by Sep 25"],
+        ["ENT-02", "Presidio Cloud Solutions", "Co-Powered By", "₹1,00,000", "Director Talent Acquisition / Cloud Lead", "Nikki (Sponsorship Lead)", "Stage 4: Deck Sent", "Technical track alignment call by Sep 28"],
         ["ENT-03", "Zoho Corporation", "Co-Powered By", "₹1,00,000", "Head of University Relations", "Enterprise Squad", "Stage 3: Discovery", "Deliver customized SaaS track deck by Oct 02"],
         ["ENT-04", "Freshworks", "Track Partner (AI)", "₹25,000", "DevRel Lead / Engineering Manager", "Enterprise Squad", "Stage 3: Discovery", "Send Freddy AI challenge doc by Oct 05"],
         ["ENT-05", "Red Bull India", "Official Energy Partner", "In-Kind (2,000 Cans + DJ)", "Brand Marketing Manager (South)", "Outreach Squad", "Stage 5: MoU", "Finalize cold-chain delivery schedule by Oct 10"],
         ["ENT-06", "Polygon / ETH Foundation", "Track Partner (Web3)", "₹25,000", "India Ecosystem Growth Lead", "Track Squad", "Stage 2: Outreach", "Follow up on Twitter/LinkedIn regarding bounty"],
         ["ENT-07", "Postman", "Tooling & API Partner", "In-Kind (500 Swag Packs)", "Student Program Manager", "Outreach Squad", "Stage 3: Discovery", "Request 500 stickers & swag drop by Oct 12"],
         ["ENT-08", "JetBrains", "Educational Tooling", "In-Kind (500 Licenses)", "Academic Program Lead", "Outreach Squad", "CLOSED WON", "Vouchers received, stored in website vault"],
-        ["ENT-09", "LTIMindtree", "Track Partner (FinTech)", "₹25,000", "Campus Recruitment Head", "Nikki (CPFO)", "Stage 2: Outreach", "Follow up via institutional alumni network"],
+        ["ENT-09", "LTIMindtree", "Track Partner (FinTech)", "₹25,000", "Campus Recruitment Head", "Nikki (Sponsorship Lead)", "Stage 2: Outreach", "Follow up via institutional alumni network"],
         ["ENT-10", "Cognizant", "Track Partner (Health)", "₹25,000", "CSR & Campus Engagement Lead", "Enterprise Squad", "Stage 1: Identified", "Draft intro letter via Faculty Coordinators"],
-        ["ENT-11", "Sathyabama Inst. Grant", "University Grant", "₹50,000", "Dean, School of Computing", "Nikki (CPFO)", "Stage 5: MoU", "File master proposal to Vice Chancellor office"]
+        ["ENT-11", "Sathyabama Inst. Grant", "University Grant", "₹50,000", "Dean, School of Computing", "Nikki (Sponsorship Lead)", "Stage 5: MoU", "File master proposal to Vice Chancellor office"]
     ]
     add_styled_table(doc, leads_headers, leads_data)
 
@@ -133,9 +133,9 @@ def build_doc5():
     
     action_headers = ["Squad Member", "Assigned Action Deliverable", "Hard Deadline"]
     action_data = [
-        ["Nikki (CPFO)", "Schedule formal MoU signing session with AWS Regional Lead", "October 22, 2026"],
-        ["Nikki (CPFO)", "Submit official university grant requisition to Vice Chancellor Office", "October 20, 2026"],
-        ["Nikki (CPFO)", "Deliver customized pitch deck to Presidio Cloud (GenAI track focus)", "October 19, 2026"],
+        ["Nikki (Sponsorship Lead)", "Schedule formal MoU signing session with AWS Regional Lead", "October 22, 2026"],
+        ["Nikki (Sponsorship Lead)", "Submit official university grant requisition to Vice Chancellor Office", "October 20, 2026"],
+        ["Nikki (Sponsorship Lead)", "Deliver customized pitch deck to Presidio Cloud (GenAI track focus)", "October 19, 2026"],
         ["Enterprise Squad", "Identify and research 30 new target enterprise companies (10 each)", "October 21, 2026"],
         ["Enterprise Squad", "Dispatch first-touch outreach (Template A) to Zoho, Freshworks, Cognizant", "October 20, 2026"],
         ["Track Squad Lead", "Map 5 tracks to 5 dedicated prospective corporate sponsors", "October 21, 2026"],

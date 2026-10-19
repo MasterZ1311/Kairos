@@ -1,7 +1,7 @@
 # KAIROS 2027 — Corporate Sponsorship Pipeline & CRM Master Sheet
 
 > **Document Status:** CANONICAL OPERATIONAL CRM (AUDITED & RECONCILED)  
-> **Direct Lead & Overseer:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Direct Lead & Overseer:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
 > **Working Capital Target:** ₹3,50,000 – ₹4,00,000 (Liquid Operational Cash Pool)  
 > **Current Working Date:** 17 October 2026 | **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md)  
 > **Verification Rule:** No lead may be marked "Closed Won" or "Committed" without a countersigned MoU or audited university bank receipt.

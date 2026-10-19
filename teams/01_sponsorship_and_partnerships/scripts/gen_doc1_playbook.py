@@ -127,8 +127,8 @@ def build_doc1():
     add_callout(
         doc,
         "1. Zero Financial Risk: Commissions are paid out strictly after corporate funds clear into the Sathyabama University audited bank account.\n"
-        "2. 21-Day Lead Lock: Leads submitted via email to sistawscc@gmail.com or CPFO Nikki are locked to the referrer for 21 days.\n"
-        "3. Pitching Assistance: Referrers do NOT need to negotiate; CPFO Nikki and President Thenappan T handle corporate pitching and legal closing.\n"
+        "2. 21-Day Lead Lock: Leads submitted via email to sistawscc@gmail.com or Nikki (Sponsorship Lead) are locked to the referrer for 21 days.\n"
+        "3. Pitching Assistance: Referrers do NOT need to negotiate; Nikki (Sponsorship Lead) and President Thenappan T handle corporate pitching and legal closing.\n"
         "4. Rapid Payout SLA: Payouts transferred via UPI/NEFT within 48–72 hours of corporate fund clearance.",
         title="RAINMAKER PROGRAM OPERATIONAL SLA",
         style="success"
@@ -156,7 +156,7 @@ def build_doc1():
         "Could we connect for a brief 10-minute discovery call this Thursday or Friday to explore tailoring an apex partnership package for [Company Name]?\n\n"
         "Warm regards,\n\n"
         "Nikki (Nangaiyar M) (Register No: 44612059)\n"
-        "Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead\n"
+        "Sponsorship Team Lead\n"
         "AWS Student Builder Group — SIST Chapter\n"
         "Sathyabama Institute of Science and Technology, Chennai\n"
         "Phone: +91 8754976892 | Email: nangaiyarmuthkrishnan@gmail.com / sistawscc@gmail.com"
@@ -176,7 +176,7 @@ def build_doc1():
         "Could we connect for 5 minutes to arrange delivery of beverage inventory for the event?\n\n"
         "Best regards,\n\n"
         "Nikki (Nangaiyar M) (Phone: +91 8754976892 | Email: nangaiyarmuthkrishnan@gmail.com)\n"
-        "CPFO & Sponsorship Lead, AWS Student Builder Group SIST"
+        "Sponsorship Team Lead, AWS Student Builder Group SIST"
     )
     add_callout(doc, template_b, title="COPY-PASTE TEMPLATE B: BEVERAGE & ENERGY OUTREACH", style="info")
 
@@ -194,7 +194,7 @@ def build_doc1():
         "Can we schedule a 10-minute sync this week to finalize the challenge statement?\n\n"
         "Best regards,\n\n"
         "Nikki (Nangaiyar M) (Phone: +91 8754976892 | Email: nangaiyarmuthkrishnan@gmail.com)\n"
-        "CPFO & Sponsorship Lead, AWS Student Builder Group SIST"
+        "Sponsorship Team Lead, AWS Student Builder Group SIST"
     )
     add_callout(doc, template_c, title="COPY-PASTE TEMPLATE C: TRACK & BOUNTY OUTREACH", style="info")
 
@@ -214,7 +214,7 @@ def build_doc1():
         "Could we connect for a brief 10-minute call this week to explore how we can spotlight [Brand Name] to India's top engineering youth?\n\n"
         "Warm regards,\n\n"
         "Nikki (Nangaiyar M) (Register No: 44612059)\n"
-        "Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead\n"
+        "Sponsorship Team Lead\n"
         "AWS Student Builder Group — SIST Chapter\n"
         "Sathyabama Institute of Science and Technology, Chennai\n"
         "Phone: +91 8754976892 | Email: nangaiyarmuthkrishnan@gmail.com"
@@ -299,7 +299,7 @@ def build_doc1():
     
     roster_headers = ["Role", "Officer Name", "Register No", "Contact Information", "Key Mandate"]
     roster_data = [
-        ["Super Head 1: CPFO & Sponsorship Lead", "Nikki (Nangaiyar M)", "44612059", "+91 8754976892\nnangaiyarmuthkrishnan@gmail.com", "Overall sponsorship lead, corporate pitches, negotiations, contract closing"],
+        ["Sponsorship Team Lead", "Nikki (Nangaiyar M)", "44612059", "+91 8754976892\nnangaiyarmuthkrishnan@gmail.com", "Overall sponsorship lead, corporate pitches, negotiations, contract closing"],
         ["President & SBGL (Apex Chapter)", "Thenappan T", "44110855", "+91 6381801640\nthenappanmasterz1311@gmail.com", "Apex chapter oversight, institutional representation, key enterprise pitches"],
         ["Faculty Coordinator", "Dr. K. Ashok Kumar", "Faculty CSE", "ashokkumar.cse@sathyabama.ac.in", "University endorsement letters, institutional approvals, administrative oversight"],
         ["Faculty Coordinator", "Dr. Balapriya .S", "Faculty CSE", "balapriya.cse@sathyabama.ac.in", "University endorsement letters, MoU vetting, accounting clearance"],

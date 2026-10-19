@@ -1,7 +1,7 @@
 # Presentation Decks & Pitch Collateral Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/pitch_decks/`  
-> **Direct Lead & Final Approver:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`)  
+> **Direct Lead & Final Approver:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead, Reg: `44612059`)  
 > **Creative Collaborator:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
 > **Master Slogan:** **`KAIROS: MAKE TIME. MAKE SOMETHING.`**  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../03_pitch_deck_and_sponsor_meeting_kit.md`](../03_pitch_deck_and_sponsor_meeting_kit.md)
@@ -47,7 +47,7 @@ All corporate presentations follow the **Master 14-Slide Architecture** detailed
 | **11** | **Track Record & Momentum** | Past AWS SBG workshops, bootcamps, and developer community traction. | Real community proof |
 | **12** | **Capital Deployment** | Transparent deployment of operational budget into student infrastructure. | Zero fund leakage |
 | **13** | **Next Steps & Onboarding** | 4-step onboarding from package selection to MoU and asset intake. | University MoU routing |
-| **14** | **Executive Leadership Desk** | Contact details for CPFO Nikki, President Thenappan T, Faculty Advisors. | Verified official desk |
+| **14** | **Executive Leadership Desk** | Contact details for Nikki (Sponsorship Lead), President Thenappan T, Faculty Advisors. | Verified official desk |
 
 ---
 

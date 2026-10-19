@@ -1,7 +1,7 @@
 # KAIROS 2027 — Corporate Sponsor Benefit Fulfillment Matrix
 
 > **Document Status:** OPERATIONAL AUDIT CHECKLIST  
-> **Direct Accountability:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead), Rikish B (Design Lead), Caroline Mary McPherson (Media Head 1)  
+> **Direct Accountability:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead), Rikish B (Design Lead), Caroline Mary McPherson (Media Head 1)  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../06_fulfillment_assets_and_proof_of_performance.md`](../06_fulfillment_assets_and_proof_of_performance.md)  
 > **Rule:** Operational checklist rows remain blank until a bilateral MoU is countersigned. Sample rows are strictly illustrative.
 

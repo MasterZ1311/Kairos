@@ -2,7 +2,7 @@
 
 > **Purpose:** Standardized meeting record for discovery calls, customized pitch reviews, and negotiation syncs.  
 > **Mandatory SLA:** Complete and archive in `company_leads_tracker/` within **1 hour** of call conclusion.  
-> **Direct Owner:** Nikki (Nangaiyar M), CPFO & Lead Outreach Squad  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md)
 
 ---
@@ -17,7 +17,7 @@ Call Platform / Location: [ ] Google Meet  [ ] Zoom  [ ] In-Person (Campus)
 Meeting Type: [ ] Initial Discovery  [ ] Proposal Deck Review  [ ] Commercial Negotiation  [ ] Legal/MoU Sync
 
 Attendees (KAIROS Team):
-1. Nikki (Nangaiyar M), CPFO & Sponsorship Lead
+1. Nikki (Nangaiyar M), Sponsorship Team Lead
 2. ________________________________________ (Role: ______________________)
 3. ________________________________________ (Role: ______________________)
 
@@ -87,7 +87,7 @@ Attendees (Corporate Partner):
 | # | Action Item | Assignee (Team / Sponsor) | Due Date |
 |---|---|---|:---:|
 | 1 | Dispatch Post-Call Summary Email (Template 7) | Nikki (Nangaiyar M) | T+4 Hours |
-| 2 | Deliver Customized 14-Slide Deck & Proposal | CPFO / Design Squad | [Date] |
+| 2 | Deliver Customized 14-Slide Deck & Proposal | Sponsorship Lead / Design Squad | [Date] |
 | 3 | Internal Sponsor Review & Feedback Sync | Corporate Lead POC | [Date] |
 | 4 | File Institutional Invoice Requisition (if closed) | Treasury Sub-Head | [Date] |
 

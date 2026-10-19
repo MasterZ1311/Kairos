@@ -95,7 +95,7 @@ Department of CSE, SIST
 
 ________________________________________  
 **Nikki (Nangaiyar M)** (Register No: `44612059`)  
-Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead  
+Sponsorship Team Lead  
 AWS Student Builder Group — SIST Chapter  
 
 <br/>

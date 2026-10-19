@@ -2,7 +2,7 @@
 
 > **Document Status:** WORKING SPECIFICATION (`[APPROVAL REQUIRED]` for final prices & slots)  
 > **Audience:** Sponsorship Team, Executive Council, Prospective Enterprise Partners  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Last Updated:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 
@@ -58,7 +58,7 @@ graph LR
 | **Live Stream Commercial Stingers** | 30s Video Stinger (every 2h) | 15s Video Stinger (every 4h) | Static Digital Slide | Lower-Third Ticker Mention | Product Placement Mention |
 | **Physical Exhibition Space** | 10×10 ft Experiential Lounge | 6×6 ft Foyer Exhibition Kiosk | Tabletop Space in Foyer | Tabletop Space in Foyer | Sampling Station / Chiller |
 | **Custom Problem Bounties** | Right to Anchor Grand Champion | Co-Endow Challenge Bounty | Standard Track Bounties | Endow ₹7,000+ Track Bounty | Swag Drop for Track Winners |
-| **Operational Delivery Owner** | CPFO Nikki & Design Head | Enterprise Outreach Sub-Head | Outreach Squad | Track Partnerships Sub-Head | Logistics & Hospitality Lead |
+| **Operational Delivery Owner** | Nikki (Sponsorship Lead) & Rikish B (Design Lead) | Enterprise Outreach Sub-Head | Outreach Squad | Track Partnerships Sub-Head | Logistics & Hospitality Lead |
 | **Fulfillment Deadline** | Assets by 20 Dec 2026 | Assets by 20 Dec 2026 | Assets by 25 Dec 2026 | Problem Brief by 28 Dec 2026 | Delivery by 21 Jan 2027 |
 
 ---
@@ -178,7 +178,7 @@ Prospective Sponsor: [Company Name] Target Tier: [Title / Co-Powered / Track / I
    - Talent Engagement                   Opt-in candidate book dispatch confirmation
 
 6. APPROVAL SIGN-OFF:
-   CPFO Approval: Nikki (Nangaiyar M) [ ]       Faculty Clearance: Dr. K. Ashok Kumar [ ]
+   Sponsorship Lead Approval: Nikki (Nangaiyar M) [ ]   Faculty Clearance: Dr. K. Ashok Kumar [ ]
    Commercial Value: ₹ _________________        Agreement Due Date: ___________________
 ================================================================================
 ```

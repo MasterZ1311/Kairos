@@ -25,17 +25,17 @@ The Sponsorship & Corporate Partnerships division fuels KAIROS 2027 by securing 
 ### 1.3 Division Structure & Internal Roles
 ```mermaid
 graph TD
-    CPFO["Super Head 1: CPFO & Sponsorship Lead<br/>Nikki (Nangaiyar M) · Reg: 44612059"]
+    SPONSOR_LEAD["Sponsorship Team Lead<br/>Nikki (Nangaiyar M) · Reg: 44612059"]
     
-    CPFO --> SQ1["Enterprise Outreach Squad<br/>Lead: [OUTREACH LEAD PLACEHOLDER]<br/>Target: 60+ Tier-1/Tier-2 Tech & Cloud Leads"]
-    CPFO --> SQ2["Track & DevRel Squad<br/>Lead: [TRACK PARTNERSHIPS LEAD]<br/>Target: 5 Track Sponsors & API Sandboxes"]
-    CPFO --> SQ3["Treasury & Legal Liaison Squad<br/>Lead: [TREASURY LEAD PLACEHOLDER]<br/>Target: GST Invoicing, University Escrow & MoU Clearance"]
-    CPFO --> SQ4["Fulfillment & PoP Squad<br/>Lead: [FULFILLMENT LEAD PLACEHOLDER]<br/>Target: Logo Audits, VIP Passes & Post-Event ROI Dossiers"]
+    SPONSOR_LEAD --> SQ1["Enterprise Outreach Squad<br/>Lead: [OUTREACH LEAD PLACEHOLDER]<br/>Target: 60+ Tier-1/Tier-2 Tech & Cloud Leads"]
+    SPONSOR_LEAD --> SQ2["Track & DevRel Squad<br/>Lead: [TRACK PARTNERSHIPS LEAD]<br/>Target: 5 Track Sponsors & API Sandboxes"]
+    SPONSOR_LEAD --> SQ3["Treasury & Legal Liaison Squad<br/>Lead: [TREASURY LEAD PLACEHOLDER]<br/>Target: GST Invoicing, University Escrow & MoU Clearance"]
+    SPONSOR_LEAD --> SQ4["Fulfillment & PoP Squad<br/>Lead: [FULFILLMENT LEAD PLACEHOLDER]<br/>Target: Logo Audits, VIP Passes & Post-Event ROI Dossiers"]
 ```
 
 | Role | Designate / Lead | Register No / Contact | Authority & Accountabilities |
 |---|---|:---:|---|
-| **CPFO & Sponsorship Lead** | **Nikki (Nangaiyar M)** | `44612059`<br/>`+91 8754976892` | **Division Accountable (A):** Master pipeline velocity, final commercial negotiations, custom package approvals, executive reporting. |
+| **Sponsorship Team Lead** | **Nikki (Nangaiyar M)** | `44612059`<br/>`+91 8754976892` | **Division Accountable (A):** Master pipeline velocity, final commercial negotiations, custom package approvals, executive reporting. |
 | **Enterprise Outreach Lead** | Corporate Outreach Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** Target research, initial touchpoints, CRM lead scoring, discovery call scheduling. |
 | **Track Partnerships Lead** | Track & Bounties Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** Technical problem statement alignment, API sandbox perks, tool licenses, mentor slots. |
 | **Treasury & Audit Lead** | Treasury & Escrow Lead | `[ASSIGNED SQUAD LEAD]` | **Responsible (R):** University bank invoice coordination, receipt tracking, financial ledger reconciliation, prize escrow audit. |
@@ -51,7 +51,7 @@ To eliminate duplicate efforts and ensure single-point accountability across the
 
 ```
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
-| Sponsorship Deliverable / Workstream     | CPFO  | Outr. | Track | Treas | Fulf. | Pres. |
+| Sponsorship Deliverable / Workstream     |Spons. | Outr. | Track | Treas | Fulf. | Pres. |
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Corporate Prospect Scoring & CRM Hygiene |   A   |   R   |   C   |   I   |   I   |   I   |
 | 15-Minute CXO Discovery Calls            |   A   |   R   |   C   |   I   |   I   |   C   |
@@ -72,13 +72,13 @@ To eliminate duplicate efforts and ensure single-point accountability across the
 
 | Output / Deliverable | Accountable | Working Role | Target Due Date | Acceptance Criteria (Must Meet Before Closing) | Downstream Hand-off |
 |---|---|---|:---:|---|---|
-| **Audited CRM Leads Pipeline** | CPFO | Outreach Squad | Weekly (Fridays) | 60+ verified leads, 0 fictitious Closed-Won claims, all next actions assigned. | Core Council |
-| **Customized Corporate Pitch Deck** | CPFO | Pitch Squad | T-60 Days | 14-slide master format, verified tiers, zero unapproved cash bounty claims. | Prospective Sponsor |
-| **Official Corporate Proposal Letter** | CPFO | Treasury Lead | T-45 Days | SIST official letterhead, correct signatory designations, university escrow terms. | Corporate VP/CMO |
-| **Bilateral Sponsorship MoU** | CPFO | Faculty Coord. | T-14 Days | University legal review passed, countersigned by Registrar/Dean and Corporate Head. | Institutional Archive |
+| **Audited CRM Leads Pipeline** | Nikki (Sponsorship Lead) | Outreach Squad | Weekly (Fridays) | 60+ verified leads, 0 fictitious Closed-Won claims, all next actions assigned. | Core Council |
+| **Customized Corporate Pitch Deck** | Nikki (Sponsorship Lead) | Pitch Squad | T-60 Days | 14-slide master format, verified tiers, zero unapproved cash bounty claims. | Prospective Sponsor |
+| **Official Corporate Proposal Letter** | Nikki (Sponsorship Lead) | Treasury Lead | T-45 Days | SIST official letterhead, correct signatory designations, university escrow terms. | Corporate VP/CMO |
+| **Bilateral Sponsorship MoU** | Nikki (Sponsorship Lead) | Faculty Coord. | T-14 Days | University legal review passed, countersigned by Registrar/Dean and Corporate Head. | Institutional Archive |
 | **Vector Logo & Asset Vault** | Fulfillment | Design Liaison | T-14 Days | High-res `.svg`/`.ai` vector with transparent background and clear zone guidelines. | Team 02 (Design) |
 | **Sponsor On-Site Requirements** | Fulfillment | Ops Liaison | T-7 Days | Exact power wattage, booth footprint, banner count, VIP headcount documented. | Team 06 (Operations) |
-| **Proof of Performance (PoP) Dossier** | CPFO | Fulfillment Lead | T+7 Days | High-res photos of stage backdrop, LED loop, booth, banner, and social reach stats. | Corporate Sponsor |
+| **Proof of Performance (PoP) Dossier** | Nikki (Sponsorship Lead) | Fulfillment Lead | T+7 Days | High-res photos of stage backdrop, LED loop, booth, banner, and social reach stats. | Corporate Sponsor |
 
 ---
 
@@ -118,7 +118,7 @@ To ensure operational excellence and avoid cross-team friction, the Sponsorship 
   - Meet with Faculty Coordinators (Dr. K. Ashok Kumar & Dr. Balapriya S) to confirm the exact university account details, GST invoice workflow, and payment receipt confirmation path.
   - Resolve Decision `DEC-05` in [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md).
 - [ ] **Day 3 (19 Oct): Lock Master Proposal Package & Tier Matrix**
-  - Finalize base funding scenario (Target ₹3.5L–₹4.0L) with CPFO Nikki and President Thenappan T using [`01_sponsorship_strategy_and_package_matrix.md`](./01_sponsorship_strategy_and_package_matrix.md).
+  - Finalize base funding scenario (Target ₹3.5L–₹4.0L) with Nikki (Sponsorship Lead) and President Thenappan T using [`01_sponsorship_strategy_and_package_matrix.md`](./01_sponsorship_strategy_and_package_matrix.md).
   - Resolve Decision `DEC-01` (Package pricing and slot count limits).
 - [ ] **Day 4 (20 Oct): Prepare Clean Outreach Packets**
   - Review standardized email scripts in [`02_prospecting_outreach_and_negotiation_playbook.md`](./02_prospecting_outreach_and_negotiation_playbook.md).
@@ -144,10 +144,10 @@ The sponsorship workspace is structured into a modular operating system. Refer t
 | **Strategy & Packages** | [`01_sponsorship_strategy_and_package_matrix.md`](./01_sponsorship_strategy_and_package_matrix.md) | Value proposition, tier matrix, inventory limits, and funding scenarios. | Sponsorship Team, Prospects | Bi-weekly |
 | **Outreach Playbook** | [`02_prospecting_outreach_and_negotiation_playbook.md`](./02_prospecting_outreach_and_negotiation_playbook.md) | Lead scoring, email/DM templates, pitch scripts, objection battlecards. | Outreach Squad | Weekly |
 | **Pitch Deck Kit** | [`03_pitch_deck_and_sponsor_meeting_kit.md`](./03_pitch_deck_and_sponsor_meeting_kit.md) | 14-slide master outline, one-page brief, meeting prep & recap checklist. | Pitchers, CXOs | Pre/Post Meeting |
-| **Contracting & Approvals** | [`04_proposal_contracting_and_approval_workflow.md`](./04_proposal_contracting_and_approval_workflow.md) | Proposal structure, MoU legal review, RACI matrix, payment controls. | Legal, Finance, CPFO | Per Deal Closing |
-| **Finance Controls** | [`05_finance_controls_and_pipeline_review.md`](./05_finance_controls_and_pipeline_review.md) | Cash vs in-kind accounting, weekly review agenda, executive reporting. | Treasury, CPFO, Faculty | Weekly (Fridays) |
+| **Contracting & Approvals** | [`04_proposal_contracting_and_approval_workflow.md`](./04_proposal_contracting_and_approval_workflow.md) | Proposal structure, MoU legal review, RACI matrix, payment controls. | Legal, Finance, Sponsorship Lead | Per Deal Closing |
+| **Finance Controls** | [`05_finance_controls_and_pipeline_review.md`](./05_finance_controls_and_pipeline_review.md) | Cash vs in-kind accounting, weekly review agenda, executive reporting. | Treasury, Sponsorship Lead, Faculty | Weekly (Fridays) |
 | **Benefit Fulfillment** | [`06_fulfillment_assets_and_proof_of_performance.md`](./06_fulfillment_assets_and_proof_of_performance.md) | Asset intake specs, cross-team routing, on-site PoP photo protocol. | Operations, Design, Media | Event Cycle |
-| **ROI & Renewal** | [`07_post_event_roi_and_renewal.md`](./07_post_event_roi_and_renewal.md) | Post-event sponsor ROI dossier structure, talent connect, renewals. | Signed Sponsors, CPFO | Post-Event (Jan–Feb) |
+| **ROI & Renewal** | [`07_post_event_roi_and_renewal.md`](./07_post_event_roi_and_renewal.md) | Post-event sponsor ROI dossier structure, talent connect, renewals. | Signed Sponsors, Sponsorship Lead | Post-Event (Jan–Feb) |
 
 ### Functional Subdirectories
 
@@ -195,7 +195,7 @@ graph TD
 
 ### 8.1 Weekly Review Cadence
 - **Friday 18:00 IST — CRM Pipeline Freeze:** All outreach calls, touchpoints, and stage transitions must be logged in [`corporate_sponsorship_pipeline_crm.md`](./company_leads_tracker/corporate_sponsorship_pipeline_crm.md).
-- **Sunday 19:00 IST — Core Council Sync:** CPFO Nikki presents the week's pipeline velocity, stage conversions, and upcoming CXO discovery meetings.
+- **Sunday 19:00 IST — Core Council Sync:** Nikki (Sponsorship Lead) presents the week's pipeline velocity, stage conversions, and upcoming CXO discovery meetings.
 - **Bi-Weekly Faculty Escrow Audit:** Reconcile institutional bank credits against signed corporate agreements.
 
 ### 8.2 Escalation Triggers

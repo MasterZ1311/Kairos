@@ -1,7 +1,7 @@
 # KAIROS 2027 (Grand Edition) — Media, PR & Broadcast Workspace
 
 > **Domain:** National Media Distribution, 48-Hour Live Broadcast, Campus Ambassador Army, Social Storytelling  
-> **Direct Lead:** **Caroline Mary McPherson** (Media Head 1, Reg: `44110124`, Phone: `+91 8838990182`, Email: `mcphersoncaroline5@gmail.com`)  
+> **Direct Lead:** **Caroline Mary McPherson** (Media & PR Team Lead, Reg: `44110124`, Phone: `+91 8838990182`, Email: `mcphersoncaroline5@gmail.com`)  
 > **Co-Lead (PR & Ambassador Network):** **Harshith Raj S** (Socials & PR Lead)  
 > **Creative Collaborator:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`)  
 > **Executive Oversight:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
@@ -34,7 +34,7 @@ Division 4 acts as the megaphone and cultural narrator of KAIROS 2027. The team 
 ```
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Media & PR Deliverable / Workstream      | Carol.| Harsh.| Stream| Roving| CA    | Pres. |
-|                                          | (CCMO)| (PR)  | Lead  | Host  | Lead  | Then. |
+|                                          | (Media)| (PR)  | Lead  | Host  | Lead  | Then. |
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | National Press Release Draft & Wire Dist.|   A   |   R   |   I   |   I   |   I   |   C   |
 | 120+ Campus Ambassador Toolkit & Tasks   |   C   |   A   |   I   |   I   |   R   |   I   |

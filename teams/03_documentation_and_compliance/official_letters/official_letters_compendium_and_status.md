@@ -4,7 +4,7 @@
 **Master Executive Specification:** `DOC-14 (Official Letters & Administrative Approvals)`  
 **Governing Standard (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-20 (Indoor Stadium Transition Plan)`  
 **Archival Lead:** Hemavarshine S (Documentation Lead, Reg: `44110263`)  
-**Super Head Authority:** Shaik Khaja Mohiddin (CSO, Reg: `44110756`)  
+**Governance Lead:** Shaik Khaja Mohiddin (Safety & Governance Lead, Reg: `44110756`)  
 **Status:** `CONFIRMED MASTER OPERATING STANDARD`  
 
 ---

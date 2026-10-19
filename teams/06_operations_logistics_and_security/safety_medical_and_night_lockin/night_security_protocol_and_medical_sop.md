@@ -1,6 +1,6 @@
 # KAIROS 2027 — Night Security Standard Operating Procedure (SOP) & Medical Incident Log
 
-> **Direct Lead:** Chief Safety Officer (CSO)  
+> **Direct Lead:** **Shaik Khaja Mohiddin** (Safety & Governance Lead)  
 > **Medical Incharge:** Sathyabama General Hospital (On-Campus Emergency Center) & Apollo Specialty Hospital OMR  
 
 ---

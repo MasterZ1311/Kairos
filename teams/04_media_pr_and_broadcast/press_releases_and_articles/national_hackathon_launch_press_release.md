@@ -27,7 +27,7 @@ National applications are now officially open at **https://kairos.sathyabama.ac.
 ---
 
 ### MEDIA CONTACT DETAILS:
-- **Media Head 1 / CCMO:** Caroline Mary McPherson | Phone: `+91 8838990182` | Email: `mcphersoncaroline5@gmail.com`
+- **Media & PR Team Lead:** Caroline Mary McPherson | Phone: `+91 8838990182` | Email: `mcphersoncaroline5@gmail.com`
 - **President & SBGL:** Thenappan T | Phone: `+91 6381801640` | Email: `sistawscc@gmail.com`
 - **Press Desk:** `sistawscc@gmail.com` | Official Instagram: `@awssbg_sist`
 - **Institution:** Sathyabama Institute of Science and Technology, Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai, Tamil Nadu 600119.

@@ -11,37 +11,37 @@
 **Working Operational Capital:** ₹3,50,000 – ₹4,00,000 Liquid Sponsorship Escrow  
 **Pure Cash Prize Pool:** **₹1,75,000 Pure Liquid Cash Escrow** + $50,000+ AWS Cloud Credits  
 **Participant Model:** **100% FREE — ZERO ENTRY FEE** (Meritocracy intake across India)  
-**Workforce Scale:** 106 Student Organizers Across 6 Specialized Super Head Divisions  
+**Workforce Scale:** 106 Student Organizers Across 6 Specialized Core Teams  
 **Status:** `CONFIRMED MASTER OPERATING STANDARD`  
 
 ---
 
 ## 1. Executive Operating Model & Incident Command System (ICS)
 
-KAIROS 2027 deploys a battle-tested **Incident Command System (ICS)** structure. Every organizing domain has a single accountable Super Head reporting directly to **President Thenappan T**, backed by faculty oversight from Dr. K. Ashok Kumar and Dr. Balapriya .S.
+KAIROS 2027 deploys a battle-tested **Incident Command System (ICS)** structure. Every organizing domain has an accountable team lead reporting directly to **President Thenappan T**, backed by faculty oversight from Dr. K. Ashok Kumar and Dr. Balapriya .S.
 
 ```mermaid
 graph TD
     PRES[President & SBGL: Thenappan T<br/>Reg: 44110855] --- FAC[Faculty Coordinators: Dr. K. Ashok Kumar & Dr. Balapriya .S]
     
-    PRES --> SH1[Super Head 1: CPFO<br/>Nikki Nangaiyar M · Reg: 44612059<br/>Team 01: Sponsorship & Treasury]
-    PRES --> SH2[Super Head 2: CTO<br/>Rikish P · Reg: 44110664<br/>Team 05: Platforms & Web]
-    PRES --> SH3[Super Head 3: COO<br/>Viswanathan S · Reg: 44110931<br/>Team 06A: Infrastructure & Logistics]
-    PRES --> SH4[Super Head 4: CXO<br/>Hemavarshine G · Reg: 44110260<br/>Team 06B: Hospitality & Participant Exp]
-    PRES --> SH5[Super Head 5: CCMO<br/>Caroline Mary McPherson · Reg: 44110124<br/>Teams 02 & 04: Design, Media & PR]
-    PRES --> SH6[Super Head 6: CSO<br/>Shaik Khaja Mohiddin · Reg: 44110756<br/>Team 03: Safety, Jury & Governance]
+    PRES --> SH1[Sponsorship Team Lead<br/>Nikki Nangaiyar M · Reg: 44612059<br/>Team 01: Sponsorship & Treasury]
+    PRES --> SH2[Technical Team Lead<br/>Rikish P · Reg: 44110664<br/>Team 05: Platforms & Web]
+    PRES --> SH3[Operations Team Lead<br/>Viswanathan S · Reg: 44110931<br/>Team 06A: Infrastructure & Logistics]
+    PRES --> SH4[Hospitality Lead<br/>Hemavarshine G · Reg: 44110260<br/>Team 06B: Hospitality & Participant Exp]
+    PRES --> SH5[Media & PR Team Lead<br/>Caroline Mary McPherson · Reg: 44110124<br/>Teams 02 & 04: Design, Media & PR]
+    PRES --> SH6[Safety & Governance Lead<br/>Shaik Khaja Mohiddin · Reg: 44110756<br/>Team 03: Safety, Jury & Governance]
 ```
 
 ### 1.1 Division Ownership & Functional Roster
 
-| Team Code | Division Name & Workspace Directory | Super Head / Accountable Lead | Core Mandate & Primary Outputs |
+| Team Code | Division Name & Workspace Directory | Team Leads / Accountable Leads | Core Mandate & Primary Outputs |
 |:---:|---|---|---|
-| **01** | [**Sponsorship & Corporate Partnerships**](./01_sponsorship_and_partnerships/README.md) | **Nikki Nangaiyar M** (CPFO, Reg: `44612059`) | Enterprise fundraising, tier contracting (₹2.0L Title to ₹25k Track), CRM pipeline, sponsor deliverable fulfillment, and ROI reporting. |
-| **02** | [**Design & Creative Assets**](./02_design_and_creative_assets/README.md) | **Rikish B** (Design Lead) & **Caroline McPherson** (CCMO) | Master visual identity, 50×10ft stadium backdrop, 12×8ft LED video loop, 16 standees, CR80 smart badges, apparel kits, and social assets. |
-| **03** | [**Documentation & Institutional Compliance**](./03_documentation_and_compliance/README.md) | **Shaik Khaja Mohiddin** (CSO) & **Hemavarshine S** | 7 official university permission letters, participant rulebooks, 100% student IP undertakings, sprint MoMs, and audit archives. |
-| **04** | [**Media, PR & Live Broadcast**](./04_media_pr_and_broadcast/README.md) | **Caroline Mary McPherson** (CCMO) & **Harshith Raj S** | National press releases, 120+ campus ambassador network, 48-hour continuous multicam live stream, and official 4K cinematic aftermovie. |
-| **05** | [**Hands-On AWS Builder & Website**](./05_hands_on_aws_builder_and_website/README.md) | **Rikish P** (CTO) & **Viswanathan Ashok** | Next.js 14 web portal (`kairos.sathyabama.ac.in`), AWS Bedrock model sandboxes, Devfolio webhooks, and Z-score judging engine. |
-| **06** | [**Operations, Logistics & Security**](./06_operations_logistics_and_security/README.md) | **Viswanathan S** (COO) & **Hemavarshine G** (CXO) | Sathyabama Indoor Stadium arena floor bays, 65 kVA power grid, 8-meal buffet catering, 10 college buses, 3 EV buggies, and night lock-in. |
+| **01** | [**Sponsorship & Corporate Partnerships**](./01_sponsorship_and_partnerships/README.md) | **Nikki Nangaiyar M** (Sponsorship Team Lead, Reg: `44612059`) | Enterprise fundraising, tier contracting (₹2.0L Title to ₹25k Track), CRM pipeline, sponsor deliverable fulfillment, and ROI reporting. |
+| **02** | [**Design & Creative Assets**](./02_design_and_creative_assets/README.md) | **Rikish B** (Design Team Lead) & **Caroline Mary McPherson** (Media & PR Team Lead) | Master visual identity, 50×10ft stadium backdrop, 12×8ft LED video loop, 16 standees, CR80 smart badges, apparel kits, and social assets. |
+| **03** | [**Documentation & Institutional Compliance**](./03_documentation_and_compliance/README.md) | **Shaik Khaja Mohiddin** (Safety & Governance Lead) & **Hemavarshine S** (Documentation Lead) | 7 official university permission letters, participant rulebooks, 100% student IP undertakings, sprint MoMs, and audit archives. |
+| **04** | [**Media, PR & Live Broadcast**](./04_media_pr_and_broadcast/README.md) | **Caroline Mary McPherson** (Media & PR Team Lead) & **Harshith Raj S** (Socials & PR Lead) | National press releases, 120+ campus ambassador network, 48-hour continuous multicam live stream, and official 4K cinematic aftermovie. |
+| **05** | [**Hands-On AWS Builder & Website**](./05_hands_on_aws_builder_and_website/README.md) | **Rikish P** (Technical Team Lead) & **Viswanathan Ashok** (Hands-On Builder Lead) | Next.js 14 web portal (`kairos.sathyabama.ac.in`), AWS Bedrock model sandboxes, Devfolio webhooks, and Z-score judging engine. |
+| **06** | [**Operations, Logistics & Security**](./06_operations_logistics_and_security/README.md) | **Viswanathan S** (Operations Team Lead) & **Hemavarshine G** (Hospitality Lead) | Sathyabama Indoor Stadium arena floor bays, 65 kVA power grid, 8-meal buffet catering, 10 college buses, 3 EV buggies, and night lock-in. |
 
 ---
 
@@ -58,7 +58,7 @@ To eliminate overlapping authority and prevent tasks from falling between divisi
 ```
 +------------------------------------+-------+-------+-------+-------+-------+-------+
 | Milestone / Recurring Workstream   | TM 01 | TM 02 | TM 03 | TM 04 | TM 05 | TM 06 |
-|                                    | (CPFO)|(Design|(Doc/Gov|(Media)| (CTO) | (COO) |
+|                                    |Sponsor|Design |Doc/Gov| Media | Tech  | Ops   |
 +------------------------------------+-------+-------+-------+-------+-------+-------+
 | Corporate Sponsorship MoU & Funds  |   A   |   C   |   C   |   I   |   I   |   C   |
 | Stage LED Wall & Banner Printing   |   C   |   A   |   I   |   C   |   I   |   R   |
@@ -96,13 +96,13 @@ graph LR
 
 | Initiating Team | Receiving Team | Transferred Artifact / Data | Hand-off Milestone | Minimum Acceptance Criteria | Downstream Fallback if Incomplete |
 |:---|:---|---|:---:|---|---|
-| **Team 01 (Sponsorship)** | **Team 02 (Design)** | High-res vector sponsor logos (`.svg` / `.ai`) and branding guidelines. | T-14 Days | Verified vector asset with transparent background and clear zone specs. | Use standard typographic brand name; alert CPFO. |
+| **Team 01 (Sponsorship)** | **Team 02 (Design)** | High-res vector sponsor logos (`.svg` / `.ai`) and branding guidelines. | T-14 Days | Verified vector asset with transparent background and clear zone specs. | Use standard typographic brand name; alert Sponsorship Lead Nikki. |
 | **Team 01 (Sponsorship)** | **Team 06 (Ops)** | Sponsor on-site requirements (booth dimensions, electrical drops, VIP passes). | T-7 Days | Written summary of booth headcount, equipment power draw, and arrival timing. | Standard 10×10ft pod with single 6A spike board provided. |
 | **Team 02 (Design)** | **Team 06 (Ops)** | Print-ready PDF files for banners, standees, and backdrop. | T-5 Days | CMYK color profile, 300 DPI, correct bleed margins, vendor sign-off. | Vendor printing halted; emergency review called. |
 | **Team 03 (Compliance)** | **Team 06 (Ops)** | Stamped institutional approval letters (Letters 1 to 7). | T-10 Days | Signed approval from Registrar, Dean, Estate Office, Transport, and Mess. | Physical venue setup cannot commence on campus. |
 | **Team 05 (Platform)** | **Team 06 (Ops)** | Finalist check-in roster with team codes, food preferences, and swag sizes. | T-3 Days | 100 teams verified, zero missing contact numbers, CSV/JSON format. | Check-in reverts to physical photo ID inspection. |
 | **Team 06 (Ops)** | **Team 04 (Media)** | Arena stream bay setup: dedicated 1 Gbps LAN line, power drop, camera risers. | T-1 Day (20:00) | Speedtest confirms >50 Mbps continuous upload; zero packet loss. | Stream switches to secondary 5G cellular bonded router. |
-| **All Teams** | **Team 01 (Sponsorship)** | Photographic evidence of sponsor brand delivery, stage loop, and booth engagement. | T+48 Hours | 4K resolution photos showing banner placements and footfall. | CPFO delays delivery of customized sponsor ROI deck. |
+| **All Teams** | **Team 01 (Sponsorship)** | Photographic evidence of sponsor brand delivery, stage loop, and booth engagement. | T+48 Hours | 4K resolution photos showing banner placements and footfall. | Sponsorship Lead Nikki delays delivery of customized sponsor ROI deck. |
 
 ---
 
@@ -161,7 +161,7 @@ gantt
 ## 5. Operating Cadence, Meeting Rules & Escalation Ladder
 
 ### 5.1 Meeting Structure (Zero Needless Overhead)
-* **Weekly Core Council Sprint (Sundays 19:00 – 20:00 IST):** Attended by President, Faculty Coordinators, and all 6 Super Heads. Focus strictly on blockers, sponsor pipeline velocity, and handoff deadlines.
+* **Weekly Core Council Sprint (Sundays 19:00 – 20:00 IST):** Attended by President, Faculty Coordinators, and all Core Team Leads. Focus strictly on blockers, sponsor pipeline velocity, and handoff deadlines.
 * **Squad Standup (Tuesdays / Thursdays 21:00 – 21:20 IST):** 20-minute rapid async/sync standup within individual squads to clear Jira/GitHub tasks.
 * **On-Ground Event Briefings (Every 8 Hours during Jan 22–24):** Mandatory 15-minute shift overlap briefing in the Central Arena War Room between departing and arriving cohorts.
 
@@ -175,10 +175,10 @@ Any operational blocker, medical anomaly, or safety concern must follow the stan
 [Step 2: Table Marshal contacts Squad Lead over UHF Radio]
        │
        ▼ (If unresolved in < 10 minutes or impacts multiple teams)
-[Step 3: Squad Lead alerts Super Head in Central Arena War Room]
+[Step 3: Squad Lead alerts Team Lead in Central Arena War Room]
        │
        ▼ (If Tier 3 Critical: Medical, Power Blackout, Security)
-[Step 4: Super Head alerts President Thenappan T & Faculty Coordinator instantly]
+[Step 4: Team Lead alerts President Thenappan T & Faculty Coordinator instantly]
 ```
 
 ---
@@ -252,7 +252,7 @@ teams/
 ### [SQUAD NAME] — Weekly Sprint Status Update
 **Reporting Period:** [DD/MM/YYYY] to [DD/MM/YYYY]  
 **Accountable Lead:** [Name / Role / Reg No]  
-**Division Super Head:** [Super Head Role]  
+**Division Lead:** [Team Lead Name / Role]  
 
 #### 1. Highlights & Completed Deliverables
 - [Deliverable 1]: Completed on [Date]; verified against [Acceptance Standard].
@@ -332,7 +332,7 @@ teams/
 - **Preventive system change:** `[Operational change to guarantee it cannot happen again]`
 
 #### 4. Review & Governance Sign-Off
-- **Logged By:** `[Name / Role]` · **Reviewed By CSO:** `Shaik Khaja Mohiddin (CSO)`
+- **Logged By:** `[Name / Role]` · **Reviewed By:** `Shaik Khaja Mohiddin (Safety & Governance Lead)`
 ```
 
 ---
@@ -351,7 +351,7 @@ teams/
 | **2. Technical Specifications** | Verified dimensions, schemas, color profiles (CMYK/RGB), and DPI. | [ ] | |
 | **3. Brand Compliance** | Complies with Obsidian-Violet tokens, typography, and evergreen logo. | [ ] | |
 | **4. Legal / IP Integrity** | Zero unauthorized sponsor commitments, 100% student IP ownership. | [ ] | |
-| **5. Stakeholder Sign-Off** | Written confirmation from Super Head and downstream receiver. | [ ] | |
+| **5. Stakeholder Sign-Off** | Written confirmation from Team Lead and downstream receiver. | [ ] | |
 
 **Final Disposition:** `[ACCEPTED / REJECTED / REVISE & RESUBMIT]`  
 **Sign-Off Lead:** `[Lead Name / Role]` · **Date:** `[DD/MM/YYYY]`
@@ -382,7 +382,7 @@ teams/
 ```markdown
 ### KAIROS 2027 Division Closeout & Retrospective Report
 **Division / Squad:** `[DIVISION NAME]`  
-**Accountable Super Head:** `[SUPER HEAD ROLE]`  
+**Accountable Lead:** `[TEAM LEAD NAME / ROLE]`  
 **Submission Date:** `[DD/MM/YYYY (Target: T+7 Days)]`  
 
 #### 1. Executive Summary & Metric Delivery
@@ -440,7 +440,7 @@ teams/
 ### Rapid Blocker & Escalation Record
 **Logged Date & Time:** `[DD/MM/YYYY · HH:MM IST]`  
 **Logging Squad & Lead:** `[Squad Name]` — `[Lead Name / Reg No]`  
-**Escalated To:** `[Super Head Role / President / Faculty Coordinator]`  
+**Escalated To:** `[Team Lead / President / Faculty Coordinator]`  
 
 - **Blocker Description:** `[Clear, concise statement of what is blocked]`
 - **Root Cause / Missing Input:** `[Pending signature, late vendor proof, delayed data, budget approval]`
@@ -476,10 +476,11 @@ To maintain radical transparency and preserve planning assumptions without prema
 
 | Decision ID | Operational Domain & Issue | Status Label | Source / Evidence Path | Accountable Role | Impact & Fallback Path |
 |:---:|---|:---:|---|---|---|
-| **DEC-01** | Sponsorship Base Funding Scenario (Target ₹3.50L vs Stretch ₹4.00L) | `CONFIRMED BASELINE` | [`01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md`](./01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md) | CPFO Nikki & President | Base scenario locked at ₹3.50L; supports 100% free participant experience. |
-| **DEC-02** | Master Venue: Sathyabama Indoor Stadium (Indoor Auditorium) | `CONFIRMED APPROVED` | [`03_documentation_and_compliance/official_letters/office_event_proposal_memorandum.md`](./03_documentation_and_compliance/official_letters/office_event_proposal_memorandum.md) | Estate Office & COO | 2,500-seat stadium arena floor; 5 sectors Alpha–Echo; Central Library archival only. |
-| **DEC-03** | Pure Liquid Cash Prize Escrow (₹1,75,000) | `CONFIRMED ESCROW` | [`README.md`](./README.md) | CPFO & Faculty Coordinators | 1st ₹60k, 2nd ₹35k, 3rd ₹20k, 5 Tracks ₹35k, Bounties ₹25k; disbursed within 72h via NEFT. |
-| **DEC-04** | Dual-Phase Quality Intake (Round 0 Online $\rightarrow$ Round 1 Virtual $\rightarrow$ Round 2 Finale) | `CONFIRMED STANDARD` | [`05_hands_on_aws_builder_and_website/README.md`](./05_hands_on_aws_builder_and_website/README.md) | CTO Rikish P & Screening Lead | Filters 2,000+ teams down to 250 semi-finalists, then Top 100 elite teams on campus. |
+| **DEC-01** | Sponsorship Base Funding Scenario (Target ₹3.50L vs Stretch ₹4.00L) | `CONFIRMED BASELINE` | [`01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md`](./01_sponsorship_and_partnerships/00_sponsorship_source_of_truth.md) | Nikki (Sponsorship Lead) & Thenappan T (President) | Base scenario locked at ₹3.50L; supports 100% free participant experience. |
+| **DEC-02** | Master Venue: Sathyabama Indoor Stadium (Indoor Auditorium) | `CONFIRMED APPROVED` | [`03_documentation_and_compliance/official_letters/office_event_proposal_memorandum.md`](./03_documentation_and_compliance/official_letters/office_event_proposal_memorandum.md) | Estate Office & Viswanathan S (Operations Lead) | 2,500-seat stadium arena floor; 5 sectors Alpha–Echo; Central Library archival only. |
+| **DEC-03** | Pure Liquid Cash Prize Escrow (₹1,75,000) | `CONFIRMED ESCROW` | [`README.md`](./README.md) | Nikki (Sponsorship Lead) & Faculty Coordinators | 1st ₹60k, 2nd ₹35k, 3rd ₹20k, 5 Tracks ₹35k, Bounties ₹25k; disbursed within 72h via NEFT. |
+| **DEC-04** | Dual-Phase Quality Intake (Round 0 Online $\rightarrow$ Round 1 Virtual $\rightarrow$ Round 2 Finale) | `CONFIRMED STANDARD` | [`05_hands_on_aws_builder_and_website/README.md`](./05_hands_on_aws_builder_and_website/README.md) | Rikish P (Technical Lead) & Screening Lead | Filters 2,000+ teams down to 250 semi-finalists, then Top 100 elite teams on campus. |
 | **DEC-05** | Student Cash Referral Commissions (Rainmaker Bounty) | `APPROVAL REQUIRED — DO NOT OFFER` | [`01_sponsorship_and_partnerships/README.md`](./01_sponsorship_and_partnerships/README.md) | University Finance Officer | Quarantined. Unapproved financial payout creates tax/legal liabilities. Non-monetary honors only. |
-| **DEC-06** | Fleet Bus Transportation (10 Sathyabama College Bus Routes) | `PROPOSED — IN REVIEW` | [`06_operations_logistics_and_security/transport_and_fleet/README.md`](./06_operations_logistics_and_security/transport_and_fleet/README.md) | Transport Manager & CSO | Pending final route timetable sign-off; fallback to participant arrival via suburban train/metro. |
-| **DEC-07** | High-Density Wi-Fi 6 AP Configuration (18–20 APs) | `TO VERIFY` | [`06_operations_logistics_and_security/venue_floorplans_and_power/README.md`](./06_operations_logistics_and_security/venue_floorplans_and_power/README.md) | Campus IT Directorate & CTO | Physical site survey and RF interference test scheduled for Setup Day (Jan 21). |
+| **DEC-06** | Fleet Bus Transportation (10 Sathyabama College Bus Routes) | `PROPOSED — IN REVIEW` | [`06_operations_logistics_and_security/transport_and_fleet/README.md`](./06_operations_logistics_and_security/transport_and_fleet/README.md) | Transport Manager & Shaik Khaja Mohiddin (Safety Lead) | Pending final route timetable sign-off; fallback to participant arrival via suburban train/metro. |
+| **DEC-07** | High-Density Wi-Fi 6 AP Configuration (18–20 APs) | `TO VERIFY` | [`06_operations_logistics_and_security/venue_floorplans_and_power/README.md`](./06_operations_logistics_and_security/venue_floorplans_and_power/README.md) | Campus IT Directorate & Rikish P (Technical Lead) | Physical site survey and RF interference test scheduled for Setup Day (Jan 21). |
+

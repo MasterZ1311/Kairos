@@ -2,7 +2,7 @@
 
 > **Subfolder:** `teams/06_operations_logistics_and_security/transport_and_fleet/`  
 > **Direct Lead:** **Nangaiyar M** (Community & Events Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
-> **Operations Super Head:** **Viswanathan S** (COO)  
+> **Operations Team Lead:** **Viswanathan S**  
 > **Fleet Manager:** Sathyabama Central Transport Officer  
 > **Executive Signatory:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
 

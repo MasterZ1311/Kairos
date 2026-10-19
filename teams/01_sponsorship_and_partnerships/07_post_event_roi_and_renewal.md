@@ -2,7 +2,7 @@
 
 > **Document Status:** CANONICAL POST-EVENT OPERATING FRAMEWORK  
 > **Audience:** Sponsorship Lead (Nikki), Media Team, Executive Leadership, Signed Corporate Partners  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Current Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 

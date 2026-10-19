@@ -2,7 +2,7 @@
 
 > **Document Status:** CANONICAL TECHNICAL SPECIFICATION  
 > **Audience:** Sponsorship Team, Design Team (Rikish B), Media Team (Caroline Mary McPherson), Sponsor Corporate Marketing  
-> **Direct Accountability:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead), Rikish B (Design Lead)  
+> **Direct Accountability:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead), Rikish B (Design Lead)  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../06_fulfillment_assets_and_proof_of_performance.md`](../06_fulfillment_assets_and_proof_of_performance.md)  
 > **Hard Print Freeze Deadline:** **20 December 2026** (Non-negotiable)
 

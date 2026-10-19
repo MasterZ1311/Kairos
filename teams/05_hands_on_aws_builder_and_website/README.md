@@ -3,7 +3,7 @@
 **Document Reference:** `teams/05_hands_on_aws_builder_and_website/README.md`  
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Sponsoring Department:** School of Computing, Sathyabama Institute of Science and Technology, Chennai – 600119  
-**Super Head Mandate:** Super Head 2 (Chief Technology Officer — CTO Rikish P, Reg: `44110664`)  
+**Technical Team Lead:** **Rikish P** (Technical Team Lead, Reg: `44110664`)  
 **Technical Leads:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`, Phone: `+91 9080809088`) & **Shanmugapriyan S** (Technical Team Lead, Reg: `44111257`, Phone: `+91 7550091864`)  
 **Executive Review:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 **Production URL:** `https://kairos.sathyabama.ac.in`  
@@ -29,7 +29,7 @@ Division 5 is the technological powerhouse of KAIROS 2027. It designs, engineers
 - **What This Team Does NOT Control:**
   - *No Graphic Design Creation:* SVG icons, brand colors, and visual motifs are designed by Division 2 (Design). Builder squad consumes Figma tokens.
   - *No Physical LAN Cabling or Switch Drops:* Venue floor Cat6 Ethernet patching and arena Wi-Fi 6 physical access point mounting are handled by Division 6 (Operations).
-  - *No Commercial Cloud Credit Procurement:* The $50,000+ AWS credit voucher grants are negotiated by CPFO Nikki (Division 1). This squad handles programmatic account allocation.
+  - *No Commercial Cloud Credit Procurement:* The $50,000+ AWS credit voucher grants are negotiated by Nikki (Sponsorship Lead) (Division 1). This squad handles programmatic account allocation.
 
 ---
 
@@ -38,7 +38,7 @@ Division 5 is the technological powerhouse of KAIROS 2027. It designs, engineers
 ```
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Engineering Deliverable / Workstream     | Rikish| Viswa.| Shan. | Cloud | Front | Pres. |
-|                                          | (CTO) | (Lead)| (Tech)| Lead  | Lead  | Then. |
+|                                          | (Tech)| (Lead)| (Eng.)| Lead  | Lead  | Then. |
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Next.js 14 Portal & Route Architecture   |   A   |   R   |   C   |   I   |   R   |   I   |
 | AWS Bedrock Accounts & SCP Budget Guards |   A   |   C   |   R   |   R   |   I   |   C   |

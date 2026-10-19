@@ -1,7 +1,7 @@
 # Signed MoUs, Contracts & Financial Governance Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/signed_mous_and_contracts/`  
-> **Direct Lead & Sponsorship Head:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Direct Lead & Sponsorship Head:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
 > **Institutional Signatory:** Dean, School of Computing & Registrar, Sathyabama Institute of Science and Technology  
 > **Faculty Coordinators:** Dr. K. Ashok Kumar & Dr. Balapriya S (Department of CSE)  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../04_proposal_contracting_and_approval_workflow.md`](../04_proposal_contracting_and_approval_workflow.md)
@@ -29,7 +29,7 @@ This directory serves as the legal and contractual repository for KAIROS 2027. I
 
 ```mermaid
 graph LR
-    A["1. Draft MoU Prepared by CPFO Nikki"] --> B["2. Vetting by Dr. Ashok Kumar & Dr. Balapriya S"]
+    A["1. Draft MoU Prepared by Nikki (Sponsorship Lead)"] --> B["2. Vetting by Dr. Ashok Kumar & Dr. Balapriya S"]
     B --> C["3. Corporate Legal Redline Review"]
     C --> D["4. Clearance by Dean / Accounts Office"]
     D --> E["5. Execution & University Stamp"]

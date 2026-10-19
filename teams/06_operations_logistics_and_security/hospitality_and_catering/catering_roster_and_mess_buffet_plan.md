@@ -1,6 +1,6 @@
 # KAIROS 2027 — Full-Board Catering Roster & Mess Buffet Menus
 
-> **Direct Lead:** Hemavarshine G (Chief Experience & Hospitality Officer, CXO)  
+> **Direct Lead:** **Hemavarshine G** (Hospitality Lead)  
 > **Mess Superintendent:** Sathyabama Central Mess Management  
 
 ---

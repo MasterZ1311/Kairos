@@ -4,7 +4,7 @@
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Sponsoring Department:** School of Computing, Sathyabama Institute of Science and Technology, Chennai – 600119  
 **Direct Lead:** **Harshith Raj S** (Socials & PR Lead)  
-**Media Supervisor:** **Caroline Mary McPherson** (Media Head 1 / CCMO, Reg: `44110124`)  
+**Media Supervisor:** **Caroline Mary McPherson** (Media & PR Team Lead, Reg: `44110124`)  
 **Executive Oversight:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
 **Governing Standard (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-05 (Marketing, Media & Promotion)`  
 **Status:** `APPROVED PLAN`  

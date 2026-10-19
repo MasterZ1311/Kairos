@@ -2,7 +2,7 @@
 
 > **Document Status:** OPERATIONAL FIELD PLAYBOOK  
 > **Audience:** Sponsorship Lead (Nikki), Enterprise Outreach Squad, Chapter Leadership  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Current Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 
@@ -55,7 +55,7 @@ Evaluate every prospect on a 1–4 scale across five criteria (Maximum Score: 20
 | **5. Reachable Decision-Maker** | Generic info@ / contact-us form only; zero direct leads. | Distant corporate contact; no regional Indian presence. | 2nd-degree connection or verified corporate email of functional lead. | Warm alumni introduction or direct direct contact with active decision-maker. |
 
 ### Scoring Guidance:
-- **16–20 Points (Tier 1 Priority):** Immediate personalized outreach by CPFO Nikki; target 15-minute discovery call within 48 hours.
+- **16–20 Points (Tier 1 Priority):** Immediate personalized outreach by Nikki (Sponsorship Lead); target 15-minute discovery call within 48 hours.
 - **12–15 Points (Tier 2 Priority):** Standard personalized outreach via Enterprise Squad; follow up within 4 business days.
 - **< 12 Points (Tier 3 / Archive):** Nurture through automated campaign or defer to in-kind / track partner outreach.
 
@@ -89,7 +89,7 @@ Would you be open to a brief 15-minute introductory call this week to explore ho
 Best regards,
 
 Nikki (Nangaiyar M)
-Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead
+Sponsorship Team Lead
 AWS Student Builder Group — SIST Chapter
 Phone: +91 8754976892 | Email: nangaiyarmuthkrishnan@gmail.com
 Campus: Sathyabama Institute of Science and Technology, Chennai
@@ -116,7 +116,7 @@ I have attached a brief one-page overview for your reference. Could we schedule 
 Warm regards,
 
 Nikki (Nangaiyar M)
-Chief Partnerships & Finance Officer (CPFO)
+Sponsorship Team Lead
 AWS Student Builder Group — SIST Chapter | +91 8754976892
 ```
 
@@ -191,7 +191,7 @@ Wishing you and the [Company Name] team continued success.
 Warm regards,
 
 Nikki (Nangaiyar M)
-Chief Partnerships & Finance Officer (CPFO)
+Sponsorship Team Lead
 AWS Student Builder Group — SIST Chapter
 ```
 

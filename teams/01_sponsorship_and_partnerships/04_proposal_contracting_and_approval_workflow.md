@@ -3,7 +3,7 @@
 > **Document Status:** GOVERNANCE WORKFLOW & LEGAL REVIEW CHECKLIST  
 > **Notice:** `DRAFT — NOT FOR SIGNATURE UNTIL UNIVERSITY REVIEW AND APPROVAL`  
 > **Audience:** Sponsorship Lead, Faculty Coordinators, Legal Counsel, University Accounts Office  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Current Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 
@@ -33,7 +33,7 @@ graph TD
    - Privacy-compliant, opt-in consent model for talent engagement.
    - Zero student-level private payment collection.
 6. **Institutional Payment Routing Caveat:** Direct routing via Sathyabama University official accounts; GST invoice generation handled by University Accounts.
-7. **Authorized Signatory Placeholders:** Pre-cleared sign-off block featuring CPFO Nikki, Chapter President Thenappan T, Faculty Coordinators, and the Dean/Registrar.
+7. **Authorized Signatory Placeholders:** Pre-cleared sign-off block featuring Sponsorship Lead Nikki, Chapter President Thenappan T, Faculty Coordinators, and the Dean/Registrar.
 
 ---
 
@@ -48,17 +48,17 @@ To maintain strict compliance with university administration policies, the follo
 
 | Workflow Step / Activity | Lead Owner (R) | Approval Authority (A) | Consulted (C) | Informed (I) | Required Artifact |
 |---|---|---|---|---|---|
-| **Lead Qualification & Initial Outreach** | Enterprise Outreach Squad | CPFO Nikki | Assigned Mentors | President Thenappan T | CRM Entry |
-| **Discovery Call & Deck Delivery** | CPFO Nikki | CPFO Nikki | Sub-Heads | Faculty Advisors | Meeting Minutes |
-| **Package Customization & Discounts** | CPFO Nikki | President Thenappan T & Faculty | Design / Ops Leads | Organizing Committee | Customization Sheet |
-| **University Letterhead Requisition** | CPFO Nikki | **Dr. K. Ashok Kumar & Dr. Balapriya S** | Dean, School of Computing | Chapter Leadership | Signed Requisition |
-| **Drafting Bilateral MoU Agreement** | CPFO Nikki | **Dr. K. Ashok Kumar (Faculty)** | Institutional Legal Cell | Corporate Counsel | Redline Word Draft |
-| **MoU Legal Terms Clearance** | Corporate Counsel | **Dean / Registrar, SIST** | Faculty Coordinators | CPFO Nikki | Final Vetted PDF |
-| **GST Invoice Generation Request** | Treasury Sub-Head | **Finance Officer / Accounts Office** | Faculty Coordinators | CPFO Nikki | Formal Invoice PDF |
-| **Payment Transfer & Credit Verification** | Corporate Treasury | **University Accounts Office** | Treasury Sub-Head | CPFO Nikki | Bank UTR / Receipt |
+| **Lead Qualification & Initial Outreach** | Enterprise Outreach Squad | Nikki (Sponsorship Lead) | Assigned Mentors | President Thenappan T | CRM Entry |
+| **Discovery Call & Deck Delivery** | Nikki (Sponsorship Lead) | Nikki (Sponsorship Lead) | Sub-Heads | Faculty Advisors | Meeting Minutes |
+| **Package Customization & Discounts** | Nikki (Sponsorship Lead) | President Thenappan T & Faculty | Design / Ops Leads | Organizing Committee | Customization Sheet |
+| **University Letterhead Requisition** | Nikki (Sponsorship Lead) | **Dr. K. Ashok Kumar & Dr. Balapriya S** | Dean, School of Computing | Chapter Leadership | Signed Requisition |
+| **Drafting Bilateral MoU Agreement** | Nikki (Sponsorship Lead) | **Dr. K. Ashok Kumar (Faculty)** | Institutional Legal Cell | Corporate Counsel | Redline Word Draft |
+| **MoU Legal Terms Clearance** | Corporate Counsel | **Dean / Registrar, SIST** | Faculty Coordinators | Nikki (Sponsorship Lead) | Final Vetted PDF |
+| **GST Invoice Generation Request** | Treasury Sub-Head | **Finance Officer / Accounts Office** | Faculty Coordinators | Nikki (Sponsorship Lead) | Formal Invoice PDF |
+| **Payment Transfer & Credit Verification** | Corporate Treasury | **University Accounts Office** | Treasury Sub-Head | Nikki (Sponsorship Lead) | Bank UTR / Receipt |
 | **MoU Formal Countersignature** | Corporate Signatory | **Dean / Registrar, SIST** | Faculty Coordinators | Chapter Leadership | Executed Signed MoU |
-| **Deliverable Ingestion & Staging** | Design & Media Leads | CPFO Nikki | Operations Head | Sponsor Lead | Ingestion Checksheet |
-| **Proof of Performance (PoP) Delivery** | CPFO Nikki & Media Lead | CPFO Nikki | Faculty Advisors | Corporate Partner | 10-Slide ROI Dossier |
+| **Deliverable Ingestion & Staging** | Design & Media Leads | Nikki (Sponsorship Lead) | Operations Head | Sponsor Lead | Ingestion Checksheet |
+| **Proof of Performance (PoP) Delivery** | Nikki (Sponsorship Lead) & Media Lead | Nikki (Sponsorship Lead) | Faculty Advisors | Corporate Partner | 10-Slide ROI Dossier |
 
 ---
 
@@ -107,7 +107,7 @@ graph TD
    Account Number: [Shared formally on Official University Tax Invoice]
    IFSC Code: [Shared formally on Official University Tax Invoice]
    ```
-3. **Formal Invoice Generation:** When a deal reaches `STAGE 5: LEGAL & MOU`, CPFO Nikki files an Institutional Invoice Requisition with Faculty Coordinators Dr. K. Ashok Kumar and Dr. Balapriya S. The requisition must include:
+3. **Formal Invoice Generation:** When a deal reaches `STAGE 5: LEGAL & MOU`, Nikki (Sponsorship Lead) files an Institutional Invoice Requisition with Faculty Coordinators Dr. K. Ashok Kumar and Dr. Balapriya S. The requisition must include:
    - Corporate legal entity name, billing address, and GSTIN.
    - Agreed package tier and net consideration amount.
    - Authorized corporate procurement contact.

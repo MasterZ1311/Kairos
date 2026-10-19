@@ -128,7 +128,7 @@
 ---
 
 ### Slide 14: Corporate Partnerships & Executive Leadership
-- **Nikki (Nangaiyar M)**, Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead (Reg: `44612059`)  
+- **Nikki (Nangaiyar M)**, Sponsorship Team Lead (Reg: `44612059`)  
   Phone: `+91 8754976892` | Email: `nangaiyarmuthkrishnan@gmail.com`  
 - **Thenappan T**, President & Student Builder Group Leader (Reg: `44110855`)  
   Phone: `+91 6381801640` | Email: `thenappanmasterz1311@gmail.com`  

@@ -143,7 +143,7 @@ def build_master_binder():
         ["Slide 11", "Past Track Record & Testimonials", "Confirmed JetBrains (500 licenses), Red Bull, AWS", "Builds social proof through already confirmed corporate champions"],
         ["Slide 12", "Rainmaker Referral Flywheel", "Decentralized ambassador network across 20+ states", "Shows organic student advocacy and viral community reach"],
         ["Slide 13", "Governance, Escrow & Compliance", "Indian Bank SIST Branch details, GST invoice process", "Reassures procurement that accounting and audits are seamless"],
-        ["Slide 14", "Executive Call to Action", "Next steps, MoU signing target, CPFO Nikki contact info", "Creates immediate urgency to lock deliverables before print freeze"]
+        ["Slide 14", "Executive Call to Action", "Next steps, MoU signing target, Nikki (Sponsorship Lead) contact info", "Creates immediate urgency to lock deliverables before print freeze"]
     ]
     add_styled_table(doc, deck_headers, deck_data)
 
@@ -258,7 +258,7 @@ def build_master_binder():
     add_h2(doc, "8.3 Executive Contact Directory")
     contact_app_data = [
         ["Executive Role", "Officer Name", "Register No", "Contact Information"],
-        ["Super Head 1: CPFO & Sponsorship Lead", "Nikki (Nangaiyar M)", "44612059", "Phone: +91 8754976892\nEmail: nangaiyarmuthkrishnan@gmail.com"],
+        ["Sponsorship Team Lead", "Nikki (Nangaiyar M)", "44612059", "Phone: +91 8754976892\nEmail: nangaiyarmuthkrishnan@gmail.com"],
         ["President & SBGL (Apex Chapter)", "Thenappan T", "44110855", "Phone: +91 6381801640\nEmail: thenappanmasterz1311@gmail.com"],
         ["Faculty Coordinator", "Dr. K. Ashok Kumar", "Faculty CSE", "Email: ashokkumar.cse@sathyabama.ac.in"],
         ["Faculty Coordinator", "Dr. Balapriya .S", "Faculty CSE", "Email: balapriya.cse@sathyabama.ac.in"],

@@ -1,7 +1,7 @@
 # Safety, Medical Emergency & Night Lock-In Specification
 
 > **Subfolder:** `teams/06_operations_logistics_and_security/safety_medical_and_night_lockin/`  
-> **Direct Lead:** **Chief Safety Officer (CSO)**  
+> **Direct Lead:** **Shaik Khaja Mohiddin** (Safety & Governance Lead)  
 > **Operations Lead:** **Nangaiyar M** (Community & Events Lead, Reg: `44612059`)  
 > **Executive Oversight:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 > **Medical Authority:** Sathyabama General Hospital (On-Campus Emergency & Trauma Center) & Apollo Specialty Hospital OMR  
@@ -43,6 +43,6 @@ To ensure 100% safety for all national participants, especially female students 
 | **Night Shift Security Commander** | Campus Chief Security Officer | Security Control Room | Directs gate locks, arena perimeter & patrol guards |
 | **Female Participant Safety Warden** | Dr. Balapriya .S & Lady Wardens | Green Room 1 Sanctuary Desk | Manages female rest sanctuary, health & escorts |
 | **Medical Triage Officer** | Resident Campus Doctor | Stadium Foyer Clinic Desk | Triage, first-aid, on-campus hospital dispatch |
-| **Incident Logger & Police Liaison** | Hemavarshine S & CSO | Documentation NOC Desk | Logs any incident within 15 minutes of occurrence |
+| **Incident Logger & Police Liaison** | Hemavarshine S & Shaik Khaja Mohiddin | Documentation NOC Desk | Logs any incident within 15 minutes of occurrence |
 | **Apex Crisis Authority** | Thenappan T | `+91 6381801640` | Final executive call on hospital transfer & escalation |
 

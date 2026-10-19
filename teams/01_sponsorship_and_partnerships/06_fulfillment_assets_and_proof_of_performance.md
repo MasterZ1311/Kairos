@@ -2,7 +2,7 @@
 
 > **Document Status:** CANONICAL FULFILLMENT & DELIVERABLE OPERATING MANUAL  
 > **Audience:** Sponsorship Lead (Nikki), Design Lead (Rikish), Media Head (Caroline), Operations Team  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Collaborators:** Rikish B (Design Lead), Caroline Mary McPherson (Media Head 1)  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Current Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
@@ -58,7 +58,7 @@ PRODUCTION ASSET STANDARDS AT A GLANCE:
 |---|---|---|:---:|---|
 | **Corporate Logos** | 1. Primary Full-Color Vector.<br/>2. Monochrome Inverted White (for `#0D1117` Obsidian surfaces).<br/>3. Square 1:1 App Monogram (for badges & web).<br/>*Strictly NO low-res raster or JPEGs with white square boxes.* | `.svg`, `.ai`, `.eps`, or 300 DPI transparent `.png` (min 2500×2500 px) | Due by **20 Dec 2026** (Print Freeze) | **Rikish B** (Design Lead) |
 | **Live Stream Video Commercials** | 1920 × 1080 px (1080p) at 60.00 fps. Audio normalized to broadcast standard **`-14 LUFS`**. Duration: Exactly 15.0s (Co-Powered) or 30.0s (Title). | `.mp4` container, `H.264 / AVC` video codec, `AAC 320 kbps` audio | Due by **10 Jan 2027** (Broadcast Cue) | **Caroline Mary McPherson** (Media Head) |
-| **Executive Speaker Profile** | High-resolution professional headshot (min 1500×1500 px), executive biography (150 words max), LinkedIn handle, and slide deck title. | Headshot: `.jpg` / `.png`<br/>Bio: Markdown / Text | Due by **05 Jan 2027** (Brochure Print) | **Nikki (CPFO)** & Media Squad |
+| **Executive Speaker Profile** | High-resolution professional headshot (min 1500×1500 px), executive biography (150 words max), LinkedIn handle, and slide deck title. | Headshot: `.jpg` / `.png`<br/>Bio: Markdown / Text | Due by **05 Jan 2027** (Brochure Print) | **Nikki (Sponsorship Lead)** & Media Squad |
 | **Keynote Slide Deck** | 16:9 widescreen format. Formatted for high-contrast auditorium projection. Embedded videos must be packaged locally. | `.pdf` (vector compressed) or `.pptx` | Due by **18 Jan 2027** (AV Rehearsal) | Stage AV Coordinator |
 | **Physical Exhibition Stall Collateral** | Stall dimensions: 10×10 ft (Title) or 6×6 ft (Co-Powered). Rollup banners: 6×3 ft vertical standees (300 DPI CMYK). | Print-ready `.pdf` or `.tiff` with 2-inch bleed margins | Due by **25 Dec 2026** (Fabrication) | Logistics & Venue Floor Head |
 | **Technical Track Problem Statement** | Challenge Title, Background, Evaluation Rubric, Approved API/SDK Links, Developer Sandbox Credentials, and Jury Contact. | Standardized Markdown or PDF | Due by **28 Dec 2026** (Pre-Qualifier) | Track Partnerships Sub-Head |

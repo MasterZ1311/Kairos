@@ -114,7 +114,7 @@ Sathyabama Institute of Science and Technology, Chennai
 
 ________________________________________  
 **Nikki (Nangaiyar M)** (Register No: `44612059`)  
-Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead  
+Sponsorship Team Lead  
 Phone: `+91 8754976892` | Email: `nangaiyarmuthkrishnan@gmail.com`  
 
 <br/>

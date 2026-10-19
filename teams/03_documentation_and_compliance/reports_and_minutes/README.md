@@ -34,6 +34,6 @@ This directory functions as the official archival memory of the organizing commi
 Every executive meeting must be documented using the template in `executive_sprint_mom_and_report_template.md`. The document must strictly capture:
 - **Meeting Metadata:** Date, Time, Duration, Location/Platform, Presiding Officer.
 - **Attendance Ledger:** Present, Absent with Apology, Unexcused Absences.
-- **Domain Status Updates:** CPFO (Finance/Sponsors), CTO (Tech/Web), COO (Venue/Buses), CXO (Food/Care), CCMO (Media/Design), CSO (Security/Jury).
+- **Domain Status Updates:** Sponsorship & Partnerships, Technical & Web, Operations & Logistics, Hospitality & Experience, Media & Design, Safety & Governance.
 - **Executive Decisions Taken:** Clear binary votes or executive decrees.
 - **Action Item Table:** Specific task, Single DRI (Directly Responsible Individual), and Hard Due Date.

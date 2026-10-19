@@ -2,7 +2,7 @@
 
 > **Document Status:** CANONICAL SOURCE OF TRUTH (LOCKED & CONTROLLED)  
 > **Audience:** Sponsorship Team, Event Leadership, Faculty Advisors, Institutional Reviewers  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO) & Sponsorship Lead  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Approved By:** Pending Final Institutional Ratification  
 > **Current Working Date:** 17 October 2026  
 > **Target Event Dates:** 22–24 January 2027 (Grand Finale) | 02–04 January 2027 (Online Qualifier)  
@@ -75,7 +75,7 @@ The following operational decisions are currently unresolved or pending institut
 | Ref # | Decision Topic | Why It Matters | Recommended Default | Approver | Deadline | Status |
 |:---:|---|---|---|---|:---:|:---:|
 | **DEC-01** | **Tier Pricing & Capital Arithmetic** | Sum of individual tier targets (₹2L Title + ₹1L Co-Powered + ₹1.25L Tracks + ₹50k Grant = ₹4.75L) exceeds ₹3.5L–₹4.0L base budget. | Adopt the **Calibrated Base Scenario** (₹3.75L cash target: 1 Title @ ₹1.5L–₹2.0L OR 2 Co-Powered @ ₹1.0L + 3–4 Tracks @ ₹25k + ₹50k University Grant). Treat additional inflows as scale contingency. | Nikki & Thenappan T | 25 Oct 2026 | `[APPROVAL REQUIRED]` |
-| **DEC-02** | **Co-Powered By Slot Limit** | Previous documents alternately cite 1 slot or 1–2 slots, creating potential exclusivity conflicts. | Cap at **maximum 2 non-competing slots** (e.g., 1 Cloud/Infrastructure + 1 Enterprise SaaS/FinTech). No direct industry competitors. | Nikki (CPFO) | 22 Oct 2026 | `[APPROVAL REQUIRED]` |
+| **DEC-02** | **Co-Powered By Slot Limit** | Previous documents alternately cite 1 slot or 1–2 slots, creating potential exclusivity conflicts. | Cap at **maximum 2 non-competing slots** (e.g., 1 Cloud/Infrastructure + 1 Enterprise SaaS/FinTech). No direct industry competitors. | Nikki (Sponsorship Lead) | 22 Oct 2026 | `[APPROVAL REQUIRED]` |
 | **DEC-03** | **Rainmaker Referral Bounty Policy** | Prior README described an unapproved 10%–15% cash commission model for students sourcing sponsors. This carries legal, tax, and university code-of-conduct risks. | **Quarantine immediately.** Do not offer cash commissions to students. Replace with official recognition (Letters of Commendation, VIP Passes, Stage Awards, Swag Kits) pending formal written approval from University Finance. | Registrar / Finance Officer | 30 Oct 2026 | `[APPROVAL REQUIRED — DO NOT OFFER]` |
 | **DEC-04** | **Student Data & Resume Access** | Blanket promises of "unrestricted access to 2,000+ student resumes and GitHubs" violate privacy norms and university policy. | Transition to a **Consent-Based Opt-In Talent Book**. Only participants who explicitly opt in during registration/qualifier share contact and resume data with specific tier sponsors. | Faculty Advisors & Dean | 25 Oct 2026 | `[APPROVAL REQUIRED]` |
 | **DEC-05** | **Institutional Invoice & Bank Routing** | Corporates require GST-compliant invoices and specific beneficiary name verification before disbursing funds. | Mandate that all funds route via official Sathyabama University Accounts Office. Provide bank placeholders in draft MoUs until University Accounts Office issues formal payment requisition. | Accounts Officer, SIST | 28 Oct 2026 | `[APPROVAL REQUIRED]` |
@@ -108,15 +108,15 @@ graph TD
     A["Proposed Change to Tier, Price, Deliverable, or Fact"] --> B{"Is it a working typo or layout edit?"}
     B -- Yes --> C["Update file directly & maintain version tag"]
     B -- No --> D{"Affects Pricing, Deliverables, or Capacity?"}
-    D -- Yes --> E["Draft Amendment & Submit to CPFO Nikki"]
+    D -- Yes --> E["Draft Amendment & Submit to Nikki (Sponsorship Lead)"]
     E --> F{"Affects Legal, Finance, Bank, or University Claims?"}
-    F -- No --> G["Approval by Nikki Nangaiyar M (CPFO)"]
+    F -- No --> G["Approval by Nikki Nangaiyar M (Sponsorship Lead)"]
     F -- Yes --> H["Review by Faculty Advisors (Dr. Ashok Kumar / Dr. Balapriya S)"]
     H --> I["Formal Clearance by Dean / Accounts Office"]
     I --> J["Update 00_sponsorship_source_of_truth.md & Re-index"]
     G --> J
 ```
 
-1. **Tier Price or Benefit Modification:** Requires written concurrence of CPFO Nikki and President Thenappan T.
+1. **Tier Price or Benefit Modification:** Requires written concurrence of Nikki (Sponsorship Lead) and President Thenappan T.
 2. **Legal Terms & Institutional Commitments:** Requires review by Faculty Coordinators and clearance from Dean / University Legal Officer.
 3. **Financial Escrow & Invoicing Procedures:** Requires direct confirmation from Sathyabama Institute Accounts Office.

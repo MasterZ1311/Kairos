@@ -1,7 +1,7 @@
 # Sponsor Deliverables & Brand Assets Specification
 
 > **Subfolder:** `teams/01_sponsorship_and_partnerships/sponsor_deliverables_and_assets/`  
-> **Direct Lead:** **Nikki (Nangaiyar M)** (CPFO & Sponsorship Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
+> **Direct Lead:** **Nikki (Nangaiyar M)** (Sponsorship Team Lead, Reg: `44612059`, Phone: `+91 8754976892`)  
 > **Collaborating Leads:** Rikish B (Design Lead, Reg: `44110664`) & Caroline Mary McPherson (Media Head 1, Reg: `44110124`)  
 > **Source of Truth:** [`../00_sponsorship_source_of_truth.md`](../00_sponsorship_source_of_truth.md) · [`../06_fulfillment_assets_and_proof_of_performance.md`](../06_fulfillment_assets_and_proof_of_performance.md)  
 > **Hard Print Freeze Deadline:** **20 December 2026**
@@ -22,7 +22,7 @@ This directory manages the intake, technical validation, secure storage, and cro
 
 ```mermaid
 graph LR
-    A["Asset Received by CPFO Nikki"] --> B["Design QA by Rikish B (Logos/Banners)"]
+    A["Asset Received by Nikki (Sponsorship Lead)"] --> B["Design QA by Rikish B (Logos/Banners)"]
     A --> C["Media QA by Caroline (Video/Audio)"]
     B --> D["Pre-Press Proofing"]
     C --> E["OBS Broadcast Cueing"]

@@ -2,7 +2,7 @@
 
 > **Document Status:** CANONICAL FINANCIAL CONTROLS & PIPELINE CADENCE  
 > **Audience:** Sponsorship Lead (Nikki), Treasury Sub-Head, Chapter President, Faculty Coordinators  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Current Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
 
@@ -70,7 +70,7 @@ graph LR
 | Time Window | Agenda Item | Discussion Owner | Expected Deliverable / Outcome |
 |---|---|---|---|
 | **00:00 – 00:10** | **Top of Funnel & Ingestion** | Outreach Sub-Head | Count of new qualified leads researched, outreach dispatched, and initial responses received. |
-| **00:10 – 00:20** | **Discovery Calls & Proposals** | CPFO Nikki | Review of meetings held, corporate feedback, custom proposal decks sent, and open questions. |
+| **00:10 – 00:20** | **Discovery Calls & Proposals** | Nikki (Sponsorship Lead) | Review of meetings held, corporate feedback, custom proposal decks sent, and open questions. |
 | **00:20 – 00:30** | **Legal & Institutional Review** | Treasury Sub-Head & Faculty | Review of MoUs under legal review, invoice requests filed with Accounts, and signed contracts. |
 | **00:30 – 00:40** | **Bank Reconciliation & Cash Inflow** | Treasury Sub-Head | Stamped university receipts, verified NEFT/RTGS transaction credits, and cash ledger update. |
 | **00:40 – 00:45** | **Action Assignments & Escalations** | President Thenappan T | Clear 7-day task commitments assigned with explicit deadlines for the upcoming week. |
@@ -79,13 +79,13 @@ graph LR
 
 ## 3. Weekly Executive Council Report Template
 
-Following each Friday pipeline review, CPFO Nikki compiles and transmits this compact executive dashboard to President Thenappan T, Chapter Faculty Coordinators, and the Dean's Office by **Sunday at 08:00 PM**:
+Following each Friday pipeline review, Nikki (Sponsorship Lead) compiles and transmits this compact executive dashboard to President Thenappan T, Chapter Faculty Coordinators, and the Dean's Office by **Sunday at 08:00 PM**:
 
 ```text
 ================================================================================
 KAIROS 2027 — SPONSORSHIP PIPELINE EXECUTIVE REPORT
 Report Week: [Week Ending Date, e.g., 24 Oct 2026]
-Lead Officer: Nikki (Nangaiyar M), CPFO & Sponsorship Head
+Lead Officer: Nikki (Nangaiyar M), Sponsorship Team Lead
 ================================================================================
 
 1. EXECUTIVE PIPELINE SNAPSHOT:
@@ -113,7 +113,7 @@ Lead Officer: Nikki (Nangaiyar M), CPFO & Sponsorship Head
    • Lead: [Company Name] | Stage: [Stage] | Blocker: [e.g., Awaiting GST Invoice from Accounts]
      Required Intervention: [Action by Faculty Coordinator / Dean]
    • Lead: [Company Name] | Stage: [Stage] | Blocker: [e.g., Procurement cycle delayed]
-     Required Intervention: [Follow-up by CPFO Nikki]
+     Required Intervention: [Follow-up by Nikki (Sponsorship Lead)]
 
 5. OUTSTANDING DECISIONS REQUIRING INSTITUTIONAL SIGN-OFF:
    • [Decision ID from 00_sponsorship_source_of_truth.md, e.g., DEC-05 Bank routing]

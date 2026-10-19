@@ -4,7 +4,7 @@
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Sponsoring Department:** School of Computing, Sathyabama Institute of Science and Technology, Chennai – 600119  
 **Direct Lead:** **Rikish B** (Design Lead, Reg: `44110664`, Phone: `+91 9597430250`, Email: `rikish2006@gmail.com`)  
-**Collaborating Lead:** **Caroline Mary McPherson** (Media Head 1 / CCMO, Reg: `44110124`, Phone: `+91 8838990182`)  
+**Collaborating Lead:** **Caroline Mary McPherson** (Media & PR Team Lead, Reg: `44110124`, Phone: `+91 8838990182`)  
 **Supervising Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 **Master Brand Book Reference:** `DOC-04 (Design & Branding Guidelines)`  
 **Governing Standards (Executive Planning Framework):** `DOC-00 (Master Brief)` · `DOC-06 (Tracks & Tech Architecture)` · `DOC-20 (Indoor Stadium Transition Plan)`  
@@ -33,7 +33,7 @@ Division 2 establishes and guards the master visual identity of KAIROS 2027. Und
   - *No Code Implementation:* Web frontend deployment and React/Next.js components are coded by Division 5 (Hands-On Builder & Website).
   - *No Physical Stage Rigging:* Physical truss mounting, banner zip-tying, and LED wall cable runs are executed by Division 6 (Operations).
   - *No Copywriting or Social Publishing:* Post captions, hashtag strategies, and live posting schedules are executed by Division 4 (Media & PR).
-  - *No Financial Vendor Contracting:* Vendor price negotiations, purchase orders, and invoice clearance route strictly through CPFO Nikki and University Accounts.
+  - *No Financial Vendor Contracting:* Vendor price negotiations, purchase orders, and invoice clearance route strictly through Nikki (Sponsorship Lead) and University Accounts.
 
 ---
 
@@ -42,7 +42,7 @@ Division 2 establishes and guards the master visual identity of KAIROS 2027. Und
 ```
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Creative Deliverable / Workstream        | Rikish| Carol.| Social| Print | Merch | Pres. |
-|                                          | (Lead)| (CCMO)| Desgn | Lead  | Lead  | Then. |
+|                                          | (Lead)| (Media)| Desgn | Lead  | Lead  | Then. |
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Master Brand Guidelines & Vector Vault   |   A   |   C   |   R   |   I   |   I   |   C   |
 | 50×10ft Stage Backdrop & LED Video Wall  |   A   |   C   |   I   |   R   |   I   |   C   |
@@ -73,7 +73,7 @@ graph LR
 1. **Brief Intake:** Initiating squad submits dimensions, required copy, sponsor tier logos, and delivery deadline using Template 3.
 2. **Design Queue:** Design Lead Rikish B logs asset into the Figma workspace and assigns a designated squad designer.
 3. **Internal Review (Round 1):** Review against Obsidian-Violet color tokens, typography hierarchy, and safe margins.
-4. **Stakeholder Sign-Off (Round 2):** Division Super Head and relevant functional lead approve visual proof.
+4. **Stakeholder Sign-Off (Round 2):** Team Lead and relevant functional lead approve visual proof.
 5. **Pre-Press Proofing:** Export in CMYK (U.S. Web Coated SWOP v2 or Fogra39), 300 DPI, vector curves converted to outlines, 3mm bleed added.
 6. **Physical Inspection & Handoff:** Physical sample proof verified for color drift; handed off to Operations for installation.
 

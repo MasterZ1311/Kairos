@@ -65,6 +65,6 @@ Support Pole: 3-Stage Telescopic Shock-Corded Pole
 |---|---|:---:|:---:|
 | **Copywriting for all 16 standees** | Documentation Sub-Head & Hemavarshine S | Oct 15, 2026 | Drafted |
 | **Figma Graphic Layouts (1:1 scale)** | Rikish B (Design Lead) | Nov 01, 2026 | In Progress |
-| **Sponsor Logo & Clearance Review** | CPFO | Nov 05, 2026 | Pending Sign-Off |
+| **Sponsor Logo & Clearance Review** | Nikki (Sponsorship Lead) | Nov 05, 2026 | Pending Sign-Off |
 | **Vendor Proof Inspection & Printing** | Rikish B & Nangaiyar M | Jan 10, 2027 | Queued |
 | **Physical Erection & Floor Positioning** | Logistics Operations Squad | Jan 21, 2027 (18:00) | Day-1 Protocol |

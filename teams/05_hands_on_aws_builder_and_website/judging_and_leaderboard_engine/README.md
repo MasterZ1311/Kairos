@@ -3,7 +3,7 @@
 > **Subfolder:** `teams/05_hands_on_aws_builder_and_website/judging_and_leaderboard_engine/`  
 > **Direct Lead:** **Viswanathan Ashok** (Hands-On Builder Lead, Reg: `44110907`)  
 > **Mathematical Architect:** **Shanmugapriyan S** (Technical Lead, Reg: `44111257`)  
-> **Jury Governance Lead:** **Chief Safety & Jury Officer (CSO)**  
+> **Jury Governance Lead:** **Shaik Khaja Mohiddin** (Safety & Governance Lead)  
 > **Executive Oversight:** **Thenappan T** (President & SBGL, Reg: `44110855`)  
 
 ---

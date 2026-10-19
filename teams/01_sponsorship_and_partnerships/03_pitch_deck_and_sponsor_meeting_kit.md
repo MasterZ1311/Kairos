@@ -2,7 +2,7 @@
 
 > **Document Status:** CANONICAL SPECIFICATION & MEETING OPERATING KIT  
 > **Audience:** Sponsorship Pitchers, Executive Presenters (Nikki / Thenappan), Corporate Decision-Makers  
-> **Direct Owner:** Nikki (Nangaiyar M), Chief Partnerships & Finance Officer (CPFO)  
+> **Direct Owner:** Nikki (Nangaiyar M), Sponsorship Team Lead  
 > **Design Collaborator:** Rikish B (Design Lead)  
 > **Source of Truth:** [`00_sponsorship_source_of_truth.md`](./00_sponsorship_source_of_truth.md)  
 > **Current Working Date:** 17 October 2026 | **Event Working Dates:** 22–24 January 2027
@@ -183,9 +183,9 @@ SLIDE RUN ORDER AT A GLANCE:
 - **Headline:** `Corporate Partnerships & Leadership Desk`
 - **One Key Message:** Dedicated executive contacts ready to support proposal customization and technical integration.
 - **Evidence / Verification:** Verified names and official institutional contact channels.
-- **Visual Concept:** Professional executive contact cards featuring CPFO Nikki, President Thenappan T, and Faculty Coordinators.
+- **Visual Concept:** Professional executive contact cards featuring Sponsorship Lead Nikki, President Thenappan T, and Faculty Coordinators.
 - **Contact Details Displayed:**
-  - **Nikki (Nangaiyar M)**, CPFO & Sponsorship Lead: `+91 8754976892` | `nangaiyarmuthkrishnan@gmail.com`
+  - **Nikki (Nangaiyar M)**, Sponsorship Team Lead: `+91 8754976892` | `nangaiyarmuthkrishnan@gmail.com`
   - **Thenappan T**, President & SBGL: `+91 6381801640` | `thenappanmasterz1311@gmail.com`
   - **Dr. K. Ashok Kumar & Dr. Balapriya S**, Faculty Coordinators: Dept of CSE, SIST
   - **Institutional Portal:** `https://kairos.sistawscc.org` [VERIFY BEFORE USE]
@@ -233,7 +233,7 @@ Dates: January 22–24, 2027 (48H Non-Stop) | Venue: Sathyabama Indoor Stadium, 
    • Privacy Standard: Participant contact sharing operates strictly via verified opt-in consent books.
 
 5. CONTACT PARTNERSHIP DESK:
-   • CPFO & Lead: Nikki (Nangaiyar M) | +91 8754976892 | nangaiyarmuthkrishnan@gmail.com
+   • Sponsorship Lead: Nikki (Nangaiyar M) | +91 8754976892 | nangaiyarmuthkrishnan@gmail.com
    • Chapter President: Thenappan T | +91 6381801640 | thenappanmasterz1311@gmail.com
 ================================================================================
 ```

@@ -3,7 +3,7 @@
 **Document Reference:** `teams/03_documentation_and_compliance/README.md`  
 **Host Entity:** AWS Student Builder Group (AWS SBG) — SIST Chapter  
 **Sponsoring Department:** School of Computing, Sathyabama Institute of Science and Technology, Chennai – 600119  
-**Super Head Mandate:** Super Head 6 (Chief Safety, Governance & Jury Officer — CSO Shaik Khaja Mohiddin, Reg: `44110756`)  
+**Team Lead:** **Shaik Khaja Mohiddin** (Safety & Governance Lead, Reg: `44110756`)  
 **Direct Leads:** **Hemavarshine S** (Documentation Lead, Reg: `44110263`, Phone: `+91 9345691593`) & **Nangaiyar M** (Operations Liaison, Reg: `44612059`)  
 **Apex Executive Authority:** **Thenappan T** (President & SBGL, Reg: `44110855`, Phone: `+91 6381801640`)  
 **Faculty Signatories:** **Dr. K. Ashok Kumar** & **Dr. Balapriya .S** (Dept. of CSE, SIST)  
@@ -28,7 +28,7 @@ Division 3 safeguards the institutional legality, safety compliance, academic sa
 ### 1.3 Operational Boundaries (Scope of Control)
 - **What This Team Controls:** Drafting and tracking all 7 official university sanction letters, student terms of participation, IP protection agreements, DPDP consent forms, weekly MoMs, and the 7-day post-event institutional dossier.
 - **What This Team Does NOT Control:**
-  - *No Financial Authority:* Budget approvals, invoice authorizations, and cash prize disbursements are controlled strictly by CPFO Nikki and University Finance.
+  - *No Financial Authority:* Budget approvals, invoice authorizations, and cash prize disbursements are controlled strictly by Nikki (Sponsorship Lead) and University Finance.
   - *No On-Ground Physical Operations:* Arena floor management, bus fleet scheduling, and mess buffet setups are executed by Division 6 (Operations).
   - *No Technical Scoring / Judging:* Hacker evaluation algorithms and Z-score normalization are owned by Division 5 (Builder Squad).
 
@@ -38,8 +38,8 @@ Division 3 safeguards the institutional legality, safety compliance, academic sa
 
 ```
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
-| Governance & Compliance Deliverable      | CSO   | Hema  | Nang. | Pres. | Fac.  | Dean/ |
-|                                          | Shaik | (Lead)| (Ops) | Then. | Coord | Reg.  |
+| Governance & Compliance Deliverable      | Shaik | Hema  | Nang. | Pres. | Fac.  | Dean/ |
+|                                          |(Safety)|(Docum)| (Ops) | Then. | Coord | Reg.  |
 +------------------------------------------+-------+-------+-------+-------+-------+-------+
 | Letters 01-03: Venue, Power, 48H Night   |   A   |   R   |   R   |   C   |   C   |   A   |
 | Letters 04-06: Fleet Bus & EV Transit    |   A   |   R   |   R   |   I   |   C   |   A   |
@@ -96,7 +96,7 @@ Example: `SIST/CSE/AWS-SBG/2026-27/EXT/001-REV` (Venue Requisition for Sathyabam
 5. **Phase 5: Institutional Retrospective (T+1 to T+14 Days):** Compile post-event documentation compendium and financial utilization submission to Registrar.
 
 ### 6.2 Operating Cadence
-- **Weekly MoM Dispatch:** Distributed to all Super Heads and Faculty Advisors within 24 hours of every Sunday sprint meeting.
+- **Weekly MoM Dispatch:** Distributed to all Team Leads and Faculty Advisors within 24 hours of every Sunday sprint meeting.
 - **Physical Document Custody:** Hardcopy letters kept in the CSE Department Office under lock; digital scans uploaded within 4 hours of receipt.
 
 ---

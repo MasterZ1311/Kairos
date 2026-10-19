@@ -102,7 +102,7 @@ def build_doc3():
     # Section: Next Steps & Coordination
     add_h2(doc, "Next Steps & Discussion")
     add_body(doc, "We would welcome the opportunity to tailor a bespoke corporate engagement package aligned with your brand's marketing, recruitment, or CSR vision. We look forward to scheduling a brief 10-minute discovery call with your leadership team this week.")
-    add_body(doc, "For immediate coordination, please feel free to reach out to our Chief Partnerships & Finance Officer, Nikki (Nangaiyar M) at +91 8754976892 or via email at nangaiyarmuthkrishnan@gmail.com / sistawscc@gmail.com.")
+    add_body(doc, "For immediate coordination, please feel free to reach out to our Sponsorship Team Lead, Nikki (Nangaiyar M) at +91 8754976892 or via email at nangaiyarmuthkrishnan@gmail.com / sistawscc@gmail.com.")
 
     # Section: Signatures Block
     add_h2(doc, "Institutional Endorsement & Execution Signatories")
@@ -112,7 +112,7 @@ def build_doc3():
         [
             "______________________________________\n"
             "Nikki (Nangaiyar M)\n"
-            "Chief Partnerships & Finance Officer (CPFO)\n"
+            "Sponsorship Team Lead\n"
             "AWS Student Builder Group — SIST Chapter\n"
             "Register No: 44612059 | Phone: +91 8754976892\n"
             "Email: nangaiyarmuthkrishnan@gmail.com\n\n"

@@ -23,24 +23,25 @@
 | Domain / Role | Officer Name | Status (Present / Absent) |
 |---|---|:---:|
 | Apex Executive | Thenappan T (President) | [ ] |
-| Super Head 1 (CPFO) | Partnerships & Finance Head | [ ] |
-| Super Head 2 (CTO) | Viswanathan Ashok / Shanmugapriyan S | [ ] |
-| Super Head 3 (COO) | Nangaiyar M (Logistics Lead) | [ ] |
-| Super Head 4 (CXO) | Experience & Hospitality Head | [ ] |
-| Super Head 5 (CCMO) | Caroline McPherson / Harshith Raj S | [ ] |
-| Super Head 6 (CSO) | Security & Jury Head | [ ] |
-| Design Lead | Rikish B | [ ] |
+| Sponsorship Team Lead | Nikki (Nangaiyar M) | [ ] |
+| Technical Team Lead | Rikish P / Viswanathan Ashok | [ ] |
+| Operations Team Lead | Viswanathan S / Nangaiyar M | [ ] |
+| Hospitality Lead | Hemavarshine G | [ ] |
+| Media & PR Team Lead | Caroline Mary McPherson / Harshith Raj S | [ ] |
+| Safety & Governance Lead | Shaik Khaja Mohiddin | [ ] |
+| Design Team Lead | Rikish B | [ ] |
+| Documentation Lead | Hemavarshine S | [ ] |
 | Faculty Advisor | Dr. K. Ashok Kumar / Dr. Balapriya .S | [ ] |
 
 ---
 
 ### 1. DOMAIN STATUS REPORTS & KEY PROGRESS
-- **Partnerships (CPFO):** [Capital pipeline status, closed sponsors, funds deposited]
-- **Technology & Web (CTO):** [Website deployment, Bedrock sandbox, scoring system status]
-- **Operations & Venue (COO):** [Sathyabama Indoor Stadium clearances, bus routes, EV buggy requisition]
-- **Hospitality (CXO):** [Buffet caterer menu lock, midnight snack procurement]
-- **Creative & Media (CCMO):** [Banner prints, standee vector proofs, Instagram analytics]
-- **Safety & Jury (CSO):** [Jury confirmations, police intimation dispatch]
+- **Sponsorship & Partnerships:** [Capital pipeline status, closed sponsors, funds deposited]
+- **Technology & Web:** [Website deployment, Bedrock sandbox, scoring system status]
+- **Operations & Venue:** [Sathyabama Indoor Stadium clearances, bus routes, EV buggy requisition]
+- **Hospitality & Catering:** [Buffet caterer menu lock, midnight snack procurement]
+- **Creative & Media:** [Banner prints, standee vector proofs, Instagram analytics]
+- **Safety & Governance:** [Jury confirmations, police intimation dispatch]
 
 ---
 

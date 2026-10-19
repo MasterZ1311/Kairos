@@ -235,7 +235,7 @@ def build_doc2():
     add_h2(doc, "Slide 14: Call to Action, Timeline Deadlines & Executive Contacts")
     add_bullet(doc, "Visual Layout", "Timeline chevron graphic leading up to January 22, 2027, flanked by leadership contact cards.")
     add_bullet(doc, "Immediate Next Steps", "Lock agreed tier by November 15  •  Execute MoU by November 30  •  Asset & Logo Delivery by December 10  •  Hard Print Freeze on December 20.")
-    add_bullet(doc, "Executive Contacts", "CPFO Nikki (Nangaiyar M): +91 8754976892  •  President Thenappan T: +91 6381801640  •  Email: nangaiyarmuthkrishnan@gmail.com / sistawscc@gmail.com.")
+    add_bullet(doc, "Executive Contacts", "Nikki (Nangaiyar M) (Sponsorship Lead): +91 8754976892  •  President Thenappan T: +91 6381801640  •  Email: nangaiyarmuthkrishnan@gmail.com / sistawscc@gmail.com.")
     add_callout(
         doc,
         "\"To guarantee prime placement across our stage LED wall, live stream, and merchandise, we would love to align on a tier this week. Our print freeze is December 20th, and we are locking our Title and Co-Powered partners by mid-November. Can we schedule a brief follow-up with your procurement team this Friday to finalize the details? Thank you for your partnership.\"",
